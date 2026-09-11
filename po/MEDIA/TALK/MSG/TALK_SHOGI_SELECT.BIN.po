@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:0_0_0"
+msgid "10th kyu Yoneda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:0_1_0"
+msgid "Seems to know the rules,{PA:10} at least.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:1_0_0"
+msgid "10th kyu Eric"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:1_1_0"
+msgid "A defensive player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:2_0_0"
+msgid "9th kyu Kaneda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:2_1_0"
+msgid "An aggressive player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:3_0_0"
+msgid "9th kyu Lee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:3_1_0"
+msgid "Tends to attack from the left.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:4_0_0"
+msgid "8th kyu Kawakami"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:4_1_0"
+msgid "Plays defensively.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:5_0_0"
+msgid "8th kyu Koyama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:5_1_0"
+msgid "Focuses on attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:6_0_0"
+msgid "7th kyu Ichinose"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:6_1_0"
+msgid "His moves are hard to read.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:7_0_0"
+msgid "7th kyu Hiranaka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:7_1_0"
+msgid "Tends to focus on defense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:8_0_0"
+msgid "6th kyu Yamaguchi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:8_1_0"
+msgid "Focuses on aggressive moves.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:9_0_0"
+msgid "6th kyu Oki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:9_1_0"
+msgid "Good at attacking from the left.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:10_0_0"
+msgid "5th kyu Iwata"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:10_1_0"
+msgid "Good at defensive strategies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:11_0_0"
+msgid "5th kyu Itoda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:11_1_0"
+msgid "Good at aggressive play.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:12_0_0"
+msgid "4th kyu Komukai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:12_1_0"
+msgid "Plays very defensively.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:13_0_0"
+msgid "4th kyu Ebisawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:13_1_0"
+msgid "Focuses on defense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:14_0_0"
+msgid "3rd kyu Sakura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:14_1_0"
+msgid "Goes on the offensive quite well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:15_0_0"
+msgid "3rd kyu Hachinohe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:15_1_0"
+msgid "An all-around,{PA:10} balanced player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:16_0_0"
+msgid "2nd kyu Yamagata"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:16_1_0"
+msgid "Plays with a very defensive style.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:17_0_0"
+msgid "2nd kyu Furuta"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:17_1_0"
+msgid "Has a very aggressive style.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:18_0_0"
+msgid "1st kyu Sawada"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:18_1_0"
+msgid "Is good with unexpected attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:19_0_0"
+msgid "1st kyu Hatada"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:19_1_0"
+msgid "Knows how to play defensively.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:20_0_0"
+msgid "1st dan Shibata"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:20_1_0"
+msgid "Aggressive,{PA:10} and a solid player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:21_0_0"
+msgid "2nd dan Kusunoki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:21_1_0"
+msgid "Good at both offense and defense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:22_0_0"
+msgid "3rd dan Kitabeppu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:22_1_0"
+msgid "Defensive,{PA:10} and can read opponents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:23_0_0"
+msgid "4th dan Himonya"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:23_1_0"
+msgid "Aggressive,{PA:10} can read opponents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:24_0_0"
+msgid "5th dan Kamoshida"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:24_1_0"
+msgid "Skilled at offense and defense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:25_0_0"
+msgid "6th dan Odawara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:25_1_0"
+msgid "A tough,{PA:10} defensive player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:26_0_0"
+msgid "7th dan Minobe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:26_1_0"
+msgid "A tough,{PA:10} aggressive player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:27_0_0"
+msgid "8th dan Kumeda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:27_1_0"
+msgid "Very good at reading the board.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:28_0_0"
+msgid "9th dan Teshigawara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:28_1_0"
+msgid "A very strong defensive player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:28_2_0"
+msgid "Can you break through his defense?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:29_0_0"
+msgid "10th dan Matsuda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:29_1_0"
+msgid "A very strong offensive player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:29_2_0"
+msgid "Can you avoid his attacks?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:30_0_0"
+msgid "The Shogi King"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:30_1_0"
+msgid "The ultimate shogi player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SHOGI_SELECT.BIN::line:30_2_0"
+msgid "Think you stand a chance?{PA:20}"
+msgstr ""
+

@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:0_0_0"
+msgid "Save"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:0_1_0"
+msgid "Move Items"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:0_2_0"
+msgid "Show Results"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:1_0_0"
+msgid "Will you bring Haruka?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:1_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:1_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:2_0_0"
+msgid "Save game progress.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:2_1_0"
+msgid "Swap carried and stored items.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMENU.BIN::line:2_2_0"
+msgid "Check status of current game.{PA:20}"
+msgstr ""
+

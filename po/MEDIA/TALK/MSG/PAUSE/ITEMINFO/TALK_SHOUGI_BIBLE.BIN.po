@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_0"
+msgid "Shogi is a game played on a 9x9 board.{PA:20} Two"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_1"
+msgid "players take turns moving their pieces"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_2"
+msgid "and capturing their opponent's.{PA:20} The"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_3"
+msgid "placement of pieces is fixed,{PA:10} and each of"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_4"
+msgid "the 8 varieties of pieces has their own"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_5"
+msgid "rules for movement.{PA:20} When your piece lands"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_6"
+msgid "on that of your opponent's,{PA:10} theirs is"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_0_7"
+msgid "captured and becomes yours.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_1_0"
+msgid "You can freely drop it anywhere on the board.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_1_1"
+msgid "There are several restrictions on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_1_2"
+msgid "dropping pieces.{PA:20} A pawn cannot be dropped"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_1_3"
+msgid "within the same vertical line as another"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_1_4"
+msgid "pawn unless that pawn has been promoted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_1_5"
+msgid "A piece also may not be placed on a square"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_1_6"
+msgid "where it cannot move in subsequent turns.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_2_0"
+msgid "As for the direction and distance each"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_2_1"
+msgid "piece can move,{PA:10} most computer shogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_2_2"
+msgid "programs will show this information,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_2_3"
+msgid "so it's enough to follow the on-screen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_2_4"
+msgid "displays.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_3_0"
+msgid "The game ends when one player's king is"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_3_1"
+msgid "captured.{PA:20} However,{PA:10} advanced players are"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_3_2"
+msgid "often able to read many moves ahead and"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_3_3"
+msgid "predict their own defeat.{PA:20} In these cases,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_3_4"
+msgid "the player often resigns and the winner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_3_5"
+msgid "is decided before a king is actually"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_3_6"
+msgid "captured.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_0"
+msgid "The upper and lower thirds of the board"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_1"
+msgid "are called the \"camps\".{PA:20} When a player"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_2"
+msgid "advances a piece into the opponent's camp,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_3"
+msgid "that piece is promoted.{PA:20} The piece is"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_4"
+msgid "turned over and adopts the movement of a"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_5"
+msgid "gold general.{PA:20} Promotion of a piece is up"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_6"
+msgid "to the player.{PA:20} Kings and gold generals"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_4_7"
+msgid "cannot be promoted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_5_0"
+msgid "Captured pieces lose any promotions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_5_1"
+msgid "In official shogi games,{PA:10} the players are"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_5_2"
+msgid "given a set wait time to think and plan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_5_3"
+msgid "their next moves.{PA:20} When this time has been"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_5_4"
+msgid "used up the player must move within a"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_5_5"
+msgid "short fixed time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_6_0"
+msgid "In unofficial and hobbyist shogi games,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_6_1"
+msgid "there is often a do-over rule.{PA:20} This"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_6_2"
+msgid "allows a player to take back a move.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_7_0"
+msgid "Skill in shogi comes from being able to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_7_1"
+msgid "read many moves ahead in a game,{PA:10} as well"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_7_2"
+msgid "as gaining experience to find out"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_7_3"
+msgid "what patterns and strategies work"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_7_4"
+msgid "best for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_8_0"
+msgid "As an aside,{PA:10} another method is to find"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_8_1"
+msgid "and exploit an opponent's weakness.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_8_2"
+msgid "Psychological warfare is an important"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_8_3"
+msgid "element of shogi,{PA:10} but how and when to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_8_4"
+msgid "employ this technique is an exercise"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHOUGI_BIBLE.BIN::line:0_8_5"
+msgid "left to the player.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Oh,{PA:10} you're back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20} Where's Tobe?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:2_0_0"
+msgid "He stepped out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Took you long enough.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Yeah,{PA:10} but we got ourselves a lead.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:5_0_0"
+msgid "What sort of lead?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:6_0_0"
+msgid "We grabbed some heavies who came for Kazuki"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:6_0_1"
+msgid "and made them cough up a name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:7_0_0"
+msgid "True Fist Faction.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:8_0_0"
+msgid "In Korean,{PA:10} true is \"jin\",{PA:10} fist is \"gweon\",{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:8_0_1"
+msgid "and the character for faction is read \"pa\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:9_0_0"
+msgid "The characters read different here,{PA:10} but"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:9_0_1"
+msgid "you can think of it as \"mafia\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:10_0_0"
+msgid "The Jingweon mafia.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Korean mafia?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Without a doubt.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I've never heard of them before.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:14_0_0"
+msgid "I'd be surprised if you had.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:15_0_0"
+msgid "This is mafia we're talking about.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:15_0_1"
+msgid "They're not like Japan's yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:16_0_0"
+msgid "They'd never come out and flaunt their name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:17_0_0"
+msgid "The name is just a label.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:18_0_0"
+msgid "They couldn't care less about it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:19_0_0"
+msgid "It's absolute loyalty they care about.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:20_0_0"
+msgid "So the Jingweon mafia kidnapped"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:20_0_1"
+msgid "Daigo and Chairman Goda?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:21_0_0"
+msgid "That's what it looks like.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Good thing you understand Korean.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:23_0_0"
+msgid "I've had some practice.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:24_0_0"
+msgid "I don't think this place is safe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:24_0_1"
+msgid "We should head out soon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:25_0_0"
+msgid "What do you mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:26_0_0"
+msgid "It looks like they're onto this place,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Are you serious?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Tobe's been acting strange.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:29_0_0"
+msgid "He keeps coming and going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:29_0_1"
+msgid "Like he's talking to someone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Plus.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Plus what?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Seems like he's after you,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Me.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:34_0_0"
+msgid "I found these behind the bar.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:35_0_0"
+msgid "Why would he have these?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Leave this to me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:36_0_1"
+msgid "I'll ask him about it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:37_0_0"
+msgid "You take Date and Kawara back to Serena.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:38_0_0"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Hmm?{PA:20} Mr.{PA:20} Kiryu,{PA:10} you're back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:40_0_0"
+msgid "Tobe,{PA:10} what's with these photos?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:41_0_0"
+msgid "Th-Those are.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Tobe.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:43_0_0"
+msgid "I've known you for a while now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:44_0_0"
+msgid "I don't want to make any trouble for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:45_0_0"
+msgid "Just tell me what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:46_0_0"
+msgid "I.{PA:20}.{PA:20}.{PA:20} We're.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Who put you up to this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:48_0_0"
+msgid "No,{PA:10} I,{PA:10} uh.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:49_0_0"
+msgid "Tobe,{PA:10} there's no other way!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:49_0_1"
+msgid "We've got no choice but to do this!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:50_0_0"
+msgid "Mr.{PA:20} Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0070.DAT/1___FILE.BIN::line:51_0_0"
+msgid "Please let us kill you.{PA:20} I'm begging you!{PA:20}"
+msgstr ""
+

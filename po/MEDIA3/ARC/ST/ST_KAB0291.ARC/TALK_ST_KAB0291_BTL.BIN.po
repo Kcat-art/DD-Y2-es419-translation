@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::name:1"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::name:2"
+msgid "Kaoru"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::name:3"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_5_0"
+msgid "(Hm.{PA:20}.{PA:20}.{PA:20} Where to next?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_5_1"
+msgid "(I'll hold off for now.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_5_2"
+msgid "(I'll head down to Aoi in Kansai.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_5_4"
+msgid "(I'll see what's happening on the streets.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_5_6"
+msgid "(I'll go blow off some steam.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_5_13"
+msgid "    You cannot go to Aoi with a partner.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_6_0"
+msgid "(Hm.{PA:20}.{PA:20}.{PA:20} Where to next?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_6_1"
+msgid "(I'll hold off for now.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_6_2"
+msgid "(I'll head down to Aoi in Kansai.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_6_5"
+msgid "(I'll see what's happening on the streets.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_6_7"
+msgid "(I'll go blow off some steam.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:138_6_15"
+msgid "(I should probably go to Aoi alone.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:139_1_0"
+msgid "     You now have access to a hideout.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:139_1_1"
+msgid "Your health will recover while inside the"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:139_1_2"
+msgid "hideout,{PA:10} where you can also save your game"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:139_1_3"
+msgid "or manage your item inventory.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_0_0"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_1_1"
+msgid "I'm fine.{PA:20} Glad to hear you're alive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_1_3"
+msgid "I just got back to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_1_5"
+msgid "Chairman Goda and Daigo were abducted.{PA:20}||I don't know who's behind it yet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_1_6"
+msgid "I'll give you the specifics at Tojo HQ.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_2_0"
+msgid "It's me,{PA:10} Kashiwagi.{PA:20}.{PA:20}.{PA:20} You all right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_2_2"
+msgid "Where are you now?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_2_4"
+msgid "All of Kansai is buzzing,{PA:10} Kazuma.{PA:20}||What the hell happened down there?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:140_2_6"
+msgid "All right.{PA:20} I'll gather the officers.{PA:20}||See you then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:141_0_0"
+msgid "The Go-Ryu Clan and the Jingweon mafia.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:141_0_1"
+msgid "I guess no matter what comes up,{PA:10} we'll just||have to deal with it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_0_0"
+msgid "They've got us spinning in circles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_0_1"
+msgid "I wish we had something to go on.{PA:20}||Anything at all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_1_0"
+msgid "Good morning.{PA:20}||You're going to the funeral today,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_1_1"
+msgid "I've got to touch base with the Osaka police||so I'll be out for a while.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_1_2"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_1_3"
+msgid "Don't do anything stupid,{PA:10} okay?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_1_4"
+msgid "I won't.{PA:20} I'll call you when I get back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:142_1_5"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_0"
+msgid "The Fifth Chairman's funeral service is||tomorrow at Tojo Clan headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_1"
+msgid "Yayoi is heading up the arrangements.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_2"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_3"
+msgid "I'd like to pay my final respects as well.{PA:20}||I hope you won't mind my attending.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_4"
+msgid "Don't be silly.{PA:20} I'll be a little late,{PA:10} but||I'll be there too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_5"
+msgid "When you get to headquarters tomorrow,{PA:10} catch||Yayoi up on what's happened.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_6"
+msgid "Will do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:143_0_7"
+msgid "Thanks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:144_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:145_0_0"
+msgid "Serena"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:146_0_0"
+msgid "Hit the city.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:146_1_0"
+msgid "Go unwind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:146_2_0"
+msgid "Go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:146_3_0"
+msgid "Nothing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:147_0_0"
+msgid "Go to Volcano,{PA:10} the pachi-slot parlor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:147_1_0"
+msgid "Go to Mach Bowling,{PA:10} the bowling alley.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:147_2_0"
+msgid "Go to the Yoshida Batting Center.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:147_3_0"
+msgid "Go to Club SEGA on Theater Square.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:147_4_0"
+msgid "Go to Club SEGA on Nakamichi St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:147_5_0"
+msgid "Go to Orchid Palace Mahjong.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:147_6_0"
+msgid "Back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:148_0_0"
+msgid "Hit the city.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:148_1_0"
+msgid "Go unwind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:148_2_0"
+msgid "Go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:148_3_0"
+msgid "Nothing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_0_0"
+msgid "Go to Volcano,{PA:10} the pachi-slot parlor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_1_0"
+msgid "Go to Mach Bowling.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_2_0"
+msgid "Go to the Yoshida Batting Center.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_3_0"
+msgid "Go to Club SEGA on Theater Square.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_4_0"
+msgid "Go to Club SEGA on Nakamichi St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_5_0"
+msgid "Go to Orchid Palace Mahjong.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_6_0"
+msgid "Go to Ryugujo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0291.ARC/TALK_ST_KAB0291_BTL.BIN::line:149_7_0"
+msgid "Back.{PA:20}"
+msgstr ""
+

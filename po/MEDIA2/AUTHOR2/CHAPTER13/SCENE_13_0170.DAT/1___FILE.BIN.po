@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:0_0_0"
+msgid "No,{PA:10} I'm happier knowing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:1_0_0"
+msgid "There's nothing scarier than not knowing"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:1_0_1"
+msgid "who you are.{PA:20}.{PA:20}.{PA:20} where you're from.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:2_0_0"
+msgid "I'm sorry.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:3_0_0"
+msgid "After the raid.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:3_0_1"
+msgid "What happened to the other child?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I'm afraid.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:5_0_0"
+msgid "It's not my place to say.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:6_0_0"
+msgid "But just.{PA:20}.{PA:20}.{PA:20} remember this,{PA:10} Kaoru.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:7_0_0"
+msgid "The blood running through your veins isn't"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:7_0_1"
+msgid "Jingweon blood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:8_0_0"
+msgid "It's Suyeon's.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:8_0_1"
+msgid "Kind.{PA:20}.{PA:20}.{PA:20} hard-working.{PA:20}.{PA:20}.{PA:20} and strong.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:9_0_0"
+msgid "And yours too,{PA:10} Mr.{PA:20} Kawara.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:10_0_0"
+msgid "It's your blood too,{PA:10} Dad.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:11_0_0"
+msgid "God,{PA:10} I missed you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Holding your hand like this.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Back then you'd grab my fingers and laugh.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Your hands were so tiny.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:15_0_0"
+msgid "You live a happy life,{PA:10} Kaoru.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Happy enough for me and your mom,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Dad.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Thank you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

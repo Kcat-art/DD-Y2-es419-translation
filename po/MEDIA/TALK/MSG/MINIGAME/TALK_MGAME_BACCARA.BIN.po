@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_0_0"
+msgid "Enter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_1_0"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_2_0"
+msgid "Change Bet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_3_0"
+msgid "R1: Results Right"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_4_0"
+msgid "L1: Results Left"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_5_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_6_0"
+msgid "Stop"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_7_0"
+msgid "Bet Amount"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_8_0"
+msgid "Payout"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_0_0"
+msgid "Player"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_1_0"
+msgid "Banker"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_2_0"
+msgid "Player + Tie"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_3_0"
+msgid "Banker + Tie"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_4_0"
+msgid "Bet on the player's side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_5_0"
+msgid "Bet on the banker's side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_6_0"
+msgid "Bet on player and tie.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_7_0"
+msgid "Bet on banker and tie.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:2_0_0"
+msgid "Continue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:2_1_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:3_0_0"
+msgid "Leave the Baccarat table?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:3_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:3_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_0_0"
+msgid "Welcome to Baccarat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_1_0"
+msgid "Let's begin the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_2_0"
+msgid "Place your bets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_3_0"
+msgid "Select amount to bet on player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_4_0"
+msgid "Select amount to bet on banker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_5_0"
+msgid "Select amount to bet on tie.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_6_0"
+msgid "Bets are closed.{PA:20}||I'll deal the cards.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_7_0"
+msgid "I'll open the first card||for the player and banker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_8_0"
+msgid "I'll open the player's||second card.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_9_0"
+msgid "And now I'll open the||banker's second card.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_10_0"
+msgid "A third card to the player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_11_0"
+msgid "A third card to the banker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_12_0"
+msgid "The player wins.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_13_0"
+msgid "The banker wins.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_14_0"
+msgid "We have a tie.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_15_0"
+msgid "There's a single mark showing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_16_0"
+msgid "Two marks showing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_17_0"
+msgid "It's a face card.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_18_0"
+msgid "It's an ace.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_19_0"
+msgid "Two marks showing on the side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_20_0"
+msgid "Three marks showing on the side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_21_0"
+msgid "Four marks on the side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_22_0"
+msgid "You don't have enough chips.{PA:20}||Please come again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_23_0"
+msgid "Do you want to keep playing?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_24_0"
+msgid "Your bet will be limited so you||can bet on the tie as well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_25_0"
+msgid "I'll open the player's||third card.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_26_0"
+msgid "I'll open the banker's||third card.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_27_0"
+msgid "This is a one-on-one match,{PA:10}||just you and me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_28_0"
+msgid "Select the number of games.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_29_0"
+msgid "Then I will bet on the player.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_30_0"
+msgid "Then I will bet on the banker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_31_0"
+msgid "I lose.{PA:20}||On to the next round.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_32_0"
+msgid "I lose this time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_33_0"
+msgid "I win.{PA:20}||On to the next round.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_34_0"
+msgid "I win this time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_35_0"
+msgid "It's a tie.{PA:20}||On to the next round.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_36_0"
+msgid "Will you play again?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:5_0_0"
+msgid "1 game"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:5_1_0"
+msgid "Best of 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:5_2_0"
+msgid "Best of 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:6_0_0"
+msgid "W"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:6_1_0"
+msgid "L"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:6_2_0"
+msgid "Left:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:6_3_0"
+msgid " games"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:7_0_0"
+msgid "Play again"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:7_1_0"
+msgid "Quit"
+msgstr ""
+

@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Yes.{PA:20} Sudo speaking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:1_0_0"
+msgid "I'm afraid so.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:1_0_1"
+msgid "Just as you predicted,{PA:10} Chief Kurahashi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:2_0_0"
+msgid "No,{PA:10} there's no link to Kansai yet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Yes,{PA:10} that's correct.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Yes,{PA:10} I also have my suspicions that a"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:4_0_1"
+msgid "foreign syndicate is involved.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Understood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:6_0_1"
+msgid "I'll make arrangements here as well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Yes.{PA:20} Date's the only one who could do it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0060.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Right.{PA:20}.{PA:20}.{PA:20} Goodbye.{PA:20}"
+msgstr ""
+

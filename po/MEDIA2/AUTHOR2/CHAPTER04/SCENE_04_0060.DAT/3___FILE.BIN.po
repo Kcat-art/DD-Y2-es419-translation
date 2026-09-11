@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:0_0_0"
+msgid "This's Omi.{PA:20} The Takashima Clan's.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:1_0_0"
+msgid "Takashima?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:2_0_0"
+msgid "Yes,{PA:10} Terada was.{PA:20}.{PA:20}.{PA:20} The Tojo Clan's Fifth"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:2_0_1"
+msgid "Chairman was a brother and a friend.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:3_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:4_0_0"
+msgid "This bullet's special.{PA:20} The only guns that"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:4_0_1"
+msgid "use 'em are smuggled in from the mainland.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:5_0_0"
+msgid "The only guy in Kansai importing through"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:5_0_1"
+msgid "that route is Takashima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:6_0_0"
+msgid "Any chance Takashima is reselling them?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:7_0_0"
+msgid "Nope.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:8_0_0"
+msgid "Clever kid like Takashima'd never do"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:8_0_1"
+msgid "something as risky as that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:9_0_0"
+msgid "Pass those along and he'd be busted"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:9_0_1"
+msgid "for sure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:10_0_0"
+msgid "Smuggling's just for gettin' good guns cheap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:11_0_0"
+msgid "So if people know that much,{PA:10} why haven't the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:11_0_1"
+msgid "police taken action?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:12_0_0"
+msgid "Search me.{PA:20} Who knows?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:13_0_0"
+msgid "But.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:14_0_0"
+msgid "But.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:15_0_0"
+msgid "Wuh-oh,{PA:10} no can do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:15_0_1"
+msgid "That's all I can say.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:16_0_0"
+msgid "You're not gettin' anything more out of me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:17_0_0"
+msgid "Why would Takashima.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+

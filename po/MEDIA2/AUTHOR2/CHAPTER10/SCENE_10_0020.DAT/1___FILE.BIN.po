@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "The chief was on the old Jingweon case?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "So the detective Kashiwagi mentioned was.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Right.{PA:20}.{PA:20}.{PA:20} It was Bessho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "You're sure?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Absolutely.{PA:20} His name was right there in the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:4_0_1"
+msgid "classified report.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Kawara said so,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "He never.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:6_0_1"
+msgid "The chief never said a word to me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Where is Kawara now?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "He gave me this and dropped off the case.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:9_0_0"
+msgid "What does that mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:10_0_0"
+msgid "I don't know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:11_0_0"
+msgid "But I'm sure he knows something.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Says he still owes them one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Unfinished business,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:14_0_0"
+msgid "What's wrong?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:15_0_0"
+msgid "I still can't believe.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:15_0_1"
+msgid "How could the chief hide this from me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:16_0_0"
+msgid "The report said he picked up on the Dojima"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:16_0_1"
+msgid "plan while at Kamurocho's Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:17_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}But he chose to pull a few strings and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:17_0_1"
+msgid "let it happen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:18_0_0"
+msgid "In other words,{PA:10} he used the yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:19_0_0"
+msgid "My guess is he felt that was the quickest"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:19_0_1"
+msgid "way to make Kamurocho a safe place again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Eventually the higher-ups caught wind of it"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:20_0_1"
+msgid "and they booted him down to Osaka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:21_0_0"
+msgid "You should probably pull out of this,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:22_0_0"
+msgid "The Jingweon aren't your average mob.{PA:20} Get in"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:22_0_1"
+msgid "deeper,{PA:10} and you could be in real danger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Not to mention you're a wanted man now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:24_0_0"
+msgid "What,{PA:10} are you kidding?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:24_0_1"
+msgid "It's too late to back out now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:25_0_0"
+msgid "How about you?{PA:20} What'll you do next?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:26_0_0"
+msgid "We still don't know where Chairman Goda is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:27_0_0"
+msgid "I'll go after Ryuji.{PA:20}.{PA:20}.{PA:20} To Kansai.{PA:20}"
+msgstr ""
+

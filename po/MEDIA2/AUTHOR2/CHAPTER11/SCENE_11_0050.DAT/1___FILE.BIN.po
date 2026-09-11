@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:0_0_0"
+msgid "After that night,{PA:10} I took up the name Murai,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:0_0_1"
+msgid "and here I am today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:1_0_0"
+msgid "So the Jingweon boss.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:1_0_1"
+msgid "That was your father.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Where did his wife and her child go then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Here,{PA:10} Kansai.{PA:20} Kawara brought 'em down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:4_0_0"
+msgid "So you sold a woman and her infant to the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:4_0_1"
+msgid "syndicate to save your own skin?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I don't know what happened to 'em"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:5_0_1"
+msgid "in the end.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:6_0_0"
+msgid "The mother died.{PA:20} Only the child survived.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Are you.{PA:20}.{PA:20}.{PA:20} You're really that poor kid?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Who killed the father?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I don't know his name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:9_0_1"
+msgid "I remember his face well,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Man had a mustache.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:11_0_0"
+msgid "That.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:12_0_0"
+msgid "That has to be Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Who?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:14_0_0"
+msgid "The man who raised me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Shintaro Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:16_0_0"
+msgid "You're sure?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:18_0_0"
+msgid "I was there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Who the hell are you boys?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Jingweon mafia,{PA:10} I presume?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Right you are.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:22_0_0"
+msgid "The bombing,{PA:10} the kidnappings.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:22_0_1"
+msgid "That all been you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Absolutely.{PA:20} And we owe you our thanks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:24_0_0"
+msgid "You tracked down the deserter for us.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Before I let you at him.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:26_0_0"
+msgid "You're going to tell me where Chairman Goda"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:26_0_1"
+msgid "is being held.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Impossible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:28_0_0"
+msgid "They're elites,{PA:10} straight from the mainland.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:29_0_0"
+msgid "No chance in hell they'll talk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:30_0_0"
+msgid "We'll see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Now,{PA:10} where is the Chairman?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:32_0_0"
+msgid "I don't see how it matters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:33_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}When you're about to be dead!{PA:20}"
+msgstr ""
+

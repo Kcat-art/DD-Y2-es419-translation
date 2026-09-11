@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Meanwhile,{PA:10} somewhere in Osaka.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:0_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Miss Detective.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:1_0_1"
+msgid "Never in my life would I threaten a layman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:2_0_0"
+msgid "There's gotta be some misunderstanding!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:3_0_0"
+msgid "When you met with the president of Kojima"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:3_0_1"
+msgid "Properties at that cafe,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:4_0_0"
+msgid "reports say you were poundin' on a table.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I'd hardly call it poundin',{PA:10} Miss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Just a little.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:7_0_0"
+msgid "tap.{PA:20}.{PA:20}.{PA:20} was all it was.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:8_0_0"
+msgid "That's called extortion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:9_0_0"
+msgid "What?{PA:20} You gotta be kidding me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Pinch us for somethin' like that and we"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:10_0_1"
+msgid "won't be able to keep food on the table.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Must be nice.{PA:20} Drop your B-list house's name"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:11_0_1"
+msgid "and the civilians all pay out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:12_0_0"
+msgid "B-list house?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Here I go being gentle on ya 'cause you're"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:13_0_1"
+msgid "a chick and now you go and get all cocky!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Chivalry my ass!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:15_0_0"
+msgid "What the fuck are ya doing?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:16_0_0"
+msgid "You're a yakuza,{PA:10} not a fuckin' weasel!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:16_0_1"
+msgid "You should be putting yer ass on the line!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:17_0_0"
+msgid "You're under arrest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Extortion,{PA:10} assault,{PA:10} tax evasion.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:19_0_0"
+msgid "We'll hear all about it down at the station.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:20_0_0"
+msgid "We will my ass!{PA:20} Crazy bitch.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:21_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}And now resisting arrest to top it off.{PA:20}"
+msgstr ""
+

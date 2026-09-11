@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:0_0_0"
+msgid "Play again"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:0_1_0"
+msgid "Give up"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:1_0_0"
+msgid "Move crane"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:1_1_0"
+msgid "Move view"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:1_2_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:1_3_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:2_0_0"
+msgid "Exit Golf?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:2_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:2_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:3_0_0"
+msgid "Beginner's Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:3_1_0"
+msgid "Intermediate Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:3_2_0"
+msgid "Advanced Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:3_3_0"
+msgid "Pro Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:3_4_0"
+msgid "Alien Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_0_0"
+msgid "M"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_1_0"
+msgid "Score"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_2_0"
+msgid "Best"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_3_0"
+msgid "Shot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_4_0"
+msgid "%"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_5_0"
+msgid "゜"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_6_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:4_7_0"
+msgid "Wind"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_0_0"
+msgid "A score above 600 is decent.{PA:20}||This is your beginner's course prize.{PA:20}||||||      ➿Received \"Tissues\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_1_0"
+msgid "A score above 800 is quite good.{PA:20}||This is your beginner's course prize.{PA:20}||||||      Received \"Salmon Rice Ball\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_2_0"
+msgid "A score above 1000 points is amazing!{PA:20}||This is your beginner's course prize.{PA:20}||||||      ➿Received \"Staminan X\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_3_0"
+msgid "A score above 600 is decent.{PA:20}||This is your intermediate course prize.{PA:20}||||||     Received \"Milk\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_4_0"
+msgid "A score above 800 is quite good.{PA:20}||This is your intermediate course prize.{PA:20}||||||      Received \"Tauriner\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_5_0"
+msgid "A score above 1000 points is amazing!{PA:20}||This is your intermediate course prize.{PA:20}||||||      Received \"Toughness ZZ\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_6_0"
+msgid "A score above 600 is decent.{PA:20}||This is your advanced course prize.{PA:20}||||||      ➿Received \"Special Yakisoba\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_7_0"
+msgid "A score above 800 is quite good.{PA:20}||This is your advanced course prize.{PA:20}||||||      ➿Received \"Tauriner +\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_8_0"
+msgid "A score above 1000 points is amazing!{PA:20}||This is your advanced course prize.{PA:20}||||||      Received \"Staminan Royale\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_9_0"
+msgid "A score above 600 is decent.{PA:20}||This is your pro course prize.{PA:20}||||||      ➿Received \"Bento Lunch Set\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_10_0"
+msgid "A score above 800 is quite good.{PA:20}||This is your pro course prize.{PA:20}||||||      ➿Received \"Turmeric Pills\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_11_0"
+msgid "A score above 1000 points is amazing!{PA:20}||This is your pro course prize.{PA:20}||||||      Received \"French Scarf\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_12_0"
+msgid "A score above 600 is decent.{PA:20}||This is your Alien Course prize.{PA:20}||||||            Received \"Staminan X\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_13_0"
+msgid "A score above 800 is quite good.{PA:20}||This is your Alien Course prize.{PA:20}||||||      Received \"Toughness Emperor\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:5_14_0"
+msgid "A score above 1000 points is amazing.{PA:20}||This is your Alien Course prize.{PA:20}||||||      Received \"Caviar Skin Bag\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_GOLF.BIN::line:6_0_0"
+msgid "That's all 10 balls.{PA:20}||Try a little harder next time.{PA:20}||||||      No prize.{PA:20}"
+msgstr ""
+

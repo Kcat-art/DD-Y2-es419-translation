@@ -1,0 +1,1669 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:0_0_0"
+msgid "￥"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:0_1_0"
+msgid "0K"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:0_2_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:0_3_0"
+msgid "Prize Money"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:0_4_0"
+msgid "Supplementary Prize"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_0_0"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_1_0"
+msgid "Magnum Force GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_2_0"
+msgid "Hyper Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_3_0"
+msgid "Special Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_4_0"
+msgid "Scorpion Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_5_0"
+msgid "Mercenary GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_6_0"
+msgid "Bare-Knuckle GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_7_0"
+msgid "Beastmaster Challenge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_8_0"
+msgid "Rusty Nail GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_9_0"
+msgid "Burning Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_10_0"
+msgid "Lightning GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_11_0"
+msgid "Street Fight GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_12_0"
+msgid "Exhibition Tourney"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_13_0"
+msgid "Wins"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_14_0"
+msgid "Losses"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_15_0"
+msgid "Not entered"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_16_0"
+msgid "Upcoming tournaments"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_17_0"
+msgid "This is a list of upcoming tournaments.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_18_0"
+msgid "Which tournament would you like to enter?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:1_19_0"
+msgid "Career Win Rate: {NU:02_04_00}0000%"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_0_0"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_1_0"
+msgid "The ultimate tournament is set to begin!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_2_0"
+msgid "The ultimate fighters face off,{PA:10} for what"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_3_0"
+msgid "is sure to be the ultimate battle!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_4_0"
+msgid "It's sure to bring ultimate excitement!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_0_0"
+msgid "Magnum Force GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_1_0"
+msgid "Only the strongest fighters may enter!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_2_0"
+msgid "The stage is set for those with the skill,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_3_0"
+msgid "strength and heart to compete!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_4_0"
+msgid "We'll find out who really is the strongest!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_0_0"
+msgid "Hyper Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_1_0"
+msgid "The greatest tournament of the year!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_2_0"
+msgid "Anything goes in this battle!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_3_0"
+msgid "Who will go on to claim the championship?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_0_0"
+msgid "Special Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_1_0"
+msgid "Sign-ups are now open!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_2_0"
+msgid "Wonderful prizes await you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_3_0"
+msgid "That is,{PA:10} as long as you don't get taken"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_4_0"
+msgid "out by someone more worthy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_0_0"
+msgid "Scorpion Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_1_0"
+msgid "Groundwork and throwing are prohibited!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_2_0"
+msgid "Can you handle the barrage of kicks and"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_3_0"
+msgid "punches that are sure to come your way?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_4_0"
+msgid "Who will be the last man standing!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_0_0"
+msgid "Mercenary GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_1_0"
+msgid "Vicious warriors,{PA:10} armed to the teeth!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_2_0"
+msgid "Swords,{PA:10} daggers,{PA:10} staves,{PA:10} you name it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_3_0"
+msgid "Choose your favorite and fight!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_4_0"
+msgid "Will our own Goro Majima enter the fray!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_0_0"
+msgid "Bare-Knuckle GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_1_0"
+msgid "The original death match!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_2_0"
+msgid "To put it simply,{PA:10} it's boxing with no clock!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_3_0"
+msgid "This is no three-minute match.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_4_0"
+msgid "We're shooting for a 24-hour brawl!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_0_0"
+msgid "Beastmaster Challenge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_1_0"
+msgid "Face off against wild beasts!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_2_0"
+msgid "This is no metaphor--this is a tournament"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_3_0"
+msgid "for hungry,{PA:10} violent animals!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_4_0"
+msgid "Be careful,{PA:10} or you'll get swallowed whole!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_0_0"
+msgid "Rusty Nail GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_1_0"
+msgid "A deadly prison of rusty nails.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_2_0"
+msgid "That's where this battle takes place!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_3_0"
+msgid "Who will impale the most opponents and"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_4_0"
+msgid "emerge as the winner!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_0_0"
+msgid "Burning Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_1_0"
+msgid "We've created a new tournament based on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_2_0"
+msgid "what we call the \"Fire Floor Crush!{PA:20}\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_3_0"
+msgid "What?{PA:20} You don't know what that is?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_4_0"
+msgid "If you dare,{PA:10} enter and find out firsthand!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_0_0"
+msgid "Lightning GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_1_0"
+msgid "A death match in the middle of an electrical"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_2_0"
+msgid "storm!{PA:20} Featuring an electrified cage.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_3_0"
+msgid "It's shocking!{PA:20} Take a shot to the head"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_4_0"
+msgid "and you'll go down instantly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_0_0"
+msgid "Street Fight GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_1_0"
+msgid "Weapons,{PA:10} foul play,{PA:10} anything goes!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_2_0"
+msgid "You can't win if you're hung up on honor.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_3_0"
+msgid "Pick up a weapon and let loose!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_4_0"
+msgid "It's a true test of who's the strongest!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_0_0"
+msgid "Exhibition Tourney"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_1_0"
+msgid "Kamurocho's finest fighters!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_2_0"
+msgid "Test your worth in front of a crowd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_3_0"
+msgid "Future heroes will be born here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_7_0"
+msgid "Would you like to enter this tournament?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_8_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_9_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_0_0"
+msgid "Five Rules for the Coliseum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_1_0"
+msgid "1.{PA:20} 8 men go in,{PA:10} only 1 man comes out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_2_0"
+msgid "2.{PA:20} No time limit.{PA:20} Wins by knockouts only.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_3_0"
+msgid "3.{PA:20} No weapons allowed without permission.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_4_0"
+msgid "4.{PA:20} 30% of max HP restored between matches.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_5_0"
+msgid "5.{PA:20} Cash and other prizes go to the winner.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_6_0"
+msgid "These are the basic rules,{PA:10} but"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_7_0"
+msgid "each tournament has additional rules.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:16_0_0"
+msgid "Fight Record for Kazuma Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:16_1_0"
+msgid "This is your record up to this point.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_0_0"
+msgid "Results"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_1_0"
+msgid "Tournament Name"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_2_0"
+msgid "Fight Record"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_3_0"
+msgid "Cash Winnings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_4_0"
+msgid "Prizes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_5_0"
+msgid "Experience"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_6_0"
+msgid "Champion"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_7_0"
+msgid "Lost final bout"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_8_0"
+msgid "Lost 2nd round"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_9_0"
+msgid "Lost 1st round"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_10_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_11_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_12_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_13_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_14_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_15_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_16_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_17_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_18_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_19_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_20_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_21_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_22_0"
+msgid "yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_23_0"
+msgid "None"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_24_0"
+msgid "This is your fight record.{PA:20}||Congratulations on your win!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_25_0"
+msgid "You can now enter a new tournament.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_26_0"
+msgid "Too bad,{PA:10} better luck next time.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_27_0"
+msgid "You can't hold any more items.{PA:20}||Shall we send it to you later?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_28_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_29_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_30_0"
+msgid "Okay,{PA:10} we'll send it to your item box.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_31_0"
+msgid "Okay,{PA:10} we won't present you with the prize.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_32_0"
+msgid "You gained||||          experience.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_33_0"
+msgid "You won a||||              yen cash prize.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_0_0"
+msgid "Katana \"Demon Fang\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_1_0"
+msgid "Komaki Matchlock"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_2_0"
+msgid "Dragon Fang Needle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_3_0"
+msgid "Dragon Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_4_0"
+msgid "Red Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_5_0"
+msgid "Bloody Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_6_0"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_7_0"
+msgid "Lau's Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_8_0"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_9_0"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_10_0"
+msgid "Champion's Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_11_0"
+msgid "Metal Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_12_0"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_13_0"
+msgid "Calming Towel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_14_0"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_15_0"
+msgid "Patriarch's Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_16_0"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_17_0"
+msgid "Skanda Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_18_0"
+msgid "Ogre Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_19_0"
+msgid "Yakuza Training Gear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_20_0"
+msgid "Tourmaline Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_21_0"
+msgid "Insulated Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_22_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_23_0"
+msgid "Black Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_24_0"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_25_0"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_26_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_27_0"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_28_0"
+msgid "Blackjack Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_29_0"
+msgid "Banker's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_30_0"
+msgid "French Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_31_0"
+msgid "Fearless Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_32_0"
+msgid "Cleaver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_33_0"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_34_0"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_35_0"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_36_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_37_0"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_38_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_39_0"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_40_0"
+msgid "Iron Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_41_0"
+msgid "Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_42_0"
+msgid "Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_43_0"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_44_0"
+msgid "Hercules Gloves"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_45_0"
+msgid "Modified Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_46_0"
+msgid "Player's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_47_0"
+msgid "Saw"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_48_0"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_49_0"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_50_0"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_51_0"
+msgid "Unknown Item"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_52_0"
+msgid "Received \"Katana Demon Fang\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_53_0"
+msgid "Received \"Komaki Matchlock\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_54_0"
+msgid "Received \"Dragon Fang Needle\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_55_0"
+msgid "Received \"Dragon Taiko Sticks\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_56_0"
+msgid "Received \"Red Jewel\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_57_0"
+msgid "Received \"Bloody Binding\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_58_0"
+msgid "Received \"Tauriner Maximum\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_59_0"
+msgid "Received \"Lau's Broadsword\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_60_0"
+msgid "Received \"Toughness Infinity\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_61_0"
+msgid "Received \"Staminan Spark\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_62_0"
+msgid "Received \"Champion's Ring\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_63_0"
+msgid "Received \"Metal Club\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_64_0"
+msgid "Received \"Tauriner Maximum\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_65_0"
+msgid "Received \"Calming Towel\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_66_0"
+msgid "Received \"Tauriner Maximum\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_67_0"
+msgid "Received \"Patriarch's Bat\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_68_0"
+msgid "Received \"Toughness Emperor\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_69_0"
+msgid "Received \"Skanda Water\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_70_0"
+msgid "Received \"Ogre Knuckles\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_71_0"
+msgid "Received \"Yakuza Training Gear\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_72_0"
+msgid "Received \"Tourmaline Bracelet\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_73_0"
+msgid "Received \"Insulated Shirt\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_74_0"
+msgid "Received \"Staminan Royale\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_75_0"
+msgid "Received \"Black Jewel\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_76_0"
+msgid "Received \"Toughness ZZ\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_77_0"
+msgid "Received \"Tauriner Maximum\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_78_0"
+msgid "Received \"Staminan Royale\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_79_0"
+msgid "Received \"Fighter's Binding\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_80_0"
+msgid "Received \"Blackjack Charm\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_81_0"
+msgid "Received \"Banker's Game Piece\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_82_0"
+msgid "Received \"French Scarf\"\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_83_0"
+msgid "Received \"Fearless Binding\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_84_0"
+msgid "Received \"Cleaver\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_85_0"
+msgid "Received \"Brass Knuckles\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_86_0"
+msgid "Received \"Toughness Z\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_87_0"
+msgid "Received \"Fighter's Binding\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_88_0"
+msgid "Received \"Staminan Royale\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_89_0"
+msgid "Received \"Toughness Z\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_90_0"
+msgid "Received \"Staminan Royale\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_91_0"
+msgid "Received \"Extendable Staff\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_92_0"
+msgid "Received \"Iron Breastplate\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_93_0"
+msgid "Received \"Binding\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_94_0"
+msgid "Received \"Gauntlets\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_95_0"
+msgid "Received \"Staminan X\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_96_0"
+msgid "Received \"Hercules Gloves\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_97_0"
+msgid "Received \"Modified Lighter\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_98_0"
+msgid "Received \"Player's Game Piece\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_99_0"
+msgid "Received \"Saw\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_100_0"
+msgid "Received \"Chinese Broadsword\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_101_0"
+msgid "Received \"Toughness Z\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_102_0"
+msgid "Received \"Bat\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_103_0"
+msgid "Received \"Unknown Item\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_0_0"
+msgid "Maximum Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_1_0"
+msgid "Magnum Force GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_2_0"
+msgid "Hyper Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_3_0"
+msgid "Special Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_4_0"
+msgid "Scorpion Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_5_0"
+msgid "Mercenary GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_6_0"
+msgid "Bare-Knuckle GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_7_0"
+msgid "Beastmaster Challenge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_8_0"
+msgid "Rusty Nail GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_9_0"
+msgid "Burning Grand Prix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_10_0"
+msgid "Lightning GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_11_0"
+msgid "Street Fight GP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:19_12_0"
+msgid "Exhibition Tourney"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_0_0"
+msgid "Akira Yamaoka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_1_0"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_2_0"
+msgid "El Diablo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_3_0"
+msgid "Renji Kamiyama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_4_0"
+msgid "Seafire"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_5_0"
+msgid "Masao Yanagi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_6_0"
+msgid "Gensho Kawachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_7_0"
+msgid "Mr.{PA:20} Yoh"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_8_0"
+msgid "Cheol-su Kwan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_9_0"
+msgid "Cyclops Oba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_10_0"
+msgid "Emilio Rosa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_11_0"
+msgid "Devil Tsuji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_12_0"
+msgid "Marcus Zefal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_13_0"
+msgid "Moonbeam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_14_0"
+msgid "Hades Nishizawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_15_0"
+msgid "Goro Majima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_16_0"
+msgid "Don Carpaccio"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_17_0"
+msgid "Kiyoshi Muroi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_18_0"
+msgid "Yukio Masaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_19_0"
+msgid "Minoru Kayama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_20_0"
+msgid "Antonio Pettas"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_21_0"
+msgid "Mon Amour Komiyama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_22_0"
+msgid "Alexandr Ivanov"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_23_0"
+msgid "Max Yonamine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_24_0"
+msgid "Robison Caetano di Sciuva"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_25_0"
+msgid "Gary Buster Holmes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_26_0"
+msgid "Pyotr Kalashnikov"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_27_0"
+msgid "Mach Otani"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_28_0"
+msgid "Karl van der Rohen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_29_0"
+msgid "Dead Boy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_30_0"
+msgid "Dandy Sugino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_31_0"
+msgid "Kazuhito Fujioka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_32_0"
+msgid "Grand Chef Chang"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_33_0"
+msgid "Takayuki Maeda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_34_0"
+msgid "Daniel Feldman"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_35_0"
+msgid "Andy Matoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_36_0"
+msgid "Ahmed Zayat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_37_0"
+msgid "Condor Mizusawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_38_0"
+msgid "Kozo Karita"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_39_0"
+msgid "Kojiro Toyama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_40_0"
+msgid "Patriarch Yamazaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_41_0"
+msgid "Tyrone Yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_42_0"
+msgid "Tatsuo Nirayama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_43_0"
+msgid "Robert Kimura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_44_0"
+msgid "Kenzo Kakuyama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_45_0"
+msgid "Terry Sakata"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_46_0"
+msgid "Mammoth Tatsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_47_0"
+msgid "Suekichi the Pickpocket"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_48_0"
+msgid "Jacques Gérard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_49_0"
+msgid "Sho Imazumi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_50_0"
+msgid "Home-Run Ken"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_51_0"
+msgid "??????{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_0_0"
+msgid "The Bare-Fisted Champion"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_1_0"
+msgid "Treasure of the Fighting World"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_2_0"
+msgid "The Bloody King of the Beasts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_3_0"
+msgid "The Weapon Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_4_0"
+msgid "The Scarlet Slaughterer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_5_0"
+msgid "The Escape Artist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_6_0"
+msgid "The Demon Slayer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_7_0"
+msgid "Real-Life Action Star"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_8_0"
+msgid "King of Kicks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_9_0"
+msgid "The Angry Giant"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_10_0"
+msgid "The Pound for Pound Best"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_11_0"
+msgid "Beast Among Beasts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_12_0"
+msgid "The God of Death"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_13_0"
+msgid "The Snow-White Demon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_14_0"
+msgid "The New Executioner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_15_0"
+msgid "Mad Dog of the Shimano"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_16_0"
+msgid "Entertainer from Hell"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_17_0"
+msgid "Tetsuzan Okakura's Last Pupil"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_18_0"
+msgid "6th Patriarch of Kanto Gidora"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_19_0"
+msgid "Dictator of the Arena"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_20_0"
+msgid "The King of Kings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_21_0"
+msgid "The Avant-Garde Fight Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_22_0"
+msgid "The Northern Spy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_23_0"
+msgid "The Man with Seven Fists"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_24_0"
+msgid "The New Brazilian Star"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_25_0"
+msgid "The Sentinel of Purgatory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_26_0"
+msgid "Mr.{PA:20} Untouchable"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_27_0"
+msgid "The Knockout Artist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_28_0"
+msgid "The European Giant"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_29_0"
+msgid "Gangland Idol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_30_0"
+msgid "The Fighting Dandy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_31_0"
+msgid "The White-Haired Beast"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_32_0"
+msgid "The Cook of the Underworld"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_33_0"
+msgid "Kamurocho Destroyer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_34_0"
+msgid "The Runaway Prisoner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_35_0"
+msgid "The Authoritative Fist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_36_0"
+msgid "Desert Wolf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_37_0"
+msgid "Mr.{PA:20} Partial Combustion"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_38_0"
+msgid "The Acrobat of Kicks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_39_0"
+msgid "The Angry Statue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_40_0"
+msgid "The Masked Yakuza"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_41_0"
+msgid "The Boxer From Hong Kong"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_42_0"
+msgid "The New Karate Machine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_43_0"
+msgid "The Supersonic Bodyguard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_44_0"
+msgid "The Karate Drill Sergeant"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_45_0"
+msgid "Kamurocho's Roughneck"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_46_0"
+msgid "The Soul Boxer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_47_0"
+msgid "The Mysterious Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_48_0"
+msgid "Phantom of Marseilles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_49_0"
+msgid "The Surprising Newcomer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_50_0"
+msgid "Triple Crown King of Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_51_0"
+msgid "??????{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:22_0_0"
+msgid "{NU:02_04_00}0000 Fight(s) {NU:02_04_01}0000 Win(s) {NU:02_04_02}0000 Loss(es)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:22_1_0"
+msgid "Win Rate: {NU:02_04_00}0000%"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:22_2_0"
+msgid "Opponents fought {NU:02_04_01}0000 of {NU:02_04_00}0000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_0_0"
+msgid "Select a weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_1_0"
+msgid "Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_2_0"
+msgid "Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_3_0"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_4_0"
+msgid "Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_5_0"
+msgid "Mercenary GP is an armed tournament.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_6_0"
+msgid "Go ahead,{PA:10} pick the weapon you want.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:24_0_0"
+msgid "So you want the katana,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:24_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:24_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:25_0_0"
+msgid "So you want the dagger,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:25_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:25_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:26_0_0"
+msgid "So you want brass knuckles,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:26_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:26_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:27_0_0"
+msgid "So you want a staff,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:27_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:27_2_0"
+msgid "No"
+msgstr ""
+

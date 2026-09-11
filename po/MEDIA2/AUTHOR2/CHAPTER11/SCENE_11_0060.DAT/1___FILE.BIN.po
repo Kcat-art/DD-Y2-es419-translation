@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Now tell me where Chairman Goda is!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Oh,{PA:10} God.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:2_0_0"
+msgid "That's the Jingweon creed.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I.{PA:20}.{PA:20}.{PA:20} I should've followed it,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Thinking a man like me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:4_0_1"
+msgid "who ruined so many folks' lives.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Had any right to.{PA:20}.{PA:20}.{PA:20} lead a normal life.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:6_0_0"
+msgid "It was a mistake to begin with.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:7_0_0"
+msgid "You can't beat fate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:8_0_0"
+msgid "I should've died that night.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I'll be sure to.{PA:20}.{PA:20}.{PA:20} tell your mother.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Her little girl's grown up right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Find your happiness,{PA:10} miss.{PA:20}"
+msgstr ""
+

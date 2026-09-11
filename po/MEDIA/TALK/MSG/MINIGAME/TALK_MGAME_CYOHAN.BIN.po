@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:0_0_0"
+msgid "Points held"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:0_1_0"
+msgid "Points bet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:1_0_0"
+msgid "Bet status"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:1_1_0"
+msgid "Even"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:1_2_0"
+msgid "Odd"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:1_3_0"
+msgid "people"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:2_0_0"
+msgid "Even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:2_1_0"
+msgid "Odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:2_2_0"
+msgid "I won!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:2_3_0"
+msgid "I lost!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:3_0_0"
+msgid "Gotta be even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:3_1_0"
+msgid "Gotta be odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:3_2_0"
+msgid "I won!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:3_3_0"
+msgid "I lost!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:4_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Even.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:4_1_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Odd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:4_2_0"
+msgid "I won.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:4_3_0"
+msgid "I lost.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:5_0_0"
+msgid "Gonna be even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:5_1_0"
+msgid "Gonna be odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:5_2_0"
+msgid "I won!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:5_3_0"
+msgid "I lost!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:6_0_0"
+msgid "It's even.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:6_1_0"
+msgid "It's odd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:6_2_0"
+msgid "I won.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:6_3_0"
+msgid "I lost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:7_0_0"
+msgid "Should be even.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:7_1_0"
+msgid "Should be odd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:7_2_0"
+msgid "I won.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:7_3_0"
+msgid "I lost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:8_0_0"
+msgid "Definitely even.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:8_1_0"
+msgid "Definitely odd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:8_2_0"
+msgid "I won.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:8_3_0"
+msgid "I lost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:9_0_0"
+msgid "Maybe even.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:9_1_0"
+msgid "Maybe odd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:9_2_0"
+msgid "I won!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:9_3_0"
+msgid "I lost!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:10_0_0"
+msgid "View controls?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:10_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:10_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_0_0"
+msgid "Enter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_1_0"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_2_0"
+msgid "Change bet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_3_0"
+msgid "Controls"
+msgstr ""
+

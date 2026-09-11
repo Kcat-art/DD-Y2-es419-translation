@@ -1,0 +1,2677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_0_0"
+msgid "Kiryu et al.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_1_0"
+msgid "Tojo Clan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_2_0"
+msgid "Former Tojo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_3_0"
+msgid "Omi Alliance"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_4_0"
+msgid "Police HQ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_5_0"
+msgid "Osaka Div.{PA:20} 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_6_0"
+msgid "Sayama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:0_7_0"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_0_0"
+msgid "The central figures involved in the events||that transpired a year ago in Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_1_0"
+msgid "The largest criminal organization in Kanto,{PA:10}||with 20,{PA:10}000 members.{PA:20} Led by Yukio Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_2_0"
+msgid "The largest criminal organization in Kanto,{PA:10}||led by Yayoi Dojima after Terada's death.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_3_0"
+msgid "People who left the Tojo Clan after the||events of one year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_4_0"
+msgid "The largest criminal organization in Kansai,{PA:10}||with 30,{PA:10}000 members.{PA:20} Led by Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_5_0"
+msgid "The largest criminal group in Kansai,{PA:10} an||alliance of several large organizations.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_6_0"
+msgid "Police headquarters,{PA:10} with jurisdiction over||Tokyo.{PA:20} Date's former place of employment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_7_0"
+msgid "The Osaka Police Organized Crime Division.{PA:20}||Kaoru Sayama works there under Chief Bessho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_8_0"
+msgid "Those affiliated with Kaoru Sayama,{PA:10} located||around Sotenbori in Osaka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:1_9_0"
+msgid "Residents of Kamurocho.{PA:20} Mostly people who||met Kiryu during the events of a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_0_0"
+msgid "K.{PA:20} Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_1_0"
+msgid "Haruka S.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_2_0"
+msgid "M.{PA:20} Date"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_3_0"
+msgid "Y.{PA:20} Terada"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_4_0"
+msgid "Kashiwagi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_5_0"
+msgid "Y.{PA:20} Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_6_0"
+msgid "D.{PA:20} Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_7_0"
+msgid "K.{PA:20} Shindo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_8_0"
+msgid "G.{PA:20} Majima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_9_0"
+msgid "S.{PA:20} Fuma"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_10_0"
+msgid "F.{PA:20} Shimano"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_11_0"
+msgid "S.{PA:20} Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_12_0"
+msgid "A.{PA:20} Nishiki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_13_0"
+msgid "Jin Goda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_14_0"
+msgid "Ryuji Goda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_15_0"
+msgid "Takashima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_16_0"
+msgid "T.{PA:20} Sengoku"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_17_0"
+msgid "Kurahashi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_18_0"
+msgid "J.{PA:20} Kawara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_19_0"
+msgid "J.{PA:20} Sudo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_20_0"
+msgid "T.{PA:20} Bessho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_21_0"
+msgid "K.{PA:20} Sayama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_22_0"
+msgid "Mother"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_23_0"
+msgid "Tamiyo S.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_24_0"
+msgid "Emoto"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_25_0"
+msgid "Kazuki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_26_0"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:2_27_0"
+msgid "Kage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_0_0"
+msgid "A former Dojima family member.{PA:20}||Retired as 4th Tojo Clan chairman,{PA:10}||succeeded by Yukio Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_1_0"
+msgid "Known as the Dragon of Dojima.{PA:20}||Legendary in the yakuza world||due to the events of one year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_2_0"
+msgid "Has since left the business and||lives with Haruka,{PA:10} the daughter||of Yumi,{PA:10} his late love.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_3_0"
+msgid "A former Dojima family member.{PA:20}||Retired as 4th Tojo Clan chairman,{PA:10}||succeeded by Yukio Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_4_0"
+msgid "Attacked along with Terada at the||gravesite of his mentor,{PA:10} Fuma,{PA:10} he's||now entrusted with Terada's will.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_5_0"
+msgid "A former Dojima family member.{PA:20}||Retired as 4th Tojo Clan chairman,{PA:10}||succeeded by Yukio Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_6_0"
+msgid "After Terada's assassination,{PA:10}||he heads to Kansai to prevent the||destruction of the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_7_0"
+msgid "A former Dojima family member.{PA:20}||Retired as 4th Tojo Clan chairman,{PA:10}||succeeded by Yukio Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_8_0"
+msgid "Came to Kansai to prevent||an all-out war with the powerful||Omi Alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_9_0"
+msgid "He is troubled by the mysterious||words of Ryuji Goda,{PA:10} chairman of||the Go-Ryu Clan and Omi member.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_10_0"
+msgid "A former Dojima family member and||legendary yakuza known as the||Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_11_0"
+msgid "On the anniversary of Kiryu's men-||tor's death,{PA:10} Chairman Terada was||murdered right in front of him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_12_0"
+msgid "As former chairman of the Tojo||Clan,{PA:10} he heads to the Omi Alliance||with Daigo Dojima in tow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_13_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_14_0"
+msgid "Headed to Kansai to seek a truce||with the Omi Alliance,{PA:10} but got||caught up in Ryuji Goda's coup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_15_0"
+msgid "Entrusted Omi Chairman Jin Goda to||Daigo Dojima,{PA:10} but was arrested by||Kaoru Sayama of the Osaka police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_16_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_17_0"
+msgid "Came to Kansai to seek a truce||with the Omi Alliance,{PA:10} but was||arrested by Detective Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_18_0"
+msgid "With Sayama wounded by an unknown||sniper,{PA:10} he heads to a mahjong club||to meet with an informant.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_19_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_20_0"
+msgid "Came to Kansai to seek a truce||with the Omi Alliance,{PA:10} but was||arrested by Detective Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_21_0"
+msgid "With Sayama wounded by an unknown||sniper,{PA:10} he searches for those||responsible for the attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_22_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_23_0"
+msgid "Went to Kansai to avoid war with||the Omi Alliance,{PA:10} but Jin Goda and||Daigo were abducted by Ryuji Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_24_0"
+msgid "He returns to Kamurocho in search||of the missing pair,{PA:10} with||Detective Sayama in tow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_25_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_26_0"
+msgid "Went to Kansai to avoid war with||the Omi Alliance,{PA:10} but Jin Goda and||Daigo were abducted by Ryuji Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_27_0"
+msgid "He returns to Kamurocho in search||of the missing pair,{PA:10} with||Detective Sayama in tow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_28_0"
+msgid "To save the Tojo Clan,{PA:10} Kiryu goes||in search of a certain man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_29_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_30_0"
+msgid "He is working to bring peace||between east and west to fulfill||Terada's last request.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_31_0"
+msgid "Detective Sayama resents the Tojo,{PA:10}||but is helping him investigate the||kidnapping of Jin Goda and Daigo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_32_0"
+msgid "Heading to the Amano Building to||find Daigo,{PA:10} abducted along with||the Omi Alliance chairman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_33_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_34_0"
+msgid "Went to the building to retrieve||the abducted Daigo,{PA:10} but instead||found Date and Kawara.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_35_0"
+msgid "Kiryu and Date must now cooperate||to find the connection between the||incidents they are following.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_36_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_37_0"
+msgid "He once again partners with||Kaoru Sayama to locate the||abducted Daigo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_38_0"
+msgid "Kiryu heads to the Millennium Tower||to see Kage,{PA:10} the legendary||information dealer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_39_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_40_0"
+msgid "With Kage's help,{PA:10} he tracked down||the location of Daigo,{PA:10} who was||abducted along with Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_41_0"
+msgid "Kiryu and Sayama head to Shangri-||La,{PA:10} where Daigo is being held.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_42_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_43_0"
+msgid "Kiryu rescued Daigo safely,{PA:10} thanks||to help from Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_44_0"
+msgid "Learning the past behind the Jin-||gweon and Dojima,{PA:10} Kiryu heads to||Terada's funeral for more info.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_45_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_46_0"
+msgid "While learning of the Jingweon||involvement,{PA:10} he was drawn into||fighting the invading Go-Ryu Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_47_0"
+msgid "After Ryuji Goda left with a||warning,{PA:10} Kiryu goes to hold off||the Sengoku Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_48_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_49_0"
+msgid "Fought off the Go-Ryu and Sengoku||forces from the Omi Alliance to||defend Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_50_0"
+msgid "Goro Majima played a large role in||stopping the Sengoku family,{PA:10} but||the battle is not yet over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_51_0"
+msgid "Kiryu returns to Tojo Clan HQ to||find Shindo,{PA:10} who betrayed the clan||to the Sengoku family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_52_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_53_0"
+msgid "Decided to return to Kansai to||find the missing chairman of the||Omi Alliance,{PA:10} Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_54_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_55_0"
+msgid "Decided to return to Kansai to||find the missing chairman of the||Omi Alliance,{PA:10} Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_56_0"
+msgid "Kiryu heads with Sayama to the||Osaka police to learn more||about events from two decades ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_57_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_58_0"
+msgid "To avoid a dispute between the Omi||Alliance and the Tojo Clan,{PA:10} Kiryu||searches for Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_59_0"
+msgid "Kiryu grows closer to Sayama after||learning about her past and the||events of two decades ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_60_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_61_0"
+msgid "While searching for Jin Goda to||put an end to hostilities,{PA:10} Kiryu||also began chasing Sayama's past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_62_0"
+msgid "To learn the truth behind events||of two decades ago,{PA:10} Kiryu heads to||Keima to meet the only survivor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_63_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_64_0"
+msgid "Kiryu has come to Kansai to stop||the conflict between the Tojo Clan||and the Omi Alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_65_0"
+msgid "As the events of two decades ago||were revealed,{PA:10} Kiryu told Sayama||what he knew.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_66_0"
+msgid "Sayama leaves Kiryu's side.{PA:20} Soon||after,{PA:10} Kiryu is attacked.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_67_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_68_0"
+msgid "Kiryu has come to Kansai to stop||the conflict between the Tojo Clan||and the Omi Alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_69_0"
+msgid "After he learned of a connection||between his and Sayama's past,{PA:10}||Haruka was kidnapped by Sengoku.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_70_0"
+msgid "Kiryu heads for the Sengoku||family's hideout to rescue Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_71_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_72_0"
+msgid "Kiryu has come to Kansai to stop||the conflict between the Tojo Clan||and the Omi Alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_73_0"
+msgid "After he learned of a connection||between his and Sayama's past,{PA:10}||Haruka was kidnapped by Sengoku.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_74_0"
+msgid "Kiryu heads to confront the||Sengoku family in Osakan Castle to||rescue Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_75_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_76_0"
+msgid "While trying to prevent war||between the Tojo and the||Omi Alliance,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_77_0"
+msgid "Kiryu has been cooperating with||Sayama to uncover more about||her past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_78_0"
+msgid "Kiryu and Sayama now take on the||Jingweon mafia as they begin to||take more direct action.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_79_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_80_0"
+msgid "With the battle with Kurahashi and||the Jingweon mafia over,{PA:10} Kiryu||turns back to the Go-Ryu Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_81_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_82_0"
+msgid "As he waited for Ryuji Goda to||come to Tokyo,{PA:10} he learned of the||31 Jingweon bombs from Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_83_0"
+msgid "Working with Date,{PA:10} Kiryu goes to||Daigo to get the Tojo Clan ready||for battle with the Go-Ryu Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_84_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_85_0"
+msgid "As he waited for Ryuji Goda to||come to Tokyo,{PA:10} he learned of the||31 Jingweon bombs from Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_86_0"
+msgid "After leaving Daigo,{PA:10} Majima and||Kage to handle the bombs,{PA:10} Kiryu||heads to stop Ryuji.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_87_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_88_0"
+msgid "With the Go-Ryu forces stopped,{PA:10}||only the showdown with Ryuji||remains.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_89_0"
+msgid "The bombs disabled by Majima and||the Tojo Clan,{PA:10} Kiryu heads to||Purgatory.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_90_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_91_0"
+msgid "With the Go-Ryu forces stopped,{PA:10}||only the showdown with Ryuji||remains.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_92_0"
+msgid "Before the final battle,{PA:10} Kiryu||heads to Kamurocho with Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_93_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_94_0"
+msgid "With the Go-Ryu forces stopped,{PA:10}||only the showdown with Ryuji||remains.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_95_0"
+msgid "His relationship with Sayama,{PA:10} who||has returned from Osaka,{PA:10} still||seems rocky.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_96_0"
+msgid "Former chairman of the Tojo Clan||and legendary yakuza known as||the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:3_97_0"
+msgid "After learning everything about||Sayama and Ryuji's connection,{PA:10}||Kiryu heads for Kamurocho Hills.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_0_0"
+msgid "A 10-year-old girl who lives with||Kiryu.{PA:20} They met during the events||in Kamurocho a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_1_0"
+msgid "Then,{PA:10} she was targeted as the \"10||billion yen girl\",{PA:10} but emerged||safely thanks to Kiryu and Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_2_0"
+msgid "Daughter of Kiryu's late love,{PA:10}||Yumi.{PA:20} She has a big heart like her||mother.{PA:20} Trusts Kiryu completely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_3_0"
+msgid "A 10-year-old girl who lives with||Kiryu.{PA:20} They met during the events||in Kamurocho a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_4_0"
+msgid "Then,{PA:10} she was targeted as the \"10||billion yen girl\",{PA:10} but emerged||safely thanks to Kiryu and Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_5_0"
+msgid "Daughter of Kiryu's late love,{PA:10}||Yumi.{PA:20} She has a big heart like her||mother.{PA:20} Trusts Kiryu completely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_6_0"
+msgid "Witnessed Terada's death,{PA:10} and now||waits for Kiryu's return at||Sunflower,{PA:10} where she grew up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_7_0"
+msgid "A 10-year-old girl who lives with||Kiryu.{PA:20} They met during the events||in Kamurocho a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_8_0"
+msgid "While waiting at Sunflower for||Kiryu to return,{PA:10} she is suddenly||caught up in events.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_9_0"
+msgid "A 10-year-old girl who lives with||Kiryu.{PA:20} They met during the events||in Kamurocho a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_10_0"
+msgid "She was kidnapped to draw Kiryu||into battle,{PA:10} but rescued by Kiryu||and Ryuji.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:4_11_0"
+msgid "She now stays close to Kiryu and||Sayama to avoid further danger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_0_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_1_0"
+msgid "He investigated Kiryu for the||Sohei Dojima murder in 1995,{PA:10} and||was transferred as a result.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_2_0"
+msgid "Stayed close to Kiryu to get his job||back,{PA:10} but developed a friendship||and ended up working with him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_3_0"
+msgid "Quit the force after the events a||year prior,{PA:10} and is enjoying life||with his daughter,{PA:10} Saya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_4_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_5_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_6_0"
+msgid "Looking into the foreign organiza-||tion behind the Millennium Tower||bombing and Kazuki/Kang.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_7_0"
+msgid "Is on bad terms with Jiro Kawara,{PA:10}||his partner in this investigation,{PA:10}||due to a past incident.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_8_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_9_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_10_0"
+msgid "Reunites with Kiryu in chasing the||foreign threat and Kazuki,{PA:10} who||he suspects is a member.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_11_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_12_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_13_0"
+msgid "Reunited with Kiryu in chasing the||foreign threat and Kazuki,{PA:10} but||discovered that it was a trap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_14_0"
+msgid "Now believes there is a connection||between the yakuza conflict and||the foreign organization.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_15_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_16_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_17_0"
+msgid "While investigating Kazuki/Kang,{PA:10}||he becomes a suspect in the murder||of Jinwu Kang.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_18_0"
+msgid "With the cooperation of officer||Kawara,{PA:10} he leaves town to pursue the||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_19_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_20_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_21_0"
+msgid "While investigating Kazuki/Kang,{PA:10}||he becomes a suspect in the murder||of Jinwu Kang.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_22_0"
+msgid "With help from Kawara,{PA:10} he returned||to police HQ to research the||events of two decades ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_23_0"
+msgid "Date then fills Kiryu and Sayama||in on Kawara and Chief Bessho's||connection to the incident.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_24_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_25_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_26_0"
+msgid "While investigating Kazuki/Kang,{PA:10}||he becomes a suspect in the murder||of Jinwu Kang.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_27_0"
+msgid "While nearing the truth about the||incident two decades ago,{PA:10} Date is||captured by Chief Kurahashi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_28_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_29_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_30_0"
+msgid "Found that Kurahashi,{PA:10} himself a||Jingweon member,{PA:10} had been behind||everything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_31_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_32_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_33_0"
+msgid "Found that Kurahashi,{PA:10} himself a||Jingweon member,{PA:10} had been behind||everything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_34_0"
+msgid "Date heads to the police in order||to ask them to help Kiryu find||and dispose of the bombs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_35_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_36_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_37_0"
+msgid "Found that Kurahashi,{PA:10} himself a||Jingweon member,{PA:10} had been behind||everything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_38_0"
+msgid "Failing to get police cooperation||with the bombs,{PA:10} Date helps the||Tojo Clan on his own.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_39_0"
+msgid "Formerly a detective in Tokyo's||organized crime division.{PA:20} Helped||Kiryu in the events a year prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_40_0"
+msgid "He has since left the police,{PA:10} but||was asked by Sudo to help with an||investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:5_41_0"
+msgid "While facing countless dangers,{PA:10} he||helps Kiryu from the shadows.{PA:20} He||knows the secret kept from Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:6_0_0"
+msgid "Current Tojo Clan chairman.{PA:20} He||took over for Kiryu a year ago,{PA:10}||becoming the fifth chairman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:6_1_0"
+msgid "He was once a director of the Omi||Alliance,{PA:10} but came to the aid of||his mentor,{PA:10} Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:6_2_0"
+msgid "He was subsequently betrayed by||the Omi Alliance,{PA:10} but then Kiryu||entrusted him with the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:6_3_0"
+msgid "Deceased.{PA:20} Late Tojo Clan chairman.{PA:20}||He took over for Kiryu a year ago,{PA:10}||becoming the fifth chairman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:6_4_0"
+msgid "He was once a director of the Omi||Alliance,{PA:10} but came to the aid of||his mentor,{PA:10} Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:6_5_0"
+msgid "He was subsequently betrayed by||the Omi Alliance,{PA:10} but then Kiryu||entrusted him with the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:6_6_0"
+msgid "Anxious about the weakened Tojo||Clan,{PA:10} he wished for a truce with||the Omi Alliance in his will.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_0_0"
+msgid "Patriarch of the Fuma family.{PA:20}||Succeeded Fuma's position in the||Tojo Clan as well as his ideals.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_1_0"
+msgid "Formerly Fuma's lieutenant,{PA:10} he||leads the family after Fuma's||death.{PA:20} Longtime friend of Kiryu's.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_2_0"
+msgid "Honest and logical.{PA:20} His office is||on the top floor of the Millennium||Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_3_0"
+msgid "Patriarch of the Fuma family.{PA:20}||Succeeded Fuma's position in the||Tojo Clan as well as his ideals.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_4_0"
+msgid "Formerly Fuma's lieutenant,{PA:10} he||leads the family after Fuma's||death.{PA:20} Longtime friend of Kiryu's.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_5_0"
+msgid "Honest and logical.{PA:20} His office is||on the top floor of the Millennium||Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_6_0"
+msgid "He understands and supports Kiryu,{PA:10}||who is risking his life to save||the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_7_0"
+msgid "Patriarch of the Fuma family.{PA:20}||Succeeded Fuma's position in the||Tojo Clan as well as his ideals.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_8_0"
+msgid "Formerly Fuma's lieutenant,{PA:10} he||leads the family after Fuma's||death.{PA:20} Longtime friend of Kiryu's.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_9_0"
+msgid "Honest and logical.{PA:20} His office is||on the top floor of the Millennium||Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_10_0"
+msgid "Patriarch of the Fuma family.{PA:20}||Succeeded Fuma's position in the||Tojo Clan as well as his ideals.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_11_0"
+msgid "Formerly Fuma's lieutenant,{PA:10} he||leads the family after Fuma's||death.{PA:20} Longtime friend of Kiryu's.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_12_0"
+msgid "Honest and logical.{PA:20} His office was||on the top floor of the Millennium||Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:7_13_0"
+msgid "The offices in the Millennium||Tower were destroyed by a bomb||blast,{PA:10} but he escaped unharmed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_0_0"
+msgid "Acting chairman of the Tojo Clan||after Terada's death,{PA:10} and wife of||the late Sohei Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_1_0"
+msgid "Her husband was a major figure in||the Tojo Clan,{PA:10} but she is powerful||in her own right as well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_2_0"
+msgid "Hunted Kiryu as Sohei's killer a||year ago,{PA:10} but joined him and the||Tojo after learning the truth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_3_0"
+msgid "Leads the clan,{PA:10} but faced with her||son Daigo's issues,{PA:10} she entrusts||Kiryu with ending the crisis.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_4_0"
+msgid "Acting chairman of the Tojo Clan||after Terada's death,{PA:10} and wife of||the late Sohei Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_5_0"
+msgid "Her husband was a major figure in||the Tojo Clan,{PA:10} but she is powerful||in her own right as well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_6_0"
+msgid "Hunted Kiryu as Sohei's killer a||year ago,{PA:10} but joined him and the||Tojo after learning the truth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_7_0"
+msgid "Working to help the weakened Tojo||Clan,{PA:10} but is betrayed by Shindo and||rescued by Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:8_8_0"
+msgid "With her son returned safely,{PA:10}||they stand united against||the Go-Ryu Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_0_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_1_0"
+msgid "Incarcerated five years ago for||weapons possession during a||dispute with a Kansai group.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_2_0"
+msgid "His hatred of Kiryu gone after||learning the truth about Sohei's||death,{PA:10} he now wanders aimlessly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_3_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_4_0"
+msgid "Incarcerated five years ago for||weapons possession during a||dispute with a Kansai group.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_5_0"
+msgid "His hatred of Kiryu gone after||learning the truth about Sohei's||death,{PA:10} he now wanders aimlessly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_6_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_7_0"
+msgid "Incarcerated five years ago for||weapons possession during a||dispute with a Kansai group.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_8_0"
+msgid "Recognized by Kiryu for his poten-||tial to lead the Tojo,{PA:10} but goes to||Kansai to avenge a grudge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_9_0"
+msgid "A young,{PA:10} charismatic,{PA:10} skilled||fighter who could one day lead the||Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_10_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_11_0"
+msgid "Went to Kansai with Kiryu to seek||revenge on Ryuji Goda,{PA:10} but was||caught up in a Go-Ryu coup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_12_0"
+msgid "Heads to Kamurocho with Omi||Alliance Chairman Jin Goda to||protect him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_13_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_14_0"
+msgid "Went to Kansai with Kiryu to seek||revenge on Ryuji Goda,{PA:10} but was||caught up in a Go-Ryu coup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_15_0"
+msgid "Headed to Kamurocho with Omi||Alliance Chairman Jin Goda to||protect him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_16_0"
+msgid "Was abducted by a mysterious||organization along the way,{PA:10} and is||now missing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_17_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_18_0"
+msgid "Went to Kansai with Kiryu to seek||revenge on Ryuji Goda,{PA:10} but was||caught up in a Go-Ryu coup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_19_0"
+msgid "Abducted by a mysterious organi-||zation on the way to Kamurocho,{PA:10} but||was rescued by Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_20_0"
+msgid "A young,{PA:10} charismatic,{PA:10} skilled||fighter who could one day lead the||Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_21_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_22_0"
+msgid "Went to Kansai to seek revenge on||Ryuji Goda,{PA:10} but was caught up in||Go-Ryu and Jingweon mafia attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_23_0"
+msgid "Strengthened his resolve to lead||the Tojo in the face of threats||from the bombs and the Go-Ryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_24_0"
+msgid "Son of the late Sohei Dojima,{PA:10} he||was once a member of the Dojima||family under Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_25_0"
+msgid "Went to Kansai to seek revenge on||Ryuji Goda,{PA:10} but was caught up in||Go-Ryu and Jingweon mafia attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_26_0"
+msgid "Strengthened his resolve to lead||the Tojo in the face of threats||from the bombs and the Go-Ryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:9_27_0"
+msgid "Leads the Tojo Clan to disable||the 31 bombs set around Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_0_0"
+msgid "Patriarch of the Nishiki family||after the death of Akira Nishiki,{PA:10}||Kiryu's closest friend.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_1_0"
+msgid "Formerly Nishiki's lieutenant,{PA:10} he||tried to kill Kiryu during the||events of a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_2_0"
+msgid "He has absorbed the Shimano and||Majima families to lead the||largest group within the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_3_0"
+msgid "His admiration for Nishiki and||hatred of Kiryu continue unabated,{PA:10}||even to this day.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_4_0"
+msgid "Patriarch of the Nishiki family||after the death of Akira Nishiki,{PA:10}||Kiryu's closest friend.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_5_0"
+msgid "Formerly Nishiki's lieutenant,{PA:10} he||tried to kill Kiryu during the||events of a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_6_0"
+msgid "He has absorbed the Shimano and||Majima families to lead the||largest group within the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_7_0"
+msgid "He saw his chance to take over||the clan,{PA:10} and betrayed the Tojo||by aiding the Sengoku invasion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_8_0"
+msgid "Deceased.{PA:20} Former patriarch of the||Tojo Clan's Nishiki family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_9_0"
+msgid "Formerly Nishiki's lieutenant,{PA:10} he||tried to kill Kiryu during the||events of a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_10_0"
+msgid "He had absorbed the Shimano and||Majima families to lead the||largest group within the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:10_11_0"
+msgid "He betrayed the Tojo Clan by||aiding the Sengoku invasion,{PA:10} but||was killed by Daigo Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_0_0"
+msgid "Mad Dog Majima,{PA:10} former lieutenant||of the Shimano family and||patriarch of the Majima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_1_0"
+msgid "In the events a year earlier,{PA:10} he||stood in the way of Kiryu,{PA:10} on||Shimano's orders.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_2_0"
+msgid "A loose cannon obsessed with||strength,{PA:10} he pursued Kiryu with||little regard for anything else.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_3_0"
+msgid "After the events of a year ago,{PA:10} he||and his men withdrew from the Tojo||Clan.{PA:20} His whereabouts are unknown.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_4_0"
+msgid "Mad Dog Majima,{PA:10} former lieutenant||of the Shimano family and||patriarch of the Majima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_5_0"
+msgid "He has turned the Majima family||into a construction company to||build Kamurocho Hills.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_6_0"
+msgid "His real motive,{PA:10} however,{PA:10} is to||preside over a secret underground||city.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_7_0"
+msgid "Asked by Kiryu to return to||bolster the weakened Tojo Clan,{PA:10}||but refused.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_8_0"
+msgid "Mad Dog Majima,{PA:10} former lieutenant||of the Shimano family and||patriarch of the Majima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_9_0"
+msgid "The Majima family is building||Kamurocho Hills so he can rule the||underground city below.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_10_0"
+msgid "He reluctantly agrees to Kiryu's||request to aid the Tojo after||losing to him in the tournament.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_11_0"
+msgid "Mad Dog Majima,{PA:10} former lieutenant||of the Shimano family and||patriarch of the Majima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_12_0"
+msgid "The Majima family is building||Kamurocho Hills so he can rule the||underground city below.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_13_0"
+msgid "Keeping his promise,{PA:10} he aided the||Tojo Clan by holding off the||Sengoku invasion single-handedly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_14_0"
+msgid "Mad Dog Majima,{PA:10} former lieutenant||of the Shimano family and||patriarch of the Majima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_15_0"
+msgid "The Majima family is building||Kamurocho Hills so he can rule the||underground city below.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:11_16_0"
+msgid "Kept his promise to protect the||Tojo and Kamurocho.{PA:20} A reliable,{PA:10} if||eccentric,{PA:10} ally to Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:12_0_0"
+msgid "Deceased.{PA:20} Former patriarch of the||Fuma family.{PA:20} Was a father||figure and mentor to Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:12_1_0"
+msgid "Took care of Kiryu,{PA:10} Nishiki and||Yumi,{PA:10} but he was also a skilled||hit man for the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:12_2_0"
+msgid "Started the Sunflower Orphanage to||take care of the children of the||people he killed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:12_3_0"
+msgid "A true yakuza whose spirit lives||on in the hearts of people like||Kiryu and Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:13_0_0"
+msgid "Deceased.{PA:20} Former patriarch of the||Shimano family.{PA:20} Along with Fuma,{PA:10}||was an officer of the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:13_1_0"
+msgid "Once a Dojima member,{PA:10} when Fuma||became lieutenant of the Dojima,{PA:10}||he set up the Shimano family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:13_2_0"
+msgid "With powerful fighters like||Majima,{PA:10} his family was known for||prowess in battle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:13_3_0"
+msgid "In the events a year earlier,{PA:10} he||fought for rule of the Tojo Clan,{PA:10}||but failed and died.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:14_0_0"
+msgid "Deceased.{PA:20} Former patriarch of the||Dojima family.{PA:20} Killed by Nishiki||after taking Yumi captive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:14_1_0"
+msgid "Felt he could get what he wanted||by just taking it,{PA:10} and controlled||Kamurocho in that manner.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:14_2_0"
+msgid "Yakuza boss to Fuma and Shimano,{PA:10}||husband to Yayoi Dojima and father||to Daigo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:14_3_0"
+msgid "Behind his arrogance and||aggressiveness,{PA:10} he was a wily and||adept strategist.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:15_0_0"
+msgid "Deceased.{PA:20} Former patriarch of the||Nishiki family and best friend of||Kiryu since their orphanage days.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:15_1_0"
+msgid "At Fuma's guidance,{PA:10} he joined the||Dojima family with Kiryu,{PA:10} but 11||years ago he murdered Sohei for"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:15_2_0"
+msgid "capturing Yumi.{PA:20} Kiryu took the||rap and went to prison for him,{PA:10} but||Nishiki rose in the ranks of the"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:15_3_0"
+msgid "Tojo Clan.{PA:20} Mastermind behind the||events of a year earlier.{PA:20} Kiryu's||final enemy and strongest rival.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:15_4_0"
+msgid "Killed protecting Kiryu,{PA:10} Yumi and||Haruka from Jingu's attack.{PA:20}||Buried alongside Fuma and Yumi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_0_0"
+msgid "Fifth Chairman of the Omi Alliance.{PA:20}||Controls Kansai's largest yakuza||group of over 30,{PA:10}000 members.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_1_0"
+msgid "A year ago,{PA:10} worked with Jingu to||entrap the Tojo Clan,{PA:10} but failed.{PA:20}||Little is known about him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_2_0"
+msgid "Fifth Chairman of the Omi Alliance.{PA:20}||Controls Kansai's largest yakuza||group of over 30,{PA:10}000 members.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_3_0"
+msgid "Despite his position of power,{PA:10} he||is a calm,{PA:10} collected man with a||clear intellect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_4_0"
+msgid "Years of fighting and old age have||confined him to a wheelchair,{PA:10} but||he doesn't let it get in the way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_5_0"
+msgid "With the Omi Alliance slipping out||of control,{PA:10} he agreed to a truce||with the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_6_0"
+msgid "His plans to go to Kamurocho to||meet with Yayoi Dojima were||derailed by Ryuji's rebellion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_7_0"
+msgid "Fifth Chairman of the Omi Alliance.{PA:20}||Controls Kansai's largest yakuza||group of over 30,{PA:10}000 members.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_8_0"
+msgid "Years of fighting and old age have||confined him to a wheelchair,{PA:10} but||he doesn't let it get in the way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_9_0"
+msgid "A calm man with a clear intellect,{PA:10}||he agreed to a truce with the Tojo||Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_10_0"
+msgid "His plans to go to Kamurocho to||meet with Yayoi Dojima were||derailed by Ryuji's rebellion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_11_0"
+msgid "Headed to Kamurocho under Dojima||Daigo's care.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_12_0"
+msgid "Fifth Chairman of the Omi Alliance.{PA:20}||Controls Kansai's largest yakuza||group of over 30,{PA:10}000 members.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_13_0"
+msgid "Years of fighting and old age have||confined him to a wheelchair,{PA:10} but||he doesn't let it get in the way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_14_0"
+msgid "A calm man with a clear intellect,{PA:10}||he agreed to a truce with the Tojo||Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_15_0"
+msgid "Was headed to Kamurocho to meet||Yayoi Dojima,{PA:10} but was abducted by a||mysterious organization.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_16_0"
+msgid "His whereabouts are currently||unknown.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_17_0"
+msgid "Fifth Chairman of the Omi Alliance.{PA:20}||Controls Kansai's largest yakuza||group of over 30,{PA:10}000 members.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_18_0"
+msgid "Years of fighting and old age have||confined him to a wheelchair,{PA:10} but||he doesn't let it get in the way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_19_0"
+msgid "A calm man with a clear intellect,{PA:10}||he agreed to a truce with the Tojo||Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_20_0"
+msgid "Was headed to Kamurocho to meet||Yayoi Dojima,{PA:10} but was abducted by||the Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:16_21_0"
+msgid "Even though Daigo has returned,{PA:10}||Jin's whereabouts are still||unknown.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_0_0"
+msgid "Chairman of the Go-Ryu Clan,{PA:10} part||of the Omi Alliance.{PA:20} Son of Omi||Alliance chairman Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_1_0"
+msgid "Set a trap for Daigo,{PA:10} sending him||to prison for five years.{PA:20} Little||is known about him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_2_0"
+msgid "Chairman of the Go-Ryu Clan,{PA:10} part||of the Omi Alliance.{PA:20} Son of Omi||Alliance chairman Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_3_0"
+msgid "Set a trap for Daigo five years||ago.{PA:20} Met Kiryu by chance at a||cabaret.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_4_0"
+msgid "Go-Ryu Clan chairman and son of||Omi Alliance chairman Jin Goda.{PA:20}||Known as the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_5_0"
+msgid "Despite his youth,{PA:10} he leads a||powerful clan and is one of the||most powerful yakuza in Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_6_0"
+msgid "He strikes fear in men's hearts||with little more than a glance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_7_0"
+msgid "Met Kiryu at an Osaka cabaret.{PA:20}||His words indicate a connection||with the present situation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_8_0"
+msgid "Go-Ryu Clan chairman and son of||Omi Alliance chairman Jin Goda.{PA:20}||Known as the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_9_0"
+msgid "One of the most powerful yakuza in||Kansai,{PA:10} thought to be behind the||attack on Terada of the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_10_0"
+msgid "Raided his father's headquarters||in a bid to seize power and take||over the Omi Alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_11_0"
+msgid "Has a strange fascination with||Kiryu and a hostility towards||the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_12_0"
+msgid "Go-Ryu Clan chairman and son of||Omi Alliance chairman Jin Goda.{PA:20}||Known as the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_13_0"
+msgid "One of the Four Kings of Omi,{PA:10}||thought to be behind the attack on||Terada of the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_14_0"
+msgid "Raided his father's headquarters||in a bid to seize power and take||over the Omi Alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_15_0"
+msgid "Has a strange fascination with||Kiryu,{PA:10} the Dragon of Dojima.{PA:20}||Has declared war on the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_16_0"
+msgid "Go-Ryu Clan chairman and son of||Omi Alliance chairman Jin Goda.{PA:20}||Known as the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_17_0"
+msgid "One of the Four Kings of Omi,{PA:10}||thought to be behind the attack on||Terada of the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_18_0"
+msgid "Has a strange fascination with||Kiryu,{PA:10} the Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_19_0"
+msgid "Appeared at Terada's funeral at||Tojo Clan headquarters to announce||an invasion of Tokyo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_20_0"
+msgid "Go-Ryu Clan chairman and son of||Omi Alliance chairman Jin Goda.{PA:20}||Known as the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_21_0"
+msgid "One of the Four Kings of Omi,{PA:10}||thought to be behind the attack on||Terada of the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_22_0"
+msgid "Has a strange fascination with||Kiryu,{PA:10} the Dragon of Dojima.{PA:20} Wants||to defeat him in a fair fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_23_0"
+msgid "Opposed Sengoku's abduction of||Haruka,{PA:10} and killed Sengoku with||his own hands.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_24_0"
+msgid "Go-Ryu Clan chairman and son of||Omi Alliance chairman Jin Goda.{PA:20}||Known as the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_25_0"
+msgid "One of the Four Kings of Omi.{PA:20} Sees||Kiryu as a rival,{PA:10} and wants to||best him in a fair fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_26_0"
+msgid "Heads to Tokyo with the full force||of the Go-Ryu Clan for a decisive||battle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_27_0"
+msgid "Go-Ryu Clan chairman and son of||Omi Alliance chairman Jin Goda.{PA:20}||Known as the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_28_0"
+msgid "One of the Four Kings of Omi.{PA:20} Sees||Kiryu as a rival,{PA:10} and wants to||best him in a fair fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_29_0"
+msgid "Headed to Tokyo with the full force||of the Go-Ryu Clan and attacked||while the bomb removal was underway.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_30_0"
+msgid "Told Kiryu he would be waiting for||him at the tallest spot in the||city for their final fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_31_0"
+msgid "Go-Ryu Clan chairman and member of||the Omi Alliance.{PA:20} Known as the||Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_32_0"
+msgid "The child survivor of the incident||26 years ago.{PA:20} Half brother of||Kaoru Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:17_33_0"
+msgid "Waits on the roof of Kamurocho||Hills for the final battle with||Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_0_0"
+msgid "Chairman of the Takashima Clan,{PA:10} of||the Omi Alliance.{PA:20} In his forties,{PA:10}||he is young for an Omi director.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_1_0"
+msgid "Had a bond of brotherhood with||Terada.{PA:20} Known as the brains of the||Omi,{PA:10} he has Jin Goda's trust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_2_0"
+msgid "Chairman of the Takashima Clan,{PA:10} of||the Omi Alliance.{PA:20} In his forties,{PA:10}||he is young for an Omi director.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_3_0"
+msgid "Had a bond of brotherhood with||Terada.{PA:20} Known as the brains of the||Omi,{PA:10} he has Jin Goda's trust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_4_0"
+msgid "Used connections with Osaka police||to mark Sayama and Kiryu,{PA:10} sending||a sniper after them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_5_0"
+msgid "A mysterious man,{PA:10} quite different||from the loyal face he shows to||Omi Alliance Chairman Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_6_0"
+msgid "Chairman of the Takashima Clan,{PA:10} of||the Omi Alliance.{PA:20} In his forties,{PA:10}||he is young for an Omi director.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_7_0"
+msgid "Had a bond of brotherhood with||Terada.{PA:20} Known as the brains of the||Omi,{PA:10} he has Jin Goda's trust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:18_8_0"
+msgid "Has his eyes on the Omi Alliance||chairman's seat,{PA:10} waiting for the||right moment to act.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_0_0"
+msgid "Chairman of the Sengoku family,{PA:10} of||the Omi Alliance.{PA:20} Treated Kiryu||and Daigo with disdain.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_1_0"
+msgid "He appears to be rich,{PA:10} but little||is known about him or his||finances.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_2_0"
+msgid "Chairman of the Sengoku family,{PA:10} of||the Omi Alliance.{PA:20} Said to be the||richest man in the alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_3_0"
+msgid "One of Omi's Four Kings.{PA:20} Is said||to have unimaginable wealth and||gets whatever he wants with money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_4_0"
+msgid "He offered a 100 million yen||bounty on Kiryu,{PA:10} and had an||informant attack him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_5_0"
+msgid "Chairman of the Sengoku family,{PA:10} of||the Omi Alliance.{PA:20} Said to be the||richest man in the alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_6_0"
+msgid "One of Omi's Four Kings.{PA:20} Is said||to have unimaginable wealth and||gets whatever he wants with money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_7_0"
+msgid "Applied financial pressure to||Kamurocho shop owners to set up||another attack on Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_8_0"
+msgid "Chairman of the Sengoku family,{PA:10} of||the Omi Alliance.{PA:20} Said to be the||richest man in the alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_9_0"
+msgid "One of Omi's Four Kings.{PA:20} Is said||to have unimaginable wealth and||gets whatever he wants with money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_10_0"
+msgid "Uses his money to fight for||leadership of the alliance.{PA:20}||Abducted Haruka to get to Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_11_0"
+msgid "Deceased.{PA:20} Chairman of the Sengoku||family,{PA:10} of the Omi Alliance.{PA:20} Was||the richest man in the alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:19_12_0"
+msgid "Had ambitions to lead the Omi,{PA:10} but||was killed by Ryuji's sword.{PA:20}||Lived and died by the yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_0_0"
+msgid "Sr.{PA:20} Superintendent of Tokyo Metro-||politan Police Public Security,{PA:10}||Foreign Affairs Division 2.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_1_0"
+msgid "Head of Division 2,{PA:10} focusing on||East Asian threats.{PA:20} Always calm,{PA:10}||and doesn't show emotion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_2_0"
+msgid "The Public Security section is||very secretive,{PA:10} and often runs||non-standard investigations.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_3_0"
+msgid "Anticipated the Millennium Tower||bombing.{PA:20} Uses Sudo to ask Date to||investigate Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_4_0"
+msgid "Sr.{PA:20} Superintendent,{PA:10} Tokyo Police.{PA:20}||He is Yeongmin Ji,{PA:10} survivor of the||incident 26 years prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_5_0"
+msgid "Threw away his police career and||captured Date and Kage to lure||Kiryu and Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_6_0"
+msgid "Deceased.{PA:20} Sr.{PA:20} Superintendent,{PA:10}||Tokyo Police.{PA:20} AKA Yeongmin Ji,{PA:10}||survivor of events 26 years prior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_7_0"
+msgid "Threw away his police career to||avenge his fallen Jingweon||comrades.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:20_8_0"
+msgid "Planted a bomb in the Millennium||Tower but was defeated by Kiryu||and Kawara.{PA:20} Killed by Kawara.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_0_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} but||much about his past is unclear.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_1_0"
+msgid "Under Kurahashi's orders,{PA:10} he and||Date are working on a secret||investigation of Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_2_0"
+msgid "His conversations with Date and||his reaction to the bombing hint||at mysteries in his past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_3_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} and they||now investigate Kazuki together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_4_0"
+msgid "His conversations with Date and||his reaction to the bombing hint||at mysteries in his past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_5_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} and they||now investigate Kazuki together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_6_0"
+msgid "They feed Kazuki false information||and pursue him when he runs,{PA:10} but||fall into a trap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_7_0"
+msgid "He saw through the fake Kazuki's||disguise and tried to shoot him,{PA:10} but||failed.{PA:20} Saved by Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_8_0"
+msgid "His conversations with Date and||his reaction to the bombing hint||at mysteries in his past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_9_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} and they||now investigate Kazuki together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_10_0"
+msgid "Was shot during the investigation,{PA:10}||but managed to learn the name of||the foreign organization.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_11_0"
+msgid "Called \"Killer Kawara\" for||repeatedly gunning down illegal||immigrants during arrests.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_12_0"
+msgid "Has an ability to read and under-||stand a situation.{PA:20} Acts with||composure.{PA:20} Can speak Korean.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_13_0"
+msgid "Helps Date in his investigation||after he becomes a suspect,{PA:10} but||his motives aren't yet clear.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_14_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} and they||now investigate Kazuki together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_15_0"
+msgid "Called \"Killer Kawara\" for||repeatedly gunning down illegal||immigrants during arrests.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_16_0"
+msgid "Has an ability to read and under-||stand a situation.{PA:20} Acts with||composure.{PA:20} Can speak Korean.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_17_0"
+msgid "Helped Date,{PA:10} who is a wanted||suspect in the murder of the||impostor Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_18_0"
+msgid "But when Date uncovers an incident||that occurred in Kamurocho,{PA:10} he||leaves the investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_19_0"
+msgid "It seems he played an important||part in the Dojima family incident||that Sayama is investigating.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_20_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} and they||now investigate Kazuki together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_21_0"
+msgid "Called \"Killer Kawara\" for||repeatedly gunning down illegal||immigrants during arrests.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_22_0"
+msgid "Helped Date with his investiga-||tion,{PA:10} but suddenly quit and||disappeared.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_23_0"
+msgid "He was involved in the events of||two decades ago,{PA:10} according to||Bessho.{PA:20} It seems he is in Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_24_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} and they||now investigate Kazuki together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_25_0"
+msgid "Called \"Killer Kawara\" for||repeatedly gunning down illegal||immigrants during arrests.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_26_0"
+msgid "Helped Date with his investiga-||tion,{PA:10} but suddenly quit and||disappeared.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_27_0"
+msgid "He was involved in the events of||two decades ago,{PA:10} according to||Bessho.{PA:20} It seems he is in Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_28_0"
+msgid "A Public Security detective.{PA:20} Has||known Date for many years,{PA:10} and they||now investigate Kazuki together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_29_0"
+msgid "Called \"Killer Kawara\" for||repeatedly gunning down illegal||immigrants during arrests.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_30_0"
+msgid "Was deeply involved in the events||26 years ago.{PA:20} Acts to stop||Kurahashi's revenge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_31_0"
+msgid "Deceased.{PA:20} Former Public Security||detective.{PA:20} Was married to Suyeon.{PA:20}||Father of Kaoru Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_32_0"
+msgid "Saved Suyeon from a Jingweon hide-||out 26 years ago.{PA:20} They later||married in Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_33_0"
+msgid "Kaoru Sayama is his daughter.{PA:20}||Suyeon was killed by the organiza-||tion while he was working abroad.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_34_0"
+msgid "Decided to live to protect Kaoru,{PA:10}||and devoted his life to wiping||out the Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:21_35_0"
+msgid "Kept Kaoru's origins a secret from||her all her life,{PA:10} but died as a||father protecting his daughter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_0_0"
+msgid "Sr.{PA:20} Superintendent and head of||Tokyo Metropolitan Police||Organized Crime Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_1_0"
+msgid "Once worked under Date.{PA:20} Led||Investigations Division 1 a year||ago,{PA:10} covering for Kiryu and Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_2_0"
+msgid "Ignored direct orders in doing so,{PA:10}||and was transferred to Division 4||as a result.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_3_0"
+msgid "Sr.{PA:20} Superintendent and head of||Tokyo Metropolitan Police||Organized Crime Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_4_0"
+msgid "Once worked under Date.{PA:20} Led||Investigations Division 1 a year||ago,{PA:10} covering for Kiryu and Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_5_0"
+msgid "Ignored direct orders in doing so,{PA:10}||and was transferred to Division 4||as a result.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_6_0"
+msgid "Cooperating with Kurahashi.{PA:20}||Recommended Date to help with the||investigation of Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_7_0"
+msgid "Careful and meticulous,{PA:10} he tracks||Kiryu's movements and requests||protection from the Osaka police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_8_0"
+msgid "Sr.{PA:20} Superintendent and head of||Tokyo's Organized Crime Division.{PA:20}||Helps Date whenever he can.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_9_0"
+msgid "Once worked under Date.{PA:20} Led||Investigations Division 1 a year||ago,{PA:10} covering for Kiryu and Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_10_0"
+msgid "Ignored direct orders in doing so,{PA:10}||and was transferred to Division 4||as a result.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_11_0"
+msgid "Tapped Date to investigate Kazuki.{PA:20}||Stuck between Public Security and||HQ as a result of the shooting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_12_0"
+msgid "Sr.{PA:20} Superintendent and head of||Tokyo's Organized Crime Division.{PA:20}||Helps Date whenever he can.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_13_0"
+msgid "Once worked under Date.{PA:20} Led||Investigations Division 1 a year||ago,{PA:10} covering for Kiryu and Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_14_0"
+msgid "Ignored direct orders in doing so,{PA:10}||and was transferred to Division 4||as a result.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:22_15_0"
+msgid "Analyzed the disk Kurahashi left||behind,{PA:10} uncovering the truth about||Kaoru and Ryuji.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_0_0"
+msgid "Osaka Prefectural Police Organized||Crime Division Chief.{PA:20} Keeps a||sharp eye on Osaka's yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_1_0"
+msgid "Kaoru Sayama's boss.{PA:20} A rough,{PA:10}||tough and grizzled veteran||detective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_2_0"
+msgid "Received a request from Sudo to||protect Kiryu while he is in||Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_3_0"
+msgid "Doesn't enjoy taking orders from||Tokyo,{PA:10} but accepts the request||after Kaoru shows strong interest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_4_0"
+msgid "Osaka Prefectural Police Organized||Crime Division Chief.{PA:20} Keeps a||sharp eye on Osaka's yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_5_0"
+msgid "Kaoru Sayama's boss.{PA:20} A rough,{PA:10}||tough and grizzled veteran||detective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_6_0"
+msgid "Received a request from Sudo to||protect Kiryu while he is in||Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_7_0"
+msgid "Agreed to assign Sayama to Kiryu,{PA:10}||but his true motives are a||mystery.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_8_0"
+msgid "Informed Kiryu about the abduction||of Jin Goda and Daigo Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_9_0"
+msgid "Osaka Prefectural Police Organized||Crime Division Chief.{PA:20} Keeps a||sharp eye on Osaka's yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_10_0"
+msgid "Kaoru Sayama's boss.{PA:20} A rough,{PA:10}||tough and grizzled veteran||detective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_11_0"
+msgid "Received a request from Sudo to||protect Kiryu,{PA:10} and assigned Kaoru||Sayama to him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_12_0"
+msgid "Seems Osakan through and through,{PA:10}||but according to Date he was once||in Kamurocho's Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_13_0"
+msgid "Osaka Prefectural Police Organized||Crime Division Chief.{PA:20} Keeps a||sharp eye on Osaka's yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_14_0"
+msgid "Kaoru Sayama's boss.{PA:20} A rough,{PA:10}||tough and grizzled veteran||detective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_15_0"
+msgid "Received a request from Sudo to||protect Kiryu,{PA:10} and assigned Kaoru||Sayama to him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_16_0"
+msgid "Date found that Bessho and Kawara||had been assigned to the Kamurocho||incident two decades ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_17_0"
+msgid "Osaka Prefectural Police Organized||Crime Division Chief.{PA:20} Keeps a||sharp eye on Osaka's yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_18_0"
+msgid "Worked in Kamurocho two decades||ago,{PA:10} and allowed the Dojima to||wipe out the Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_19_0"
+msgid "Sensing Kaoru was in danger,{PA:10}||removed her from Kiryu's||protection detail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_20_0"
+msgid "It was Kawara and Bessho who||brought the survivor of the events||two decades prior to Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_21_0"
+msgid "Osaka Prefectural Police Organized||Crime Division Chief.{PA:20} Keeps a||sharp eye on Osaka's yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_22_0"
+msgid "Worked in Kamurocho two decades||ago,{PA:10} and allowed the Dojima to||wipe out the Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_23_0"
+msgid "He and Kawara worked together to||protect Sayama and others from the||Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:23_24_0"
+msgid "Learning of Kurahashi's actions,{PA:10}||he helps Kawara in his fight||against the Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_0_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_1_0"
+msgid "Extremely aggressive in policing||the yakuza,{PA:10} no matter how||intimidating they may be.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_2_0"
+msgid "After Sudo's request to protect||Kiryu,{PA:10} she volunteered to take on||the assignment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_3_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_4_0"
+msgid "To keep close tabs on the Tojo-Omi||dispute,{PA:10} she arrested Kiryu and||took him into custody.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_5_0"
+msgid "Injured by a mysterious sniper||attack while transporting Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_6_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_7_0"
+msgid "To keep close tabs on the Tojo-Omi||dispute,{PA:10} she arrested Kiryu and||took him into custody.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_8_0"
+msgid "Hit by a mysterious sniper attack.{PA:20}||Taken to her foster mother Tamiyo||for treatment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_9_0"
+msgid "She seems to have an ulterior||motive for protecting Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_10_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_11_0"
+msgid "To keep close tabs on the Tojo-Omi||dispute,{PA:10} she arrested Kiryu and||took him into custody.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_12_0"
+msgid "She seems to be investigating the||Tojo Clan for personal reasons,{PA:10}||but no details are known.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_13_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_14_0"
+msgid "To keep close tabs on the Tojo-Omi||dispute,{PA:10} she arrested Kiryu and||took him into custody.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_15_0"
+msgid "She seems to be investigating the||Tojo Clan for personal reasons.{PA:20}||Heads to Kamurocho with Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_16_0"
+msgid "Develops a high fever after||arriving in Kamurocho,{PA:10} and rests||at the former club Serena.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_17_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_18_0"
+msgid "Took advantage of the protection||assignment to get close to Kiryu||and the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_19_0"
+msgid "Her true intent was to investigate||the Tojo Clan about the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_20_0"
+msgid "Was shot,{PA:10} but still follows Kiryu||as he strives to rebuild the||Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_21_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_22_0"
+msgid "Took advantage of the protection||assignment to get close to Kiryu||and the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_23_0"
+msgid "Her true intent was to investigate||the Tojo Clan about the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_24_0"
+msgid "When Kiryu discovered her true||motives,{PA:10} they joined forces and||are now after the same thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_25_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_26_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_27_0"
+msgid "When Kiryu discovered her true||motives,{PA:10} they joined forces and||are now after the same thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_28_0"
+msgid "Headed to Amano Building to find||Daigo,{PA:10} but instead saved Kiryu and||Date with her gun.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_29_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_30_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_31_0"
+msgid "When Kiryu discovered her true||motives,{PA:10} they joined forces and||are now after the same thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_32_0"
+msgid "To help Date and Kiryu,{PA:10} she used||herself as a decoy to get them away||from danger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_33_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_34_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_35_0"
+msgid "When Kiryu discovered her true||motives,{PA:10} they joined forces and||are now after the same thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_36_0"
+msgid "To help Date and Kiryu,{PA:10} she used||herself as a decoy to get them away||from danger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_37_0"
+msgid "She dropped her police badge when||helping Kiryu,{PA:10} but a quick-witted||Kawara picked it up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_38_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_39_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_40_0"
+msgid "When Kiryu discovered her true||motives,{PA:10} they joined forces and||are now after the same thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_41_0"
+msgid "After Date becomes a suspect due||to a Jingweon trap,{PA:10} she and Kiryu||go back to looking for Daigo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_42_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_43_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_44_0"
+msgid "When Kiryu discovered her true||motives,{PA:10} they joined forces and||are now after the same thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_45_0"
+msgid "Her surprising past is revealed by||Kage,{PA:10} the information dealer known||as \"the florist\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_46_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_47_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_48_0"
+msgid "Originally hired by the High-Tech||Crime Unit,{PA:10} she later requested a||transfer to Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_49_0"
+msgid "She used her exceptional program-||ming skills to save Kage when he||was being hacked.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_50_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_51_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_52_0"
+msgid "Originally hired by the High-Tech||Crime Unit,{PA:10} she later requested a||transfer to Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_53_0"
+msgid "As she investigated the Tojo's||past,{PA:10} she was shocked to find that||her boss,{PA:10} Bessho,{PA:10} was involved.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_54_0"
+msgid "Forces Kiryu to put his search for||Omi chairman Jin Goda on hold to||head to the Osaka police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_55_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_56_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_57_0"
+msgid "Originally hired by the High-Tech||Crime Unit,{PA:10} she later requested a||transfer to Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_58_0"
+msgid "Shocked to discover Bessho was||connected to the Tojo's past,{PA:10} she||forced Kiryu back to Osaka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_59_0"
+msgid "Learns of a survivor of the events||of her past,{PA:10} but she is removed||from Kiryu's protection detail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_60_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_61_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_62_0"
+msgid "Originally hired by the High-Tech||Crime Unit,{PA:10} she later requested a||transfer to Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_63_0"
+msgid "Heads to Shinseicho to meet the||survivor,{PA:10} Murai,{PA:10} to learn more||about her origins.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_64_0"
+msgid "Seeing Kiryu's softer side,{PA:10} she||gradually grows closer to him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_65_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_66_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_67_0"
+msgid "Originally hired by the High-Tech||Crime Unit,{PA:10} she later requested a||transfer to Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_68_0"
+msgid "Headed to Shinseicho to meet the||survivor,{PA:10} Murai,{PA:10} to learn more||about her origins.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_69_0"
+msgid "She's fond of Kiryu,{PA:10} but upon||learning the truth of the events||two decades ago,{PA:10} leaves his side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_70_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_71_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_72_0"
+msgid "Originally hired by the High-Tech||Crime Unit,{PA:10} she later requested a||transfer to Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_73_0"
+msgid "She realizes that her birth was||deeply connected to the Jingweon||mafia incident.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_74_0"
+msgid "Lead detective in Osaka's||Organized Crime Division 4.{PA:20} Known||as the Yakuza-Eater.{PA:20} 25 years old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_75_0"
+msgid "Assigned to protect Kiryu,{PA:10} she||used this to learn the truth||behind her parents' deaths.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_76_0"
+msgid "Originally hired by the High-Tech||Crime Unit,{PA:10} she later requested a||transfer to Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_77_0"
+msgid "She discovered that her birth was||deeply connected to the Jingweon||mafia incident.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_78_0"
+msgid "She left Kiryu once,{PA:10} but follows||him once again and rescues him||from Sengoku's trap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_79_0"
+msgid "Pursues the Jingweon mastermind,{PA:10}||Kurahashi.{PA:20} Took a wounded Kiryu||and Haruka to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_80_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_81_0"
+msgid "Finally learned the truth about||her birth and her parents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_82_0"
+msgid "Her parents were Jiro Kawara and||Suyeon of the Jingweon mafia,{PA:10} who||met in the incident 26 years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_83_0"
+msgid "Returns to Kansai to analyze Kura-||hashi's disk and to place her||father to rest by her mother.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_84_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_85_0"
+msgid "Finally learned the truth about||her birth and her parents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_86_0"
+msgid "Her parents were Jiro Kawara and||Suyeon of the Jingweon mafia,{PA:10} who||met in the incident 26 years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_87_0"
+msgid "But there is still another||connection in Sayama's bloodline.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_88_0"
+msgid "Failing to analyze the disk,{PA:10} she||returns to Kamurocho,{PA:10} but is once||again cold towards Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_89_0"
+msgid "The \"Yakuza-Eater\".{PA:20} Lead detective||of Osaka's Organized Crime Div.{PA:20} 4.{PA:20}||Assigned to protect Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_90_0"
+msgid "Her parents were Jiro Kawara and||Suyeon of the Jingweon mafia,{PA:10} who||met in the incident 26 years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_91_0"
+msgid "She blames yakuza for her parents'||deaths,{PA:10} but learns that her sole||living relative is Ryuji Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:24_92_0"
+msgid "Bids farewell to Kiryu and heads||to Kamurocho Hills,{PA:10} where Ryuji||waits.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_0_0"
+msgid "Kaoru Sayama's birth mother.{PA:20}||Little is known about her,{PA:10} but she||may be connected to the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_1_0"
+msgid "Kaoru Sayama's birth mother.{PA:20} Even||Sayama knows nothing about her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_2_0"
+msgid "Sayama suspects Tojo involvement||in her parents' deaths,{PA:10} after||overhearing Tamiyo's phone call.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_3_0"
+msgid "Kaoru Sayama's birth mother.{PA:20} Even||Sayama knows nothing about her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_4_0"
+msgid "According to Murai,{PA:10} the last||Jingweon survivor,{PA:10} she escaped to||Kansai but was later killed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_5_0"
+msgid "It's not clear whether the baby||she fled with was Kaoru or not.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_6_0"
+msgid "Her real name was Suyeon Jung.{PA:20}||Korean.{PA:20} Former wife of the||Jingweon mafia boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_7_0"
+msgid "After the events two decades ago,{PA:10}||she escaped to Kansai with Kawara||and separated from her baby.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_8_0"
+msgid "She later married Kawara and gave||birth to Kaoru,{PA:10} creating a happy||family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_9_0"
+msgid "While Kawara was working abroad,{PA:10}||she was killed by a Jingweon squad||sent from the mainland.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:25_10_0"
+msgid "Upon her death,{PA:10} her friend Tamiyo||Sayama took Kaoru in and protected||her from her tragic past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_0_0"
+msgid "Foster mother of Kaoru Sayama.{PA:20}||Owns a bar called Aoi in Sotenbori.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_1_0"
+msgid "Treated Kaoru when she was shot.{PA:20}||Seems to have experience as a||nurse.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_2_0"
+msgid "Foster mother of Kaoru Sayama.{PA:20}||Owns a bar called Aoi in Sotenbori.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_3_0"
+msgid "Treated Kaoru when she was shot.{PA:20}||Seems to have experience as a||nurse.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_4_0"
+msgid "She is hiding something about||Kaoru's real parents,{PA:10} but the truth||remains unknown.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_5_0"
+msgid "Foster mother of Kaoru Sayama.{PA:20}||Owns a bar called Aoi in Sotenbori.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_6_0"
+msgid "Treated Kaoru when she was shot.{PA:20}||Seems to have experience as a||nurse.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_7_0"
+msgid "Knows the secret of Kaoru's birth.{PA:20}||Goes to Kamurocho with Kawara to||protect Kaoru's past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_8_0"
+msgid "Foster mother of Kaoru Sayama.{PA:20}||Owns a bar called Aoi in Sotenbori.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_9_0"
+msgid "Friends with Kaoru's real mother,{PA:10}||Suyeon.{PA:20} Took Kaoru in after Su-||yeon was killed by the Jingweon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:26_10_0"
+msgid "Worked to keep promise to Suyeon||to keep Kaoru's past secret from||her.{PA:20} Raised her as her own.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:27_0_0"
+msgid "A doctor in Kamurocho.{PA:20} Director of||Emoto Clinic.{PA:20} Helped Kiryu and||saved a young boy a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:27_1_0"
+msgid "Former head of surgery at Toto||University Hospital,{PA:10} but wanted to||help the people of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:27_2_0"
+msgid "Brusque,{PA:10} but sincere.{PA:20} Fuma shared||his vision,{PA:10} and supported the||clinic financially.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:27_3_0"
+msgid "A doctor in Kamurocho.{PA:20} Director of||Emoto Clinic.{PA:20} Helped Kiryu and||saved a young boy a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:27_4_0"
+msgid "Former head of surgery at Toto||University Hospital,{PA:10} but wanted to||help the people of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:27_5_0"
+msgid "Brusque,{PA:10} but sincere.{PA:20} Fuma shared||his vision,{PA:10} and supported the||clinic financially.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:27_6_0"
+msgid "Treated Kazuki,{PA:10} who was severely||injured by the Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_0_0"
+msgid "Owner of Stardust,{PA:10} said to be||Kamurocho's number one host club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_1_0"
+msgid "Helped by Fuma when starting his||club,{PA:10} he in turn helped Kiryu||during the events a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_2_0"
+msgid "Through those events,{PA:10} he built a||strong friendship with Kiryu and||Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_3_0"
+msgid "Young and polite,{PA:10} but operates a||successful business and works to||better all of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_4_0"
+msgid "Thought to be Jinwu Kang,{PA:10} a member||of the organization that bombed||the Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_5_0"
+msgid "Owner of Stardust,{PA:10} said to be||Kamurocho's number one host club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_6_0"
+msgid "Helped by Fuma when starting his||club,{PA:10} he in turn helped Kiryu||during the events a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_7_0"
+msgid "Through those events,{PA:10} he built a||strong friendship with Kiryu and||Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_8_0"
+msgid "Young and polite,{PA:10} but operates a||successful business and works to||better all of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_9_0"
+msgid "Thought to be Jinwu Kang,{PA:10} a member||of the organization that bombed||the Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_10_0"
+msgid "When set up by Date and Kawara at||Stardust,{PA:10} he ran away,{PA:10} making him||a more probable suspect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_11_0"
+msgid "Owner of Stardust,{PA:10} said to be||Kamurocho's number one host club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_12_0"
+msgid "Helped by Fuma when starting his||club,{PA:10} he in turn helped Kiryu||during the events a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_13_0"
+msgid "Through those events,{PA:10} he built a||strong friendship with Kiryu and||Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_14_0"
+msgid "Young and polite,{PA:10} but operates a||successful business and works to||better all of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_15_0"
+msgid "Thought to be Jinwu Kang,{PA:10} a member||of the organization that bombed||the Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_16_0"
+msgid "An impostor Kazuki appeared and no||one could tell them apart,{PA:10} but||Kawara identified the fake.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_17_0"
+msgid "Shot by the fake Kazuki.{PA:20} Being||brought to Dr.{PA:20} Emoto by Kiryu and||Kawara.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_18_0"
+msgid "Owner of Stardust,{PA:10} said to be||Kamurocho's number one host club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_19_0"
+msgid "Helped by Fuma when starting his||club,{PA:10} he in turn helped Kiryu||during the events a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_20_0"
+msgid "Through those events,{PA:10} he built a||strong friendship with Kiryu and||Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_21_0"
+msgid "Young and polite,{PA:10} but operates a||successful business and works to||better all of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_22_0"
+msgid "Thought to be Jinwu Kang,{PA:10} a member||of the organization that bombed||the Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_23_0"
+msgid "An impostor Kazuki appeared and no||one could tell them apart,{PA:10} but||Kawara identified the fake.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_24_0"
+msgid "Shot by the fake Kazuki.{PA:20} Brought||to Dr.{PA:20} Emoto by Kiryu and Kawara,{PA:10}||and is undergoing treatment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_25_0"
+msgid "Owner of Stardust,{PA:10} said to be||Kamurocho's number one host club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_26_0"
+msgid "Helped by Fuma when starting his||club,{PA:10} he in turn helped Kiryu||during the events a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_27_0"
+msgid "Through those events,{PA:10} he built a||strong friendship with Kiryu and||Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_28_0"
+msgid "Young and polite,{PA:10} but operates a||successful business and works to||better all of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_29_0"
+msgid "Fell into a Jingweon mafia trap.{PA:20}||He was severely injured and is||currently hospitalized.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_30_0"
+msgid "Owner of Stardust,{PA:10} said to be||Kamurocho's number one host club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_31_0"
+msgid "Helped by Fuma when starting his||club,{PA:10} he in turn helped Kiryu||during the events a year ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_32_0"
+msgid "Through those events,{PA:10} he built a||strong friendship with Kiryu and||Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_33_0"
+msgid "Young and polite,{PA:10} but operates a||successful business and works to||better all of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_34_0"
+msgid "But he was locked up by the Jin-||gweon for half a year so they could||infiltrate Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:28_35_0"
+msgid "Told Kiryu of the bombs the Jin-||gweon mafia placed around town.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_0_0"
+msgid "Manager of Stardust,{PA:10} Kamurocho's||top host club.{PA:20} Runs the club when||the owner is busy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_1_0"
+msgid "Picked a fight with Kiryu a year||ago,{PA:10} when Kiryu came to Stardust||to see Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_2_0"
+msgid "Later,{PA:10} he and Kazuki helped Kiryu||and Date whenever necessary.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_3_0"
+msgid "His girlfriend Miyu is a dancer.{PA:20}||They got caught up in trouble,{PA:10}||but were saved by Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_4_0"
+msgid "After a number of incidents,{PA:10} he||grew to think very highly of Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_5_0"
+msgid "A passionate,{PA:10} energetic youth.{PA:20} He||senses changes in Kamurocho and||awaits Kiryu's return.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_6_0"
+msgid "Manager of Stardust,{PA:10} Kamurocho's||top host club.{PA:20} Runs the club when||the owner is busy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_7_0"
+msgid "Picked a fight with Kiryu a year||ago,{PA:10} when Kiryu came to Stardust||to see Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_8_0"
+msgid "Later,{PA:10} he and Kazuki helped Kiryu||and Date whenever necessary.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_9_0"
+msgid "After a number of incidents,{PA:10} he||grew to think very highly of Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_10_0"
+msgid "A passionate,{PA:10} energetic youth.{PA:20} He||senses changes in Kamurocho and||awaits Kiryu's return.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_11_0"
+msgid "Had an unexpected reunion with||Kiryu after a year.{PA:20} Is worried by||Kazuki's mysterious behavior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_12_0"
+msgid "Manager of Stardust,{PA:10} Kamurocho's||top host club.{PA:20} Runs the club when||the owner is busy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_13_0"
+msgid "Picked a fight with Kiryu a year||ago,{PA:10} when Kiryu came to Stardust||to see Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_14_0"
+msgid "Later,{PA:10} he and Kazuki helped Kiryu||and Date whenever necessary.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_15_0"
+msgid "After a number of incidents,{PA:10} he||grew to think very highly of Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_16_0"
+msgid "Watches over Stardust while the||owner,{PA:10} Kazuki,{PA:10} is away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_17_0"
+msgid "Manager of Stardust,{PA:10} Kamurocho's||top host club.{PA:20} Runs the club when||the owner is busy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_18_0"
+msgid "Picked a fight with Kiryu a year||ago,{PA:10} when Kiryu came to Stardust||to see Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_19_0"
+msgid "Later,{PA:10} he and Kazuki helped Kiryu||and Date whenever necessary.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_20_0"
+msgid "After a number of incidents,{PA:10} he||grew to think very highly of Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:29_21_0"
+msgid "Got caught up in the Go-Ryu Clan||attack on Kamurocho,{PA:10} but defended the||club until Kiryu arrived.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_0_0"
+msgid "A legendary information dealer and||ruler of Purgatory,{PA:10} a park where||the city's homeless congregate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_1_0"
+msgid "Kiryu met him a year ago in his||search for Yumi.{PA:20} Former policeman||indicted for corruption by Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_2_0"
+msgid "Lives in a vast underground red-||light district.{PA:20} He wields huge||wealth and power.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_3_0"
+msgid "Gets data from over 10,{PA:10}000 cameras||around Kamurocho.{PA:20} He can provide||any information needed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_4_0"
+msgid "Left Purgatory after last year's||events.{PA:20} According to Majima,{PA:10} he||now works with the police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_5_0"
+msgid "A legendary information dealer and||ruler of Purgatory,{PA:10} a park where||the city's homeless congregate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_6_0"
+msgid "Kiryu met him a year ago in his||search for Yumi.{PA:20} Former policeman||indicted for corruption by Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_7_0"
+msgid "Lives in a vast underground red-||light district.{PA:20} He wields huge||wealth and power.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_8_0"
+msgid "Gets data from over 10,{PA:10}000 cameras||around Kamurocho.{PA:20} He can provide||any information needed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_9_0"
+msgid "Left Purgatory after last year's||events.{PA:20} Set up a surveillance firm||and now works for the police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_10_0"
+msgid "From the 50th floor of the||Millennium Tower,{PA:10} he investigates||Kiryu's and Sayama's case.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_11_0"
+msgid "A legendary information dealer and||ruler of Purgatory,{PA:10} a park where||the city's homeless congregate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_12_0"
+msgid "Kiryu met him a year ago in his||search for Yumi.{PA:20} Former policeman||indicted for corruption by Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_13_0"
+msgid "Set up a surveillance company,{PA:10} but||his facility was destroyed by the||Jingweon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_14_0"
+msgid "Losing everything a second time,{PA:10}||he returns to Purgatory with||his men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_15_0"
+msgid "A legendary information dealer and||ruler of Purgatory,{PA:10} a park where||the city's homeless congregate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_16_0"
+msgid "Kiryu met him a year ago in his||search for Yumi.{PA:20} Former policeman||indicted for corruption by Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_17_0"
+msgid "Set up a surveillance company,{PA:10} but||his facility was destroyed by the||Jingweon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_18_0"
+msgid "Losing everything a second time,{PA:10}||he returned to Purgatory with||his men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSERELATION.BIN::line:30_19_0"
+msgid "With unexpected help from Majima,{PA:10}||he is able to help in the bomb||removal effort.{PA:20}"
+msgstr ""
+

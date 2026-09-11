@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:0_0_0"
+msgid "MEMORY CARD slot 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:0_1_0"
+msgid "MEMORY CARD slot 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:1_0_0"
+msgid "Data"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:1_1_0"
+msgid "Play time"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:1_2_0"
+msgid "Saves"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:1_3_0"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:2_0_0"
+msgid "Select where to save"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:2_1_0"
+msgid "Save Data for \"YAKUZA\" does not exist||on memory card (8MB)(for PlayStation®2)||in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:2_2_0"
+msgid "Select data to load"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:2_3_0"
+msgid "Save Data not found on||memory card(8MB)(for PlayStation®2)||in MEMORY CARD slot 1.{PA:20}||||              Press {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:2_4_0"
+msgid "Select data from a completed game to use.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:3_0_0"
+msgid "Yes||No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_0_0"
+msgid "0"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_1_0"
+msgid "1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_2_0"
+msgid "2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_3_0"
+msgid "3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_4_0"
+msgid "4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_5_0"
+msgid "5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_6_0"
+msgid "6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_7_0"
+msgid "7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_8_0"
+msgid "8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:4_9_0"
+msgid "9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_0_0"
+msgid "Chpt.{PA:20} 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_1_0"
+msgid "Chpt.{PA:20} 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_2_0"
+msgid "Chpt.{PA:20} 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_3_0"
+msgid "Chpt.{PA:20} 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_4_0"
+msgid "Chpt.{PA:20} 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_5_0"
+msgid "Chpt.{PA:20} 6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_6_0"
+msgid "Chpt.{PA:20} 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_7_0"
+msgid "Chpt.{PA:20} 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_8_0"
+msgid "Chpt.{PA:20} 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_9_0"
+msgid "Chpt.{PA:20} 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_10_0"
+msgid "Chpt.{PA:20} 11"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_11_0"
+msgid "Chpt.{PA:20} 12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_12_0"
+msgid "Chpt.{PA:20} 13"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_13_0"
+msgid "Chpt.{PA:20} 14"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_14_0"
+msgid "Chpt.{PA:20} 15"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_15_0"
+msgid "Chpt.{PA:20} 16"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_16_0"
+msgid "REV"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:5_17_0"
+msgid "CLEAR"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:6_0_0"
+msgid "New Game"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:6_1_0"
+msgid "NORMAL"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:6_2_0"
+msgid "EASY"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:6_3_0"
+msgid "HARD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:6_4_0"
+msgid "EX-HARD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:7_0_0"
+msgid "Save game?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:7_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:7_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:7_3_0"
+msgid "Save game?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:8_0_0"
+msgid "Are you sure you wish to cancel saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:8_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:8_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:9_0_0"
+msgid "Are you sure you wish to cancel saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:9_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMEMCARD_END.BIN::line:9_2_0"
+msgid "No"
+msgstr ""
+

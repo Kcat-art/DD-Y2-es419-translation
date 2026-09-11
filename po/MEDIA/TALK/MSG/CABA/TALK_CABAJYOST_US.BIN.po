@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:0_0_0"
+msgid "Karen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:0_1_0"
+msgid "Shine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:0_2_0"
+msgid "A half-Hawaiian model!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:1_0_0"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:1_1_0"
+msgid "Shine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:1_2_0"
+msgid "Cool and sexy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:2_0_0"
+msgid "Maiko"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:2_1_0"
+msgid "Shine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:2_2_0"
+msgid "Cute and sweet!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:3_0_0"
+msgid "Yuma"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:3_1_0"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:3_2_0"
+msgid "Glamorous and laid-back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:4_0_0"
+msgid "Natsuki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:4_1_0"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:4_2_0"
+msgid "Intelligent,{PA:10} from a top university!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:5_0_0"
+msgid "Anna"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:5_1_0"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:5_2_0"
+msgid "Sexy and cute!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:6_0_0"
+msgid "Jun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:6_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:6_2_0"
+msgid "Quick-witted and sweet!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:7_0_0"
+msgid "Madoka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:7_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:7_2_0"
+msgid "A proper girl from Kyoto!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:8_0_0"
+msgid "Ayano"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:8_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:8_2_0"
+msgid "A former television star!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:9_0_0"
+msgid "Nana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:9_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:9_2_0"
+msgid "A legendary cabaret girl!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:10_0_0"
+msgid "Receipt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:10_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:10_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:11_0_0"
+msgid "Base fee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:11_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:11_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:12_0_0"
+msgid "Appointment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:12_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:12_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:13_0_0"
+msgid "Refreshments"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:13_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:13_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:14_0_0"
+msgid "Service"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:14_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:14_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:15_0_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:15_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:15_2_0"
+msgid "n"
+msgstr ""
+

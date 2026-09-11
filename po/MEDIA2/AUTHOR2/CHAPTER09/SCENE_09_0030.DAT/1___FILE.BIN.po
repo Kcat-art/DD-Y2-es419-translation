@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "As a result,{PA:10} the Dojima family took"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:0_0_1"
+msgid "Kamurocho and rose within the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "After that,{PA:10} Shimano split off and started"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:1_0_1"
+msgid "the Shimano family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "So that triggered the Dojima family's rise.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Not just the Dojima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid "The Tojo Clan used that momentum to stretch"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:4_0_1"
+msgid "out all over the Kanto region.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "But if all that's true,{PA:10} the Jingweon were"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:5_0_1"
+msgid "all killed off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "They were.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:6_0_1"
+msgid "The Jingweon mafia was wiped out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Maybe this means some of them slipped by.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Survivors of the raid?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "That would mean those survivors joined"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:9_0_1"
+msgid "forces with the Go-Ryu Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Wait.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Where were the police while all"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:12_0_1"
+msgid "that happened?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:13_0_0"
+msgid "The police didn't have a solid lead on the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:13_0_1"
+msgid "Jingweon at the time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:14_0_0"
+msgid "They just let the Dojima family handle it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Meaning they turned a blind eye to the raid?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:16_0_0"
+msgid "That's about the size of it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:17_0_0"
+msgid "You'd have to ask the detective on the case"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:17_0_1"
+msgid "if you want details.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Oh?{PA:20} And who was that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:19_0_0"
+msgid "I don't remember his name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:20_0_0"
+msgid "It was all so long ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:21_0_0"
+msgid "I see.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Some mess this has all turned into.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Chairman Goda is still being held"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:23_0_1"
+msgid "somewhere.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:24_0_0"
+msgid "The Go-Ryu have their sights on Kamurocho.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Now the ghost of the Jingweon mafia.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Plus the rat that set up Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:27_0_0"
+msgid "I can't tell who's going to do what next.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:28_0_0"
+msgid "It doesn't matter who does what.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:28_0_1"
+msgid "Any way it goes down.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:29_0_0"
+msgid "We've got to beat it.{PA:20}"
+msgstr ""
+

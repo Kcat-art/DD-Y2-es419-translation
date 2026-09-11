@@ -1,0 +1,1761 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:1"
+msgid "Man"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:2"
+msgid "Unknown Man"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:3"
+msgid "Date"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:4"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:5"
+msgid "Kaoru"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:6"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::name:7"
+msgid "Il Yu-Jin"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_0_0"
+msgid "Man"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_1_1"
+msgid "What?{PA:20} I haven't taken out any loans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_1_3"
+msgid "And just what do they plan to do?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_1_5"
+msgid ".{PA:20}.{PA:20}.{PA:20}What the hell was that all about?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_0"
+msgid "Hello?{PA:20}||Is this Mr.{PA:20} Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_1"
+msgid "When do you plan on returning that 200K?{PA:20}||With interest,{PA:10} you're up to 401,{PA:10}000 now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_2"
+msgid "Either you pay it back STAT,{PA:10} or you'll||start getting houseguests"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_3"
+msgid "that start with a \"Y\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_4"
+msgid "Don't say we didn't warn you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_6"
+msgid "You think you're funny?{PA:20} Think you can||just walk off with our money?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_7"
+msgid "Okay,{PA:10} buddy.{PA:20} I just put a yakuza dispatch||out on your ass.{PA:20} They'll be there soon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_9"
+msgid "Uh huh,{PA:10} no,{PA:10} just keep it up.{PA:20} It's all just a||big joke.{PA:20} You're history,{PA:10} pal.{PA:20} Game over!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_10"
+msgid "You get us that money,{PA:10} NOW,{PA:10} or the yakuza"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:0_2_11"
+msgid "are gonna eat you alive!{PA:20} *Click!{PA:20}*"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_0_0"
+msgid "Yuya"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_1_1"
+msgid "What's up?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_1_3"
+msgid "401,{PA:10}000 yen?{PA:20}||Sounds like he and I are in the same boat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_1_5"
+msgid "Yeah.{PA:20} I didn't realize it was this bad.{PA:20}||Apparently they're running quite a racket.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_1_7"
+msgid "I'll take care of this one.{PA:20}||You tell Takuma not to worry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_1_9"
+msgid "Will do.{PA:20} Later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_1_10"
+msgid "(Morita the info dealer might know something||about these people.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_0"
+msgid "Hello?{PA:20} Mr.{PA:20} Kiryu?{PA:20}||This is Yuya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_1"
+msgid "There's something I wanted to ask you about.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_3"
+msgid "One of the guys working here.{PA:20}.{PA:20}.{PA:20}||His name's Takuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_4"
+msgid "He got scammed by a fake loan shark con and||lost 401,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_5"
+msgid "I figured if anyone would know something||about it,{PA:10} you would.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_6"
+msgid "Any guesses as to who's behind it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_8"
+msgid "Wait,{PA:10} they're threatening you,{PA:10} too?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_10"
+msgid "Seriously!{PA:20} I mean,{PA:10} it's partly||Takuma's own fault for"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_11"
+msgid "falling for something like this.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_12"
+msgid "But he worked hard for that money.{PA:20}||It kills me to see them just take it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_14"
+msgid "You will?!{PA:20}||Oh,{PA:10} thank you,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:1_2_15"
+msgid "If there's anything at all we can help with,{PA:10}||just give me a call.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:2_0_0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:2_1_1"
+msgid "Understood,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:2_2_0"
+msgid "It's me,{PA:10} Kagami.{PA:20}||You're on duty tonight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:2_2_1"
+msgid "Come by the club,{PA:10} ASAP.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:3_0_0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:3_1_1"
+msgid "Understood,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:3_2_0"
+msgid "It's me,{PA:10} Kagami.{PA:20}||It's about time for your shift tonight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:3_2_1"
+msgid "Head on in to the club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:4_0_0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:4_1_1"
+msgid "Understood,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:4_2_0"
+msgid "It's me,{PA:10} Kagami.{PA:20}||It's almost time for your shift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:4_2_1"
+msgid "Come on down to the club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:5_0_0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:5_1_1"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:5_2_0"
+msgid "It's me,{PA:10} Kagami.{PA:20}||A customer's here who wants to see you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:5_2_1"
+msgid "Get down here,{PA:10} ASAP.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:6_0_0"
+msgid "Takaya"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:6_1_1"
+msgid "(.{PA:20}.{PA:20}.{PA:20}Guess I should head to Adam.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:6_2_0"
+msgid "It's me,{PA:10} Takaya from Adam.{PA:20}||I want a word with you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:6_2_1"
+msgid "Get your ass over to Adam,{PA:10} pronto.{PA:20}||I'll be waiting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:7_0_0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:7_2_0"
+msgid "It's me,{PA:10} Kagami.{PA:20}||Everything's set for the big host-off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:7_2_1"
+msgid "Get down to the club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:8_0_0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:8_1_1"
+msgid "I'm sorry.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:8_1_3"
+msgid "I'll be right there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:8_2_0"
+msgid "It's me,{PA:10} Kagami.{PA:20} How long were you planning||on taking with that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:8_2_2"
+msgid "Just come back inside,{PA:10} okay?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:9_0_0"
+msgid "Masashi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:9_2_0"
+msgid "Mr.{PA:20} Kiryu,{PA:10} sir!{PA:20}||It's me,{PA:10} Masashi!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:9_2_1"
+msgid "Big trouble here at the club,{PA:10} sir!{PA:20}||Please,{PA:10} you've got to come by Marietta!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:10_0_0"
+msgid "Masashi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:10_2_0"
+msgid "Mr.{PA:20} Kiryu,{PA:10} sir!{PA:20}||It's me,{PA:10} Masashi!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:10_2_1"
+msgid "Major crisis at the club,{PA:10} sir!{PA:20}||Please,{PA:10} you've got to come by Marietta!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:11_0_0"
+msgid "Masashi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:11_2_0"
+msgid "Mr.{PA:20} Kiryu,{PA:10} sir!{PA:20}||It's me,{PA:10} Masashi!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:11_2_1"
+msgid "Big trouble here at the club,{PA:10} sir!{PA:20}||Please,{PA:10} you've got to come by Marietta!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:12_0_0"
+msgid "Date"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:12_1_0"
+msgid "Kiryu here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:12_1_2"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:12_2_0"
+msgid "It's me.{PA:20}||I just finished up preparations here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:12_2_1"
+msgid "As soon as you're done there,{PA:10} come see me||back at \"{CC:ffc8c8}Serena{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:12_2_2"
+msgid "There's something I need to tell you before||Sayama gets back into town.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:13_0_0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:13_2_0"
+msgid "It's me,{PA:10} Kagami.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:13_2_1"
+msgid "Things are ready for the big rematch.{PA:20}||We're ready for you here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:13_2_2"
+msgid "Come down to the club,{PA:10} ASAP.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_1"
+msgid "Is something wrong?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_3"
+msgid "I see.{PA:20} So it hasn't been renovated since||I was there?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_5"
+msgid "How much will it cost?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_8"
+msgid "Sorry,{PA:10} money has been a little tight for me||lately,{PA:10} too.{PA:20} I'm a little short.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_9"
+msgid "I'll try to scrape it together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_13"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_14"
+msgid ".{PA:20}.{PA:20}.{PA:20}All right.{PA:20}||I'll try to scrape it together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_0_16"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_0"
+msgid "Mr.{PA:20} Kiryu?{PA:20}||This is Ms.{PA:20} Suenaga,{PA:10} from Sunflower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_2"
+msgid "Oh,{PA:10} Mr.{PA:20} Kiryu.{PA:20} Our roof is leaking!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_3"
+msgid "It's over 30 years old,{PA:10} so I suppose||it's little wonder,{PA:10} but still.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_5"
+msgid "No,{PA:10} I'm afraid not.{PA:20}||We've been trying to get it fixed,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_6"
+msgid "but the money just isn't there.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_7"
+msgid "Mr.{PA:20} Kiryu,{PA:10} it kills me to ask after||you've done so much,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_8"
+msgid "but can you fund the repairs?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_10"
+msgid ".{PA:20}.{PA:20}.{PA:20}250,{PA:10}000 yen.{PA:20} There's just no way||I can scrounge up"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_11"
+msgid "such a large sum,{PA:10} sir.{PA:20} Please!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_14"
+msgid "Oh,{PA:10} thank you,{PA:10} sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_15"
+msgid "I can accept it here,{PA:10} or via ATM transfer.{PA:20}||Whichever is easier for you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_16"
+msgid "Oh,{PA:10} I understand.{PA:20} But think of the kids!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_17"
+msgid "I'm afraid the poor dears will all catch||colds at this rate.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_20"
+msgid "Oh,{PA:10} thank you,{PA:10} sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:14_1_21"
+msgid "I can accept it here,{PA:10} or via ATM transfer.{PA:20}||Whichever is easier for you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_0_1"
+msgid "⋯⋯どうした？{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_0_3"
+msgid "Five million yen!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_0_5"
+msgid "Wait,{PA:10} he made repairs on things you didn't||ask him to?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_0_7"
+msgid "You just tell him to give me a call.{PA:20}||I'll straighten him out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_0"
+msgid "Hello,{PA:10} Mr.{PA:20} Kiryu?{PA:20}||Terrible news,{PA:10} sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_2"
+msgid "Well,{PA:10} sir,{PA:10} we just got the bill for those||roof repairs from before.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_3"
+msgid "Mr.{PA:20} Kiryu,{PA:10} it's for 5,{PA:10}000,{PA:10}000 yen!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_5"
+msgid "His quote before was only 250,{PA:10}000 yen!{PA:20}||I asked about the difference,{PA:10} of course.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_6"
+msgid "But he said it was for repairs on all the||other spots that were falling apart.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_8"
+msgid "Apparently so,{PA:10} yes.{PA:20} The foundation,{PA:10} for one.{PA:20}||At least,{PA:10} so he says.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_9"
+msgid "It took a miracle to get that first 250,{PA:10}000.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:15_1_11"
+msgid "S-Sir?{PA:20} .{PA:20}.{PA:20}.{PA:20}I will.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_0_1"
+msgid "She'll pay for the work she contracted.{PA:20}||Your quote was for 250,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_0_3"
+msgid "Without their knowledge or permission.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_0"
+msgid "Hello?{PA:20} I'm with Imitation Renovating.{PA:20}||The Suenaga lady told me to call you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_1"
+msgid "You the guy who's gonna pay that 5 mil||she owes for all those repairs?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_3"
+msgid "Ha ha!{PA:20} We been gettin' a lot of||you people lately.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_4"
+msgid "Think you can weasel out of a bill.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_5"
+msgid "We made those repairs so's those orphans||would be safe,{PA:10} you hear me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_7"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_8"
+msgid "Perhaps you'd understand the situation more||clearly if we spoke in person.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:16_1_9"
+msgid "Let's meet up and talk,{PA:10} you and I.{PA:20}||I think you'll get the picture then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_0_1"
+msgid "She'll pay for the work she contracted.{PA:20}||Your quote was for 250,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_0_3"
+msgid "Without their knowledge or permission.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_0"
+msgid "Hello?{PA:20} I'm with Imitation Renovating.{PA:20}||The Suenaga lady told me to call you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_1"
+msgid "You the guy who's gonna pay that 5 mil||she owes for all those repairs?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_3"
+msgid "Ha ha!{PA:20} We been gettin' a lot of||you people lately.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_4"
+msgid "Think you can weasel out of a bill.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_5"
+msgid "We made those repairs so's those orphans||would be safe,{PA:10} you hear me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_7"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_8"
+msgid "Perhaps you'd understand the situation more||clearly if we spoke in person.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:17_1_9"
+msgid "Let's meet up and talk,{PA:10} you and I.{PA:20}||I think you'll get the picture then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_0_1"
+msgid "She'll pay for the work she contracted.{PA:20}||Your quote was for 250,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_0_3"
+msgid "Without their knowledge or permission.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_0"
+msgid "Hello?{PA:20} I'm with Imitation Renovating.{PA:20}||The Suenaga lady told me to call you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_1"
+msgid "You the guy who's gonna pay that 5 mil||she owes for all those repairs?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_3"
+msgid "Ha ha!{PA:20} We been gettin' a lot of||you people lately.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_4"
+msgid "Think you can weasel out of a bill.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_5"
+msgid "We made those repairs so's those orphans||would be safe,{PA:10} you hear me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_7"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_8"
+msgid "Perhaps you'd understand the situation more||clearly if we spoke in person.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:18_1_9"
+msgid "Let's meet up and talk,{PA:10} you and I.{PA:20}||I think you'll get the picture then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_1"
+msgid "Um.{PA:20}.{PA:20}.{PA:20} Is something wrong?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_3"
+msgid "Yeah,{PA:10} I remember.{PA:20}||Has something happened to him?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_5"
+msgid "Well,{PA:10} that's good.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_7"
+msgid "Ah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_9"
+msgid "A what?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_12"
+msgid "I think building a park on one person's||savings is an awfully big dream.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_13"
+msgid "I'll see what I can find.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_17"
+msgid "Okay,{PA:10} I'll see what I can find.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_18"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_0_21"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_0"
+msgid "Hello,{PA:10} Mr.{PA:20} Kiryu?{PA:20}||This is Ms.{PA:20} Suenaga,{PA:10} from Sunflower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_1"
+msgid "Mr.{PA:20} Kiryu,{PA:10} I'll never forget all your help.{PA:20}||No matter what happens.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_3"
+msgid "Wrong?{PA:20} Oh,{PA:10} no.{PA:20}.{PA:20}.{PA:20} I mentioned the headmaster||was resting up at home before,{PA:10} didn't I?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_5"
+msgid "No,{PA:10} no!{PA:20} He's feeling worlds better!{PA:20}||Well enough to come back to work,{PA:10} actually.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_7"
+msgid "Yes,{PA:10} it's wonderful.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_8"
+msgid "But it does mean my time with the children||is coming to an end.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_10"
+msgid "It was only six months,{PA:10} but saying goodbye||to them is so hard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_11"
+msgid "So I've decided to make a gift to them.{PA:20}||I'd like to give them a park!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_13"
+msgid "A park!{PA:20}||Something that will last.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_14"
+msgid "Still,{PA:10} it takes more than pocket change and||good intentions to get a park built.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_15"
+msgid "Mr.{PA:20} Kiryu,{PA:10} could I ask you to help me find||an affordable contractor?{PA:20} For the kids!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_18"
+msgid "I realize it's a stretch,{PA:10} I really do!{PA:20}||But still,{PA:10} I want to do this for them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_19"
+msgid "Oh,{PA:10} thank you!{PA:20} With you on my side,{PA:10} I feel||like I can really make this happen!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_20"
+msgid "I'll keep trying on my end as well!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_23"
+msgid "Oh,{PA:10} thank you!{PA:20} With you on my side,{PA:10} I feel||like I can really make this happen!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:19_1_24"
+msgid "私も、{PA:10}もう少し色々あたってみます！{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_0_6"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_0_7"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_0_8"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_0_9"
+msgid "(I've got nobody to call.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_0_11"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_0_13"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_1_3"
+msgid "Hello.{PA:20} Imitation Renovating here.{PA:20}||What can I do you for?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_1_4"
+msgid "It's Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_1_5"
+msgid "M-Mr.{PA:20} Kiryu!{PA:20} Boss!{PA:20} Yes,{PA:10} sir!{PA:20}||H-How can we help you today?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_1_6"
+msgid "The folks at Sunflower want to build a kids'||park,{PA:10} but they're low on money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_1_7"
+msgid "Can you do something for them?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_1_8"
+msgid "Yes,{PA:10} sir!{PA:20} Of course!{PA:20} Leave it to us,{PA:10} and||we'll whip something up for cheap!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_1_9"
+msgid "Thanks.{PA:20}||That sounds great.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_3"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_4"
+msgid "Hello?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_5"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_6"
+msgid "I'd like to ask about Keima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_7"
+msgid "How many stairs are in Tsutenkaku Tower?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_8"
+msgid "The number of stairs?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_12"
+msgid ".{PA:20}.{PA:20}.{PA:20}||Black bear,{PA:10} grilled guts,{PA:10} three times.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_13"
+msgid "*Click*"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_15"
+msgid "*Click*"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:20_2_16"
+msgid "He hung up on me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_0_0"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_1_1"
+msgid "How are things on your end?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_1_3"
+msgid "Good.{PA:20}||Are you okay?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_1_5"
+msgid "Good to hear.{PA:20}||I'm leaving the truce in your hands.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_2_0"
+msgid "It's me.{PA:20} Daigo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_2_2"
+msgid "No problems for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_2_3"
+msgid "I've got Chairman Goda with me.{PA:20}||We're in a car,{PA:10} headed for Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_2_5"
+msgid "Yeah,{PA:10} I'll make it.{PA:20} I might not be a rock||like you,{PA:10} but I can still take a beating.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:28_2_7"
+msgid "I've got it covered.{PA:20}||Later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_0_0"
+msgid "Tamiyo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_1_0"
+msgid "This is Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_1_2"
+msgid "Oh,{PA:10} hello.{PA:20}||How is she doing?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_1_4"
+msgid "That's good.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_1_6"
+msgid "Just the bandages?{PA:20}||I'll pick some up on my way there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_2_0"
+msgid "It's me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_2_2"
+msgid "Calmed down,{PA:10} finally.{PA:20}||Medicine's set in,{PA:10} so she's fast asleep.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_2_4"
+msgid "Anyhow,{PA:10} sorry to trouble ya,{PA:10} but think you||could pick up some spare bandages,{PA:10} sugar?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_2_5"
+msgid "I'm out and I'd feel better having||some on hand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:30_2_7"
+msgid "Thanks,{PA:10} sugar.{PA:20}||See ya soon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:31_1_0"
+msgid "          Get Kaoru to Aoi before||          she runs out of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:31_2_0"
+msgid "(She's hurt worse than I thought.{PA:20}||I need to hurry!)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:31_3_0"
+msgid "(She's bleeding even worse!)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:31_4_0"
+msgid "Hey,{PA:10} stay with me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:31_4_1"
+msgid "Sayama!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:32_1_0"
+msgid "   Head to the clinic at the west end of|| Taihei Blvd.{PA:20} without alerting the police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:32_2_0"
+msgid "His bleeding's gotten worse.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:32_2_1"
+msgid "We need to stay low around the cops.{PA:20}||This is a lot of blood to have to explain.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:32_2_2"
+msgid "Yeah,{PA:10} let's hurry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:32_3_0"
+msgid "Kazuki's fading.{PA:20}||Can he make it?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:32_3_1"
+msgid "Kazuki!{PA:20}||Hey,{PA:10} stay with me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:33_0_0"
+msgid "Rgh.{PA:20}.{PA:20}.{PA:20} Not here.{PA:20} Not like this.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:34_0_0"
+msgid "(It looks like the arsonist got away.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:34_1_0"
+msgid "(I had an email.{PA:20}.{PA:20}.{PA:20}||I wonder if it was anything urgent.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:34_1_1"
+msgid "(I guess it's too late to worry now.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:34_2_0"
+msgid "(I had that invitation email for the party,{PA:10}||but I guess I missed the big event.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:35_0_0"
+msgid "Masashi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:35_1_1"
+msgid "Okay,{PA:10} thanks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:35_2_0"
+msgid "Mr.{PA:20} Kiryu,{PA:10} sir!{PA:20}||I've got the totals for tonight!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:35_2_1"
+msgid "Come to the club next time you're passing||by,{PA:10} sir.{PA:20} I'll be here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:36_2_0"
+msgid "What do you think the problem is?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:36_2_1"
+msgid "We should get a move on to Purgatory.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:36_3_0"
+msgid "I'm still impressed you took the Go-Ryu Clan||on single-handedly and lived,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:36_3_1"
+msgid "You're one hell of a man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_2_0"
+msgid "We need info on the Amano Building.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_2_1"
+msgid "Let's go see Tamura outside the theater.{PA:20}||He should know where it is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_3_0"
+msgid "Daigo Dojima is waiting,{PA:10} isn't he?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_3_1"
+msgid "Let's go find that leader kid.{PA:20} Get the key||from him and get inside already.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_4_0"
+msgid "This should get us in.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_4_1"
+msgid "Let's hurry to the Amano Building and get||Daigo back already!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_5_0"
+msgid "Date's waiting,{PA:10} isn't he?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_5_1"
+msgid "We've got a name to go on now.{PA:20}||We should regroup and talk it over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_6_0"
+msgid "I can't believe things turned out like this.{PA:20}||I was the one who shot him.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_6_1"
+msgid "This Kage guy's up in the Millennium Tower,{PA:10}||right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_6_2"
+msgid "Let's go see him and clear Date's name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_7_0"
+msgid "Who could those guys in the transformer||room be?{PA:20} I wonder.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_8_0"
+msgid "Shangri-La,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_8_1"
+msgid "Shouldn't we get a move on?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_9_0"
+msgid "I'm not sure I really get what's happening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_9_1"
+msgid "Still,{PA:10} for now we need to find Sengoku's men||and stop them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_10_0"
+msgid "Hey,{PA:10} wrong way!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_11_0"
+msgid "Hold it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_12_0"
+msgid "Let's head to \"{CC:ffc8c8}Tsutenkaku Tower{CR:00}\".{PA:20}||We'll see what we can see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_12_1"
+msgid "Let's look for the binoculars with the||yellow sticker on them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_13_0"
+msgid "That memo is our only lead right now.{PA:20}||Let's give that number a call.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_14_0"
+msgid "The number of stairs in Tsutenkaku Tower?{PA:20}||Hmm,{PA:10} maybe we could ask somebody.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_15_0"
+msgid "\"Black bear,{PA:10} grilled guts,{PA:10} three times\"?{PA:20}||What's that supposed to mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_15_1"
+msgid "Guts?{PA:20} Bears?{PA:20} Three times?{PA:20}||I'm totally lost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_15_2"
+msgid "Well,{PA:10} if it's grilled,{PA:10} maybe it has||something to do with food.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_16_0"
+msgid "Guts?{PA:20} Bears?{PA:20} Three times?{PA:20}||I'm totally lost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_16_1"
+msgid "Well,{PA:10} if it's grilled,{PA:10} maybe it has||something to do with food.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_17_0"
+msgid "We found the shogi piece we need to get in.{PA:20}||Let's go check out Keima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:37_18_0"
+msgid "We don't have much time.{PA:20} Let's get going to||the Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:38_2_0"
+msgid "Hey!{PA:20} That way's too crowded.{PA:20}||Let's take another route.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:38_3_0"
+msgid "There are still cops all over the place.{PA:20}||Let's head to Bantam and lay low for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:38_4_0"
+msgid "Let's take a cab to police headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:38_4_1"
+msgid "Still,{PA:10} Archive Room 13?{PA:20}||Why would Bessho be there,{PA:10} of all places?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_2_0"
+msgid "Once you're ready to go,{PA:10} we can head back||to Kaoru's place.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_3_0"
+msgid "It's been a while since we got to go out and||spend time together!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_4_0"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Something smells here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_4_1"
+msgid "Hm?{PA:20} Smells like what?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_4_2"
+msgid "Like a mystery!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_4_3"
+msgid "Don't be silly,{PA:10} Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_4_4"
+msgid "C'mon,{PA:10} Uncle Kaz!{PA:20}||Let's go to Vidal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_4_5"
+msgid "We might figure something out there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_4_6"
+msgid ".{PA:20}.{PA:20}.{PA:20}Fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_5_0"
+msgid "So now we know the players!{PA:20}||Her client,{PA:10} Katsumi,{PA:10} and Hikaru the host.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_5_1"
+msgid "Right.{PA:20}||Let's go see what Yuya knows.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_6_0"
+msgid "Let's hurry,{PA:10} Haruka!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_6_1"
+msgid "Okay!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_7_1"
+msgid "See,{PA:10} Uncle Kaz?{PA:20} I told you it smelled like||a mystery!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_7_2"
+msgid "Your intuition is scary sometimes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_7_3"
+msgid "Maybe I'll grow up to be a private eye.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_7_4"
+msgid "I'm sure you'd be an ace detective,{PA:10} Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_7_5"
+msgid "Really?{PA:20}||All right!{PA:20} Now to find my next big case.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:39_7_6"
+msgid "Received 500 experience points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_0"
+msgid "I want go to where music playing,{PA:10} people||dancing,{PA:10} okay?{PA:20} Thanks,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_1"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_2"
+msgid "All right,{PA:10} follow me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_3"
+msgid "Thanks,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_4"
+msgid "You're on your own from here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_5"
+msgid "What?{PA:20} Why?!{PA:20}||I come all the way to Kamurocho!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_6"
+msgid "Please keep showing me around,{PA:10} Mr.{PA:20} Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_7"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_8"
+msgid "Sorry,{PA:10} but no.{PA:20}||This is as far as I go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_9"
+msgid "I see.{PA:20}.{PA:20}.{PA:20} That's a shame.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_1_10"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||I had pretty fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_0"
+msgid "I want see more sexy dancing women.{PA:20}||Let's go see them!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_1"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_2"
+msgid "All right,{PA:10} follow me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_3"
+msgid "Thanks,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_4"
+msgid "You're on your own from here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_5"
+msgid "What?{PA:20} Why?!{PA:20}||I come all the way to Kamurocho!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_6"
+msgid "Please keep showing me around,{PA:10} Mr.{PA:20} Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_7"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_8"
+msgid "Sorry,{PA:10} but no.{PA:20}||This is as far as I go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_9"
+msgid "I see.{PA:20}.{PA:20}.{PA:20} That's a shame.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_2_10"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||I had pretty fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_0"
+msgid "Next I want go to a place with people you||can't tell if they're man or woman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_1"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_2"
+msgid "All right,{PA:10} follow me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_3"
+msgid "Thanks,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_4"
+msgid "You're on your own from here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_5"
+msgid "What?{PA:20} Why?!{PA:20}||I come all the way to Kamurocho!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_6"
+msgid "Please keep showing me around,{PA:10} Mr.{PA:20} Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_7"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_8"
+msgid "Sorry,{PA:10} but no.{PA:20}||This is as far as I go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_9"
+msgid "I see.{PA:20}.{PA:20}.{PA:20} That's a shame.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_10"
+msgid "Here,{PA:10} I thank you for everything so far.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_11"
+msgid "         You received 50,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_12"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||I had pretty fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_3_13"
+msgid "Received 500 experience points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_0"
+msgid "Now I'm hungry.{PA:20}||You eat too.{PA:20} We get ramen together next.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_1"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_2"
+msgid "All right,{PA:10} follow me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_3"
+msgid "Thanks,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_4"
+msgid "You're on your own from here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_5"
+msgid "What?{PA:20} Why?!{PA:20}||I come all the way to Kamurocho!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_6"
+msgid "Please keep showing me around,{PA:10} Mr.{PA:20} Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_7"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_8"
+msgid "Sorry,{PA:10} but no.{PA:20}||This is as far as I go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_9"
+msgid "I see.{PA:20}.{PA:20}.{PA:20} That's a shame.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_10"
+msgid "Here,{PA:10} I thank you for everything so far.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_11"
+msgid "         You received 70,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_12"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||I had pretty fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_4_13"
+msgid "Received 1❟000 experience points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_0"
+msgid "I should get back soon.{PA:20}||Can you show me where to find taxi?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_1"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_2"
+msgid "All right,{PA:10} follow me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_3"
+msgid "Thanks,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_4"
+msgid "You're on your own from here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_5"
+msgid "What?{PA:20} Why?!{PA:20}||I just need to get to a taxi,{PA:10} that's all!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_6"
+msgid "Please help me,{PA:10} Mr.{PA:20} Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_7"
+msgid "(Is this even worth it?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_8"
+msgid "Sorry,{PA:10} but no.{PA:20}||This is as far as I go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_9"
+msgid "I see.{PA:20}.{PA:20}.{PA:20} That's a shame.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_10"
+msgid "Here,{PA:10} I thank you for everything so far.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_11"
+msgid "         You received 80,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_12"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||I had pretty fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_5_13"
+msgid "Received 2❟000 experience points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_6_0"
+msgid "Mr.{PA:20} Kiryu,{PA:10} Japanese fan are too crazy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_6_1"
+msgid "I'm so tired today.{PA:20} I can't keep smiling.{PA:20}||Please keep us away from any fans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_6_2"
+msgid "All right.{PA:20}.{PA:20}.{PA:20} I'll try.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_7_0"
+msgid "Mr.{PA:20} Kiryu,{PA:10} please.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_7_1"
+msgid "It hurts to meet with fans today.{PA:20}||I don't want to run into any more.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_7_2"
+msgid "Right.{PA:20}.{PA:20}.{PA:20} Sorry about that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_0"
+msgid "Mr.{PA:20} Kiryu,{PA:10} let's just stop.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_1"
+msgid "I give up enjoying Kamurocho.{PA:20}||Thank you for trying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_2"
+msgid "Sure.{PA:20} Sorry about that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_6"
+msgid "Here,{PA:10} I thank you for everything so far.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_7"
+msgid "         You received 50,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_8"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||I had pretty fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_9"
+msgid "Received 500 experience points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_12"
+msgid "Here,{PA:10} I thank you for everything so far.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_13"
+msgid "         You received 70,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_14"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||I had pretty fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:40_8_15"
+msgid "Received 1❟000 experience points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:283_0_0"
+msgid "(\"{CC:ffc8c8}Daigo Dojima{CR:00}\".{PA:20}.{PA:20}.{PA:20}||I may as well start looking around.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:285_0_0"
+msgid "(I need to get to {MS:0}\"{CC:ffc8c8}Tojo Clan Headquarters{CR:00}\".{PA:20}||I'd better get a cab.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:285_1_0"
+msgid "(I need to get to {MS:0}\"{CC:ffc8c8}Tojo Clan Headquarters{CR:00}\".{PA:20}||I'd better get a cab.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:286_0_0"
+msgid "You're coming to Kansai too,{PA:10} aren't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:286_0_1"
+msgid "Yeah.{PA:20} I'm worried about Chairman Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:286_0_2"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:286_0_3"
+msgid "Well,{PA:10} I need to get ready.{PA:20}||Meet me back at Serena later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:286_0_4"
+msgid "Get ready.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:286_0_5"
+msgid "I'll call you when I'm done.{PA:20}||Later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_0_1"
+msgid "Don't tell me.{PA:20}.{PA:20}.{PA:20}||You're going to see Katsumi?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_0_3"
+msgid "Where are you now?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_1_0"
+msgid "Um,{PA:10} this is Yuki?{PA:20} From Vidal?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_1_1"
+msgid "There's somebody I have to go meet now,{PA:10} but||after that.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_1_2"
+msgid "I was hoping you'd let me repay you for your||help earlier.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_1_4"
+msgid "Huh?{PA:20} How did you know that.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_1_6"
+msgid "In front of the drugstore.{PA:20} Oh,{PA:10} but I have to||go soon,{PA:10} or I'll be late.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:287_1_7"
+msgid "I'll talk with you later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:289_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:290_0_0"
+msgid "Transformer Room"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:291_0_0"
+msgid "Haruka Trust"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:292_0_0"
+msgid "Bantam"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:299_0_0"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:299_1_0"
+msgid "I can't do that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:300_0_0"
+msgid "Help her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:300_1_0"
+msgid "Don't help her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:301_0_0"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:301_1_0"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:301_2_0"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:302_0_0"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:302_1_0"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:303_0_0"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:303_1_0"
+msgid "出たらまずいテキスト"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:304_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:304_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:305_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:305_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:306_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:306_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:307_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:307_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:308_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:308_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:309_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:309_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:310_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:310_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:311_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:311_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:312_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:312_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:313_0_0"
+msgid "Continue to play tour guide.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0418.ARC/TALK_ST_KAB0418.BIN::line:313_1_0"
+msgid "Stop showing him around.{PA:20}"
+msgstr ""
+

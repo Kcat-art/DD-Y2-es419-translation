@@ -1,0 +1,1565 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_0_0"
+msgid "Stock"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_1_0"
+msgid "Leveled up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_2_0"
+msgid "Next Soul level:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_3_0"
+msgid "Next Technique level:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_4_0"
+msgid "Next Body level:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_5_0"
+msgid "Pick a category and ability using the directional||buttons.{PA:20} Press {IC:00_03}➿ to use exp.{PA:20} points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_6_0"
+msgid "Select category with directional buttons (up/down)||and press {IC:00_03}➿ to view acquired skills.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_7_0"
+msgid "View acquired abilities.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_8_0"
+msgid "Unarmed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_9_0"
+msgid "Armed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_10_0"
+msgid "Spirit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_11_0"
+msgid "Grappling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_12_0"
+msgid "HEAT"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_13_0"
+msgid "Defensive"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_14_0"
+msgid "Basic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_15_0"
+msgid "Ability"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_16_0"
+msgid "Acquired at"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_17_0"
+msgid "???{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_18_0"
+msgid "－"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_19_0"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_20_0"
+msgid "Unacquired ability"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_21_0"
+msgid "{IC:01_09}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_0_0"
+msgid "Rush Combo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_1_0"
+msgid "Press {IC:02_02}➿╳(1-4)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_2_0"
+msgid "A punch and kick combo that leaves||little opening for counterattacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_3_0"
+msgid "Front Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_4_0"
+msgid "Press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_5_0"
+msgid "A powerful kick,{PA:10} but it leaves you||vulnerable to counterattacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_6_0"
+msgid "Slam Blow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_7_0"
+msgid "Press {IC:02_02}➿╳1＞{IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_8_0"
+msgid "A sharp right hook.{PA:20} It lacks power,{PA:10} but||can disrupt an opponent's defense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_9_0"
+msgid "Body Blow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_10_0"
+msgid "Press {IC:02_02}➿╳2＞{IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_11_0"
+msgid "A devastating punch to the gut that||leaves opponents writhing in pain.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_12_0"
+msgid "Uppercut"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_13_0"
+msgid "Press {IC:02_02}➿╳3＞{IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_14_0"
+msgid "A powerful upward thrust that sends||your opponent flying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_15_0"
+msgid "Finishing Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_16_0"
+msgid "Press {IC:02_02}➿╳4＞{IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_17_0"
+msgid "A spinning kick with power that||exceeds almost any unarmed attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_18_0"
+msgid "Turning Attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_19_0"
+msgid "(Rush Combo) left analog stick back + {IC:02_02}➿ or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_20_0"
+msgid "A fast backward attack that's useful||in dealing with multiple enemies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_21_0"
+msgid "1-Handed Weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_22_0"
+msgid "Press {IC:02_02}➿╳(1-3) or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_23_0"
+msgid "A normal attack with a weapon that||is held in one hand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_24_0"
+msgid "1-Handed Blade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_25_0"
+msgid "Press {IC:02_02}➿╳(1-3) or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_26_0"
+msgid "An attack using daggers,{PA:10} short||swords or broadswords.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_27_0"
+msgid "Light Weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_28_0"
+msgid "Press {IC:02_02}➿╳(1-5) or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_29_0"
+msgid "An attack using objects like chairs||or beer cases,{PA:10} with up to five hits.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_30_0"
+msgid "2-Handed Weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_31_0"
+msgid "Press {IC:02_02}➿╳(1-3) or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_32_0"
+msgid "A powerful spinning attack with||objects like neon signs or bicycles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_33_0"
+msgid "Stick Attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_34_0"
+msgid "Press {IC:02_02}➿╳(1-3) or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_35_0"
+msgid "An attack with pipes,{PA:10} bats,{PA:10} or||other stick-shaped weapons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_36_0"
+msgid "Katana Attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_37_0"
+msgid "Press {IC:02_02}➿╳(1-3) or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_38_0"
+msgid "An attack with katana or wooden||swords.{PA:20} Learned from Sotaro Komaki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_39_0"
+msgid "Staff Attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_40_0"
+msgid "Press {IC:02_02}➿╳(1-3) or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_41_0"
+msgid "An attack with a staff or long pole.{PA:20}||Has a long range of attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_42_0"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_43_0"
+msgid "Spin attack with {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_44_0"
+msgid "Increases right fist damage.{PA:20} The {IC:04_00}➿||spin attack hits multiple enemies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_45_0"
+msgid "Spray Weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_46_0"
+msgid "Spray with {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_47_0"
+msgid "The spray can blind enemies.{PA:20} The {IC:02_02}➿||hit attack is not very powerful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_48_0"
+msgid "Explosive Attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_49_0"
+msgid "Press {IC:04_00}➿ to throw explosive"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_50_0"
+msgid "Throw a time-delayed explosive at the enemy.{PA:20}||Has various effects.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_51_0"
+msgid "Firearm Attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_52_0"
+msgid "Shoot with {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_53_0"
+msgid "Handguns and shotguns cannot be||blocked without special equipment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_54_0"
+msgid "Throw Weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_55_0"
+msgid "When holding a weapon,{PA:10} press {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_56_0"
+msgid "Throw your current weapon.{PA:20} Take a||stance for more accuracy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_57_0"
+msgid "Taunt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_58_0"
+msgid "When facing opponent,{PA:10} press {IC:05_0b}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_59_0"
+msgid "Raise your own spirit.{PA:20} May anger||and make the opponent more fierce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_60_0"
+msgid "Shoulder Throw"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_61_0"
+msgid "Grab an opponent,{PA:10} press {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_62_0"
+msgid "Throw enemies into others.{PA:20} Press {IC:04_00}➿||repeatedly to throw large enemies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_63_0"
+msgid "Hold Combo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_64_0"
+msgid "Grab an opponent,{PA:10} press {IC:02_02}➿╳(1-3)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_65_0"
+msgid "Grab and strike the enemy.{PA:20} Useful||against evasive enemies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_66_0"
+msgid "Hold Finisher"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_67_0"
+msgid "Grab an opponent,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_68_0"
+msgid "Grab and kick enemies away.{PA:20} Can hit||the enemy into far-away opponents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_69_0"
+msgid "Hold Turn Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_70_0"
+msgid "Grab,{PA:10} left analog stick back,{PA:10} {IC:02_02}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_71_0"
+msgid "Grab one enemy,{PA:10} and kick to hit||enemies approaching from behind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_72_0"
+msgid "Hold Turn Punch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_73_0"
+msgid "When grabbed,{PA:10} left analog stick,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_74_0"
+msgid "When grabbed by an enemy,{PA:10} you can||still strike in other directions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_75_0"
+msgid "Terrain Essence"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_76_0"
+msgid "Grab the enemy,{PA:10} {IC:03_01}➿ where {IC:06_05}➿ appears"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_77_0"
+msgid "HEAT attacks that use walls,{PA:10} tables,{PA:10}||etc.{PA:20} to do devastating damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_78_0"
+msgid "Weapon Essence"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_79_0"
+msgid "With a weapon,{PA:10} in HEAT mode,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_80_0"
+msgid "HEAT attacks using equipped weapons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_81_0"
+msgid "Super Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_82_0"
+msgid "Unleashed on special opponents"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_83_0"
+msgid "Special HEAT attacks unleashed on||especially strong opponents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_84_0"
+msgid "Guard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_85_0"
+msgid "Press {IC:07_0c}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_86_0"
+msgid "Blocks attacks from the front.{PA:20} Does||not work against blades or firearms.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_87_0"
+msgid "Quickstep"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_88_0"
+msgid "(In stance) left analog stick+{IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_89_0"
+msgid "Quick movement forward.{PA:20} From a||stance,{PA:10} can dodge in all directions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_90_0"
+msgid "Escape"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_91_0"
+msgid "When grabbed,{PA:10} press {IC:00_03}➿ repeatedly"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_92_0"
+msgid "Escape quickly from enemy holds||before you are thrown or hit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_93_0"
+msgid "Recovery"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_94_0"
+msgid "Left analog stick and {IC:04_00}➿{IC:00_03}➿{IC:03_01}➿{IC:02_02}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_95_0"
+msgid "Get up quickly from the ground to||avoid follow-up attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_96_0"
+msgid "Fighting Stance"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_97_0"
+msgid "Press {IC:08_0a}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_98_0"
+msgid "Lock-on to enemies in front of you.{PA:20}||Lock-on is needed for some attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_99_0"
+msgid "Grab Enemy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_100_0"
+msgid "Press {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_101_0"
+msgid "Grab the opponent's collar or neck.{PA:20}||Some enemies will fight back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_102_0"
+msgid "Pick Up Weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_103_0"
+msgid "Press {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_104_0"
+msgid "Pick up the nearest weapon.{PA:20} You can||pick up weapons with ▼ displayed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_105_0"
+msgid "Reset Camera"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_106_0"
+msgid "Press {IC:09_0d}➿  or R3 Button"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_107_0"
+msgid "Set the camera behind Kiryu.{PA:20}||Useful in corridors.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_108_0"
+msgid "Move Camera"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_109_0"
+msgid "Right analog stick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_110_0"
+msgid "Move the camera.{PA:20} In some areas,{PA:10} the||camera can't be moved freely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:2_0_0"
+msgid "Back Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:2_1_0"
+msgid "{IC:08_0a}➿ +left analog stick back+{IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:2_2_0"
+msgid "A backward kick from a fighting stance.{PA:20}||Good for pushing away opponents behind you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:2_3_0"
+msgid "Skill Lv.{PA:20} 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:3_0_0"
+msgid "Charge Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:3_1_0"
+msgid "Hold {IC:03_01}➿,{PA:10} then release"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:3_2_0"
+msgid "A powerful kick from a crouching position.{PA:20}||You can kick things too heavy to carry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:3_3_0"
+msgid "Skill Lv.{PA:20} 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:4_0_0"
+msgid "Drop Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:4_1_0"
+msgid "While running,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:4_2_0"
+msgid "A leaping kick from a run that'll send||opponents flying if they aren't blocking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:4_3_0"
+msgid "Skill Lv.{PA:20} 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:5_0_0"
+msgid "Hammer Hook"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:5_1_0"
+msgid "Press {IC:02_02}➿╳3＞{IC:03_01}➿＞{IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:5_2_0"
+msgid "A downward smash from an uppercut.{PA:20} It's||effective in breaking an opponent's guard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:5_3_0"
+msgid "Skill Lv.{PA:20} 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:6_0_0"
+msgid "Rising Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:6_1_0"
+msgid "If on the ground,{PA:10} tap {IC:02_02}➿ or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:6_2_0"
+msgid "A low kick while getting up after being||knocked down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:6_3_0"
+msgid "Skill Lv.{PA:20} 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:7_0_0"
+msgid "Knockdown Reversal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:7_1_0"
+msgid "When knocked away,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:7_2_0"
+msgid "A counterattack after being knocked away||by an opponent's attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:7_3_0"
+msgid "Skill Lv.{PA:20} 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:8_0_0"
+msgid "Lotus Flare Fist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:8_1_0"
+msgid "Hold {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:8_2_0"
+msgid "A Lotus Style technique to break through an||opponent's defense,{PA:10} used by Lau Ka Long.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:8_3_0"
+msgid "Learned from Bai Ren"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:9_0_0"
+msgid "Komaki Dodge Shot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:9_1_0"
+msgid "While dodging,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:9_2_0"
+msgid "A Komaki Style strike after dodging.{PA:20}||Effective against charging enemies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:9_3_0"
+msgid "Skill Lv.{PA:20} 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:10_0_0"
+msgid "Komaki Tiger Drop"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:11_0_0"
+msgid "Komaki Tiger Drop"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:11_1_0"
+msgid "Hold {IC:08_0a}➿ +meet enemy attack with {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:11_2_0"
+msgid "Knocks down an attacking enemy in one blow.{PA:20}||One of the Komaki Ultimate Three techniques.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:11_3_0"
+msgid "Adventure Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:12_0_0"
+msgid "Bat Swing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:12_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:12_2_0"
+msgid "A powerful attack honed and refined at the||batting cages.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:12_3_0"
+msgid "Batting Cage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:13_0_0"
+msgid "Golf Swing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:13_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:13_2_0"
+msgid "An elegant swing sure to send 'em flying.{PA:20}||Picked up at the driving range.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:13_3_0"
+msgid "Driving Range"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:14_0_0"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:14_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:02_02}➿ or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:14_2_0"
+msgid "A powerful yet quick combo attack using||tonfa.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:14_3_0"
+msgid "Kamiyama's Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:15_0_0"
+msgid "Kali Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:15_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:02_02}➿ or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:15_2_0"
+msgid "Quick combos with {IC:04_00}➿ using a pair of||sticks from the Filipino art of Kali.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:15_3_0"
+msgid "Kamiyama's Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:16_0_0"
+msgid "Lotus Staff Fighting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:16_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:02_02}➿ or {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:16_2_0"
+msgid "Secret,{PA:10} ancient staff techniques from the||Lotus School.{PA:20} Can be used for quick combos.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:16_3_0"
+msgid "Learned from Bai Ren"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:17_0_0"
+msgid "Phoenix Spirit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:17_1_0"
+msgid "Activates when health bar flashes red"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:17_2_0"
+msgid "When in a tough spot,{PA:10} the burning spirit of||the phoenix builds energy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:17_3_0"
+msgid "Soul Lv.{PA:20} 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:18_0_0"
+msgid "White Tiger Spirit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:18_1_0"
+msgid "Press {IC:05_0b}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:18_2_0"
+msgid "Build up energy by taunting the enemy with||the spirit of the white tiger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:18_3_0"
+msgid "Soul Lv.{PA:20} 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:19_0_0"
+msgid "Tortoise Spirit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:19_1_0"
+msgid "Hold {IC:07_0c}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:19_2_0"
+msgid "Block enemy attacks to build up energy with||the spirit of the black tortoise.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:19_3_0"
+msgid "Soul Lv.{PA:20} 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:20_0_0"
+msgid "Azure Dragon Spirit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:20_1_0"
+msgid "Activates when in HEAT mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:20_2_0"
+msgid "The spirit of the azure dragon keeps you||alive while in HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:20_3_0"
+msgid "Soul Lv.{PA:20} 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:21_0_0"
+msgid "Yellow Dragon Spirit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:21_1_0"
+msgid "Face an enemy and hold {IC:05_0b}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:21_2_0"
+msgid "The defiant courage of the yellow dragon||builds up energy by taunting the enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:21_3_0"
+msgid "Soul Lv.{PA:20} 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:22_0_0"
+msgid "Stability"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:22_1_0"
+msgid "Activates when in HEAT mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:22_2_0"
+msgid "The ancient arts of balance help you stay||standing when in HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:22_3_0"
+msgid "Soul Lv.{PA:20} 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:23_0_0"
+msgid "True Stability"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:23_1_0"
+msgid "Activates when in HEAT mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:23_2_0"
+msgid "The secrets of ancient martial arts help||you stay standing when in HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:23_3_0"
+msgid "Soul Lv.{PA:20} 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:24_0_0"
+msgid "Lotus Stone Body"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:25_0_0"
+msgid "Lotus Stone Body"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:25_1_0"
+msgid "Activates when in HEAT mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:25_2_0"
+msgid "While in HEAT mode,{PA:10} you will not fall or||even flinch before enemy attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:25_3_0"
+msgid "Soul Lv.{PA:20} 10/Bai Ren"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:26_0_0"
+msgid "Heart of Demon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:26_1_0"
+msgid "Activates when in HEAT mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:26_2_0"
+msgid "Boosts impact of unarmed attacks on light||weight enemies when HEAT gauge is maxed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:26_3_0"
+msgid "Soul Lv.{PA:20} 6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:27_0_0"
+msgid "Heart of Warrior God"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:27_1_0"
+msgid "Activates when in HEAT mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:27_2_0"
+msgid "Boosts impact of unarmed attacks on heavy||weight enemies when HEAT gauge is maxed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:27_3_0"
+msgid "Soul Lv.{PA:20} 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:28_0_0"
+msgid "The Ultimate Fighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:28_1_0"
+msgid "Press {IC:03_01}➿ in various conditions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:28_2_0"
+msgid "Only true masters of fighting can use HEAT||actions regardless of the HEAT gauge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:28_3_0"
+msgid "All HEAT actions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:29_0_0"
+msgid "Leg Hold"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:29_1_0"
+msgid "When near an enemy on the ground,{PA:10} {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:29_2_0"
+msgid "When in HEAT mode,{PA:10} grab your opponent's legs||and throw them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:29_3_0"
+msgid "Soul Lv.{PA:20} 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:30_0_0"
+msgid "Finishing Hold"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:30_1_0"
+msgid "Press {IC:02_02}➿╳(1-3)>{IC:03_01}➿>{IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:30_2_0"
+msgid "Finishing throws from HEAT mode.{PA:20} Moves vary||depending on the number of {IC:02_02}➿ presses.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:30_3_0"
+msgid "Skill Lv.{PA:20} 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:31_0_0"
+msgid "Kawachi Reversal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:31_1_0"
+msgid "When held by enemy,{PA:10} press {IC:04_00}➿ repeatedly"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:31_2_0"
+msgid "An ancient defensive technique that turns||disadvantage into an advantage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:31_3_0"
+msgid "Learned from Kawachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:32_0_0"
+msgid "Komaki Parry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:33_0_0"
+msgid "Komaki Parry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:33_1_0"
+msgid "Hold {IC:08_0a}➿ +meet enemy attack with {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:33_2_0"
+msgid "Answers an enemy attack with a powerful||strike.{PA:20} One of the Komaki Ultimate Three.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:33_3_0"
+msgid "Adventure Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:34_0_0"
+msgid "Essence of Finishing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:34_1_0"
+msgid "When near an enemy on the ground,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:34_2_0"
+msgid "The {IC:03_01}➿ follow-up on a downed enemy becomes||a HEAT action.{PA:20} Works with weapons,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:34_3_0"
+msgid "Soul Lv.{PA:20} 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:35_0_0"
+msgid "Essence of Wreckage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:35_1_0"
+msgid "If health is low,{PA:10} {IC:03_01}➿ near a downed enemy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:35_2_0"
+msgid "A barrage of attacks on a downed opponent,{PA:10}||possible only in dire situations.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:35_3_0"
+msgid "Soul Lv.{PA:20} 6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:36_0_0"
+msgid "Essence of Batting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:36_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:36_2_0"
+msgid "A HEAT attack with the full swing of a bat.{PA:20}||Hits enemies right out of the park.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:36_3_0"
+msgid "Batting Cage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:37_0_0"
+msgid "Essence of Golf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:37_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:37_2_0"
+msgid "A HEAT attack with a golf club that feels||like an uppercut from a heavyweight boxer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:37_3_0"
+msgid "Driving Range"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:38_0_0"
+msgid "Essence of Bowling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:38_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:38_2_0"
+msgid "A painful HEAT attack that strikes enemies'||shins like they were bowling pins.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:38_3_0"
+msgid "Mach Bowling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:39_0_0"
+msgid "Essence of Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:39_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:39_2_0"
+msgid "A combo attack with the tonfas that knocks||your opponent into the air.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:39_3_0"
+msgid "Kamiyama's Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:40_0_0"
+msgid "Essence of Kali"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:40_1_0"
+msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:40_2_0"
+msgid "A high-speed HEAT action combo with the kali||sticks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:40_3_0"
+msgid "Kamiyama's Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:41_0_0"
+msgid "Essence of the Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:41_1_0"
+msgid "With staff,{PA:10} press {IC:03_01}➿ near enemy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:41_2_0"
+msgid "A combo attack with the Lotus Style staff.{PA:20}||Becomes a normal attack at long range.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:41_3_0"
+msgid "Learned from Bai Ren"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:42_0_0"
+msgid "Essence of Crushing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:43_0_0"
+msgid "Essence of Crushing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:43_1_0"
+msgid "Holding an enemy near a downed enemy,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:43_2_0"
+msgid "Grabs an opponent and throws them on top of||a fallen enemy to add insult to injury.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:43_3_0"
+msgid "Learned from Oba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:44_0_0"
+msgid "Essence of Might"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:44_1_0"
+msgid "Grab an enemy's leg,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:44_2_0"
+msgid "Grab an opponent's legs and slam them into a||wall or fence with this crushing HEAT move.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:44_3_0"
+msgid "Soul Lv.{PA:20} 5/Oba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:45_0_0"
+msgid "Essence of Goriki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:46_0_0"
+msgid "Essence of Goriki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:46_1_0"
+msgid "With max health,{PA:10} grab enemy,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:46_2_0"
+msgid "A powerful attack that smashes an enemy's||head into the ground or another enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:46_3_0"
+msgid "Body Lv.{PA:20} 8/Oba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:47_0_0"
+msgid "Komaki Fist Reversal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:48_0_0"
+msgid "Komaki Fist Reversal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:48_1_0"
+msgid "When an enemy attacks,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:48_2_0"
+msgid "A counterattack that works against armed and||unarmed opponents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:48_3_0"
+msgid "Learned from Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:49_0_0"
+msgid "Komaki Shot Stopper"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:50_0_0"
+msgid "Komaki Shot Stopper"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:50_1_0"
+msgid "Before being shot,{PA:10} press {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:50_2_0"
+msgid "A Komaki move effective against handguns and||shotguns.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:50_3_0"
+msgid "Learned from Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:51_0_0"
+msgid "Ultimate Essence"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:51_1_0"
+msgid "In front of a dazed enemy,{PA:10} {IC:03_01}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:51_2_0"
+msgid "A simple yet powerful attack that only those||who have mastered HEAT action can use.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:51_3_0"
+msgid "Learned from book"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:52_0_0"
+msgid "Quick Stand 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:52_1_0"
+msgid "Use the left analog stick and {IC:04_00}➿{IC:00_03}➿{IC:03_01}➿{IC:02_02}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:52_2_0"
+msgid "By pressing buttons repeatedly and moving the||left analog stick,{PA:10} you can stand up faster.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:52_3_0"
+msgid "Body Lv.{PA:20} 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:53_0_0"
+msgid "Quick Stand 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:53_1_0"
+msgid "Use the left analog stick and {IC:04_00}➿{IC:00_03}➿{IC:03_01}➿{IC:02_02}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:53_2_0"
+msgid "By pressing buttons repeatedly and moving the||left analog stick,{PA:10} you can stand up faster.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:53_3_0"
+msgid "Body Lv.{PA:20} 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:54_0_0"
+msgid "Escape Grade 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:54_1_0"
+msgid "When held by an enemy,{PA:10} {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:54_2_0"
+msgid "Allows you to escape from an enemy hold with||fewer {IC:00_03}➿ presses.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:54_3_0"
+msgid "Body Lv.{PA:20} 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:55_0_0"
+msgid "Escape Grade 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:55_1_0"
+msgid "When held by an enemy,{PA:10} {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:55_2_0"
+msgid "Allows you to escape from an enemy hold with||even fewer {IC:00_03}➿ presses.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:55_3_0"
+msgid "Body Lv.{PA:20} 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:56_0_0"
+msgid "Throw Damage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:56_1_0"
+msgid "Grab an enemy,{PA:10} press {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:56_2_0"
+msgid "Increases damage for your throwing attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:56_3_0"
+msgid "Body Lv.{PA:20} 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:57_0_0"
+msgid "Throw Power"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:57_1_0"
+msgid "Grab an enemy,{PA:10} press {IC:04_00}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:57_2_0"
+msgid "Boosts the impact of your throws to send||opponents flying when hit by a thrown enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:57_3_0"
+msgid "Body Lv.{PA:20} 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:58_0_0"
+msgid "Long Dodge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:58_1_0"
+msgid "（Stance） left analog stick+{IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:58_2_0"
+msgid "Upgrades your dodging ability to extend the||range of movement.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:58_3_0"
+msgid "Body Lv.{PA:20} 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:59_0_0"
+msgid "Dodge Combo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:60_0_0"
+msgid "Dodge Combo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:60_1_0"
+msgid "Dodge during a rush combo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:60_2_0"
+msgid "Allows you to dodge during a rush combo.{PA:20}||Drains the HEAT gauge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:60_3_0"
+msgid "Body Lv.{PA:20} 5/Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:61_0_0"
+msgid "Komaki Cat Flip"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:62_0_0"
+msgid "Komaki Cat Flip"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:62_1_0"
+msgid "While knocked away,{PA:10} press {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:62_2_0"
+msgid "A Komaki technique for avoiding attacks when||knocked down in battle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:62_3_0"
+msgid "Adventure Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:63_0_0"
+msgid "Komaki Knock Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:64_0_0"
+msgid "Komaki Knock Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:64_1_0"
+msgid "{IC:08_0a}➿ +{IC:07_0c}➿  at same time as enemy attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:64_2_0"
+msgid "Uses explosive arm strength to knock back||attacks.{PA:20} One of the Komaki Ultimate Three.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:64_3_0"
+msgid "Adventure Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:65_0_0"
+msgid "Re-Guard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:65_1_0"
+msgid "When guard is broken,{PA:10} press {IC:07_0c}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:65_2_0"
+msgid "If your guard is broken,{PA:10} quickly press||{IC:07_0c}➿  to block once again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:65_3_0"
+msgid "Skill Lv.{PA:20} 6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:66_0_0"
+msgid "Arms of Steel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:66_1_0"
+msgid "Hold {IC:07_0c}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:66_2_0"
+msgid "Upgrades defenses to block even weapon||attacks,{PA:10} but not blades or guns.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:66_3_0"
+msgid "Body Lv.{PA:20} 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:67_0_0"
+msgid "Lotus Iron Defense"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:68_0_0"
+msgid "Lotus Iron Defense"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:68_1_0"
+msgid "Hold {IC:07_0c}➿ "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:68_2_0"
+msgid "A Lotus Style technique that boosts defenses||to block any enemy attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:68_3_0"
+msgid "Body Lv.{PA:20} 10/Bai Ren"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:69_0_0"
+msgid "Health Boost"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:69_1_0"
+msgid "Upgrade the health bar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:69_2_0"
+msgid "Increases the health bar's upper limit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:69_3_0"
+msgid "Body Level Up"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:70_0_0"
+msgid "HEAT Gauge Boost 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:70_1_0"
+msgid "Upgrade HEAT gauge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:70_2_0"
+msgid "Increases the HEAT gauge's upper limit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:70_3_0"
+msgid "From video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:71_0_0"
+msgid "HEAT Gauge Boost 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:71_1_0"
+msgid "Upgrade HEAT gauge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:71_2_0"
+msgid "Increases the HEAT gauge's upper limit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:71_3_0"
+msgid "From video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:72_0_0"
+msgid "HEAT Gauge Boost 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:72_1_0"
+msgid "Upgrade HEAT gauge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:72_2_0"
+msgid "Increases the HEAT gauge's upper limit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:72_3_0"
+msgid "From Massage Parlor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:73_0_0"
+msgid "HEAT Gauge Boost 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:73_1_0"
+msgid "Upgrade HEAT gauge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:73_2_0"
+msgid "Increases the HEAT gauge's upper limit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:73_3_0"
+msgid "From YF6"
+msgstr ""
+

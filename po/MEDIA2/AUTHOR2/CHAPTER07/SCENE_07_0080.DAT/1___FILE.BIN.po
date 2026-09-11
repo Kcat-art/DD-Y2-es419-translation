@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Please forgive me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Nobody would come here after what happened"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:1_0_1"
+msgid "last year.{PA:20} We're so deep in debt.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:2_0_0"
+msgid "You borrowed yakuza money?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:3_0_0"
+msgid "No bank would have me,{PA:10} I had no choice.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Then the loan sharks started hounding me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Then out of nowhere,{PA:10} a man shows up and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:5_0_1"
+msgid "says he'll pay off everything I owe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:6_0_0"
+msgid "What man?{PA:20} Who said that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:7_0_0"
+msgid "He said he was from the Sengoku family.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:7_0_1"
+msgid "Then he gave me those photos.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:8_0_0"
+msgid "So he put a bounty on our heads.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:9_0_0"
+msgid "That's right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:10_0_0"
+msgid "I didn't want to do it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:11_0_0"
+msgid "But.{PA:20}.{PA:20}.{PA:20} I was up against a wall.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:11_0_1"
+msgid "This was my only choice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:12_0_0"
+msgid "So,{PA:10} please.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Forget about it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:14_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Last year was mostly my fault.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:16_0_0"
+msgid "What?{PA:20} B-But.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I'll take care of everything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Just hold on a little longer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Until then,{PA:10} I want you to stay put.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Keep serving your quality drinks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Mr.{PA:20} Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Knowing the same thing is waiting for you"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:22_0_1"
+msgid "in the same place every day.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:23_0_0"
+msgid "You have no idea what a comfort that is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Don't throw this place away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Yes,{PA:10} sir!{PA:20}"
+msgstr ""
+

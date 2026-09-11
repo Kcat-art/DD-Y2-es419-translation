@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_0"
+msgid "It seems you've returned to Kamurocho.{PA:20}I hear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_1"
+msgid "that upon your return you quickly"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_2"
+msgid "dispatched some troublemakers,{PA:10} and helped"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_3"
+msgid "some people to find peace.{PA:20} I'm glad to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_4"
+msgid "hear that you are well.{PA:20} Do you remember"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_5"
+msgid "the Komaki martial arts?{PA:20} Because Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_6"
+msgid "is a battlefield style,{PA:10} the moves are"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_0_7"
+msgid "easily forgotten in times of peace.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_1_0"
+msgid "I doubt you have any trouble with the"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_1_1"
+msgid "fundamental forms,{PA:10} but if you desire to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_1_2"
+msgid "regain the secret forms,{PA:10} you'll need to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_1_3"
+msgid "undergo the severity of the battlegrounds"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_1_4"
+msgid "once more,{PA:10} as well as give your body"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_1_5"
+msgid "physical stimulus.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_2_0"
+msgid "Just what qualifies as stimulus differs"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_2_1"
+msgid "from person to person,{PA:10} but for"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_2_2"
+msgid "some,{PA:10} traditional oriental medicine has been"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_2_3"
+msgid "the key.{PA:20} I'm presently in the eastern part of"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_2_4"
+msgid "Kamurocho.{PA:20} Come and see me if you want"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_2_5"
+msgid "to train.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_3_0"
+msgid "Incidentally,{PA:10} I'll share with you"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_3_1"
+msgid "something I've noticed recently.{PA:20} When you"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_3_2"
+msgid "are having trouble with your view,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_3_3"
+msgid "especially in large fights,{PA:10} pressing the L2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_3_4"
+msgid "button or R3 button is effective at"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_3_5"
+msgid "adjusting to a proper view.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_KOMAKI_MEMO.BIN::line:0_3_6"
+msgid "Come see me soon.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

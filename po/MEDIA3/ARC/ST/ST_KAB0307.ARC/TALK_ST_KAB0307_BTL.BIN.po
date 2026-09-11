@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:145_0_0"
+msgid "Sotenbori Footpath West"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:146_0_0"
+msgid "Riders Ozawa"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:147_0_0"
+msgid "Shimoda"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:148_0_0"
+msgid "Nakamura"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:149_0_0"
+msgid "Maeda"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:150_0_0"
+msgid "Tezuka"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:151_0_0"
+msgid "Kinoshita"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:152_0_0"
+msgid "Kimura"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:153_0_0"
+msgid "Muneda"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:154_0_0"
+msgid "Generic 1"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:155_0_0"
+msgid "Generic 2"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:156_0_0"
+msgid "Generic 3"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:157_0_0"
+msgid "Generic 4"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:158_0_0"
+msgid "Generic 5"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:159_0_0"
+msgid "Generic 6"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:160_0_0"
+msgid "Generic 7"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:161_0_0"
+msgid "Generic 8"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:162_0_0"
+msgid "Generic 9"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:163_0_0"
+msgid "Tazaki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:164_0_0"
+msgid "Shirai"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:165_0_0"
+msgid "Fukunaga"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:166_0_0"
+msgid "Shinohara"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:167_0_0"
+msgid "Hosoda"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:168_0_0"
+msgid "Shibakawa"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:169_0_0"
+msgid "Kusaba"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:170_0_0"
+msgid "Yamada"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:171_0_0"
+msgid "Iida"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:172_0_0"
+msgid "Takanashi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:173_0_0"
+msgid "Takada"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:174_0_0"
+msgid "Kurokawa"
+msgstr ""
+

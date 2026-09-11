@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:0_0_0"
+msgid "I've got nothing against you kids.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:1_0_0"
+msgid "I don't want to have to hurt you more.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Shut up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:3_0_0"
+msgid "You go flashing a piece around like that"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:4_0_0"
+msgid "and you'll wind up with more than bruises.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Put it away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Boss.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:7_0_0"
+msgid "He's way out of your league.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Yeah,{PA:10} but he.{PA:20}.{PA:20}.{PA:20}!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Get back in the bar.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Listen to me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:12_0_0"
+msgid "They're not very well disciplined.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:13_0_0"
+msgid "They're not even yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Some punks just started calling me boss and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:14_0_1"
+msgid "following me around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Your charisma always drew people to you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:16_0_0"
+msgid "I'm through buddying up with other people.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Come back to the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:18_0_0"
+msgid "They need you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Yeah,{PA:10} well,{PA:10} I don't need them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Just leave me alone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Your mother told me about you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Is that right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:23_0_0"
+msgid "All the more reason to leave me alone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:24_0_0"
+msgid "I'm afraid I can't.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:25_0_0"
+msgid "The whole clan's at stake this time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:26_0_0"
+msgid "I don't care what happens to the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:27_0_0"
+msgid "You owe them a lot,{PA:10} Daigo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:28_0_0"
+msgid "You're the man you are today thanks to them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Because the clan was there for you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Because of your father.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:31_0_0"
+msgid "What right do you have to say that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Look,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:33_0_0"
+msgid "I trusted you.{PA:20} Just you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:34_0_0"
+msgid "You were my fucking hero.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:35_0_0"
+msgid "But not anymore.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:36_0_0"
+msgid "The clan went crazy after Dad died.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:36_0_1"
+msgid "Bit by bit.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:37_0_0"
+msgid "And now.{PA:20}.{PA:20}.{PA:20} There's nothing left worth"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:37_0_1"
+msgid "risking my ass for.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Not just charismatic,{PA:10} but sharp,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:40_0_0"
+msgid "You're exactly right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:41_0_0"
+msgid "As it is,{PA:10} the Tojo aren't worth dying for.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:42_0_0"
+msgid "The officers are busy counting their money,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:42_0_1"
+msgid "and the clan's lost all its grandeur.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:43_0_0"
+msgid "But still.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:44_0_0"
+msgid "I believe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:45_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Believe in what?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:46_0_0"
+msgid "Believe that the clan can be strong again.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Strong like it was under Shimano and Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:48_0_0"
+msgid "Strong like it was under your father.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:49_0_0"
+msgid "I believe it'll happen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:50_0_0"
+msgid "But not without you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:51_0_0"
+msgid "Oh,{PA:10} that's great to hear.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:52_0_0"
+msgid "Wasn't it you who fucked everything up"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:52_0_1"
+msgid "a year ago?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:53_0_0"
+msgid "It was.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:54_0_0"
+msgid "That's why I'm back.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:55_0_0"
+msgid "To take responsibility!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:56_0_0"
+msgid "Are you fucking crazy?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:57_0_0"
+msgid "Well?{PA:20} Didn't that wake you up?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:58_0_0"
+msgid "You never change.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:59_0_0"
+msgid "You always tried to do everything by force.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:60_0_0"
+msgid "That's the only way I've ever known.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:61_0_0"
+msgid "Yeah,{PA:10} well,{PA:10} same for me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:62_0_0"
+msgid "If something's charging at me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0100.DAT/1___FILE.BIN::line:63_0_0"
+msgid "I'll charge right back!{PA:20}"
+msgstr ""
+

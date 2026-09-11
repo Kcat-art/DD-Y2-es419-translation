@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_5_0"
+msgid "Come on,{PA:10} Kiryu,{PA:10} you don't got enough money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_6_0"
+msgid "Izzat what you want?{PA:20}||It'll be {NU:02_0c_00}000000000000 yen,{PA:10} then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_7_0"
+msgid "Anything else I can get ya?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_8_0"
+msgid "Come on,{PA:10} Kiryu,{PA:10} ya ain't got room for this.{PA:20}||Make some space first.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_10_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_0_0"
+msgid "Handmade Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_1_0"
+msgid "Shotgun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_2_0"
+msgid "Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_3_0"
+msgid "Special Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_4_0"
+msgid "Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_5_0"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_6_0"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_7_0"
+msgid "Flash Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_8_0"
+msgid "Tear Gas Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_9_0"
+msgid "Smoke Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_10_0"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_11_0"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_12_0"
+msgid "Musashi's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_13_0"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_14_0"
+msgid "Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_15_0"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_16_0"
+msgid "Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_17_0"
+msgid "Dragon's Fist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_18_0"
+msgid "Anti-blade Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_19_0"
+msgid "Bulletproof Vest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_20_0"
+msgid "SWAT Body Armor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_21_0"
+msgid "Bulletproof Protector"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_22_0"
+msgid "Bulletproof Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_0_0"
+msgid "A handmade,{PA:10} old-style semi-automatic pistol.{PA:20}||There's only one round in the chamber.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_1_0"
+msgid "A shotgun.{PA:20} Shoots a spread of shot pellets||that do a lot of damage from close range.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_2_0"
+msgid "A stun gun.{PA:20} Popular with the younger||folks these days.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_3_0"
+msgid "With this specially made baton,{PA:10} you can||electrocute your opponents when you hit them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_4_0"
+msgid "A police baton.{PA:20} It's compact and easy to||wield,{PA:10} yeah?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_5_0"
+msgid "This is a military survival knife.{PA:20} It's an||older style,{PA:10} but a good knife.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_6_0"
+msgid "Pepper spray.{PA:20} A tool for protection.{PA:20}||I wouldn't expect too much from it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_7_0"
+msgid "It's a flash grenade.{PA:20} You can stun opponents||with this one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_8_0"
+msgid "Tear gas grenade.{PA:20} Toss it to temporarily||blind enemies that're nearby.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_9_0"
+msgid "Smoke grenade.{PA:20} Toss it to temporarily blind||enemies fer a while.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_10_0"
+msgid "The blackjack.{PA:20} It just flat-out hurts.{PA:20}||Give it a shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_11_0"
+msgid "Brass knuckles.{PA:20} You're used to these,{PA:10} ain't||ya?{PA:20} Press {IC:00_00}➿ for a cool move.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_12_0"
+msgid "A dagger used by Miyamoto Musashi.{PA:20} Solid,{PA:10}||but ya can't be sure it's the real thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_13_0"
+msgid "The classic Chinese broadsword.{PA:20}||It's a little roughly put together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_14_0"
+msgid "Wrap this cloth binding around the||midsection to protect yer vital parts.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_15_0"
+msgid "The cloth in this fighter's binding is thick||so that most punches won't get through.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_16_0"
+msgid "Chain mail's a retro look,{PA:10} but it still gets||the job done.{PA:20} It's pretty solid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_17_0"
+msgid "These're called Dragon's Fist.{PA:20} Put on these||brass knuckles,{PA:10} and you'll feel their power.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_18_0"
+msgid "An anti-blade shirt.{PA:20} The aramid fibers'll||protect you somewhat from blade attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_19_0"
+msgid "This offers good defense.{PA:20} It's made of||pretty solid materials.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_20_0"
+msgid "Used by the special forces,{PA:10} this is the||highest-quality armor available.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_21_0"
+msgid "Used by the military,{PA:10} this cuts down on||damage from bullets quite a bit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:2_22_0"
+msgid "A bulletproof breastplate.{PA:20} Made using||special materials,{PA:10} it's got high defense.{PA:20}"
+msgstr ""
+

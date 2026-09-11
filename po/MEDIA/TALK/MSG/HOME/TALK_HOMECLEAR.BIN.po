@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_0_0"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_1_0"
+msgid "Temporary EASY uses:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_2_0"
+msgid "Retries:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_3_0"
+msgid "Food completion:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_4_0"
+msgid "Drink completion:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_5_0"
+msgid "Side mission completion:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_6_0"
+msgid "Hostess completion:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_7_0"
+msgid "Coliseum completion:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_8_0"
+msgid "Locker completion:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_9_0"
+msgid "HEAT action completion:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_10_0"
+msgid "Play time:"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:1_1_0"
+msgid "%"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:1_2_0"
+msgid "Perfect"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_0_0"
+msgid "Received 3 million yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_1_0"
+msgid "Received 1 million yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_2_0"
+msgid "Received 2 million yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_3_0"
+msgid "Grasped the teachings of the Fighting God.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_4_0"
+msgid "The Dragon-SP is now available.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_5_0"
+msgid "The Photon Blade RG is now available.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_6_0"
+msgid "The Chinese Dragon Tonfa is now available.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_7_0"
+msgid "The Dragon's Binding is now available.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_0_0"
+msgid "Normal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_1_0"
+msgid "Easy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_2_0"
+msgid "Hard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_3_0"
+msgid "EX-Hard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:4_0_0"
+msgid "You can select a Hard Premium New Game.{PA:20}||You can select an EX-Hard New Game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:4_1_0"
+msgid "You can select an EX-Hard Premium New Game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:5_0_0"
+msgid "Press {IC:00_03}➿.{PA:20}"
+msgstr ""
+

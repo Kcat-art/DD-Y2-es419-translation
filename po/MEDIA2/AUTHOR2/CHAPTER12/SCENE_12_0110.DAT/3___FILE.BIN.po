@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:0_0_0"
+msgid "Hey,{PA:10} take it easy there,{PA:10} sugar.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:1_0_0"
+msgid "The man at the bar with you before.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:1_0_1"
+msgid "That was Kawara,{PA:10} wasn't it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:2_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20} He was here about Kaoru.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:3_0_0"
+msgid "What about her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:4_0_0"
+msgid "Oh,{PA:10} ya know.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:5_0_0"
+msgid "Anyway,{PA:10} here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:6_0_0"
+msgid "What's this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:7_0_0"
+msgid "Don't ask me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:7_0_1"
+msgid "I found it in yer jacket there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:8_0_0"
+msgid "When did this.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:9_0_0"
+msgid "That guy.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:10_0_0"
+msgid "No!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:11_0_0"
+msgid "We have your little girl.{PA:20} -Sengoku"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:11_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:12_0_0"
+msgid "I know I can't stop ya,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:13_0_0"
+msgid "Push it in the state yer in,{PA:10} and ya"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:13_0_1"
+msgid "won't be around for long.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:14_0_0"
+msgid "Has Kaoru been back here at all?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:15_0_0"
+msgid "You leave worryin' after her to Kawara.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:16_0_0"
+msgid "Ya hear me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:16_0_1"
+msgid "Be careful out there,{PA:10} sugar.{PA:20}"
+msgstr ""
+

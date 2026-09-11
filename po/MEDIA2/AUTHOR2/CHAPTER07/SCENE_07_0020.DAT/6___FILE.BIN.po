@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:0_0_0"
+msgid "Long time no see,{PA:10} Tobe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:1_0_0"
+msgid "Mr.{PA:20} Kiryu?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:2_0_0"
+msgid "When did you get back into town?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:2_0_1"
+msgid "Please,{PA:10} make yourself comfortable!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:3_0_0"
+msgid "Brings you back,{PA:10} doesn't it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:4_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:5_0_0"
+msgid "What will you have,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:6_0_0"
+msgid "Actually,{PA:10} I'd like to ask a favor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:7_0_0"
+msgid "So you were at the Amano Building looking"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:7_0_1"
+msgid "for Daigo Dojima?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:8_0_0"
+msgid "Right.{PA:20} The part I don't get is why someone"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:8_0_1"
+msgid "would want to kill us off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:9_0_0"
+msgid "Kazuki was just the bait to lure us in.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:10_0_0"
+msgid "Who doesn't want us around?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:11_0_0"
+msgid "Where's the link between us?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:12_0_0"
+msgid "I don't know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:13_0_0"
+msgid "But the foreigners who kidnapped Daigo and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:13_0_1"
+msgid "Chairman Goda are probably behind it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:14_0_0"
+msgid "Foreigners?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:15_0_0"
+msgid "An Osakan detective named Bessho tipped"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:15_0_1"
+msgid "me off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:16_0_0"
+msgid "Bessho?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:17_0_0"
+msgid "You know him?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:18_0_0"
+msgid "Used to be with Kamuro Precinct Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:19_0_0"
+msgid "Kamuro?{PA:20} Up here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:20_0_0"
+msgid "He was their golden boy when I first joined.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:21_0_0"
+msgid "He came in around the same time as Kawara.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:22_0_0"
+msgid "\"Bessho the Viper\" and \"Kawara the Devil\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:22_0_1"
+msgid "They were famous.{PA:20} Top dogs on the force.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:23_0_0"
+msgid "I didn't know.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:24_0_0"
+msgid "Date,{PA:10} what you said to Kawara up there.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:24_0_1"
+msgid "about him killing in front of you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:25_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:26_0_0"
+msgid "I doubt I'll ever be able to forgive him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:27_0_0"
+msgid "What did he do?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:28_0_0"
+msgid "It was just after I started at Division 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:28_0_1"
+msgid "More than 15 years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:29_0_0"
+msgid "As a rookie,{PA:10} I got paired up with Kawara,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:29_0_1"
+msgid "who was squad leader at the time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:30_0_0"
+msgid "We were investigating some illegal aliens,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:31_0_0"
+msgid "trying to track down a murder suspect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:32_0_0"
+msgid "Kawara was just a rank-and-file cop,{PA:10} but"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:32_0_1"
+msgid "still well-known for his track record.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:33_0_0"
+msgid "I asked to tag along on the investigation,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:33_0_1"
+msgid "hoping to pick up a few tips from him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:34_0_0"
+msgid "It didn't take long for any respect I"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:34_0_1"
+msgid "had for him to fly out the window,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:35_0_0"
+msgid "What happened?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:36_0_0"
+msgid "The immigrants resisted,{PA:10} so Kawara pulled"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:36_0_1"
+msgid "out his gun and shot them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:37_0_0"
+msgid "Sure,{PA:10} they were fighting us tooth and nail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:38_0_0"
+msgid "But we're protectors of the peace,{PA:10} dammit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:38_0_1"
+msgid "We can't shoot except in extreme cases.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:39_0_0"
+msgid "But Kawara just mowed them down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:40_0_0"
+msgid "What happened to them?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:41_0_0"
+msgid "The suspects?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:42_0_0"
+msgid "Dead,{PA:10} every one of them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:42_0_1"
+msgid "Kawara killed them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:43_0_0"
+msgid "I was livid.{PA:20} Suspected criminals or no,{PA:10} how"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:43_0_1"
+msgid "could he kill them without batting an eye?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:44_0_0"
+msgid "But that wasn't the worst of it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:45_0_0"
+msgid "Afterwards,{PA:10} he was so blasé.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:45_0_1"
+msgid "He said he didn't have a choice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:46_0_0"
+msgid "That wasn't the last time Kawara opened fire"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:46_0_1"
+msgid "on illegal aliens,{PA:10} either.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:47_0_0"
+msgid "Every time it happened,{PA:10} it got cleaned up"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:47_0_1"
+msgid "as self-defense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:48_0_0"
+msgid "People started calling him \"Killer Kawara\",{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:48_0_1"
+msgid "and he got bumped from Division 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:49_0_0"
+msgid "That's some history.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:50_0_0"
+msgid "Those men are still burned into my brain.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:51_0_0"
+msgid "It sounds like Kawara's got some deep scars.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:52_0_0"
+msgid "I get the same feeling,{PA:10} but he never went"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:52_0_1"
+msgid "into it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:53_0_0"
+msgid "It's not just that he hates foreigners.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:54_0_0"
+msgid "As for me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:55_0_0"
+msgid "I feel worse that I couldn't stop Kawara"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:55_0_1"
+msgid "than I do about shooting Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:56_0_0"
+msgid "Date.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:57_0_0"
+msgid "He's got some seriously heavy baggage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:58_0_0"
+msgid "I just wish I could understand him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:59_0_0"
+msgid "Despite everything,{PA:10} you still"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:59_0_1"
+msgid "care about him,{PA:10} don't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:60_0_0"
+msgid "Maybe so.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Don't think you'll get away with this!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:1_0_0"
+msgid "It's already over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Yayoi!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I was busy while you were out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:4_0_0"
+msgid "So you sold out to Sengoku,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:5_0_0"
+msgid "The Tojo Clan as it stood is through.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Your antics here won't shake the Tojo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Oh,{PA:10} no.{PA:20} I can hear it now.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:8_0_0"
+msgid "The sound of the Tojo Clan,{PA:10} changing.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Right about now,{PA:10} the others are falling"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:9_0_1"
+msgid "prey to Sengoku's hit men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:10_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:11_0_0"
+msgid "What?!{PA:20}"
+msgstr ""
+

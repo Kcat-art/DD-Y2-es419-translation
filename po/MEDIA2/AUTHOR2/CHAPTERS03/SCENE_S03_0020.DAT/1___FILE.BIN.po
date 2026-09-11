@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "How can you just decide that?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:0_0_1"
+msgid "You can't do that!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Your daddy's doing this for your"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:1_0_1"
+msgid "sake,{PA:10} angel.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "I'm happy the way things are now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Haruka,{PA:10} listen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "No way!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Uncle Kaz.{PA:20}.{PA:20}.{PA:20} You'd just give me away?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I don't want to be without you anymore.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "You don't get it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "If you stay with me,{PA:10} you'll get caught up in"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:8_0_1"
+msgid "more scary stuff like before.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I'm not scared at all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:10_0_0"
+msgid "You've always kept me safe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:11_0_0"
+msgid "If you leave me here,{PA:10} I'll find you"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:11_0_1"
+msgid "on my own.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I'll go all the way to Kamurocho to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:12_0_1"
+msgid "find you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Haruka.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Now let's go home!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Ah.{PA:20}.{PA:20}.{PA:20} H-Hey,{PA:10} wait up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:16_0_0"
+msgid "All that talkin',{PA:10} an' I get nothin'?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:16_0_1"
+msgid "You're killin' me here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:17_0_0"
+msgid "My golden egg.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:18_0_0"
+msgid "My diamond in the rough.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Sorry,{PA:10} Mr.{PA:20} Producer!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:20_0_0"
+msgid "That's it,{PA:10} right there!{PA:20} That smile!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Flash one o' those,{PA:10} and you'd get away with"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:21_0_1"
+msgid "murder.{PA:20} It's your secret weapon!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Bye bye!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Yeah,{PA:10} see ya later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:24_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Wait,{PA:10} what am I,{PA:10} stupid?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:24_0_1"
+msgid "I can't believe I fell for that!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:25_0_0"
+msgid "I'm not givin' up yet!{PA:20} Mark my words!{PA:20}"
+msgstr ""
+

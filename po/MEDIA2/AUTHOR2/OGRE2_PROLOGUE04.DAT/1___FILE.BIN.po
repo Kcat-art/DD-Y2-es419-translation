@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:0_0_0"
+msgid "After learning the whole truth,{PA:10} Haruka and I"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:0_0_1"
+msgid "headed to where the money slept.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:1_0_0"
+msgid "To the Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Inside.{PA:20}.{PA:20}.{PA:20} we found Yumi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:3_0_0"
+msgid "In her,{PA:10} I found the woman I loved--"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Haruka found her missing mother.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:5_0_0"
+msgid "It was a joyful reunion of parent and child,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:6_0_0"
+msgid "but their happiness only lasted a moment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:7_0_0"
+msgid "What's that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:7_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:8_0_0"
+msgid "The owner of the money came to claim it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Jingu planned to cut ties with the Tojo"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:9_0_1"
+msgid "and join hands with Kansai's Omi Alliance"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:10_0_0"
+msgid "in the hopes of taking control of Japan's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:10_0_1"
+msgid "political and criminal worlds.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:11_0_0"
+msgid "He sprung a trap on Terada,{PA:10} Omi's Chief"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:11_0_1"
+msgid "Director and an ally of Fuma's,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:12_0_0"
+msgid "then bared his fangs at us.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:13_0_0"
+msgid "But we were lucky.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Wh.{PA:20}.{PA:20}.{PA:20} What?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:14_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Yumi!!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:15_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:16_0_0"
+msgid "You can't shoot me now,{PA:10} can you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:16_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:17_0_0"
+msgid "If this bomb explodes,{PA:10} the 10 billion"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:17_0_1"
+msgid "hidden in the bar will go up in flames.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:17_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Between Yumi's selfless act of bravery"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:19_0_0"
+msgid "and Fuma's ideals and determination,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:20_0_0"
+msgid "I am the fourth chairman of the Tojo Clan,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:20_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Kazuma Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:21_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:22_0_0"
+msgid "we were able to take Jingu down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:23_0_0"
+msgid "When we thought it was finally all over,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:23_0_1"
+msgid "he appeared.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:24_0_0"
+msgid "You finished?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:24_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:25_0_0"
+msgid "We can relax now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:25_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Nishiki!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:26_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:27_0_0"
+msgid "The course of a decade had changed us.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Fighting was the only answer we had left.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:29_0_0"
+msgid "And in the end,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:30_0_0"
+msgid "He took Haruka's and my lives in his hand"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:31_0_0"
+msgid "and set us free.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Fuma,{PA:10} Yumi,{PA:10} Nishiki.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:33_0_0"
+msgid "I'd lost my family,{PA:10} and my hope for"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:33_0_1"
+msgid "the future.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:34_0_0"
+msgid "Come on!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:34_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:35_0_0"
+msgid "It isn't over yet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:35_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Stand up and protect"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:36_0_1"
+msgid "the one thing worth fighting for!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:36_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Don't run away.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:37_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Date pulled me out of that hell.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Haruka,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:40_0_0"
+msgid "I left control of the Tojo Clan to Terada,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:40_0_1"
+msgid "a man who shared Fuma's integrity.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:41_0_0"
+msgid "I said my goodbyes to the clan that day,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE04.DAT/1___FILE.BIN::line:42_0_0"
+msgid "and began a new life with Haruka.{PA:20}"
+msgstr ""
+

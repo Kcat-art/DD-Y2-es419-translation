@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Her name was Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:0_0_1"
+msgid "She was only nine years old at the time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:1_0_0"
+msgid "She'd hit the streets to look for"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:1_0_1"
+msgid "her mother.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:2_0_0"
+msgid "It was just a chance meeting,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:2_0_1"
+msgid "She and I had something in common.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Is there anyone you can go to around here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:3_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:4_0_0"
+msgid "All I have is my mother and my \"Aunt Yumi\".{PA:20} So.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:4_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Yumi?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:5_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:6_0_0"
+msgid "This girl looking for her mom knew my Yumi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I got to feeling that it was fate,{PA:10} and we"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:7_0_1"
+msgid "started looking together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Then it started.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:9_0_0"
+msgid "We're here for the girl.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:9_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:10_0_0"
+msgid "People from the clan started chasing her"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:10_0_1"
+msgid "as the key to the missing 10 billion yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:11_0_0"
+msgid "We were on the run,{PA:10} day and night.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I kept Haruka safe,{PA:10} and kept following the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:12_0_1"
+msgid "trail of Yumi and the money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Along the way,{PA:10} I met a detective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Makoto Date.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:14_0_1"
+msgid "Formerly with Investigations Division 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:15_0_0"
+msgid "The day he interrogated me,{PA:10} 11 years"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:15_0_1"
+msgid "before,{PA:10} his life took a sour turn.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:16_0_0"
+msgid "He asked me for help on his investigation,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:16_0_1"
+msgid "trying to get his career back on track.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:17_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:18_0_0"
+msgid "I'm investigating the hit placed"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:18_0_1"
+msgid "on Masa Sera.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:18_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:19_0_0"
+msgid "You gonna help me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:19_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:20_0_0"
+msgid "A former yakuza partnered with a cop,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:20_0_1"
+msgid "out working the same case together.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:21_0_0"
+msgid "It was an odd pairing.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:22_0_0"
+msgid "but over time it developed into"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:22_0_1"
+msgid "a friendship.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:23_0_0"
+msgid "But.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Kazuma Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:24_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:25_0_0"
+msgid "You're under arrest for kidnapping!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:25_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Sudo,{PA:10} Investigations Division 1 Chief,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:26_0_1"
+msgid "pegged us,{PA:10} and we ran out of places to run.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:27_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:28_0_1"
+msgid "Sorry to keep you waiting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:28_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:29_0_0"
+msgid "If you let me go.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:29_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:30_0_0"
+msgid "I know,{PA:10} but it's too late.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:30_0_1"
+msgid "Let's go!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:30_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Date was caught in the middle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE02.DAT/1___FILE.BIN::line:32_0_0"
+msgid "In the end,{PA:10} he chose us over the police.{PA:20}"
+msgstr ""
+

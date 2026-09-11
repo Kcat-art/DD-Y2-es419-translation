@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_0"
+msgid "Mahjong is a four-player game said to have"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_1"
+msgid "been created in China in the 19th century.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_2"
+msgid "It's primarily a game of matching tiles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_3"
+msgid "into 4 groups of 3 tiles and 1 pair for a"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_4"
+msgid "total of 14 tiles per hand,{PA:10} although there"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_5"
+msgid "are exceptions.{PA:20} The basic rules are simple"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_6"
+msgid "but the hands can get somewhat confusing,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_0_7"
+msgid "making it difficult for beginners.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_1_0"
+msgid "But the difficulty is necessary.{PA:20} There"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_1_1"
+msgid "are different degrees of difficulty in"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_1_2"
+msgid "building a hand.{PA:20} If one received the same"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_1_3"
+msgid "points for a difficult hand as a simple"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_1_4"
+msgid "hand,{PA:10} there would be little point in"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_1_5"
+msgid "trying to create one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_2_0"
+msgid "This is the reason for scoring,{PA:10} and"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_2_1"
+msgid "the different points decided upon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_2_2"
+msgid "for the various possible hands.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_2_3"
+msgid "As for scoring rules,{PA:10} if you go to a"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_2_4"
+msgid "mahjong parlor,{PA:10} you should be able to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_2_5"
+msgid "watch actual games.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_3_0"
+msgid "Rather than trying to memorize everything"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_3_1"
+msgid "at once,{PA:10} a beginner will learn faster from"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_3_2"
+msgid "actually playing.{PA:20} Over the next couple of"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_3_3"
+msgid "pages we will explain how to play an effective"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_3_4"
+msgid "game of mahjong.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_4_0"
+msgid "(This page is torn out.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_5_0"
+msgid "(This page is dirty.{PA:20} I can't read it.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_6_0"
+msgid "and even though we've covered everything"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_6_1"
+msgid "in detail,{PA:10} you still might run into some"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_6_2"
+msgid "difficulty.{PA:20} When you find yourself in a"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_6_3"
+msgid "jam,{PA:10} then going on the offensive is one"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_6_4"
+msgid "possible approach.{PA:20} After 10-odd games,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_6_5"
+msgid "you may be able to figure out where"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_MAHJONG_BOOK.BIN::line:0_6_6"
+msgid "the trouble is coming from.{PA:20}"
+msgstr ""
+

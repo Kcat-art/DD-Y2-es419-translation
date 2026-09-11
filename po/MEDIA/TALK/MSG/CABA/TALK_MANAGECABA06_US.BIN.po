@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::name:1"
+msgid "Hanako"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_0_0"
+msgid "How've you been doing here lately?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_1_0"
+msgid "No sweat!{PA:20}||It's easier than I thought it would be.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_1_1"
+msgid "I'm making lots of money!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_2_0"
+msgid "No sweat.{PA:20}||I got used to the job really quickly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_2_1"
+msgid "Maybe I'll try for top hostess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_3_0"
+msgid "Not so bad.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_3_1"
+msgid "But if I got serious,{PA:10} I could||probably do better.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_4_0"
+msgid "Well,{PA:10} it's tough.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_4_1"
+msgid "A lot of times I can't get a good||conversation going with the customer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_5_0"
+msgid "It's completely different than you said!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_5_1"
+msgid "I didn't think it would be||this much work!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_6_0"
+msgid "Do you have any comments about the club?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_6_1"
+msgid "Are you some sort of genius?{PA:20}||The club is really thriving.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_7_0"
+msgid "Do you have any comments about the club?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_7_1"
+msgid "It seems like the club's doing really well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_7_2"
+msgid "I think the customers are happy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_8_0"
+msgid "Do you have any comments about the club?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_8_1"
+msgid "I had high hopes for this club,{PA:10}||but it's pretty run-of-the-mill.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_8_2"
+msgid "Maybe you should try to make the club||a little better.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_9_0"
+msgid "Do you have any comments about the club?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_9_1"
+msgid "Is this what it's supposed to be like?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_9_2"
+msgid "I thought a cabaret club would||be more lively.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_10_0"
+msgid "Do you have any comments about the club?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_10_1"
+msgid "This club is so lame!{PA:20} I've got so much free||time I feel like I'm going to fall asleep.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:0_10_2"
+msgid "Come on,{PA:10} don't you think so?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_0_0"
+msgid "(Forget it.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_1_0"
+msgid "What!?{PA:20} For reals?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_1_1"
+msgid "Wow,{PA:10} nice one!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_2_0"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_3_0"
+msgid "Th-Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_3_1"
+msgid "I guess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_4_0"
+msgid "Oh.{PA:20}.{PA:20}.{PA:20} What is it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_4_1"
+msgid "It's not something I wanted,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_4_2"
+msgid "but I'll take it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_5_0"
+msgid "Lay off on the jokes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:1_5_1"
+msgid "Why would I want that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_0_0"
+msgid "(Maybe I should give her a talking-to.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_1_0"
+msgid "Have you been slacking lately?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_1_1"
+msgid "No,{PA:10} I haven't.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_1_2"
+msgid "Often when you get comfortable,{PA:10} you can||start to slack off without realizing it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_1_3"
+msgid "Make sure to keep the customers' drinks||full and their ashtrays fresh.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_1_4"
+msgid "Huh.{PA:20}||Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_1_5"
+msgid "Maybe I can do better.{PA:20}||{MS:1}{MS:0}I'll try harder.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_1_6"
+msgid "(I think that got through to her.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_2_0"
+msgid "What's with your appearance?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_2_1"
+msgid "Your looks are a part of what we're selling.{PA:20}||Don't you get that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_2_2"
+msgid "Huh.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_2_3"
+msgid "I haven't done anything different.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_2_4"
+msgid "(That didn't work very well.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_3_0"
+msgid "When are you going to focus on sales?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_3_1"
+msgid "Huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_3_2"
+msgid "In this business,{PA:10} it doesn't matter if||you're a rookie or a veteran.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_3_3"
+msgid "Just whether or not you can make sales.{PA:20}||Don't you get that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_3_4"
+msgid "No way!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_3_5"
+msgid "As long as I'm happy with myself,{PA:10}||isn't that enough?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:2_3_6"
+msgid "(I should have complimented her.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_0_0"
+msgid "(Maybe I should use positive reinforcement.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_1_0"
+msgid "You have a good knack for this job.{PA:20} If you||work hard,{PA:10} maybe you can be number one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_1_1"
+msgid "Huh?{PA:20} Number one?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_1_2"
+msgid "You mean I can be the top||hostess here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_1_3"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_1_4"
+msgid "Wow!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_1_5"
+msgid "I might be able to make number one!{PA:20}||That's pretty sweet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_1_6"
+msgid "I'll give it a try.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_2_0"
+msgid "You're doing well with your customers.{PA:20}||Keep it up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_2_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}What do you mean,{PA:10} \"doing well\"?{PA:20}||I don't get it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_2_2"
+msgid "Well,{PA:10} whatever.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_2_3"
+msgid "(That didn't work very well.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_3_0"
+msgid "Have you done something new?{PA:20}||You look great!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_3_1"
+msgid "What's that supposed to mean?{PA:20}||{MS:1}{MS:0}You're sort of creeping me out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:3_3_2"
+msgid "(That went badly.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:4_0_0"
+msgid "(I could give her a 100,{PA:10}000 yen bonus.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:4_0_1"
+msgid "You've been working hard recently.{PA:20}||Here's a bonus.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:4_0_2"
+msgid "(Forget it.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:4_1_0"
+msgid "What?{PA:20} Are you for reals!?{PA:20}||{MS:1}{MS:0}Thank you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:4_2_0"
+msgid "Oh?{PA:20} For me?{PA:20}||Thanks!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:4_3_0"
+msgid "Oh?{PA:20}||.{PA:20}.{PA:20}.{PA:20}Thanks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:4_3_1"
+msgid "(Why isn't she happy?)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:5_0_0"
+msgid "Can I go back now?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:5_0_1"
+msgid "Um.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:5_0_2"
+msgid "What is it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_0_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20}||You know Chinatsu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_0_1"
+msgid "Yeah,{PA:10} what about her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_0_2"
+msgid "Isn't she a little old?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_0_3"
+msgid "Shouldn't you hire younger girls?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_1_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20}||You know Miho?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_1_1"
+msgid "Yeah,{PA:10} what about her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_1_2"
+msgid "She wears too much makeup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_1_3"
+msgid "I don't know how she can||look like that around customers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_2_0"
+msgid "Rika N/A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_3_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20}||You know Ran?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_3_1"
+msgid "Yeah,{PA:10} what about her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_3_2"
+msgid "She always puts on a really cutesy act.{PA:20}||It creeps me out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_3_3"
+msgid "Do something about her,{PA:10} will you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_4_0"
+msgid "Akira N/A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_5_0"
+msgid "Mayu N/A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_6_0"
+msgid "Hanako N/A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_7_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20}||You know Sakura?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_7_1"
+msgid "Yeah,{PA:10} what about her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_7_2"
+msgid "She's always slacking||off.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_7_3"
+msgid "I feel stupid for working||as hard as I do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_7_4"
+msgid "It brings me down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_8_0"
+msgid "Ai N/A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_9_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20}||You know Yuri?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_9_1"
+msgid "Yeah,{PA:10} what about her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_9_2"
+msgid "I don't know why,{PA:10} but she's||really full of herself.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:6_9_3"
+msgid "I mean,{PA:10} can she really think she's||all that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:7_0_0"
+msgid "Give it to her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:7_1_0"
+msgid "Don't give it to her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:8_0_0"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA06_US.BIN::line:8_1_0"
+msgid "Not yet.{PA:20}"
+msgstr ""
+

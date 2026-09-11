@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:0_1_0"
+msgid "Give"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:0_2_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_0_0"
+msgid "Hangover Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_1_0"
+msgid "Turmeric Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_2_0"
+msgid "Yamazaki 50 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_3_0"
+msgid "Yamazaki 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_4_0"
+msgid "Yamazaki 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_5_0"
+msgid "Hakushu 18 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_6_0"
+msgid "Hakushu 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_7_0"
+msgid "The Macallan 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_8_0"
+msgid "The Macallan 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_9_0"
+msgid "Laphroaig 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_10_0"
+msgid "Laphroaig 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_11_0"
+msgid "Bowmore 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_12_0"
+msgid "Glenfiddich 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_13_0"
+msgid "Glenfiddich 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_14_0"
+msgid "Hibiki 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_15_0"
+msgid "Hibiki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_16_0"
+msgid "Hokuto 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_17_0"
+msgid "Kakubin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_18_0"
+msgid "Ballantine's 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_19_0"
+msgid "Ballantine's 17 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_20_0"
+msgid "Ballantine's Finest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_21_0"
+msgid "Jack Daniel's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_22_0"
+msgid "Early Times"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_23_0"
+msgid "Suntory Brandy X.{PA:20}O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_24_0"
+msgid "Suntory Brandy V.S.O.P"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_25_0"
+msgid "Suntory Brandy V.O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_26_0"
+msgid "Courvoisier XO"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_27_0"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_28_0"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_29_0"
+msgid "Carlsberg"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_30_0"
+msgid "Kyogetsu GREEN"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_31_0"
+msgid "Beefeater"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_32_0"
+msgid "Lemon Hart Demerara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_33_0"
+msgid "Herradura Tequila Silver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_34_0"
+msgid "Skyy Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_35_0"
+msgid "Stolichnaya Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_36_0"
+msgid "The Suntory Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_37_0"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_38_0"
+msgid "Premium Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_39_0"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_40_0"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_41_0"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_42_0"
+msgid "Lemon Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_43_0"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_44_0"
+msgid "Apple Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_45_0"
+msgid "Lemon Spritzer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_46_0"
+msgid "Warm Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_47_0"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_48_0"
+msgid "Tomato Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_49_0"
+msgid "Toast Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_50_0"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_51_0"
+msgid "Pasta Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_52_0"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_53_0"
+msgid "Today's Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_54_0"
+msgid "Cafe Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_55_0"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_56_0"
+msgid "Caramel Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_57_0"
+msgid "Mixed Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_58_0"
+msgid "Central Blend Short"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_59_0"
+msgid "Central Blend Tall"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_60_0"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_61_0"
+msgid "Central Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_62_0"
+msgid "Central Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_63_0"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_64_0"
+msgid "Soy Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_65_0"
+msgid "Sake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_66_0"
+msgid "Black Boss"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_67_0"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_68_0"
+msgid "Boss Rainbow Mountain Blend"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:1_69_0"
+msgid "Chuhai -196℃ Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_0_0"
+msgid "Hangover pills.{PA:20}||Effective at curing hangovers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_1_0"
+msgid "Turmeric pills.{PA:20}||They have a sobering effect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_2_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_3_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_4_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_5_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_6_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_7_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_8_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_9_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_10_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_11_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_12_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_13_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_14_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_15_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_16_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_17_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_18_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_19_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_20_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_21_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_22_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_23_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_24_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_25_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_26_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_27_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_28_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_29_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_30_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_31_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_32_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_33_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_34_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_35_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_36_0"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_37_0"
+msgid "Coffee brewed from a blend of Colombian,{PA:10}||Mandarin and Brazilian beans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_38_0"
+msgid "Premium coffee.{PA:20} Deep,{PA:10} rich and caffeinated.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_39_0"
+msgid "Cappuccino.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_40_0"
+msgid "Espresso.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_41_0"
+msgid "We take special Assam tea from our private||farms and add milk from Hokkaido.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_42_0"
+msgid "We combine rich,{PA:10} fragrant teas from Nuwara||Eliya with organically grown lemons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_43_0"
+msgid "Orange juice.{PA:20} With pulp!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_44_0"
+msgid "Crisp and refreshing apple juice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_45_0"
+msgid "A drink with lemon juice and soda water.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_46_0"
+msgid "Soothing and delicious warm milk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_47_0"
+msgid "Enjoy the citrusy bergamot scent of our||teas from our farms in Sri Lanka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_48_0"
+msgid "We use only organically grown tomatoes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_49_0"
+msgid "This set comes with a soft-boiled egg,{PA:10} bacon,{PA:10}||toast and your choice of coffee or tea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_50_0"
+msgid "A simple sandwich of egg,{PA:10} ham and lettuce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_51_0"
+msgid "Pasta with eggplant and bacon.{PA:20} The set||includes a beverage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_52_0"
+msgid "Beef curry,{PA:10} made from scratch with our own||special recipe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_53_0"
+msgid "Coffee of the day.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_54_0"
+msgid "Cafe mocha.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_55_0"
+msgid "Cappuccino.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_56_0"
+msgid "A cappuccino with caramel flavoring.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_57_0"
+msgid "A blend of orange,{PA:10} banana and apple juices.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_58_0"
+msgid "Our own original blend.{PA:20} Small size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_59_0"
+msgid "Our own original blend.{PA:20} Large size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_60_0"
+msgid "A very strong coffee.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_61_0"
+msgid "An espresso with steamed milk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_62_0"
+msgid "An espresso with steamed milk and chocolate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_63_0"
+msgid "An espresso with milk foam.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_64_0"
+msgid "Instead of milk we use soymilk.{PA:20} A healthy||alternative.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_65_0"
+msgid "A typical bottle of mass-produced,{PA:10} cheap||Japanese rice wine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_66_0"
+msgid "Boss canned unsweetened black coffee.{PA:20} Deep||fire roasting results in a smooth taste.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_67_0"
+msgid "A can of beer made from mineral water.{PA:20} The||water quality stands out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_68_0"
+msgid "Boss Rainbow Mountain Blend coffee.{PA:20} It's||full-bodied and goes down smooth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0000.BIN::line:2_69_0"
+msgid "Chuhai -196℃ Lemon with a refreshing||taste of fresh fruit juice.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:0_0_0"
+msgid "Welcome,{PA:10} Mr.{PA:20} Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:1_0_0"
+msgid "So you're Kurahashi?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:2_0_0"
+msgid "Don't shoot!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:3_0_0"
+msgid "He's got the place wired up to blow!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:4_0_0"
+msgid "Precisely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:5_0_0"
+msgid "Why did you call me here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:6_0_0"
+msgid "Because you're a star in this little"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:6_0_1"
+msgid "tale of revenge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:7_0_0"
+msgid "Because I have Jingweon blood in me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:8_0_0"
+msgid "So you already know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:9_0_0"
+msgid "Then join us in avenging the massacre"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:9_0_1"
+msgid "of our brothers 26 years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:10_0_0"
+msgid "Don't listen to him!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:11_0_0"
+msgid "And you!{PA:20} Don't think she's like you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:12_0_0"
+msgid "What's going on here?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:13_0_0"
+msgid "Kurahashi.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:14_0_0"
+msgid "I've been watching since the day you took"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:14_0_1"
+msgid "Japanese citizenship and joined the force.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:15_0_0"
+msgid "That's why I ditched Division 1 to follow"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:15_0_1"
+msgid "you to Public Security.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:16_0_0"
+msgid "Out of"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:16_0_1"
+msgid "revenge for breaking the creed?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:17_0_0"
+msgid "I never should have let you roam free.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:18_0_0"
+msgid "I have no interest in your little speech!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:19_0_0"
+msgid "If you come any closer,{PA:10} I'll blow this"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:19_0_1"
+msgid "entire building to dust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:20_0_0"
+msgid "Go ahead and push that button.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:21_0_0"
+msgid "You scraped by for 20 years,{PA:10} living a lie"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:21_0_1"
+msgid "just to stay alive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:22_0_0"
+msgid "I don't think you've got the balls.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:23_0_0"
+msgid "You have no idea what I'm capable of!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:24_0_0"
+msgid "I would gladly die for revenge!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:24_0_1"
+msgid "That is the Jingweon creed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:25_0_0"
+msgid "Don't give me that creed bullshit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:26_0_0"
+msgid "You remember Murai?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:27_0_0"
+msgid "Korean name Hoejong Park.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:28_0_0"
+msgid "He lived under the weight of what he'd done.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:29_0_0"
+msgid "Robbery,{PA:10} arson,{PA:10} murder.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:30_0_0"
+msgid "Thinking back on what you all did,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:30_0_1"
+msgid "it's only natural.{PA:20} Proves he was human.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:31_0_0"
+msgid "And you'd tell me he deserved to die"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:31_0_1"
+msgid "for breaking the creed?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:32_0_0"
+msgid "I don't buy it.{PA:20} You're nuts.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:33_0_0"
+msgid "But Murai is dead.{PA:20} Once I take care of"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:33_0_1"
+msgid "you and Daejin,{PA:10} it'll all be over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:34_0_0"
+msgid "No,{PA:10} wait!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:35_0_0"
+msgid "You stay out of this!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:36_0_0"
+msgid "If I don't finish this here,{PA:10} it'll only mean"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:36_0_1"
+msgid "more innocent blood spilled later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:37_0_0"
+msgid "Could you really kill a man while your"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:37_0_1"
+msgid "daughter watches?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:38_0_0"
+msgid "Wait!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:39_0_0"
+msgid "What does he mean,{PA:10} your daughter?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:40_0_0"
+msgid "You can't be.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:41_0_0"
+msgid "Yes,{PA:10} I'm talking about you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:42_0_0"
+msgid "Ms.{PA:20} Kaoru Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:43_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:44_0_0"
+msgid "You?{PA:20} .{PA:20}.{PA:20}.{PA:20}You're my father?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:45_0_0"
+msgid "He's lying!{PA:20} Just stay back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:46_0_0"
+msgid "He and the boss's wife,{PA:10} Suyeon Jung,{PA:10} got"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:46_0_1"
+msgid "together and had a kid.{PA:20} You.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:47_0_0"
+msgid "Your father is Jiro Kawara.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:47_0_1"
+msgid "The man standing right there!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:48_0_0"
+msgid "Shut your damn mouth!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:49_0_0"
+msgid "Kawara!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:50_0_0"
+msgid "Kawara!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:51_0_0"
+msgid "One thing alone has kept me going through"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:51_0_1"
+msgid "the hell of these last 26 years.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:52_0_0"
+msgid "The revenge I take today!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:53_0_0"
+msgid "I know you slaughtered the brethren who"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:53_0_1"
+msgid "came over from Korea,{PA:10} too!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:54_0_0"
+msgid "I'm going to put a bullet in you for every"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:54_0_1"
+msgid "one of them!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:55_0_0"
+msgid "You would violate the Jingweon creed?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:56_0_0"
+msgid "Your creed has nothing to do with me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:57_0_0"
+msgid "Well then.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:57_0_1"
+msgid "I'll send you to hell alongside your father!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:58_0_0"
+msgid "I'm not letting the Jingweon make"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:58_0_1"
+msgid "any more trouble in this town!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:59_0_0"
+msgid "Ah,{PA:10} the bastard child of the Dojima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:60_0_0"
+msgid "Fuma's gone,{PA:10} so you're stuck with me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:61_0_0"
+msgid "I'd gladly settle his debts.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:62_0_0"
+msgid "Interesting.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:63_0_0"
+msgid "Our vengeance WILL be had!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:63_0_1"
+msgid "This ends here and now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:64_0_0"
+msgid "You'll have to go through me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0090.DAT/3___FILE.BIN::line:65_0_0"
+msgid "Kill him!{PA:20}"
+msgstr ""
+

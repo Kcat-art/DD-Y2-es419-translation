@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:140_0_0"
+msgid "Underground Coliseum"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:141_0_0"
+msgid "Alexandr Ivanov"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:142_0_0"
+msgid "Antonio Pettas"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:143_0_0"
+msgid "K.{PA:20} van der Rohen"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:144_0_0"
+msgid "Cyclops Oba"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:145_0_0"
+msgid "D.{PA:20} Carpaccio"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:146_0_0"
+msgid "Daniel Feldman"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:147_0_0"
+msgid "G.{PA:20}B.{PA:20} Holmes"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:148_0_0"
+msgid "Jacques Gérard"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:149_0_0"
+msgid "Mr.{PA:20} Yoh"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:150_0_0"
+msgid "M.{PA:20} Komiyama"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:151_0_0"
+msgid "P.{PA:20} Kalashnikov"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:152_0_0"
+msgid "Tyrone Yen"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:153_0_0"
+msgid "Andy Matoba"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:154_0_0"
+msgid "Ahmed Zayat"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:155_0_0"
+msgid "Emilio Rosa"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:156_0_0"
+msgid "Cheol-su Kwan"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:157_0_0"
+msgid "Grand Chef Chang"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:158_0_0"
+msgid "Condor Mizusawa"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:159_0_0"
+msgid "El Diablo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:160_0_0"
+msgid "Suekichi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:161_0_0"
+msgid "Dandy Sugino"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:162_0_0"
+msgid "Di Sciuva"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:163_0_0"
+msgid "Terry Sakata"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:164_0_0"
+msgid "Deadboy"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:165_0_0"
+msgid "Devil Tsuji"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:166_0_0"
+msgid "Hades Nishizawa"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:167_0_0"
+msgid "Home-Run Ken"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:168_0_0"
+msgid "Max Yonamine"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:169_0_0"
+msgid "Mach Otani"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:170_0_0"
+msgid "Mammoth Tatsu"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:171_0_0"
+msgid "Marcus"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:172_0_0"
+msgid "Robert Kimura"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:173_0_0"
+msgid "Boss Yamazaki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:174_0_0"
+msgid "Renji Kamiyama"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:175_0_0"
+msgid "Seafire"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:176_0_0"
+msgid "Sho Imaizumi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:177_0_0"
+msgid "Kozo Karita"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:178_0_0"
+msgid "Takayuki Maeda"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:179_0_0"
+msgid "Minoru Kayama"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:180_0_0"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:181_0_0"
+msgid "Kiyoshi Muroi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:182_0_0"
+msgid "Kojiro Toyama"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:183_0_0"
+msgid "Akira Yamaoka"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:184_0_0"
+msgid "Moonbeam"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:185_0_0"
+msgid "Masao Yanagi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:186_0_0"
+msgid "Gensho Kawachi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:187_0_0"
+msgid "Goro Majima"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:188_0_0"
+msgid "Yukio Masaki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:189_0_0"
+msgid "Kazuhito Fujioka"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:190_0_0"
+msgid "Kenzo Kakuyama"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:191_0_0"
+msgid "Tatsuo Nirayama"
+msgstr ""
+

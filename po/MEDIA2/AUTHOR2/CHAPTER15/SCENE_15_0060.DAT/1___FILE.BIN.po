@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:0_0_0"
+msgid "You were with Division 1.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:1_0_0"
+msgid "It's been a while.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:2_0_0"
+msgid "What brings you out here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Ahh,{PA:10} well.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Kazuma and I need to have a little talk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Think you could wait outside for a minute?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Okay,{PA:10} sure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Take a look at this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I made a copy of Kurahashi's disk and had"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:9_0_1"
+msgid "Sudo analyze it as well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:10_0_0"
+msgid "These are.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Sayama and Ryuji Goda's records.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Look at Ryuji's parents,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Suyeon Jung.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:14_0_0"
+msgid "But that's.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Kaoru Sayama and Ryuji Goda share the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:15_0_1"
+msgid "same mother.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Which means.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I'm back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:18_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}What is it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:18_0_1"
+msgid "Why's everybody look so serious?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Oh,{PA:10} nothing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:20_0_0"
+msgid "You haven't met,{PA:10} have you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:21_0_0"
+msgid "This is Superintendent Sudo,{PA:10} Chief of"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:21_0_1"
+msgid "Tokyo's Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Nice to meet you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:23_0_0"
+msgid "A pleasure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Assistant Inspector Kaoru Sayama,{PA:10} from"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:24_0_1"
+msgid "Osaka's Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Well,{PA:10} I need to continue my investigation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:25_0_1"
+msgid "If you'll excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Sure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Why was the Tokyo Division 4 chief here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:28_0_0"
+msgid "He came by to ask me about the bomb scare.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:29_0_0"
+msgid "What happened with the bombs?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:30_0_0"
+msgid "We dismantled all of them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Oh.{PA:20}.{PA:20}.{PA:20} Oh,{PA:10} that's wonderful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:32_0_0"
+msgid "How was that disk from Kurahashi?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:33_0_0"
+msgid "I couldn't get into it,{PA:10} even at HQ.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:34_0_0"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:35_0_0"
+msgid "What about the Go-Ryu Clan?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:36_0_0"
+msgid "I managed to beat them back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Now Ryuji's all that's left.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Just him?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:40_0_0"
+msgid "He wants to settle things with me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:40_0_1"
+msgid "He's waiting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:41_0_0"
+msgid "Where is he?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:42_0_0"
+msgid "The tip top of Kamurocho.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:43_0_0"
+msgid "That's where he said he'd be waiting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:44_0_0"
+msgid "Kamurocho Hills,{PA:10} I guess?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:45_0_0"
+msgid "Most likely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:46_0_0"
+msgid "And you're going?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:48_0_0"
+msgid "I don't see any way around this fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:49_0_0"
+msgid "I won't let you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:50_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:51_0_0"
+msgid "I'm lead detective at Osaka's Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:52_0_0"
+msgid "I can't just let a man go when I know he's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:52_0_1"
+msgid "planning to fight someone to the death.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:53_0_0"
+msgid "How can you say that now?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:54_0_0"
+msgid "I'm saying it as a police officer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:55_0_0"
+msgid "Fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:56_0_0"
+msgid "But I'm still going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:57_0_0"
+msgid "Excuse me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:58_0_0"
+msgid "You're still under my watch.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:58_0_1"
+msgid "I can arrest you any time I want.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:59_0_0"
+msgid "Then do it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:60_0_0"
+msgid "I can't change your mind?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:61_0_0"
+msgid "Sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:62_0_0"
+msgid "Fine.{PA:20} Then there's somewhere I'd like you to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:62_0_1"
+msgid "go first.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:63_0_0"
+msgid "Where?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:64_0_0"
+msgid "My chief is in town now,{PA:10} at Tokyo Police HQ.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:65_0_0"
+msgid "He said he wanted to talk to you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:66_0_0"
+msgid "What?{PA:20} Bessho is here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:67_0_0"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:68_0_0"
+msgid "Omi's Takashima Clan is acting strange.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:68_0_1"
+msgid "It's probably about that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:69_0_0"
+msgid "Well?{PA:20} Will you go see him?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:70_0_0"
+msgid "All right.{PA:20} Sure.{PA:20}"
+msgstr ""
+

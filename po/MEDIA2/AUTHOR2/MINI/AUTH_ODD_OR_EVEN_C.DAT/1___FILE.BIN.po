@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:0_0_0"
+msgid "It's odds or evens here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:0_0_1"
+msgid "Stay for a round?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:1_0_0"
+msgid "All ready?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:1_0_1"
+msgid "Here goes!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Right,{PA:10} now!{PA:20} Place your bets!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:3_0_0"
+msgid "How much you betting?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:3_0_1"
+msgid "Use up and down on the directional buttons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:4_0_0"
+msgid "And the betting is closed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:4_0_1"
+msgid "Here goes!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Snake eyes are even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_1_0"
+msgid "A 2-and-1 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_2_0"
+msgid "A 3-and-1 even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_3_0"
+msgid "A 4-and-1 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_4_0"
+msgid "A 5-and-1 even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_5_0"
+msgid "A 6-and-1 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_6_0"
+msgid "Double 2's even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_7_0"
+msgid "A 2-and-3 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_8_0"
+msgid "A 2-and-4 even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_9_0"
+msgid "A 5-and-2 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_10_0"
+msgid "A 2-and-6 even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_11_0"
+msgid "Double 3's even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_12_0"
+msgid "A 4-and-3 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_13_0"
+msgid "A 5-and-3 even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_14_0"
+msgid "A 3-and-6 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_15_0"
+msgid "Double 4's even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_16_0"
+msgid "A 5-and-4 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_17_0"
+msgid "A 4-and-6 even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_18_0"
+msgid "Double 5's even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_19_0"
+msgid "A 5-and-6 odd!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:5_20_0"
+msgid "Double 6's even!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:6_0_0"
+msgid "After ante,{PA:10} that makes"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:6_0_1"
+msgid "➿➿{NU:02_08_00}00000000 points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:6_1_0"
+msgid "Tough luck,{PA:10} buddy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:6_2_0"
+msgid "You're on fire,{PA:10} missy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Join us for another?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Haruka \"Even!{PA:20}\""
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:8_1_0"
+msgid "Haruka \"Odd!{PA:20}\""
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Kazuma \"(Maybe I should trust her intuition.)\""
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:9_1_0"
+msgid "Kazuma \"(If she says so.)\""
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:10_0_0"
+msgid "On to the next round!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:10_1_0"
+msgid "Down on your luck tonight,{PA:10} chum?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:10_1_1"
+msgid "Come back and see us again!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Play"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:11_1_0"
+msgid "Don't play"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Even"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:12_1_0"
+msgid "Odd"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:13_0_0"
+msgid "One more time"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_C.DAT/1___FILE.BIN::line:13_1_0"
+msgid "Quit"
+msgstr ""
+

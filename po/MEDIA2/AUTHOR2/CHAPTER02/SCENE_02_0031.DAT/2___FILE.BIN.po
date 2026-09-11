@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:0_0_0"
+msgid "Not from around here,{PA:10} are ya?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:1_0_0"
+msgid "No.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:2_0_0"
+msgid "Are ya here on vacation?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:3_0_0"
+msgid "Not exactly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:4_0_0"
+msgid "Work,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:5_0_0"
+msgid "You could say that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:6_0_0"
+msgid "Hey!{PA:20} We need more honeys for our table!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:7_0_0"
+msgid "Where the fuck's the manager?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:8_0_0"
+msgid "Hey!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:9_0_0"
+msgid "Ya can't let them see ya looking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:10_0_0"
+msgid "That's a real big yakuza from these parts.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:11_0_0"
+msgid "Y-Yes,{PA:10} sir?{PA:20} .{PA:20}.{PA:20}.{PA:20}Is there something I can"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:11_0_1"
+msgid "help you with?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:12_0_0"
+msgid "Yeah!{PA:20} No other place in Kansai would leave"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:12_0_1"
+msgid "our table this empty!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:13_0_0"
+msgid "I-I'm terribly sorry!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:14_0_0"
+msgid "If ya got the time to stand there bowin',{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:15_0_0"
+msgid "move that chicken ass of yours and bring us"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:15_0_1"
+msgid "some bitches!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:16_0_0"
+msgid "Watch yer fuckin' mouth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:17_0_0"
+msgid "You can go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:18_0_0"
+msgid "But,{PA:10} boss!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:19_0_0"
+msgid "Thank you,{PA:10} sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:20_0_0"
+msgid "What a man you are!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:21_0_0"
+msgid "Like a king!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:22_0_0"
+msgid "Course he is!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:23_0_0"
+msgid "Don't tell me a gal in yer line of work"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:23_0_1"
+msgid "doesn't know who this is!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:24_0_0"
+msgid "Future don of the Omi Alliance.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:24_0_1"
+msgid "The Dragon of Kansai.{PA:20} Remember that!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:25_0_0"
+msgid "Ooh,{PA:10} wow!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:26_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}S-Something wrong?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:26_0_1"
+msgid "What,{PA:10} is it her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:27_0_0"
+msgid "It's not her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:28_0_0"
+msgid "What did you just say?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:29_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:30_0_0"
+msgid "What,{PA:10} ya don't remember?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:31_0_0"
+msgid "Excuse us,{PA:10} ladies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:32_0_0"
+msgid "U-Uhh.{PA:20}.{PA:20}.{PA:20} Did I,{PA:10} er.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:33_0_0"
+msgid "What's one thing you're never s'posed to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:33_0_1"
+msgid "say around the boss?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:34_0_0"
+msgid "Um,{PA:10} I don't.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:35_0_0"
+msgid "Would ya hurry the fuck up and apologize?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:36_0_0"
+msgid "I.{PA:20}.{PA:20}.{PA:20} I'm real sorry!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:37_0_0"
+msgid "Look at ya.{PA:20} Pathetic.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:38_0_0"
+msgid "Get yer ass back on the chair.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:39_0_0"
+msgid "Yamada.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:40_0_0"
+msgid "How long has it been since ya signed"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:40_0_1"
+msgid "with me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:41_0_0"
+msgid "T-Two years,{PA:10} sir.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:42_0_0"
+msgid "Two years.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:43_0_0"
+msgid "Uhh.{PA:20}.{PA:20}.{PA:20} Boss?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:44_0_0"
+msgid "So,{PA:10} remembered what ya said yet?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:45_0_0"
+msgid "Um,{PA:10} I,{PA:10} uh.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:46_0_0"
+msgid "C'mon,{PA:10} drink up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:47_0_0"
+msgid "O-Oh,{PA:10} uh.{PA:20}.{PA:20}.{PA:20} Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:48_0_0"
+msgid "That jog yer memory?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:49_0_0"
+msgid "Spit it out,{PA:10} boy,{PA:10} what'd ya say?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:50_0_0"
+msgid "The Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:51_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}He called you the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:52_0_0"
+msgid "Hey,{PA:10} are ya crazy?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:53_0_0"
+msgid "I can't unwind in this place.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:54_0_0"
+msgid "Hold up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:55_0_0"
+msgid "You've got some balls,{PA:10} sayin' that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:56_0_0"
+msgid "He said he wanted to hear it again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:57_0_0"
+msgid "Ya always listen in on other people?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:58_0_0"
+msgid "Shouting the way you were,{PA:10} I didn't have"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:58_0_1"
+msgid "much of a choice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:59_0_0"
+msgid "Think you're pretty tough,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:60_0_0"
+msgid "Want me to sink yer ass in Osaka Bay?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:61_0_0"
+msgid "Say goodbye!{PA:20}"
+msgstr ""
+

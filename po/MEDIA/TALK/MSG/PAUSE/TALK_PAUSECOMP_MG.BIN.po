@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:0_0_0"
+msgid "BEG {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:0_1_0"
+msgid "INT {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:0_2_0"
+msgid "ADV {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:0_3_0"
+msgid "PRO {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:0_4_0"
+msgid "MAJ {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:0_5_0"
+msgid "ALN {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:1_0_0"
+msgid "3 frames {NU:02_04_00}0000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:1_1_0"
+msgid "10 frames {NU:02_04_00}0000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:2_0_0"
+msgid "{NU:02_10_00}0000000000000000 medals"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:2_1_0"
+msgid "{NU:02_10_00}0000000000000000 chips"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:2_2_0"
+msgid "{NU:02_10_00}0000000000000000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:2_3_0"
+msgid "{NU:02_10_00}0000000000000000 pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_0_0"
+msgid "10th kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_1_0"
+msgid "9th kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_2_0"
+msgid "8th kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_3_0"
+msgid "7th kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_4_0"
+msgid "6th kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_5_0"
+msgid "5th kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_6_0"
+msgid "4th kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_7_0"
+msgid "3rd kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_8_0"
+msgid "2nd kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_9_0"
+msgid "1st kyu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_10_0"
+msgid "1st dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_11_0"
+msgid "2nd dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_12_0"
+msgid "3rd dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_13_0"
+msgid "4th dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_14_0"
+msgid "5th dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_15_0"
+msgid "6th dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_16_0"
+msgid "7th dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_17_0"
+msgid "8th dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_18_0"
+msgid "9th dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_19_0"
+msgid "10th dan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_20_0"
+msgid "Shogi King"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:4_0_0"
+msgid "Practice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:4_1_0"
+msgid "Tournament"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:4_2_0"
+msgid "N/A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:4_3_0"
+msgid "Cleared"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:5_0_0"
+msgid "/ {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:5_1_0"
+msgid "/ {NU:02_05_00}00000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:5_2_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:5_3_0"
+msgid "{NU:02_10_00}0000000000000000 medals"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:5_4_0"
+msgid "{NU:02_10_00}0000000000000000 chips"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:5_5_0"
+msgid "{NU:02_10_00}0000000000000000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:5_6_0"
+msgid "{NU:02_10_00}0000000000000000 pts"
+msgstr ""
+

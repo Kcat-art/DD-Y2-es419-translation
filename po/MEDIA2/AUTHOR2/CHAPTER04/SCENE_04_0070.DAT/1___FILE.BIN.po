@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:0_0_0"
+msgid "So you were successful?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Just a light wound like you asked,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:3_0_0"
+msgid "And the bullet?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Just like you said,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Unless that Kiryu guy's a moron,{PA:10} we're fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:6_0_0"
+msgid "He'll trace the hit to us from the bullet"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:6_0_1"
+msgid "left in the car.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:8_0_0"
+msgid "So,{PA:10} why'd you want me to do that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Now he knows he's got nobody to trust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:10_0_0"
+msgid "That's enough for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Understood,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:12_0_0"
+msgid "So.{PA:20}.{PA:20}.{PA:20} What do we do next?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Stand by for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:13_0_1"
+msgid "Let's let him float for a while.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:14_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}We have plenty of time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Understood.{PA:20} Goodbye.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Were you on the phone?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Think this interrogation's a joke?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:18_0_0"
+msgid "It was just a business call.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:19_0_0"
+msgid "I'm a busy man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Yeah,{PA:10} you're real big.{PA:20} Yakuza scum.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:21_0_0"
+msgid "We know all about the dirty shit ya got"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:21_0_1"
+msgid "goin' on underground.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Rumor is,{PA:10} you're all smugglin' rifles in.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:23_0_0"
+msgid "This is voluntary testimony,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:23_0_1"
+msgid "I'm not obligated to answer anything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Aren't you getting a little off topic?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Maybe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:26_0_0"
+msgid "We are the victims here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:27_0_0"
+msgid "If you're going to arrest someone,{PA:10} shouldn't"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:27_0_1"
+msgid "it be Kazuma Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:28_0_0"
+msgid "The other Omi officers didn't seem to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:28_0_1"
+msgid "think so.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Aren't you people Kiryu's allies?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:30_0_0"
+msgid "That's absurd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:31_0_0"
+msgid "The Omi are victims here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:32_0_0"
+msgid "You should just have that lady detective"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:32_0_1"
+msgid "hurry up and arrest him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:33_0_0"
+msgid "That should be simple enough.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:34_0_0"
+msgid "What the fuck do you know about Kaoru?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:35_0_0"
+msgid "In any case.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Mr.{PA:20} Bessho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Have you heard anything from that"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:37_0_1"
+msgid "superintendent of yours?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Sure have.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Told me to send ya on yer merry way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:40_0_0"
+msgid "You can go.{PA:20} You've been released.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:41_0_0"
+msgid "Is that so?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Well,{PA:10} in that case.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:43_0_0"
+msgid "Takashima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:44_0_0"
+msgid "I dunno what you're playing at.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:45_0_0"
+msgid "But don't think for a skinny second a couple"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:45_0_1"
+msgid "connections up top'll save yer ass.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:46_0_0"
+msgid "So much as think of joining the Go-Ryu and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:46_0_1"
+msgid "I'll put ya away faster than you can blink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Are we crystal fucking clear?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:48_0_0"
+msgid "Mr.{PA:20} Bessho.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:49_0_0"
+msgid "The confrontational yakuza vs.{PA:20} police"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:49_0_1"
+msgid "relationship is a thing of the past.{PA:20}"
+msgstr ""
+

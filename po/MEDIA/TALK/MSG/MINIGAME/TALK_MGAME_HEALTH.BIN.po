@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::name:0"
+msgid "Girl"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::name:1"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_0_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_0_2"
+msgid ".{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_0_3"
+msgid "Sorry to keep you waiting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_1_0"
+msgid "Thanks for coming!{PA:20}||This way please.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_2_0"
+msgid "I'll bet you're sore,{PA:10} aren't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_2_1"
+msgid "Well.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_2_2"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} You seem ripe for a massage!{PA:20}||Please lie down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_3_0"
+msgid "Well.{PA:20}.{PA:20}.{PA:20} It happens to everyone.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_3_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_4_0"
+msgid "Oh,{PA:10} now you're starting to get into it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_4_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_5_0"
+msgid "That was amazing.{PA:20}||I'll bet you feel better now,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_5_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_6_0"
+msgid "Come again!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_6_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}Sure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:1_0_0"
+msgid "View controls?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:1_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:1_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:2_0_0"
+msgid "Raise"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:2_1_0"
+msgid "Lower"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:2_2_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:3_0_0"
+msgid "Use the two buttons and press repeatedly||to stay within the gauge.{PA:20}"
+msgstr ""
+

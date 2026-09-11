@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_5_0"
+msgid "{CU:c8c8ff}(I don't have enough money.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_6_0"
+msgid "Thanks.{PA:20}||That'll be {NU:02_0c_00}000000000000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_7_0"
+msgid "Do you want anything else to eat?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_8_0"
+msgid "Looks like you can't carry anything more.{PA:20}||Take care of that first.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:1_0_0"
+msgid "White Snake Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:1_1_0"
+msgid "White Snake Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:1_2_0"
+msgid "Kimchi Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:1_3_0"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:1_4_0"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:1_5_0"
+msgid "Egg Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:2_0_0"
+msgid "C'mon and try our super-rich tonkotsu-||flavored White Snake ramen noodles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:2_1_0"
+msgid "C'mon and try a big ol' bowl of our super-||rich tonkotsu-flavored White Snake ramen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:2_2_0"
+msgid "Trust us,{PA:10} spicy kimchi goes great with our||ramen noodles!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:2_3_0"
+msgid "Our tonkotsu-flavored White Snake ramen||is packed to the gills with pork.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:2_4_0"
+msgid "Loaded with scallions.{PA:20} A great way to boost||your immune system!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0023.BIN::line:2_5_0"
+msgid "With seasoned egg!{PA:20} It's delicious!{PA:20}"
+msgstr ""
+

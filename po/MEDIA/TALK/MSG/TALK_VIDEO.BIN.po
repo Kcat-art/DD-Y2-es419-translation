@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_VIDEO.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_0_0"
+msgid "Kazumi's Day at the Beach"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_1_0"
+msgid "Yuko's First Impact"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_2_0"
+msgid "The Pervert"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_3_0"
+msgid "Peeping Tom Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_4_0"
+msgid "Suspicious Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_5_0"
+msgid "Escalator to Heaven"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_6_0"
+msgid "Stained Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_7_0"
+msgid "Cursed Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_8_0"
+msgid "Legend of the 1st Patriarch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_9_0"
+msgid "Super Kung Fu Man"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_10_0"
+msgid "Space Ninja 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_11_0"
+msgid "King of Gamblers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_12_0"
+msgid "Sadaji's Cooking Adventure"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_13_0"
+msgid "Way of the Samurai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_14_0"
+msgid "The Real Yakuza Story"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_15_0"
+msgid "Knife Magician"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_16_0"
+msgid "Combat Legend Takeshi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_17_0"
+msgid "The Chop Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_18_0"
+msgid "The Kancho Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_19_0"
+msgid "The Karate Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_20_0"
+msgid "The Military Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_21_0"
+msgid "Exploding Demon Fist!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_22_0"
+msgid "Deadly Thumb Wrestling!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_23_0"
+msgid "Brain Busters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_24_0"
+msgid "Ascension: Secrets of India!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_25_0"
+msgid "Secrets of the Philippines!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_26_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:1_0_0"
+msgid "Watch one more time?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:1_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:1_2_0"
+msgid "No"
+msgstr ""
+

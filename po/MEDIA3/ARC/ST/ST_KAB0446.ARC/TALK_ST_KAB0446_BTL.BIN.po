@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:139_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:140_0_0"
+msgid "Stardust"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:141_0_0"
+msgid "Koji"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:142_0_0"
+msgid "Nobuto"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:143_0_0"
+msgid "Fumiya"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:144_0_0"
+msgid "Yoshitomo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:145_0_0"
+msgid "Ryo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:146_0_0"
+msgid "Miki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:147_0_0"
+msgid "Daigo Dojima"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:148_0_0"
+msgid "Shioya"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:149_0_0"
+msgid "Ota"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:150_0_0"
+msgid "Generic 1"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:151_0_0"
+msgid "Suzuki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0446.ARC/TALK_ST_KAB0446_BTL.BIN::line:152_0_0"
+msgid "Baba"
+msgstr ""
+

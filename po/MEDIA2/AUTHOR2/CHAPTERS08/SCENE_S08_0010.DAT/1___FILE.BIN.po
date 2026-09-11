@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Wh-Who the hell're you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:1_0_0"
+msgid "What're ya trying to pull?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Are you sure you won't regret throwing"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:2_0_1"
+msgid "that away?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Wh-What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:4_0_0"
+msgid "It's a tattoo design.{PA:20}.{PA:20}.{PA:20} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:5_0_0"
+msgid "And not just your average design,{PA:10} either.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:6_0_0"
+msgid "How would ya.{PA:20}.{PA:20}.{PA:20}?{PA:20} You in the biz?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Something like that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:8_0_0"
+msgid "C'mon,{PA:10} son.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:8_0_1"
+msgid "Have a cup of tea at my place.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Follow me.{PA:20}"
+msgstr ""
+

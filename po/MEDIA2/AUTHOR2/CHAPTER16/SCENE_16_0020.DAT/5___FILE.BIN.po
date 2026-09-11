@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:0_0_0"
+msgid "Chairman.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:1_0_0"
+msgid "I'm sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:2_0_0"
+msgid "No.{PA:20}.{PA:20}.{PA:20} It's better this way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:3_0_0"
+msgid "I finally got to hear how Ryuji really feels"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:3_0_1"
+msgid "thanks to you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:4_0_0"
+msgid "Thank you.{PA:20}.{PA:20}.{PA:20} I really mean that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:5_0_0"
+msgid "Chairman Goda.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:6_0_0"
+msgid "I'd hidden what mattered from him so long.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:7_0_0"
+msgid "I was afraid he'd off 'n' leave me if he"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:7_0_1"
+msgid "ever heard the truth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:8_0_0"
+msgid "Miss Sayama.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:9_0_0"
+msgid "Yes?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:10_0_0"
+msgid "I plan on takin' responsibility for the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:10_0_1"
+msgid "crimes of my son.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:11_0_0"
+msgid "Chairman.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:12_0_0"
+msgid "I carried the Omi standard this far.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:13_0_0"
+msgid "I wanna end things right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:14_0_0"
+msgid "Take me in along with him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:15_0_0"
+msgid "Amazing.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:16_0_0"
+msgid "Chairman Goda,{PA:10} Mr.{PA:20} Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:17_0_0"
+msgid "I'm impressed with how faithfully you've"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:17_0_1"
+msgid "followed my script.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:18_0_0"
+msgid "No.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:19_0_0"
+msgid "That voice.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:20_0_0"
+msgid "Terada!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:21_0_0"
+msgid "What's the meaning of this?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:22_0_0"
+msgid "This has all been a part of my plan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:23_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}One that took 26 years to orchestrate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:24_0_0"
+msgid "Then you're.{PA:20}.{PA:20}.{PA:20}?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:25_0_0"
+msgid "Yes.{PA:20} Daejin Kim.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:26_0_0"
+msgid "The final survivor of the Tojo raid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:27_0_0"
+msgid "Why would you fake your own death?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:28_0_0"
+msgid "You're not one to be moved by reason.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:29_0_0"
+msgid "Dying was about the only sure way to bait"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:29_0_1"
+msgid "you into action.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:30_0_0"
+msgid "Why go that far for me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:31_0_0"
+msgid "If you made a move,{PA:10} the Omi'd respond.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:32_0_0"
+msgid "That sets the stage for a war between clans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:33_0_0"
+msgid "And so the script goes.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:34_0_0"
+msgid "So you fed me that truce line as a way to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:34_0_1"
+msgid "set Ryuji off?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:35_0_0"
+msgid "That's right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:36_0_0"
+msgid "There was no way he would allow a truce"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:36_0_1"
+msgid "between the Omi and the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:37_0_0"
+msgid "As I expected,{PA:10} he staged a coup,{PA:10} then set"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:37_0_1"
+msgid "his sights on the Kanto region.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:38_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Only to be defeated by you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:39_0_0"
+msgid "Also part of the plan,{PA:10} of course.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:40_0_0"
+msgid "So Ryuji was another of your targets?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:41_0_0"
+msgid "Right again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:42_0_0"
+msgid "He turned his back on our creed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:43_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}So he died.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:44_0_0"
+msgid "He refused to rejoin his Jingweon brethren.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:45_0_0"
+msgid "Ryuji didn't care about our vendetta from"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:45_0_1"
+msgid "the Tojo raid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:46_0_0"
+msgid "All he cared about was climbing to the top.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:47_0_0"
+msgid "I just used that knowledge to make him"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:47_0_1"
+msgid "uphold our creed and die for our cause.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:48_0_0"
+msgid "Terada!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:49_0_0"
+msgid "Mr.{PA:20} Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:50_0_0"
+msgid "All that's left is to take care of you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:51_0_0"
+msgid "The Tojo Clan will crumble,{PA:10} and it'll"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:51_0_1"
+msgid "all be over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:52_0_0"
+msgid "It's taken ages.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:53_0_0"
+msgid "But the time's come.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:54_0_0"
+msgid "I lived for 26 years as Yukio Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:55_0_0"
+msgid "But that,{PA:10} too,{PA:10} is almost over.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:56_0_0"
+msgid "Once you're dead,{PA:10} I'll simply hit the switch"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:56_0_1"
+msgid "on that explosive,{PA:10} and that'll be that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:57_0_0"
+msgid "Explosive.{PA:20}.{PA:20}.{PA:20}?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:58_0_0"
+msgid "What,{PA:10} you hadn't noticed?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:59_0_0"
+msgid "It's right in front of your nose.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:60_0_0"
+msgid "But how?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:61_0_0"
+msgid "All the bombs were disarmed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:62_0_0"
+msgid "This one is for Kurahashi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:63_0_0"
+msgid "The man your father.{PA:20}.{PA:20}.{PA:20} Jiro Kawara killed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:64_0_0"
+msgid "You took the life of my comrade.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:64_0_1"
+msgid "my friend.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:65_0_0"
+msgid "So I prepared a little something in return.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:66_0_0"
+msgid "I press this button,{PA:10} and Kamurocho drowns"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:66_0_1"
+msgid "in a sea of flames.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:67_0_0"
+msgid "Are you insane?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:68_0_0"
+msgid "Oh,{PA:10} don't worry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:69_0_0"
+msgid "By the time this goes off,{PA:10} you won't"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:69_0_1"
+msgid "be around to care.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:70_0_0"
+msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:71_0_0"
+msgid "Yes?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:72_0_0"
+msgid "Just tell me this.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:73_0_0"
+msgid "Those words you said.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:74_0_0"
+msgid "In front of Fuma's grave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:75_0_0"
+msgid "Was that all a lie?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:76_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}What are you getting at?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:77_0_0"
+msgid "26 years ago.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:78_0_0"
+msgid "Wasn't it Fuma?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:79_0_0"
+msgid "Wasn't he the man who saved your life?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:80_0_0"
+msgid "Wha-?!{PA:20} How could you know.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:81_0_0"
+msgid "I was at the raid that night.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0020.DAT/5___FILE.BIN::line:82_0_0"
+msgid "I saw you there.{PA:20}"
+msgstr ""
+

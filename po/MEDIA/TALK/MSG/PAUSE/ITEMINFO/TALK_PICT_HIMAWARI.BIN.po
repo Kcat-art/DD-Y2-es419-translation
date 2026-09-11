@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_PICT_HIMAWARI.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_PICT_HIMAWARI.BIN::line:0_0_0"
+msgid "Dear Mr.{PA:20} Kiryu,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_PICT_HIMAWARI.BIN::line:0_0_2"
+msgid "Thanks to you,{PA:10} we were able to get"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_PICT_HIMAWARI.BIN::line:0_0_3"
+msgid "Sunflower's roof fixed,{PA:10} and we can"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_PICT_HIMAWARI.BIN::line:0_0_4"
+msgid "get back to our lives.{PA:20} Dogspot is"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_PICT_HIMAWARI.BIN::line:0_0_5"
+msgid "doing well,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_PICT_HIMAWARI.BIN::line:0_0_6"
+msgid "Thank you so much for your help!{PA:20}"
+msgstr ""
+

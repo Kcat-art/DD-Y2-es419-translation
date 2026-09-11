@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_5_0"
+msgid "My apologies,{PA:10} but it appears you don't have||enough money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_6_0"
+msgid "That comes to||{NU:02_0c_00}000000000000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_7_0"
+msgid "Is there anything else I can get for you||today?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_8_0"
+msgid "It appears you can't carry anything else.{PA:20}||Can you take care of that first?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_0_0"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_1_0"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_2_0"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_3_0"
+msgid "Tomato Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_4_0"
+msgid "Lemon Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_5_0"
+msgid "Toast Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_6_0"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_7_0"
+msgid "Pasta Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:1_8_0"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_0_0"
+msgid "It's a blend of Colombian,{PA:10} Mandarin and||Brazilian coffees.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_1_0"
+msgid "Enjoy the citrusy bergamot scent of our||teas from our farms in Sri Lanka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_2_0"
+msgid "We take special Assam tea from our private||farms and add milk from Hokkaido.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_3_0"
+msgid "We use only organically grown tomatoes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_4_0"
+msgid "We combine rich,{PA:10} fragrant teas from Nuwara||Eliya with organically grown lemons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_5_0"
+msgid "This set comes with a soft-boiled egg,{PA:10} bacon,{PA:10}||toast and your choice of coffee or tea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_6_0"
+msgid "A simple sandwich of egg,{PA:10} ham and lettuce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_7_0"
+msgid "Pasta with eggplant and bacon.{PA:20} The set||includes a beverage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0012.BIN::line:2_8_0"
+msgid "Beef curry,{PA:10} made from scratch with our own||special recipe.{PA:20}"
+msgstr ""
+

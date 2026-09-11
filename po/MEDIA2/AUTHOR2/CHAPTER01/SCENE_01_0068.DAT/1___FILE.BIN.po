@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:0_0_0"
+msgid "You heard he did time,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Yes.{PA:20}.{PA:20}.{PA:20} Five years ago,{PA:10} wasn't it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:2_0_0"
+msgid "You were still in prison.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Thinking you'd killed his father,{PA:10} Daigo"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:3_0_1"
+msgid "went a little crazy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Then he went and did something stupid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Stupid?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:6_0_0"
+msgid "He made a move on Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:7_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}And got busted for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:8_0_0"
+msgid "He did time,{PA:10} then came back to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:9_0_0"
+msgid "These days he just wastes away partying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:10_0_0"
+msgid "He drinks like a fish.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Daigo is.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:12_0_0"
+msgid "He's like a puppet with cut strings now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:13_0_0"
+msgid "He's.{PA:20}.{PA:20}.{PA:20} Well,{PA:10} you'll see for yourself.{PA:20}"
+msgstr ""
+

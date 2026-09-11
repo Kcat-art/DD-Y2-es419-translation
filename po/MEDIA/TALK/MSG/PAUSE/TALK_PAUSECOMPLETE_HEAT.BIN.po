@@ -1,0 +1,781 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_0_0"
+msgid "Dbl Crush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_1_0"
+msgid "Crushes two enemies' heads together.{PA:20}||Requires skill to set up,{PA:10} as well as power.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_2_0"
+msgid "Hold Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_3_0"
+msgid "Sayama immobilizes the enemy's arm for||Kiryu's kick,{PA:10} sending them flying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_4_0"
+msgid "Twin Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_5_0"
+msgid "Sayama and Kiryu's kicks sandwich the enemy,{PA:10}||who crumples to the ground.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_6_0"
+msgid "Front Crush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_7_0"
+msgid "Grabs the neck and smashes the opponent to||the ground.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_8_0"
+msgid "Big Swing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_9_0"
+msgid "Grabs the opponent's legs,{PA:10} swings them||around and tosses them away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_10_0"
+msgid "Back Crush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_11_0"
+msgid "Strikes from behind for a devastating throw.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_12_0"
+msgid "Ultimate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_13_0"
+msgid "Concentrates all energy into the right fist||for a single,{PA:10} powerful blow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_14_0"
+msgid "Jump Knee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_15_0"
+msgid "A flying knee attack against an opponent||immobilized by an ally.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_16_0"
+msgid "Tortoise"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_17_0"
+msgid "A throw against a frontal enemy assault.{PA:20}||Named for the Black Tortoise of the north.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_18_0"
+msgid "Phoenix"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_19_0"
+msgid "A palm strike against an attack from behind.{PA:20}||Named for the Crimson Phoenix of the south.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_20_0"
+msgid "Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_21_0"
+msgid "Elbow blow against an attack from the right.{PA:20}||Named for the Azure Dragon of the East.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_22_0"
+msgid "Tiger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_23_0"
+msgid "A headbutt against an attack from the left.{PA:20}||Named for the White Tiger of the West.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_24_0"
+msgid "Shot Parry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_25_0"
+msgid "Avoids bullets from hand guns||and delivers a finishing palm attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_26_0"
+msgid "Gun Kick"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_27_0"
+msgid "Avoids a blast from a long firearm and||delivers a kick to knock it away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_28_0"
+msgid "Violent Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_29_0"
+msgid "Picks up a falling opponent,{PA:10} only to finish||them with a powerful blow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_30_0"
+msgid "Bolt Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_31_0"
+msgid "A finishing attack with an arm lock,{PA:10}||a series of headbutts and a throw.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_32_0"
+msgid "Combo Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_33_0"
+msgid "Avoids blows from a powerful enemy and||delivers a flurry of punches.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_34_0"
+msgid "Dual Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_35_0"
+msgid "Grabs a staggering enemy and throws him at||his partner for an efficient finish.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_36_0"
+msgid "Tiger Drop"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_37_0"
+msgid "Hits a savage tiger between the eyes with||a secret Komaki-style strike.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_38_0"
+msgid "Sword Crusher"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_39_0"
+msgid "Uses a knee kick and headbutt to finish off||a strong opponent on his last legs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_40_0"
+msgid "Armed Stomp"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_41_0"
+msgid "Stomps on a downed opponent with the feet||to avoid damaging the current weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_42_0"
+msgid "Crushing Stomp"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_43_0"
+msgid "Finishes off a downed enemy with a large||weapon and a leaping stomp attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_44_0"
+msgid "Weapon Smash"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_45_0"
+msgid "Pounds a downed enemy with a heavy,{PA:10} blunt||weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_46_0"
+msgid "Adrenaline Rush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_47_0"
+msgid "The all-out attack of a cornered fighter.{PA:20}||A flurry of punches from a mount position.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_48_0"
+msgid "Front Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_49_0"
+msgid "A punch to the face of downed enemies||who have fallen face-up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_50_0"
+msgid "Back Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_51_0"
+msgid "A kick to the gut of a downed enemy||who has fallen face-down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_52_0"
+msgid "Super Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_53_0"
+msgid "Finishes off a strong enemy with a knee||and fist combination attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_54_0"
+msgid "Front Crush Toss"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_55_0"
+msgid "Drops an enemy on another downed enemy.{PA:20}||Use a heavy enemy to your advantage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_56_0"
+msgid "Back Crush Toss"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_57_0"
+msgid "Drops an enemy on another downed enemy.{PA:20}||Combines gravity and strength.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_58_0"
+msgid "Front Slam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_59_0"
+msgid "Slams an enemy against a wall and||finishes him with a knee.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_60_0"
+msgid "Wall Crush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_61_0"
+msgid "Slams an enemy against a wall and||crushes him underfoot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_62_0"
+msgid "Back Slam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_63_0"
+msgid "Slams an enemy against a wall,{PA:10} follows||with a knee,{PA:10} and adds one last strike.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_64_0"
+msgid "Shock Slam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_65_0"
+msgid "A decisive attack using an electrified||fence.{PA:20} Shocks and fells the enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_66_0"
+msgid "Rusty Wall"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_67_0"
+msgid "Slams an enemy into rusty nails,{PA:10} then||crushes him underfoot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_68_0"
+msgid "Headslam F"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_69_0"
+msgid "An impressive two-step attack using||an object at waist height.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_70_0"
+msgid "Headslam B"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_71_0"
+msgid "An impressive two-step attack using||an object at waist height.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_72_0"
+msgid "Fire Drum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_73_0"
+msgid "An attack using a burning drum can.{PA:20}||It's hot!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_74_0"
+msgid "Ass Crush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_75_0"
+msgid "Slams an enemy down on a surface,{PA:10}||ass-first.{PA:20} Basic,{PA:10} but very painful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_76_0"
+msgid "Pillar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_77_0"
+msgid "Slams an enemy into a pillar or pole.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_78_0"
+msgid "Cyclone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_79_0"
+msgid "A vertical swing attack while holding||the opponent's legs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_80_0"
+msgid "Wall Swing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_81_0"
+msgid "Grabs an enemy by the legs and slams him||full-force into a wall.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_82_0"
+msgid "Pole Swing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_83_0"
+msgid "Grabs an enemy by the legs and slams him||headfirst into a pillar.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_84_0"
+msgid "Back Break"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_85_0"
+msgid "A brainbuster that drops the enemy on||his back,{PA:10} into a bench.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_86_0"
+msgid "Car Crush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_87_0"
+msgid "A giant swing into a car window that||shatters it into pieces.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_88_0"
+msgid "Bar Slide"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_89_0"
+msgid "Slides the enemy across a bar counter.{PA:20}||Great pain awaits on the other side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_90_0"
+msgid "Flight"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_91_0"
+msgid "Tosses an enemy over a railing for||a long,{PA:10} long fall.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_92_0"
+msgid "Cold Swim"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_93_0"
+msgid "Tosses an enemy into the freezing cold||waters of Sotenbori River.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_94_0"
+msgid "Cold Toss"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_95_0"
+msgid "Tosses an enemy into the icy Sotenbori||River from high atop Iwao Bridge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_96_0"
+msgid "Eviction"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_97_0"
+msgid "Throws the enemy out of a building.{PA:20} The||fall ensures they won't be coming back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_98_0"
+msgid "Chandelier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_99_0"
+msgid "Drops a chandelier in the Omi Alliance||HQ,{PA:10} crushing anyone below.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_100_0"
+msgid "Glass Case"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_101_0"
+msgid "Drops an enemy into a glass display case||to finish both the enemy and the case.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_102_0"
+msgid "Stairs"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_103_0"
+msgid "Throws an enemy down the stairs.{PA:20}||They won't want to come back up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_104_0"
+msgid "Pitfall"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_105_0"
+msgid "Shoves an enemy into a long,{PA:10} hard fall.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_106_0"
+msgid "Face Burn"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_107_0"
+msgid "A powerful attack that takes advantage||of flame traps built into the floor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_108_0"
+msgid "Twin Kicks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_109_0"
+msgid "A kick combination in a corridor that's||sure to make the enemy's head spin.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_110_0"
+msgid "Rope"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_111_0"
+msgid "Uses a length of rope to choke an enemy||from behind and drop them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_112_0"
+msgid "Headlock"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_113_0"
+msgid "Grabs an enemy in a headlock and follows up||with a flurry of hits with a weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_114_0"
+msgid "Big Brass"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_115_0"
+msgid "Grabs an enemy in a headlock and beats him||with brass knuckles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_116_0"
+msgid "Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_117_0"
+msgid "Grabs an enemy's neck with the umbrella||handle,{PA:10} pulls them in and kicks them away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_118_0"
+msgid "Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_119_0"
+msgid "Drives a dagger into an enemy's abdomen.{PA:20}||Simple,{PA:10} straightforward,{PA:10} and effective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_120_0"
+msgid "Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_121_0"
+msgid "Applies a paralyzing stun gun shock to||an enemy's gut.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_122_0"
+msgid "Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_123_0"
+msgid "Chokes an enemy from behind,{PA:10} and kicks him||in the back for added damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_124_0"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_125_0"
+msgid "Hits an enemy in the side,{PA:10} followed by||a full swing to the head.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_126_0"
+msgid "Lotus Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_127_0"
+msgid "A flowing combination attack using secret||Lotus style staff techniques.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_128_0"
+msgid "Iai Triple"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_129_0"
+msgid "A three-step attack with an improved form of||the Komaki sword-drawing techniques.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_130_0"
+msgid "Long Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_131_0"
+msgid "Uses a long staff to hook an enemy and drop||them on their back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_132_0"
+msgid "Iai Double"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_133_0"
+msgid "A two-step attack with a wooden katana,{PA:10}||learned from Komaki a year earlier.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_134_0"
+msgid "Broad Iai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_135_0"
+msgid "A two-step attack with a Chinese broadsword,{PA:10}||learned from Komaki a year earlier.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_136_0"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_137_0"
+msgid "A relentless combination of tonfa strikes,{PA:10}||finished with a upward blow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_138_0"
+msgid "Kali"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_139_0"
+msgid "A combination attack using two Kali sticks||from Philippine martial arts.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_140_0"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_141_0"
+msgid "Throws a bowling ball with enough force||to break an enemy's shins.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_142_0"
+msgid "Heavy Blow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_143_0"
+msgid "Smashes an enemy's head with a heavy weapon.{PA:20}||Simple,{PA:10} but effective!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_144_0"
+msgid "Smackdown"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_145_0"
+msgid "Smashes an enemy's head with a heavy weapon||and follows up with a series of body blows.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_146_0"
+msgid "Signboard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_147_0"
+msgid "Breaks a signboard over the head of an enemy||and tosses him aside.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_148_0"
+msgid "Pliers Bk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_149_0"
+msgid "Does some dental work with a pair of pliers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_150_0"
+msgid "Pliers Fr"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_151_0"
+msgid "Avoids a punch and breaks some fingers||using a pair of pliers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_152_0"
+msgid "Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_153_0"
+msgid "Uses a modified iron to apply a quick burn||to an enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_154_0"
+msgid "Golf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_155_0"
+msgid "Sends an enemy flying with a well-placed||swing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_156_0"
+msgid "Stove"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_157_0"
+msgid "A burning face attack with a modified||portable stove.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_158_0"
+msgid "Salt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_159_0"
+msgid "Tosses salt in an enemy's eyes.{PA:20} Relies more||on surprise than actual damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_160_0"
+msgid "Syringe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_161_0"
+msgid "Stabs a mysterious syringe into an enemy's||posterior.{PA:20} Who knows what's in it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_162_0"
+msgid "Gold Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_163_0"
+msgid "Chokes an enemy with a gold-plated necklace.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_164_0"
+msgid "Steel Placard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_165_0"
+msgid "A kick attack using a steel placard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_166_0"
+msgid "Special Order"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_167_0"
+msgid "A blow to the side of the head with||a magnum bottle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_168_0"
+msgid "Trick Cane"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_169_0"
+msgid "An attack with an extendable cane.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_170_0"
+msgid "Huge Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_171_0"
+msgid "An attack with a ridiculously large||police baton.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_172_0"
+msgid "Jutte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_173_0"
+msgid "An attack with a decorative jutte.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_174_0"
+msgid "Big Fan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_175_0"
+msgid "A fierce blow with a large,{PA:10} folding fan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_176_0"
+msgid "Eons of Stink"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_177_0"
+msgid "An assault on the senses by a buildup of||years of odor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_178_0"
+msgid "Sweaty Work"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_179_0"
+msgid "Attacks the senses with the stink of years||of labor,{PA:10} and a series of body blows.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_180_0"
+msgid "Soulful Guitar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_181_0"
+msgid "An edgy,{PA:10} hardcore attack fueled by||a youthful passion for music.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_182_0"
+msgid "Noodles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_183_0"
+msgid "A devastating bowl of freshly made and||piping-hot noodles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_184_0"
+msgid "Spice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_185_0"
+msgid "Smashes a serving of all-new,{PA:10} super-spicy||ice cream into an enemy's face.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_186_0"
+msgid "Big Octopus"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_187_0"
+msgid "An entangling attack with an octopus that||would make some great takoyaki afterward.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_188_0"
+msgid "Red Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_189_0"
+msgid "Set an enemy's eyes on fire with some||super-spicy red pepper.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_190_0"
+msgid "Knitting Rod"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_191_0"
+msgid "Stabs Granny White's knitting needles into||an enemy's posterior.{PA:20}"
+msgstr ""
+

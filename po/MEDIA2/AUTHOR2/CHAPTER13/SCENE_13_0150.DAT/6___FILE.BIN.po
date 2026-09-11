@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:0_0_0"
+msgid "Suyeon was killed in my absence.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:1_0_0"
+msgid "Who killed her?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:2_0_0"
+msgid "Jingweon men,{PA:10} sent in from the mainland.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:3_0_0"
+msgid "That's when I set out to kill off all the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:3_0_1"
+msgid "Jingweon here in Japan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:4_0_0"
+msgid "So that's why.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:5_0_0"
+msgid "Those illegal aliens you shot were.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:6_0_0"
+msgid "All Jingweon men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:7_0_0"
+msgid "Revenge for Suyeon's murder?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:8_0_0"
+msgid "Not just that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:9_0_0"
+msgid "I needed to erase Kaoru's past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:10_0_0"
+msgid "My past?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:11_0_0"
+msgid "Before she died,{PA:10} your ma came to me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:12_0_0"
+msgid "Said she wanted to set you free from the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:12_0_1"
+msgid "curse of your past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:13_0_0"
+msgid "That was her dying wish?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:14_0_0"
+msgid "Right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:15_0_0"
+msgid "Then she gave ya to me,{PA:10} someone with"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:15_0_1"
+msgid "no connections to the Jingweon at all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:16_0_0"
+msgid "And poor Mr.{PA:20} Kawara never once showed up"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:16_0_1"
+msgid "around ya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:17_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}But you called Mama sometimes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:18_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:19_0_0"
+msgid "But it was because of those phone calls you"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:19_0_1"
+msgid "heard about the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:20_0_0"
+msgid "That dragged you back into your past.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:21_0_0"
+msgid "That was all my fault.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:21_0_1"
+msgid "I didn't know Kaoru was there.{PA:20}"
+msgstr ""
+

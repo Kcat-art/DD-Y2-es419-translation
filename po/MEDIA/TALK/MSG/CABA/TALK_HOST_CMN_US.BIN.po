@@ -1,0 +1,1517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:0"
+msgid "Kagami"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:1"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:2"
+msgid "Akko"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:3"
+msgid "Iori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:4"
+msgid "Tamao"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:5"
+msgid "Takaya"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:6"
+msgid "Ayumi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::name:7"
+msgid "System"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_0"
+msgid "Hey,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_1"
+msgid "So lately business at our host club,{PA:10}||\"Adam\",{PA:10} has really been booming.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_2"
+msgid "Did you know we're even closing||in on the Stardust in sales numbers?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_3"
+msgid "So I hear.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_4"
+msgid "It's all thanks to the hard work||of our employees,{PA:10} you know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_5"
+msgid "You were referred to us by the former||host,{PA:10} Makoto,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_6"
+msgid "That's right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_7"
+msgid "Do you remember what I said||when I interviewed you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_8"
+msgid "Of course.{PA:20}||In this business,{PA:10} only the strong survive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_9"
+msgid "Right.{PA:20}||He who makes the highest sales is king.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_10"
+msgid "Even as a rookie,{PA:10} if your sales are good,{PA:10}||you can be number one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_11"
+msgid "As a host,{PA:10} your||goal should be to be number one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_12"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_13"
+msgid ".{PA:20}.{PA:20}.{PA:20}So,{PA:10} you've called women to the club||from the streets like I've asked.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_14"
+msgid "I have.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_15"
+msgid "Great.{PA:20}||{MS:0}Next,{PA:10} you'll work support.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_16"
+msgid "What does that mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_17"
+msgid "You'll sit at the other hosts' tables||and help them out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_18"
+msgid "Stir up conversation and||try to help improve sales.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_19"
+msgid "Got it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_20"
+msgid "I'll put you at.{PA:20}.{PA:20}.{PA:20}||Takaya's table.{PA:20} He's our number one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_21"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_22"
+msgid "But {MS:0}you can't just||sit there{MS:2}{MS:1} and do nothing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_23"
+msgid "Let's set your quota.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_24"
+msgid "I want you to sell at least||30,{PA:10}000 yen in drinks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_25"
+msgid "If you can top that,{PA:10} I'll consider you||ready.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_26"
+msgid "Got that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_27"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_28"
+msgid "Oh,{PA:10} and watch what you say to the customers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_29"
+msgid "If you upset them,{PA:10} they might leave.{PA:20}||Then you lose everything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_30"
+msgid "I'll be careful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_31"
+msgid "Let me give you some advice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_32"
+msgid "That's one of our regulars,{PA:10} a cabaret girl.{PA:20}||She comes here to blow off stress.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_33"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_34"
+msgid "At any rate,{PA:10} keep the conversation||moving along.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_0_35"
+msgid "I got it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_0"
+msgid "Good evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_1"
+msgid "Kazuma,{PA:10} you did really well the other day,{PA:10}||for a beginner.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_2"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_3"
+msgid "We've got a lot of customers today.{PA:20}||{MS:0}All the employees are busy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_4"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_5"
+msgid "So today I'm going to set you up one-on-one||with a customer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_6"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_7"
+msgid "It'll be a walk-in customer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_8"
+msgid "Walk-ins judge a club on the first host||they get.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_9"
+msgid "If they have a good experience,{PA:10} there's a||chance they'll become really good customers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_10"
+msgid "If they have a bad one,{PA:10} then||they probably won't be coming back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_11"
+msgid "Also,{PA:10} we get a lot of our business by||word of mouth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_12"
+msgid "Worst case scenario,{PA:10} a bad experience could||hurt our club's reputation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_13"
+msgid "The first impression is that important.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_14"
+msgid "I understand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_15"
+msgid "Looking at how well you did helping out,{PA:10}||I can tell you've got what it takes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_16"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_17"
+msgid "Being considerate to the||customer is of the utmost importance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_18"
+msgid "Don't ever forget that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_19"
+msgid "I won't.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_20"
+msgid "A new walk-in is here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_21"
+msgid "G{MS:0}ood evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_22"
+msgid "All right.{PA:20}.{PA:20}.{PA:20} Let me just give you a little||bit of advice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_23"
+msgid "Sure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_24"
+msgid "With this one,{PA:10} I think you can be a little||aggressive.{PA:20} Make her really fall for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_25"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_26"
+msgid "Looking at her,{PA:10} I can||tell she has a bit of money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_27"
+msgid "She's the type who comes||here looking for pseudo love.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_28"
+msgid "I understand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_29"
+msgid "Your quota this time is||80,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_30"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_31"
+msgid "I don't need to tell you that if you||upset the customer you lose it all,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_32"
+msgid "Gotcha.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_1_33"
+msgid "All right.{PA:20}||Get going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_0"
+msgid "Good evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_1"
+msgid "Hey,{PA:10} you're here,{PA:10} Kazuma.{PA:20}||Takaya,{PA:10} our number one,{PA:10} is off today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_2"
+msgid "Half our club sales are from||people who choose Takaya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_3"
+msgid "That's why it's a bit quiet in here today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_4"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_5"
+msgid "Actually,{PA:10} just now one of Takaya's||customers contacted us.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_6"
+msgid "Do you remember a girl named Iori?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_7"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_8"
+msgid "She came to talk about||changing from Takaya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_9"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_10"
+msgid "At our club,{PA:10} host selections are permanent.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_11"
+msgid "If you choose a host,{PA:10} unless something comes||up,{PA:10} you can't change that selection.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_12"
+msgid "The host Iori wanted to make her permanent||one.{PA:20}.{PA:20}.{PA:20} was you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_13"
+msgid "What does that mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_14"
+msgid "It's simple.{PA:20}||She's into you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_15"
+msgid "Oh.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_16"
+msgid "She'll be here soon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_17"
+msgid "H{MS:0}i.{PA:20}❤||Kazuma,{PA:10} I choose you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_18"
+msgid "Listen up.{PA:20}||My club is all about talent.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_19"
+msgid "She was Takaya's,{PA:10} but don't hold back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_20"
+msgid "Got it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_21"
+msgid "Let me give you some advice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_22"
+msgid "Today,{PA:10} this customer's going to be||hitting on you,{PA:10} hard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_23"
+msgid "But.{PA:20}.{PA:20}.{PA:20} You can't let her get what she wants||that easily.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_24"
+msgid "You've got to be a tease.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_25"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_26"
+msgid "Your quota today is 200,{PA:10}000 yen.{PA:20}||I've set it high.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_27"
+msgid "If she loses interest and leaves,{PA:10}||you lose it all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_28"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_2_29"
+msgid "Great.{PA:20}||Now get going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_0"
+msgid "Good evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_1"
+msgid "Hey,{PA:10} you're here,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_2"
+msgid "You're just about at the level||of a full-fledged host,{PA:10} aren't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_3"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_4"
+msgid "Well,{PA:10} the customers you got were a blessing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_5"
+msgid "I didn't think you'd do this||well in this short amount of time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_6"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_7"
+msgid "But we'll test your true worth||now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_8"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_9"
+msgid "Yesterday we put your photo in our||monthly club magazine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_10"
+msgid "One of our customers is interested in you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_11"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_12"
+msgid "She begged me to let her||have a go at you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_13"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_14"
+msgid "That customer has singlehandedly||dominated the beauty spa industry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_15"
+msgid "They say her assets are||quite impressive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_16"
+msgid "One time,{PA:10} she spent 10 million yen in a||single day.{PA:20} She's our best customer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_17"
+msgid "It's a lot of pressure,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_18"
+msgid "but I believe that you||can handle yourself.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_19"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_20"
+msgid "It looks like she's here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_21"
+msgid "G{MS:0}ood evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_22"
+msgid "I{MS:0}s Kazuma here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_23"
+msgid "Let me give you some advice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_24"
+msgid "This woman is a veteran.{PA:20}||Understand?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_25"
+msgid "She'll be testing your||abilities as a host.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_26"
+msgid "You can't just simply give in to her.{PA:20}||You have to squirm away at the last minute.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_27"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_28"
+msgid "Your quota this time is 400,{PA:10}000 yen.{PA:20}||If you succeed,{PA:10} you'll be in the ranks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_29"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_30"
+msgid "Of course,{PA:10} if you upset her and she leaves,{PA:10}||you'll lose it all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_31"
+msgid "Okay,{PA:10} get going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_3_32"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_0"
+msgid "Hey,{PA:10} Kazuma.{PA:20}||I've got nothing left to tell you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_1"
+msgid "This is going to take everything||you've learned up to this point.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_2"
+msgid "I'm not necessarily on Takaya's side||in this,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_3"
+msgid "and neither am I on yours.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_4"
+msgid "The most important thing to a host is sales.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_5"
+msgid "The only thing you can compare||hosts with is their sales.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_6"
+msgid "I understand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_7"
+msgid "Takaya just finished with the customer.{PA:20}||You're up next.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_8"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_9"
+msgid "Finally,{PA:10} my advice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_10"
+msgid "Little tricks won't fly with||Ayumi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_11"
+msgid "Treat her with respect,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_12"
+msgid "and don't fool around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_13"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_4_14"
+msgid "Then get out there and||give it everything you've got!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_0"
+msgid "Hey,{PA:10} Kazuma.{PA:20}||I'm going to give you another chance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_1"
+msgid "This is the last one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_2"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_3"
+msgid "I'm going to put you at||Takaya's table.{PA:20} He's our number one host.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_4"
+msgid "You'll have the same customer as before.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_5"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_6"
+msgid "Your quota is 30,{PA:10}000 yen.{PA:20}||Until you can make more than that,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_7"
+msgid "you won't be full-fledged here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_8"
+msgid "Got it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_9"
+msgid "Got it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_10"
+msgid "At any rate,{PA:10} I told you to keep||the conversation going,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_11"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_12"
+msgid "If you piss them off,{PA:10}||they'll leave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_13"
+msgid "I'll be careful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_14"
+msgid "As for my advice.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_15"
+msgid "This customer is a cabaret girl.{PA:20}||She comes here to blow off steam.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_16"
+msgid "That sort really falls for flattery.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_17"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_18"
+msgid "Give her your undivided||attention and keep the conversation going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_19"
+msgid "Understand?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_5_20"
+msgid "I understand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_0"
+msgid "Hey,{PA:10} Kazuma.{PA:20}||I'm going to give you another chance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_1"
+msgid "This is really the last time,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_2"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_3"
+msgid "G{MS:0}ood evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_4"
+msgid ".{PA:20}.{PA:20}.{PA:20}That walk-in customer is back.{PA:20}||I'm going to set you up with her again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_5"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_6"
+msgid "So.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_7"
+msgid "You can be a little forceful.{PA:20}||Try to seduce her.{PA:20} Make her want you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_8"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_9"
+msgid "Your quota this time is.{PA:20}.{PA:20}.{PA:20}||80,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_10"
+msgid "If you upset her,{PA:10} you'll lose everything.{PA:20}||Understand?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_11"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_6_12"
+msgid "Great.{PA:20}||Get going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_0"
+msgid "Hey,{PA:10} Kazuma.{PA:20}||I'm going to give you another chance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_1"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_2"
+msgid "G{MS:0}ood evening!{PA:20}||I want Kazuma!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_3"
+msgid "She's chosen you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_4"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_5"
+msgid "Okay,{PA:10} listen up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_6"
+msgid "She's here to seduce you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_7"
+msgid "But you can't just let her get what||she wants.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_8"
+msgid "You've got to be a tease.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_9"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_10"
+msgid "Your quota is 200,{PA:10}000 yen.{PA:20}||It's a little high.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_11"
+msgid "If she loses interest and leaves,{PA:10}||you'll lose it all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_12"
+msgid "I know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_7_13"
+msgid "Great.{PA:20}||Get going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_0"
+msgid "Hey,{PA:10} Kazuma.{PA:20}||I'm going to give you another chance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_1"
+msgid "Thanks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_2"
+msgid "G{MS:0}ood evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_3"
+msgid "I{MS:0}s Kazuma here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_4"
+msgid "As you can see,{PA:10}||she's chosen you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_5"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_6"
+msgid "As I said before.{PA:20}.{PA:20}.{PA:20}||You can't just simply give in to her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_7"
+msgid "Squirm away at the last minute.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_8"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_9"
+msgid "Your quota this time is 400,{PA:10}000 yen.{PA:20}||If you succeed,{PA:10} you'll be in the ranks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_10"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_11"
+msgid "Of course,{PA:10} if you upset her and she leaves,{PA:10}||you lose it all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_12"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_13"
+msgid "Great,{PA:10} get going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_8_14"
+msgid "Got it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_0"
+msgid "Hey,{PA:10} Kazuma.{PA:20}||This is your last chance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_1"
+msgid "Thanks to Ayumi's kindness,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_2"
+msgid "we can have another||sales showdown.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_3"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_4"
+msgid "Hey,{PA:10} Kazuma.{PA:20}||Don't waste this chance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_5"
+msgid "This is going to take everything||you've learned up to this point.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_6"
+msgid "The only thing you can compare||hosts with is their sales.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_7"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_8"
+msgid "Takaya just finished with the customer.{PA:20}||You're up next.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_9"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_10"
+msgid "I know I said this before,{PA:10} but||little tricks won't fly with Ayumi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_11"
+msgid "Treat her with respect,{PA:10}||and don't fool around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_12"
+msgid "Okay,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:0_9_13"
+msgid "Then get out there and||give it everything you've got!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_0_0"
+msgid "I{MS:0}'m Kazuma.{PA:20} I'm new here.{PA:20}||{MS:1}{PA:30}It{MS:2}'s nice to meet you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_0_1"
+msgid "Hi there.{PA:20}||G{MS:0}ood evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_0_2"
+msgid "So you're the new help.{PA:20}.{PA:20}.{PA:20}||H{MS:0}e's the new guy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_0_3"
+msgid "I{MS:0}'m Iori.{PA:20}❤"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_0_4"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_1_0"
+msgid "I{MS:0}'m Kazuma.{PA:20} I'm new here.{PA:20}||{MS:1}{PA:30}It{MS:2}'s nice to meet you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_1_1"
+msgid "Pleased to meet you.{PA:20}||{PA:30}I{MS:0}'m Akko.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_1_2"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_2_0"
+msgid "I'm{MS:0} Kazuma.{PA:20}||{MS:1}{PA:30}Thank you for choosing me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_2_1"
+msgid "G{MS:0}ood evening!{PA:20}||{PA:30}I{MS:1}t's me,{PA:10} Iori.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_2_2"
+msgid "N{MS:0}ice to see you again today.{PA:20}❤"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_2_3"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_3_0"
+msgid "I'm{MS:0} Kazuma.{PA:20}||{MS:1}{PA:30}Thank you for choosing me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_3_1"
+msgid "I{MS:0}t's nice to meet you.{PA:20}||{PA:30}I{MS:1}'m Tamao.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_3_2"
+msgid "I {MS:0}just want to have a good time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_3_3"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_4_0"
+msgid "I'm{MS:0} Kazuma.{PA:20}||{MS:1}{PA:30}N{MS:2}ice to meet you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_4_1"
+msgid "C{MS:0}harmed.{PA:20}||I'm Ayumi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_4_2"
+msgid "It{MS:0}'s a pleasure to meet you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_4_3"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_5_0"
+msgid "It{MS:0}'s me,{PA:10} Kazuma.{PA:20}||{MS:1}{PA:30}I{MS:2}t's nice to see you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_5_1"
+msgid "Kazuma,{PA:10} you're helping out again?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_5_2"
+msgid "Hmph.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_5_3"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_6_0"
+msgid "I'm{MS:0} Kazuma.{PA:20}||{MS:1}{PA:30}I{MS:2}t's nice to meet you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_6_1"
+msgid "Oh,{PA:10} {MS:0}it's you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_6_2"
+msgid "Oh well.{PA:20}.{PA:20}.{PA:20} I guess I can deal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_6_3"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_7_0"
+msgid "I'm{MS:0} Kazuma.{PA:20}||{MS:1}{PA:30}Thank you for choosing me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_7_1"
+msgid "G{MS:0}ood evening!{PA:20}||Let's have fun again today.{PA:20}❤"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_7_2"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_8_0"
+msgid "I'm{MS:0} Kazuma.{PA:20}||{MS:1}{PA:30}Thank you for choosing me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_8_1"
+msgid "G{MS:0}ood to see you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_8_2"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_9_0"
+msgid "I'm{MS:0} Kazuma.{PA:20}||{MS:1}{PA:30}T{MS:2}hank you for choosing me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_9_1"
+msgid "Good evening.{PA:20}||L{MS:0}et's enjoy ourselves.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:1_9_2"
+msgid "Excuse me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:2_0_0"
+msgid "I had a good time today!{PA:20}||See you next time!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:2_0_1"
+msgid "T{MS:0}hank you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:2_1_0"
+msgid "T{MS:0}hank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_0_0"
+msgid "Not too shabby out there.{PA:20}||You did well for a beginner.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_0_1"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_0_2"
+msgid "All right,{PA:10} we're closing up for the day.{PA:20}||You can head home.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_0_3"
+msgid "Here's today's pay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_0_4"
+msgid "Received 8000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_0_5"
+msgid "I'll contact you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_0_6"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_1_0"
+msgid "Unfortunately,{PA:10}||you didn't make your quota.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_1_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_1_2"
+msgid "You won't be able to make it as a host||using just plain conversation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_1_3"
+msgid "Go outside and cool off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_1_4"
+msgid ".{PA:20}.{PA:20}.{PA:20}Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_2_0"
+msgid "Idiot!{PA:20}||Why are you killing the mood?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_2_1"
+msgid "Sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_2_2"
+msgid "Go outside and cool off!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_2_3"
+msgid ".{PA:20}.{PA:20}.{PA:20}Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_0"
+msgid "All right,{PA:10} you passed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_1"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_2"
+msgid "Don't forget that sometimes a host||needs to be a little forceful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_3"
+msgid "I understand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_4"
+msgid "Are you going out with the customer later?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_5"
+msgid "I am.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_6"
+msgid "Here's today's pay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_7"
+msgid "Received 30,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_8"
+msgid "One thing I forgot to say.{PA:20}.{PA:20}.{PA:20}||Don't neglect them outside the club either.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_9"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_10"
+msgid "I'll contact you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_3_11"
+msgid "Thanks.{PA:20}||Excuse me,{PA:10} then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_4_0"
+msgid "Unfortunately,{PA:10}||you didn't make your quota.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_4_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_4_2"
+msgid "I told you that you need to be||a little forceful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_4_3"
+msgid "You still have a tendency to let||the customer walk all over you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_4_4"
+msgid "Figure out what you're doing wrong.{PA:20}||Go outside and cool off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_4_5"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_5_0"
+msgid "Idiot!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_5_1"
+msgid "You're getting eaten alive out there.{PA:20}||I told you to be forceful,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_5_2"
+msgid "Sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_5_3"
+msgid "Go outside and cool off!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_5_4"
+msgid ".{PA:20}.{PA:20}.{PA:20}Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_0"
+msgid "Well done.{PA:20}||You've gotten pretty good.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_1"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_2"
+msgid "But customers who switch their selected host"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_3"
+msgid "can cause problems between||the employees.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_4"
+msgid "She used to be Takaya's customer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_5"
+msgid "I know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_6"
+msgid "I think you'll be all right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_7"
+msgid "But you should probably watch what you do||and say around him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_8"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_9"
+msgid "All right,{PA:10} we're closing up for the day.{PA:20}||You can head home.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_10"
+msgid "Here's today's pay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_11"
+msgid "Received 50,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_12"
+msgid "I'll contact you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_6_13"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_7_0"
+msgid "Unfortunately,{PA:10}||you haven't met your quota.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_7_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_7_2"
+msgid "You're just letting the customer walk all||over you.{PA:20} I told you to be a tease!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_7_3"
+msgid "Go outside and cool off!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_7_4"
+msgid ".{PA:20}.{PA:20}.{PA:20}Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_8_0"
+msgid "Idiot!{PA:20}||I told you to be a tease,{PA:10} didn't I?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_8_1"
+msgid "I'm sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_8_2"
+msgid "You're saying all the wrong things.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_8_3"
+msgid "Go outside and cool off!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_8_4"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_0"
+msgid "That was good.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_1"
+msgid "I didn't really think you'd make it||this far.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_2"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_3"
+msgid "All right,{PA:10} we're closing up for the day.{PA:20}||You can head home.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_4"
+msgid "Here's today's pay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_5"
+msgid "Received 100,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_6"
+msgid "I'll contact you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_9_7"
+msgid "Thank you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_10_0"
+msgid "Unfortunately,{PA:10}||you didn't make your quota.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_10_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_10_2"
+msgid "I told you your capacities as a host||were being tested.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_10_3"
+msgid "There was something lacking in||how you handled her questions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_10_4"
+msgid "Go outside and cool off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_10_5"
+msgid "Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_11_0"
+msgid "Idiot!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_11_1"
+msgid "I told you not to upset her!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_11_2"
+msgid "Sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_11_3"
+msgid "Go outside and cool off!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_11_4"
+msgid ".{PA:20}.{PA:20}.{PA:20}Okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_12_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}And the winner of the||sales showdown is.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_12_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_12_2"
+msgid "Wh-What?!{PA:20} No way!{PA:20}||This is bullshit!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_12_3"
+msgid "The competition is over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_12_4"
+msgid "I was cheated!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}And the winner of the||sales showdown is.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}Takaya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_2"
+msgid "Ha ha ha ha ha!{PA:20}||I knew it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_3"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_4"
+msgid "That was probably too much||to ask of you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_5"
+msgid "You should figure out what||you were lacking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_6"
+msgid ".{PA:20}.{PA:20}.{PA:20}Sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_13_7"
+msgid "I'll contact you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_0"
+msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}||We have the winner.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_1"
+msgid "It's Takaya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_2"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_3"
+msgid "Ha ha ha ha ha!{PA:20}||The customer left halfway through!{PA:20} Ha ha!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_4"
+msgid "It might have been too||soon for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_5"
+msgid "You should figure out what||you were lacking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_6"
+msgid ".{PA:20}.{PA:20}.{PA:20}Sorry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOST_CMN_US.BIN::line:3_14_7"
+msgid "I'll contact you again.{PA:20}"
+msgstr ""
+

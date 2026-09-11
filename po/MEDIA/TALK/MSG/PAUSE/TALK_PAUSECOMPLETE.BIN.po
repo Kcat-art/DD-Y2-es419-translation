@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_0_0"
+msgid "Food"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_1_0"
+msgid "Drink"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_2_0"
+msgid "HEAT actions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_3_0"
+msgid "Hostesses"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_4_0"
+msgid "Side missions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_5_0"
+msgid "Lockers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_6_0"
+msgid "Mini-games"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:1_0_0"
+msgid "View food you've ordered at all shops that||serve food.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:1_1_0"
+msgid "View drinks you've ordered at all shops||that serve drinks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:1_2_0"
+msgid "View a list of HEAT actions you've used||in battle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:1_3_0"
+msgid "View how well liked you are by each hostess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:1_4_0"
+msgid "View your progress for side missions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:1_5_0"
+msgid "View how many keys you've collected for||the lockers in the east and west.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:1_6_0"
+msgid "View your progress in the mini-games.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_0_0"
+msgid "Kanto"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_1_0"
+msgid "Kansai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_2_0"
+msgid "■Unopened"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_3_0"
+msgid "■Can open"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_4_0"
+msgid "■Opened"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_5_0"
+msgid "Completion"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_6_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_7_0"
+msgid "???{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:2_8_0"
+msgid "%"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_0_0"
+msgid "Terrain"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_1_0"
+msgid "Weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_2_0"
+msgid "Finishing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_3_0"
+msgid "Wreckage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_4_0"
+msgid "Super Finish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_5_0"
+msgid "Komaki Style"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_6_0"
+msgid "Might"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_7_0"
+msgid "Crushing"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_8_0"
+msgid "Essence of Goriki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_9_0"
+msgid "Co-op Attack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_10_0"
+msgid "Weapon Help"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_0_0"
+msgid "Batting Cage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_1_0"
+msgid "Driving Range"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_2_0"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_3_0"
+msgid "Shogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_4_0"
+msgid "Pachi-Slot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_5_0"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_6_0"
+msgid "UFO Catcher"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_7_0"
+msgid "YF6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_8_0"
+msgid "Casinos"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_9_0"
+msgid "Gambler's Den"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_10_0"
+msgid "Most Home Runs"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_11_0"
+msgid "High Score"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_12_0"
+msgid "High Score"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_13_0"
+msgid "Current Rank"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_14_0"
+msgid "Most Medals"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_15_0"
+msgid "High Score"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_16_0"
+msgid "Total Acquired"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_17_0"
+msgid "Results"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_18_0"
+msgid "Total Chips"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_19_0"
+msgid "Total Points"
+msgstr ""
+

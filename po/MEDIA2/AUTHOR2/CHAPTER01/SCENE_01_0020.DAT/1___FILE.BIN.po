@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Thought you'd come in here and start"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:0_0_1"
+msgid "something,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "You think we can't handle trash like you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Hey.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "You're those Chinese punks,{PA:10} aren't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "That gang that's been causing trouble"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:4_0_1"
+msgid "at all the clubs?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I'm glad you know us.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Now bring us your money!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "We've got nothing for you here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "If you want to try forcing your way in.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:9_0_0"
+msgid "You're more than welcome to try!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:10_0_0"
+msgid "You got balls for a Japanese!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:11_0_0"
+msgid "And don't come back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:12_0_0"
+msgid "We're not handing anything over"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:12_0_1"
+msgid "to foreign assholes like you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Damn,{PA:10} boss.{PA:20}.{PA:20}.{PA:20} Amazing as ever!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:14_0_0"
+msgid "This town's gone to the dogs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Do you think something's going on?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:15_0_1"
+msgid "Something like last year?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:16_0_0"
+msgid "God,{PA:10} I hope not.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0020.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Still,{PA:10} I wish Mr.{PA:20} Kiryu were around.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "This ain't a date spot,{PA:10} kids.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "This is Sugiura's work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Surprised ya got yer hands on one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}So?{PA:20} Who you playin'?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Murai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Murai?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Yes,{PA:10} a man named Murai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Are you Mr.{PA:20} Murai?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "This is what the board looked like after the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:8_0_1"
+msgid "142nd round of the 1984 Meijin Match.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "The challenger,{PA:10} Yabuta,{PA:10} made his move.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:9_0_1"
+msgid "Promoted bishop to 5-8.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid "That was what sealed his defeat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Any pro would know the standard move would"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:11_0_1"
+msgid "be silver general to 4-3 to defend the king.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Why would Yabuta go on the offensive?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:13_0_0"
+msgid "People called it a rookie mistake,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:13_0_1"
+msgid "but I don't buy it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:14_0_0"
+msgid "There's something I'd like to ask you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:15_0_0"
+msgid "There's nothing I know that'd be of"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:15_0_1"
+msgid "interest to a young lady like you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Bessho from the Osaka Police told me"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:16_0_1"
+msgid "about you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Don't worry,{PA:10} I work under Chief Bessho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:18_0_0"
+msgid "I want to ask you about the Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:19_0_0"
+msgid "You remember that night,{PA:10} don't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:19_0_1"
+msgid "In Kamurocho?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:20_0_0"
+msgid "I think I may be one of the survivors.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Were there any children there young enough"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:21_0_1"
+msgid "not to remember it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:22_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}There was one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Please,{PA:10} I need details!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:24_0_0"
+msgid "If you can live without knowing,{PA:10} you'll be"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:24_0_1"
+msgid "a lot better off.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Please,{PA:10} tell me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:26_0_0"
+msgid "After losing that day,{PA:10} Yabuta quit shogi,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:26_0_1"
+msgid "fell to booze and eventually died.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:27_0_0"
+msgid "He was bent on reaching the top,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:27_0_1"
+msgid "My guess is he realized he couldn't cut it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Just wasn't in the cards for him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:29_0_0"
+msgid "In the end he played the move as he saw fit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:29_0_1"
+msgid "Man chose his own death.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Life can be cruel.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:31_0_0"
+msgid "You made it this far without knowing,{PA:10} miss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:32_0_0"
+msgid "No reason to take on that burden now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:33_0_0"
+msgid "I'm prepared to handle it,{PA:10} whatever it is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:34_0_0"
+msgid "That's why I came here today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:35_0_0"
+msgid "I'm begging you!{PA:20} Please,{PA:10} tell me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:36_0_0"
+msgid "I'm not going anywhere until you do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Please!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:38_0_0"
+msgid "It was Christmas.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Christmas?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:40_0_0"
+msgid "We were all busy celebrating when the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:40_0_1"
+msgid "Dojima family burst in.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:41_0_0"
+msgid "They killed man after man.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:42_0_0"
+msgid "But you three managed to survive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:43_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:44_0_0"
+msgid "You managed to flee to Kansai with help from"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:44_0_1"
+msgid "Kawara and Chief Bessho,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:45_0_0"
+msgid "Yeah,{PA:10} but men sent in from the mainland"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:45_0_1"
+msgid "found me down here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:46_0_0"
+msgid "Still,{PA:10} here I am today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:47_0_0"
+msgid "How?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:48_0_0"
+msgid "I sold them out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:49_0_0"
+msgid "The other two survivors?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:50_0_0"
+msgid "No,{PA:10} not Daejin Kim and Yeongmin Ji.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:51_0_0"
+msgid "Daejin Kim and.{PA:20}.{PA:20}.{PA:20}Yeongmin Ji ?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:52_0_0"
+msgid "They were only 16 at the time,{PA:10} but somehow"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:52_0_1"
+msgid "they made it out all right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:53_0_0"
+msgid "I don't know where they are now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:54_0_0"
+msgid "So who did you sell out,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:55_0_0"
+msgid "There were.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:56_0_0"
+msgid "There were two more.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:57_0_0"
+msgid "Two other survivors.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:58_0_0"
+msgid "The.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:59_0_0"
+msgid "The boss's wife.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:60_0_0"
+msgid "And her child.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:61_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Her child?{PA:20}"
+msgstr ""
+

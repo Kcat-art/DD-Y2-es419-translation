@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_5_0"
+msgid "Excuse me.{PA:20}.{PA:20}.{PA:20} Sir.{PA:20}.{PA:20}.{PA:20}||It seems you're a little short.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_6_0"
+msgid "That comes to.{PA:20}.{PA:20}.{PA:20}||{NU:02_0c_00}000000000000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_7_0"
+msgid "Is there anything else I can get for you||today?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_8_0"
+msgid "I don't think you can carry anything else.{PA:20}.{PA:20}.{PA:20}||Please come back when you can.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:0_10_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_0_0"
+msgid "Oden Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_1_0"
+msgid "Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_2_0"
+msgid "Spaghetti With Meat Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_3_0"
+msgid "Fried Chicken Lunch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_4_0"
+msgid "Pudding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_5_0"
+msgid "Seaweed Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_6_0"
+msgid "Tuna Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_7_0"
+msgid "Frankfurter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_8_0"
+msgid "Melon Bread"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_9_0"
+msgid "Tonkatsu Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_10_0"
+msgid "Boss Rainbow Mountain Blend"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_11_0"
+msgid "Pepsi NEX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_12_0"
+msgid "Gatorade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_13_0"
+msgid "Suntory Oolong Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_14_0"
+msgid "Natchan Orange"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:1_15_0"
+msgid "Rope"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_0_0"
+msgid "A regular oden set.{PA:20} I think it has six||different things stewed together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_1_0"
+msgid "A carton of milk.{PA:20} It's good for you,{PA:10}||you know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_2_0"
+msgid "Spaghetti with meat sauce.{PA:20}||It's loaded with meat and mushrooms.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_3_0"
+msgid "A fried chicken lunch set.{PA:20} Tasty because||it's made with free-range chicken.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_4_0"
+msgid "Pudding.{PA:20} Its smooth texture makes||it a popular treat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_5_0"
+msgid "A seaweed rice ball.{PA:20} It's filled with kelp||stewed in a soy sauce broth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_6_0"
+msgid "A tuna rice ball.{PA:20} It's filled with tuna fish||and mayonnaise.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_7_0"
+msgid "This frankfurter represents a revival in||true German cooking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_8_0"
+msgid "Melon bread has an outer cookie crust,{PA:10} and||is stuffed with melon cream filling.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_9_0"
+msgid "This sandwich is made with a thick pork||cutlet and shredded cabbage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_10_0"
+msgid "A can of Boss Rainbow Mountain Blend coffee||that's full-bodied and goes down smooth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_11_0"
+msgid "A bottle of Pepsi NEX.{PA:20} Delicious,{PA:10} with||zero calories.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_12_0"
+msgid "A bottle of Gatorade.{PA:20} It's refreshing and||replenishes your body's moisture.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_13_0"
+msgid "A bottle of Suntory Oolong Tea,{PA:10} the||standard in oolong teas.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_14_0"
+msgid "A bottle of Natchan Orange,{PA:10} a refreshing||orange beverage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0007.BIN::line:2_15_0"
+msgid "A rope.{PA:20} It has a lot of uses.{PA:20}"
+msgstr ""
+

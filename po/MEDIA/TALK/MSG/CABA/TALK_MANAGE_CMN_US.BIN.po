@@ -1,0 +1,3693 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::name:0"
+msgid "Masashi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::name:1"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:0_0_0"
+msgid "Management Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:0_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:1_0_0"
+msgid "First Explanation"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:1_1_0"
+msgid "What would you like to do?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:2_0_0"
+msgid "Club Status"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:2_1_0"
+msgid "Check the current state of the club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:3_0_0"
+msgid "Price Settings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:3_1_0"
+msgid "Adjust the club's prices.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:4_0_0"
+msgid "Menu Settings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:4_1_0"
+msgid "Adjust the club's menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:5_0_0"
+msgid "Purchase Furnishings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:5_1_0"
+msgid "Purchase goods to furnish the interior||of the club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:6_0_0"
+msgid "Change Furnishings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:6_1_0"
+msgid "Change the club's interior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:7_0_0"
+msgid "Conversation"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:7_1_0"
+msgid "Speak to a hostess about her work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:8_0_0"
+msgid "Exit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:8_1_0"
+msgid "Exit the club settings menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:9_0_0"
+msgid "Conversation Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:9_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:10_0_0"
+msgid "First Explanation"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:10_1_0"
+msgid "What would you like to do?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:11_0_0"
+msgid "Recent Status"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:11_1_0"
+msgid "Ask the hostess how she is doing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:12_0_0"
+msgid "Present"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:12_1_0"
+msgid "Give a present.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:13_0_0"
+msgid "Scold"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:13_1_0"
+msgid "Scold the hostess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:14_0_0"
+msgid "Compliment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:14_1_0"
+msgid "Compliment the hostess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:15_0_0"
+msgid "Give Bonus"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:15_1_0"
+msgid "Give the hostess a bonus check.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:16_0_0"
+msgid "Exit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:16_1_0"
+msgid "Exit the conversation menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:17_0_0"
+msgid "First Explanation"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:17_1_0"
+msgid "What price range should we use?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:18_0_0"
+msgid "15,{PA:10}000-30,{PA:10}000 Yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:18_1_0"
+msgid "This price range is quite expensive.{PA:20}||The club needs to be top-notch for that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:19_0_0"
+msgid "10,{PA:10}000-15,{PA:10}000 Yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:19_1_0"
+msgid "This price range is a little expensive.{PA:20}||Our service will need to be very good.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:20_0_0"
+msgid "8,{PA:10}000-10,{PA:10}000 Yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:20_1_0"
+msgid "This is the average price range.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:21_0_0"
+msgid "5,{PA:10}000-8,{PA:10}000 Yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:21_1_0"
+msgid "This is a reasonable price range.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:22_0_0"
+msgid "2,{PA:10}000-5,{PA:10}000 Yen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:22_1_0"
+msgid "This is an extremely cheap price range.{PA:20}||It might be hard to make money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:23_0_0"
+msgid "Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:23_1_0"
+msgid "Return to the menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:24_0_0"
+msgid "First Explanation"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:24_1_0"
+msgid "What menu should we use?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:25_0_0"
+msgid "Top-Quality VIP Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:25_1_0"
+msgid "A very expensive menu that ensures||the highest level of satisfaction.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:26_0_0"
+msgid "High-Class Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:26_1_0"
+msgid "An expensive menu that ensures||a high level of satisfaction.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:27_0_0"
+msgid "Ordinary Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:27_1_0"
+msgid "A moderately priced menu that||should satisfy most customers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:28_0_0"
+msgid "Cheap Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:28_1_0"
+msgid "There's no need to worry about the cost,{PA:10}||but don't expect customer satisfaction.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:29_0_0"
+msgid "Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:29_1_0"
+msgid "Return to the menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:30_0_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:30_1_0"
+msgid "(Maybe I should give her a present.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:31_0_0"
+msgid "First Explanation"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:31_1_0"
+msgid "Who should I call?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:32_0_0"
+msgid "Chinatsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:32_1_0"
+msgid "Call Chinatsu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:33_0_0"
+msgid "Miho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:33_1_0"
+msgid "Call Miho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:34_0_0"
+msgid "Rika"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:34_1_0"
+msgid "Call Rika.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:35_0_0"
+msgid "Ran"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:35_1_0"
+msgid "Call Ran.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:36_0_0"
+msgid "Akira"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:36_1_0"
+msgid "Call Akira.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:37_0_0"
+msgid "Mayu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:37_1_0"
+msgid "Call Mayu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:38_0_0"
+msgid "Hanako"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:38_1_0"
+msgid "Call Hanako.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:39_0_0"
+msgid "Sakura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:39_1_0"
+msgid "Call Sakura.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:40_0_0"
+msgid "Ai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:40_1_0"
+msgid "Call Ai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:41_0_0"
+msgid "Yuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:41_1_0"
+msgid "Call Yuri.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:42_0_0"
+msgid "Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:42_1_0"
+msgid "Return to the menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:43_0_0"
+msgid "Rating"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:43_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:44_0_0"
+msgid "Set Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:44_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:45_0_0"
+msgid "Very Expensive"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:45_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:46_0_0"
+msgid "Expensive"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:46_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:47_0_0"
+msgid "Average"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:47_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:48_0_0"
+msgid "Reasonable"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:48_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:49_0_0"
+msgid "Cheap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:49_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:50_0_0"
+msgid "Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:50_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:51_0_0"
+msgid "Top-Quality Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:51_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:52_0_0"
+msgid "High-Class Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:52_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:53_0_0"
+msgid "Ordinary Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:53_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:54_0_0"
+msgid "Cheap Menu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:54_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:55_0_0"
+msgid "Club Sales"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:55_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:56_0_0"
+msgid "Furnishings Rating"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:56_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:57_0_0"
+msgid "▼"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:57_1_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:58_0_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:58_1_0"
+msgid "What would you like for the club's interior?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:58_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:59_0_0"
+msgid "Sofas"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:59_1_0"
+msgid "Purchase sofas.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:59_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:60_0_0"
+msgid "Tables"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:60_1_0"
+msgid "Purchase tables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:60_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:61_0_0"
+msgid "Chandeliers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:61_1_0"
+msgid "Purchase chandeliers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:61_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:62_0_0"
+msgid "Lighting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:62_1_0"
+msgid "Purchase lighting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:62_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:63_0_0"
+msgid "Wallpaper"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:63_1_0"
+msgid "Purchase wallpaper.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:63_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:64_0_0"
+msgid "Decorative Plants"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:64_1_0"
+msgid "Purchase decorative plants.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:64_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:65_0_0"
+msgid "Paintings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:65_1_0"
+msgid "Purchase paintings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:65_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:66_0_0"
+msgid "Flooring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:66_1_0"
+msgid "Purchase carpeting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:66_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:67_0_0"
+msgid "Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:67_1_0"
+msgid "Return to the menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:67_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:68_0_0"
+msgid "Sofa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:68_1_0"
+msgid "Place sofas.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:68_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:69_0_0"
+msgid "Table"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:69_1_0"
+msgid "Place tables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:69_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:70_0_0"
+msgid "Chandelier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:70_1_0"
+msgid "Place chandeliers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:70_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:71_0_0"
+msgid "Lamp"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:71_1_0"
+msgid "Install lighting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:71_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:72_0_0"
+msgid "Wallpaper"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:72_1_0"
+msgid "Hang wallpaper.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:72_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:73_0_0"
+msgid "Decorative Plant"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:73_1_0"
+msgid "Place decorative plants.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:73_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:74_0_0"
+msgid "Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:74_1_0"
+msgid "Hang paintings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:74_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:75_0_0"
+msgid "Flooring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:75_1_0"
+msgid "Install carpeting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:75_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:76_0_0"
+msgid "Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:76_1_0"
+msgid "Return to the management menu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:76_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:77_0_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:77_1_0"
+msgid "Which will you buy?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:77_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:78_0_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:78_1_0"
+msgid "Which do you want to use?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:78_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:79_0_0"
+msgid "Sofa (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:79_1_0"
+msgid "A black sofa that was part of the club's||original furnishings.{PA:20} They're rather old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:79_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:80_0_0"
+msgid "Casual Sofa (Red)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:80_1_0"
+msgid "A red sofa popular with young people.{PA:20}||Not very comfortable to sit on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:80_2_0"
+msgid "¥500,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:81_0_0"
+msgid "Leather Sofa (White)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:81_1_0"
+msgid "A chic,{PA:10} adult sofa.{PA:20}||It's quite sturdy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:81_2_0"
+msgid "¥600,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:82_0_0"
+msgid "Sofa (White)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:82_1_0"
+msgid "A white sofa that was part of the expanded||club's furnishings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:82_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:83_0_0"
+msgid "Velour Sofa (Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:83_1_0"
+msgid "A blue velour sofa.{PA:20}||It's exceptionally soft to the touch.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:83_2_0"
+msgid "¥1,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:84_0_0"
+msgid "Striped Sofa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:84_1_0"
+msgid "A designer sofa that really pops.{PA:20}||The workmanship is a little rough.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:84_2_0"
+msgid "¥1,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:85_0_0"
+msgid "Leather Sofa (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:85_1_0"
+msgid "An exquisite leather sofa.{PA:20}||It's quite comfortable.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:85_2_0"
+msgid "¥1,{PA:10}200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:86_0_0"
+msgid "Leather Sofa (Brown)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:86_1_0"
+msgid "A brown sofa that was part of the expanded||club's furnishings.{PA:20} Not very comfortable.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:86_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:87_0_0"
+msgid "Modern Sofa (Green)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:87_1_0"
+msgid "A green sofa designed by a famous artist.{PA:20}||Average comfort.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:87_2_0"
+msgid "¥1,{PA:10}700,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:88_0_0"
+msgid "Animal Sofa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:88_1_0"
+msgid "A stylish,{PA:10} zebra-striped sofa.{PA:20}||Comfortable to sit on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:88_2_0"
+msgid "¥1,{PA:10}700,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:89_0_0"
+msgid "Snake Sofa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:89_1_0"
+msgid "A sofa upholstered with snake skin.{PA:20}||Nothing is more luxurious.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:89_2_0"
+msgid "¥2,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:90_0_0"
+msgid "Steel Table (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:90_1_0"
+msgid "A black table that was part of the club's||original furnishings.{PA:20} It's rather old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:90_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:91_0_0"
+msgid "Designer Table (Red)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:91_1_0"
+msgid "A poppy red designer table.{PA:20}||It has an attractive design.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:91_2_0"
+msgid "¥500,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:92_0_0"
+msgid "Marble Table (White)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:92_1_0"
+msgid "A marble table with a mature feel.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:92_2_0"
+msgid "¥550,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:93_0_0"
+msgid "Steel Table"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:93_1_0"
+msgid "A table that was part of the expanded club's||furnishings.{PA:20} Cheap,{PA:10} but sturdy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:93_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:94_0_0"
+msgid "Checkerboard Table"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:94_1_0"
+msgid "A red-and-black checkerboard table||popular with women.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:94_2_0"
+msgid "¥850,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:95_0_0"
+msgid "Vintage Table"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:95_1_0"
+msgid "A table made from vintage wood.{PA:20}||Beautifully crafted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:95_2_0"
+msgid "¥850,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:96_0_0"
+msgid "Marble Table (Deep Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:96_1_0"
+msgid "A luxurious marble table.{PA:20}||Very high class.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:96_2_0"
+msgid "¥900,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:97_0_0"
+msgid "Marble Table (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:97_1_0"
+msgid "A table that was part of the expanded club's||furnishings.{PA:20} Roughly built.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:97_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:98_0_0"
+msgid "Modern Table (Brown)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:98_1_0"
+msgid "A modern table.{PA:20}||The legs are very chic.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:98_2_0"
+msgid "¥1,{PA:10}800,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:99_0_0"
+msgid "Stone Table"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:99_1_0"
+msgid "A table made entirely of marble.{PA:20}||It's quite heavy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:99_2_0"
+msgid "¥1,{PA:10}200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:100_0_0"
+msgid "Colorful Table"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:100_1_0"
+msgid "A table with an intense design.{PA:20}||It certainly draws the eye.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:100_2_0"
+msgid "¥1,{PA:10}500,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:101_0_0"
+msgid "Chandelier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:101_1_0"
+msgid "A chandelier that was part of the club's||furnishings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:101_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:102_0_0"
+msgid "Designer Chandelier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:102_1_0"
+msgid "An expensive chandelier by a famous||designer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:102_2_0"
+msgid "¥1,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:103_0_0"
+msgid "Vintage Chandelier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:103_1_0"
+msgid "A high-class,{PA:10} vintage chandelier.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:103_2_0"
+msgid "¥2,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:104_0_0"
+msgid "Lamp (Standard)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:104_1_0"
+msgid "A lamp that was part of the club's original||furnishings.{PA:20} Very commonplace.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:104_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:105_0_0"
+msgid "Lamp (Design)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:105_1_0"
+msgid "An Asian-styled lamp.{PA:20}||The wooden shade gives it a touch of style.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:105_2_0"
+msgid "¥200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:106_0_0"
+msgid "Lamp (Antique)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:106_1_0"
+msgid "A chic,{PA:10} antique lamp.{PA:20}||Glows softly to soothe customers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:106_2_0"
+msgid "¥210,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:107_0_0"
+msgid "Lamp (Modern)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:107_1_0"
+msgid "A stylishly-designed lamp that was part of||the club's furnishings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:107_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:108_0_0"
+msgid "Lamp (Vintage)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:108_1_0"
+msgid "A vintage lamp with a simple,{PA:10} warm design.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:108_2_0"
+msgid "¥300,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:109_0_0"
+msgid "Lamp (Stained glass)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:109_1_0"
+msgid "A stained-glass lamp that's visually||striking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:109_2_0"
+msgid "¥500,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:110_0_0"
+msgid "Lamp (Square)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:110_1_0"
+msgid "A stylish triple lamp that was part of the||club's furnishings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:110_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:111_0_0"
+msgid "Lamp (Pearl)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:111_1_0"
+msgid "A lamp with a pearl motif.{PA:20}||An unimposing design.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:111_2_0"
+msgid "¥850,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:112_0_0"
+msgid "Lamp (Crystal)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:112_1_0"
+msgid "A lamp designed with crystals.{PA:20}||It makes any area seem luxurious.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:112_2_0"
+msgid "¥900,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:113_0_0"
+msgid "Lamp (European)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:113_1_0"
+msgid "A lamp imported from Europe.{PA:20}||Very refined.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:113_2_0"
+msgid "¥900,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:114_0_0"
+msgid "Wallpaper (Standard)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:114_1_0"
+msgid "Wallpaper of modest design.{PA:20} Part of the||club's original furnishings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:114_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:115_0_0"
+msgid "Wallpaper (Diamond)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:115_1_0"
+msgid "Wallpaper with a playful diamond pattern.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:115_2_0"
+msgid "¥400,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:116_0_0"
+msgid "Wallpaper (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:116_1_0"
+msgid "Black wallpaper.{PA:20}||Simple,{PA:10} but with a mature feel.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:116_2_0"
+msgid "¥400,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:117_0_0"
+msgid "Wallpaper (Oriental)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:117_1_0"
+msgid "Oriental wallpaper that was part of the||club's furnishings.{PA:20}||A mature design.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:117_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:118_0_0"
+msgid "Wallpaper (Cherry)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:118_1_0"
+msgid "Cherry-patterned wallpaper.{PA:20}||A playful design.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:118_2_0"
+msgid "¥400,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:119_0_0"
+msgid "Wallpaper (Gothic)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:119_1_0"
+msgid "Wallpaper with a conservative Gothic design.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:119_2_0"
+msgid "¥600,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:120_0_0"
+msgid "Wall (Maple)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:120_1_0"
+msgid "Wall made from maple wood.{PA:20}||Part of the club's furnishings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:120_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:121_0_0"
+msgid "Wall (Oak)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:121_1_0"
+msgid "Red oak wall.{PA:20}||Creates a calm atmosphere.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:121_2_0"
+msgid "¥600,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:122_0_0"
+msgid "Wallpaper (Rainbow)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:122_1_0"
+msgid "Wallpaper with a rainbow pattern.{PA:20}||A bold design.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:122_2_0"
+msgid "¥800,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:123_0_0"
+msgid "Wall (Gold)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:123_1_0"
+msgid "A wall with gold plating.{PA:20}||Makes a dazzling impression.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:123_2_0"
+msgid "¥1,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:124_0_0"
+msgid "Yucca"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:124_1_0"
+msgid "A potted plant that was part of the club's||furnishings.{PA:20} Easy to maintain.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:124_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:125_0_0"
+msgid "Weeping Fig"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:125_1_0"
+msgid "A popular plant,{PA:10} it's very relaxing to||look at.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:125_2_0"
+msgid "¥200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:126_0_0"
+msgid "Cactus"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:126_1_0"
+msgid "A huge cactus.{PA:20}||Very Freudian.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:126_2_0"
+msgid "¥200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:127_0_0"
+msgid "Sage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:127_1_0"
+msgid "A plant that was part of the club's||furnishings.{PA:20} Has a sweet smell.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:127_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:128_0_0"
+msgid "Rafflesia"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:128_1_0"
+msgid "A huge flower that blooms in South America.{PA:20}||It's very striking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:128_2_0"
+msgid "¥800,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:129_0_0"
+msgid "Baby's Breath"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:129_1_0"
+msgid "Baby's breath made with glasswork.{PA:20}||It's dazzling in the light.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:129_2_0"
+msgid "¥800,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:130_0_0"
+msgid "No Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:130_1_0"
+msgid "Don't hang a painting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:130_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:131_0_0"
+msgid "Country Scene"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:131_1_0"
+msgid "A decent painting.{PA:20}||Has a slight healing effect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:131_2_0"
+msgid "¥150,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:132_0_0"
+msgid "No Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:132_1_0"
+msgid "Don't hang a painting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:132_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:133_0_0"
+msgid "Cat Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:133_1_0"
+msgid "A painting of a cat by a somewhat famous||artist.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:133_2_0"
+msgid "¥200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:134_0_0"
+msgid "Nightmare Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:134_1_0"
+msgid "Painted by a famous artist.{PA:20}||The average person can't comprehend it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:134_2_0"
+msgid "¥200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:135_0_0"
+msgid "Fantasy Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:135_1_0"
+msgid "Painted by a famous painter.{PA:20}||Very detailed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:135_2_0"
+msgid "¥220,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:136_0_0"
+msgid "Bird and Flower Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:136_1_0"
+msgid "A huge painting of birds and flowers.{PA:20}||Uses very vivid colors.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:136_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:137_0_0"
+msgid "Lake Shore Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:137_1_0"
+msgid "A famous painting of a Dutch lake shore.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:137_2_0"
+msgid "¥1,{PA:10}200,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:138_0_0"
+msgid "Soul Painting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:138_1_0"
+msgid "A very rare pop-art painting.{PA:20}||It draws the viewer in.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:138_2_0"
+msgid "¥1,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:139_0_0"
+msgid "Carpet (Basic)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:139_1_0"
+msgid "The club's original carpeting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:139_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:140_0_0"
+msgid "Carpet (Red)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:140_1_0"
+msgid "A bright red carpet.{PA:20}||Feels very high class.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:140_2_0"
+msgid "¥800,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:141_0_0"
+msgid "Carpet (Animal)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:141_1_0"
+msgid "A leopard-print carpet.{PA:20}||Quite chic.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:141_2_0"
+msgid "¥800,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:142_0_0"
+msgid "Carpet (Grey)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:142_1_0"
+msgid "The club's original carpeting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:142_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:143_0_0"
+msgid "Carpet (Rose)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:143_1_0"
+msgid "A red carpet that creates a calm,{PA:10}||mature atmosphere.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:143_2_0"
+msgid "¥900,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:144_0_0"
+msgid "Carpet (Pop)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:144_1_0"
+msgid "A stylish blue carpet.{PA:20}||Brightens up the club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:144_2_0"
+msgid "¥800,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:145_0_0"
+msgid "Carpet (Brown)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:145_1_0"
+msgid "The club's original carpeting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:145_2_0"
+msgid "null"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:146_0_0"
+msgid "Carpet (Purple)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:146_1_0"
+msgid "A stylish purple carpet.{PA:20}||Brightens up the club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:146_2_0"
+msgid "¥700,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:147_0_0"
+msgid "Carpet (Gothic)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:147_1_0"
+msgid "A chic black carpet.{PA:20}||Feels very high class.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:147_2_0"
+msgid "¥1,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:148_0_0"
+msgid "Tile (White)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:148_1_0"
+msgid "White tile with a fresh feel.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:148_2_0"
+msgid "¥2,{PA:10}000,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_0"
+msgid "dummy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_1"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_2"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_3"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_4"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_5"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_6"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_7"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_8"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_9"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_10"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_11"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_12"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_13"
+msgid "Dragon Fang Needle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_14"
+msgid "Recovery Medicine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_15"
+msgid "Adhesive Bandage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_16"
+msgid "Hangover Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_17"
+msgid "Turmeric Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_18"
+msgid "White Miracle Tonic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_19"
+msgid "Skanda Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_20"
+msgid "Oden Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_21"
+msgid "Salmon Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_22"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_23"
+msgid "Club Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_24"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_25"
+msgid "Steamed Bun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_26"
+msgid "Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_27"
+msgid "Spaghetti With Meat Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_28"
+msgid "Fried Chicken Lunch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_29"
+msgid "Pudding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_30"
+msgid "Seaweed Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_31"
+msgid "Tuna Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_32"
+msgid "Frankfurter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_33"
+msgid "Melon Bread"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_34"
+msgid "Tonkatsu Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_35"
+msgid "Soba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_36"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_37"
+msgid "Hamburger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_38"
+msgid "Fish Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_39"
+msgid "French Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_40"
+msgid "Strawberry Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_41"
+msgid "Chocolate Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_42"
+msgid "Neapolitan Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_43"
+msgid "Vanilla Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_44"
+msgid "Beef Bowl (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_45"
+msgid "Beef Bowl (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_46"
+msgid "Beef Bowl (Special)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_47"
+msgid "Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_48"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_49"
+msgid "Won Ton Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_50"
+msgid "Half Ramen,{PA:10} Extra Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_51"
+msgid "Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_52"
+msgid "Spicy Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_53"
+msgid "Ichiban Star Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_54"
+msgid "Ichiban Star Ichiban Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_55"
+msgid "Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_56"
+msgid "Seaweed Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_57"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_58"
+msgid "Black Sesame Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_59"
+msgid "Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_60"
+msgid "Silk Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_61"
+msgid "Sky Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_62"
+msgid "Peach Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_0_63"
+msgid "Big Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_0"
+msgid "Chai Panda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_1"
+msgid "Araracoon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_2"
+msgid "Teddy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_3"
+msgid "Dragan (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_4"
+msgid "Dragan (Gold)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_5"
+msgid "Yamazaki 50 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_6"
+msgid "Yamazaki 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_7"
+msgid "Yamazaki 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_8"
+msgid "Hakushu 18 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_9"
+msgid "Hakushu 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_10"
+msgid "The Macallan 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_11"
+msgid "The Macallan 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_12"
+msgid "Laphroaig 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_13"
+msgid "Laphroaig 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_14"
+msgid "Bowmore 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_15"
+msgid "Glenfiddich 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_16"
+msgid "Glenfiddich 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_17"
+msgid "Hibiki 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_18"
+msgid "Hibiki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_19"
+msgid "Hokuto 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_20"
+msgid "Kakubin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_21"
+msgid "Ballantine's 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_22"
+msgid "Ballantine's 17 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_23"
+msgid "Ballantine's Finest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_24"
+msgid "Jack Daniel's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_25"
+msgid "Early Times"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_26"
+msgid "Suntory Brandy X.{PA:20}O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_27"
+msgid "Suntory Brandy V.S.O.P"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_28"
+msgid "Suntory Brandy V.O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_29"
+msgid "Courvoisier XO"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_30"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_31"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_32"
+msgid "Carlsberg"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_33"
+msgid "Kyogetsu GREEN"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_34"
+msgid "Beefeater"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_35"
+msgid "Lemon Hart Demerara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_36"
+msgid "Herradura Tequila Silver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_37"
+msgid "Skyy Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_38"
+msgid "Stolichnaya Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_39"
+msgid "The Suntory Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_40"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_41"
+msgid "Hamburger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_42"
+msgid "Fish Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_43"
+msgid "French Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_44"
+msgid "Burger Set A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_45"
+msgid "Burger Set B"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_46"
+msgid "Burger Set C"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_47"
+msgid "Smile Cheeseburger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_48"
+msgid "Teriyaki Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_49"
+msgid "King Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_50"
+msgid "Tuna Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_51"
+msgid "Stewed Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_52"
+msgid "Smile Shake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_53"
+msgid "Smile Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_54"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_55"
+msgid "Premium Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_56"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_57"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_58"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_59"
+msgid "Lemon Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_60"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_61"
+msgid "Apple Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_62"
+msgid "Lemon Spritzer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_1_63"
+msgid "Warm Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_0"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_1"
+msgid "Tomato Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_2"
+msgid "Toast Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_3"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_4"
+msgid "Pasta Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_5"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_6"
+msgid "Today's Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_7"
+msgid "Cafe Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_8"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_9"
+msgid "Caramel Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_10"
+msgid "Mille Crepes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_11"
+msgid "Mixed Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_12"
+msgid "Central Blend Short"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_13"
+msgid "Central Blend Tall"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_14"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_15"
+msgid "Central Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_16"
+msgid "Central Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_17"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_18"
+msgid "Soy Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_19"
+msgid "Shortcake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_20"
+msgid "Demon's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_21"
+msgid "Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_22"
+msgid "Bulletproof Vest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_23"
+msgid "Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_24"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_25"
+msgid "Dragon's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_26"
+msgid "Bulletproof Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_27"
+msgid "Fearless Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_28"
+msgid "Western Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_29"
+msgid "Lifestone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_30"
+msgid "Red Rose Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_31"
+msgid "Beads of Good Fortune"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_32"
+msgid "Sake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_33"
+msgid "Monogrammed Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_34"
+msgid "French Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_35"
+msgid "French Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_36"
+msgid "Italian Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_37"
+msgid "Italian Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_38"
+msgid "French Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_39"
+msgid "French Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_40"
+msgid "Italian Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_41"
+msgid "Italian Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_42"
+msgid "French Handbag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_43"
+msgid "Italian Shoulder Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_44"
+msgid "Swiss Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_45"
+msgid "Asian Digital Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_46"
+msgid "Japanese Diver's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_47"
+msgid "French Haute Couture Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_48"
+msgid "French Prêt-à-Porter Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_49"
+msgid "Italian Women's Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_50"
+msgid "Italian Women's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_51"
+msgid "Italian Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_52"
+msgid "Caviar Skin Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_53"
+msgid "Italian Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_54"
+msgid "Italian Men's Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_55"
+msgid "British Women's Coat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_56"
+msgid "German Luxury Car"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_57"
+msgid "Yacht"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_58"
+msgid "Penthouse Apartment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_59"
+msgid "Pocket Tissues"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_60"
+msgid "Cat Food"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_61"
+msgid "Dog Food"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_62"
+msgid "Flier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_2_63"
+msgid "Lucky Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_0"
+msgid "10G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_1"
+msgid "100G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_2"
+msgid "1000G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_3"
+msgid "Matches"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_4"
+msgid "Snack Sampler"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_5"
+msgid "Pink Lily Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_6"
+msgid "Cookie Sampler"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_7"
+msgid "Sledgehammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_8"
+msgid "Beer Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_9"
+msgid "Rope"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_10"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_11"
+msgid "Crowbar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_12"
+msgid "Old Chinese Broadswd"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_13"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_14"
+msgid "Lamp"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_15"
+msgid "Golf Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_16"
+msgid "Water Pot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_17"
+msgid "Cleaver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_18"
+msgid "Patriarch's Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_19"
+msgid "Lightning Bomb"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_20"
+msgid "Attaché Case"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_21"
+msgid "Mystic Blade Mugetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_22"
+msgid "Mystic Blade Sengetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_23"
+msgid "Mystic Blade Myogetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_24"
+msgid "Katana \"Demon Fang\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_25"
+msgid "Wooden Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_26"
+msgid "Long Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_27"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_28"
+msgid "Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_29"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_30"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_31"
+msgid "Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_32"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_33"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_34"
+msgid "Nameless Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_35"
+msgid "Handmade Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_36"
+msgid "Broken Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_37"
+msgid "Motomiya's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_38"
+msgid "Elegant Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_39"
+msgid "Wooden Hammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_40"
+msgid "Smoke Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_41"
+msgid "Dart"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_42"
+msgid "Saw"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_43"
+msgid "Old Semi-Auto Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_44"
+msgid "9mm Semi-Automatic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_45"
+msgid "Modified Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_46"
+msgid "Musashi's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_47"
+msgid "Mifune's Kodachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_48"
+msgid "Tear Gas Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_49"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_50"
+msgid "Bug Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_51"
+msgid "Majima's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_52"
+msgid "Sacred Tree Bokuto"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_53"
+msgid "Mail Order Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_54"
+msgid "Special Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_55"
+msgid "Ninja Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_56"
+msgid "Tesshusai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_57"
+msgid "Mystic Blade Muramasa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_58"
+msgid "Shotgun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_59"
+msgid "Flash Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_60"
+msgid "Antique Hand Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_61"
+msgid "Butterfly Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_62"
+msgid "9mm Semi-Automatic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_3_63"
+msgid "Charisma Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_0"
+msgid "Hariti Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_1"
+msgid "Popularity Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_2"
+msgid "Charismatic Photo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_3"
+msgid "Champion's Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_4"
+msgid "Masculine Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_5"
+msgid "Angelic Bell"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_6"
+msgid "Pink Nail Polish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_7"
+msgid "Haruka's Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_8"
+msgid "Haruka's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_9"
+msgid "Haruka's Chocolate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_10"
+msgid "777 Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_11"
+msgid "Haruka's First-Aid Kit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_12"
+msgid "Haruka's Marble"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_13"
+msgid "Haruka's Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_14"
+msgid "Banker's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_15"
+msgid "Player's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_16"
+msgid "Red Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_17"
+msgid "Black Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_18"
+msgid "Blackjack Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_19"
+msgid "Ogre Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_20"
+msgid "Dragon's Fist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_21"
+msgid "Cedar Slat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_22"
+msgid "Sake Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_23"
+msgid "Iron Pipe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_24"
+msgid "Modified Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_25"
+msgid "Modif.{PA:20} Portable Stove"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_26"
+msgid "Softball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_27"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_28"
+msgid "Gentleman's Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_29"
+msgid "Fork"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_30"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_31"
+msgid "Old Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_32"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_33"
+msgid "Chinese Throwing Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_34"
+msgid "Lau's Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_35"
+msgid "Ashtray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_36"
+msgid "Table Salt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_37"
+msgid "Pliers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_38"
+msgid "Iai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_39"
+msgid "Dark Wooden Sword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_40"
+msgid "Bungo Shimizu Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_41"
+msgid "Autographed Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_42"
+msgid "Custom Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_43"
+msgid "Patriarch's Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_44"
+msgid "100lb Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_45"
+msgid "Double Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_46"
+msgid "Demon Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_47"
+msgid "Dragon Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_48"
+msgid "Spiked Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_49"
+msgid "Double Fire Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_50"
+msgid "Double Stun Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_51"
+msgid "Modified Model Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_52"
+msgid "White Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_53"
+msgid "Blue Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_54"
+msgid "Black Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_55"
+msgid "Red Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_56"
+msgid "\"Scattered Blossoms\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_57"
+msgid "Mystic Katana \"Asura\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_58"
+msgid "Classic Katana Shadow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_59"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_60"
+msgid "Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_61"
+msgid "Hercules Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_62"
+msgid "9-Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_4_63"
+msgid "Black Shaft"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_0"
+msgid "Akagi Autographed 5-Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_1"
+msgid "Metal Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_2"
+msgid "Spiked Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_3"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_4"
+msgid "Gold Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_5"
+msgid "Tortoiseshell Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_6"
+msgid "Silver Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_7"
+msgid "Marble Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_8"
+msgid "Dragon Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_9"
+msgid "Lacquered Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_10"
+msgid "Gold Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_11"
+msgid "White Snake Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_12"
+msgid "White Snake Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_13"
+msgid "Kimchi Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_14"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_15"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_16"
+msgid "Egg Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_17"
+msgid "Rich Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_18"
+msgid "Tonkotsu Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_19"
+msgid "Takoyaki (8)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_20"
+msgid "Takoyaki (12)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_21"
+msgid "Takoyaki (20)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_22"
+msgid "Bear Cellphone Accessory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_23"
+msgid "Women's Underwear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_24"
+msgid "Bandage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_25"
+msgid "Black Boss"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_26"
+msgid "iemon (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_27"
+msgid "iemon hot (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_28"
+msgid "Suntory Natural Mineral Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_29"
+msgid "Natchan Orange"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_30"
+msgid "Pepsi NEX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_31"
+msgid "Suntory Oolong Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_32"
+msgid "C.{PA:20}C.{PA:20} Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_33"
+msgid "DAKARA"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_34"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_35"
+msgid "Boss Rainbow Mountain Blend"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_36"
+msgid "Gatorade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_37"
+msgid "Chuhai -196℃ Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_38"
+msgid "Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_39"
+msgid "Deluxe Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_40"
+msgid "Tessa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_41"
+msgid "Milt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_42"
+msgid "Globefish Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_43"
+msgid "Deep-fried Globefish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_44"
+msgid "Globefish Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_45"
+msgid "Globefish Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_46"
+msgid "Globefish Deluxe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_47"
+msgid "Globefish Shabu-shabu Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_48"
+msgid "Tecchiri Nabe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_49"
+msgid "Tiger Globefish Benten Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_50"
+msgid "Tiger Globefish Daikoku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_51"
+msgid "Tiger Globefish Hotei Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_52"
+msgid "Beef Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_53"
+msgid "Beef Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_54"
+msgid "Pork Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_55"
+msgid "Pork Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_56"
+msgid "Healthy Chicken Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_57"
+msgid "Healthy Chicken Curry (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_58"
+msgid "Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_59"
+msgid "Beef Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_60"
+msgid "Kalbi Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_61"
+msgid "Demitama Hamburger Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_62"
+msgid "Natto Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_5_63"
+msgid "Sausage Egg Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_0"
+msgid "Salted Salmon Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_1"
+msgid "Pork Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_2"
+msgid "Squid Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_3"
+msgid "Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_4"
+msgid "Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_5"
+msgid "Oyster Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_6"
+msgid "Pork & Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_7"
+msgid "Squid & Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_8"
+msgid "Pork & Beef Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_9"
+msgid "Squid & Shrimp Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_10"
+msgid "Fugetsu-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_11"
+msgid "Fugetsu-yaki (Modan)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_12"
+msgid "Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_13"
+msgid "Pokkasoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_14"
+msgid "Champonsoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_15"
+msgid "Salted Tongue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_16"
+msgid "Sirloin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_17"
+msgid "Rib Meat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_18"
+msgid "Top Shelf Rib Meat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_19"
+msgid "Harami"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_20"
+msgid "Yuk Hwe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_21"
+msgid "Liver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_22"
+msgid "Horumon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_23"
+msgid "Horumon-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_24"
+msgid "Black Bear Horumon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_25"
+msgid "Mino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_26"
+msgid "Hachinosu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_27"
+msgid "Senmai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_28"
+msgid "Giara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_29"
+msgid "Bara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_30"
+msgid "Kimo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_31"
+msgid "Akasen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_32"
+msgid "Urute"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_33"
+msgid "Suji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_34"
+msgid "Basa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_35"
+msgid "Tecchan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_36"
+msgid "Stew"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_37"
+msgid "Tamago"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_38"
+msgid "Kappamaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_39"
+msgid "Maguro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_40"
+msgid "Ama-ebi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_41"
+msgid "Engawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_42"
+msgid "Tsubugai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_43"
+msgid "Namatako"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_44"
+msgid "Kampachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_45"
+msgid "Kamburi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_46"
+msgid "Hirame"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_47"
+msgid "Shima-aji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_48"
+msgid "Kimmedai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_49"
+msgid "Ikura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_50"
+msgid "Akagai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_51"
+msgid "Otoro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_52"
+msgid "Awabi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_53"
+msgid "Uni"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_54"
+msgid "Ise-ebi Miso Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_55"
+msgid "Sushi Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_56"
+msgid "Kimchi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_57"
+msgid "Namul"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_58"
+msgid "Dolsot Bibimbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_59"
+msgid "Gukbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_60"
+msgid "Kimchi Jjigae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_61"
+msgid "Bossam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_62"
+msgid "Bulgogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_6_63"
+msgid "Pajeon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_0"
+msgid "Doppogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_1"
+msgid "Samgyeopsal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_2"
+msgid "Dakgalbi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_3"
+msgid "Japchae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_4"
+msgid "Today's Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_5"
+msgid "Hamo Three Dish Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_6"
+msgid "Yubazashi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_7"
+msgid "Assorted Otsukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_8"
+msgid "Lobster Ikizukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_9"
+msgid "Sazae Tsubo-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_10"
+msgid "Raw Oysters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_11"
+msgid "Kaiseki Hokkori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_12"
+msgid "Kaiseki Hannari"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_13"
+msgid "Winter Vegetable Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_14"
+msgid "Abalone Odoriyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_15"
+msgid "Snow Crab Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_16"
+msgid "Tissue w/ Flier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_17"
+msgid "Rare Action Figure"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_18"
+msgid "Old Lady's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_19"
+msgid "Gold Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_20"
+msgid "Robot Manager"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_21"
+msgid "Robot Chief"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_22"
+msgid "Robot President"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_23"
+msgid "Gold Robot President"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_24"
+msgid "Kitty Kat (Red)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_25"
+msgid "Kitty Kat (Tiger)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_26"
+msgid "Kitty Kat (Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_27"
+msgid "Kitty Kat (Short Hair)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_28"
+msgid "Kitty Kat (Calico)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_29"
+msgid "Beary Bear (Big)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_30"
+msgid "Beary Bear (Brown)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_31"
+msgid "Beary Bear (Gray)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_32"
+msgid "Beary Bear (Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_33"
+msgid "Beary Bear (Pink)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_34"
+msgid "Cabaret Discount Ticket"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_35"
+msgid "Desperation Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_36"
+msgid "Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_37"
+msgid "Hercules Gloves"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_38"
+msgid "Dragon Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_39"
+msgid "High-Tech Shin Guards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_40"
+msgid "Steel Shin Guards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_41"
+msgid "Tattered Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_42"
+msgid "Calming Towel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_43"
+msgid "Substitute Stone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_44"
+msgid "Southpaw Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_45"
+msgid "Tourmaline Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_46"
+msgid "Immovable Belt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_47"
+msgid "Black Belt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_48"
+msgid "Payback Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_49"
+msgid "Bloody Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_50"
+msgid "Insulated Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_51"
+msgid "Yakuza Training Gear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_52"
+msgid "Sacred Tree Armor Replica"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_53"
+msgid "Sacred Tree Armor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_54"
+msgid "Anti-blade Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_55"
+msgid "Gift Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_56"
+msgid "Antique Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_57"
+msgid "Iron Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_58"
+msgid "Bulletproof Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_59"
+msgid "Bulletproof Protector"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_60"
+msgid "SWAT Body Armor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_61"
+msgid "YF Figure Prize"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_62"
+msgid "Figure #12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_7_63"
+msgid "Homemade Cookies"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_0"
+msgid "Hand-knit Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_1"
+msgid "Italian Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_2"
+msgid "Komaki Matchlock"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_3"
+msgid "Double Slats"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_4"
+msgid "Skull Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_5"
+msgid "Double Spiked Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_6"
+msgid "Double Shafts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_7"
+msgid "Trendy Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_8"
+msgid "Phantom Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_9"
+msgid "Hiro's Autograph"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_10"
+msgid "Photon Blade RG"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_11"
+msgid "Dragon-SP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_12"
+msgid "Chinese Dragon Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_13"
+msgid "Nutritional Supplement ZLD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_14"
+msgid "Spirit Revitalizer BKH"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_15"
+msgid "Ultra Nourishment SHW"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGE_CMN_US.BIN::line:149_8_16"
+msgid "Company Deed"
+msgstr ""
+

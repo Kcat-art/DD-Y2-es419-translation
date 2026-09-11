@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:0_0_0"
+msgid "It's been a while.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:1_0_0"
+msgid "We need to talk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Who gave you permission to talk to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:2_0_1"
+msgid "the boss?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:3_0_0"
+msgid "The boss?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Yeah,{PA:10} asshole!{PA:20} .{PA:20}.{PA:20}.{PA:20}Now get lost!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I said I need to talk to the kid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:6_0_0"
+msgid "You calling the boss a kid?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I have no business with you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Would you give us a minute?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Fuck that noise!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:10_0_0"
+msgid "You're the one about to get taken out!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:11_0_0"
+msgid "We'll disturb the other customers here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Come out front.{PA:20}"
+msgstr ""
+

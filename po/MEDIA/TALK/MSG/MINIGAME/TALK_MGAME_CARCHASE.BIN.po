@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_0_0"
+msgid "L2: Rotate View"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_1_0"
+msgid "R2: Rotate View"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_2_0"
+msgid "R1: Zoom"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_3_0"
+msgid "Shoot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_4_0"
+msgid "Dodge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_5_0"
+msgid "Reload"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_6_0"
+msgid "Move Sight"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_7_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_8_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:1_0_0"
+msgid "Money"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:2_0_0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:2_1_0"
+msgid "Car"
+msgstr ""
+

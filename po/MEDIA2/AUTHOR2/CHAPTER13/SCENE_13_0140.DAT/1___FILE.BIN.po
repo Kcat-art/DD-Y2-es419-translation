@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Before we knew it,{PA:10} we were living together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Then,{PA:10} Kaoru.{PA:20}.{PA:20}.{PA:20} You were born.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:2_0_0"
+msgid "I think I'll turn down the Hong Kong post.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:3_0_0"
+msgid "But why?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I can't go off and leave you two alone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:5_0_0"
+msgid "It's only for a year,{PA:10} silly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:6_0_0"
+msgid "This is for your career.{PA:20} I'll make do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Don't worry about a thing.{PA:20} Just go!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Grow up big and strong while daddy's away"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:8_0_1"
+msgid "and we'll have lots of fun when he's back!{PA:20}"
+msgstr ""
+

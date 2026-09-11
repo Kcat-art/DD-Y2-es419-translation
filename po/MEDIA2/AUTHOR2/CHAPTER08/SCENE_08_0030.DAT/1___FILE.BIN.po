@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "From what Sudo said,{PA:10} that video doesn't show"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:0_0_1"
+msgid "half of what happened up there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Yeah,{PA:10} but headquarters doesn't know that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Even so,{PA:10} how is that footage enough to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:2_0_1"
+msgid "incriminate him?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid "The police here rely on video footage to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:3_0_1"
+msgid "verify everything nowadays.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I'm the one who shot him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:4_0_1"
+msgid "I'll turn in my gun and give a statement.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Don't bother.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "The police screwed up using Makoto on a top-"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:6_0_1"
+msgid "secret job.{PA:20} Ex-cop or no,{PA:10} he's a civilian.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid "They'll deny any involvement and call him a"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:7_0_1"
+msgid "crazy vigilante.{PA:20} It's PR damage control.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "They'll quietly dispose of your bullet and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:8_0_1"
+msgid "call it a day.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Did that video footage come from Kage?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Most likely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:11_0_0"
+msgid "This just means we need to hunt down the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:11_0_1"
+msgid "Jingweon that much faster.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:12_0_0"
+msgid "But as it stands,{PA:10} it's only a matter of time"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:12_0_1"
+msgid "until you're arrested up here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:13_0_0"
+msgid "You should probably skip town.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:14_0_0"
+msgid "What are you going to do now?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Track down Daigo,{PA:10} then start looking for the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:15_0_1"
+msgid "Jingweon mafia from there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Track him down how?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I'll have to pay someone a little visit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Kage?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:20_0_0"
+msgid "I'll give you a call if I hear anything.{PA:20}"
+msgstr ""
+

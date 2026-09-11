@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "I brought it,{PA:10} just like you said.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "You.{PA:20}.{PA:20}.{PA:20} What are you doin' here?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Ah,{PA:10} yes,{PA:10} hello!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Haven't introduced myself,{PA:10} have I?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:3_0_1"
+msgid "Name's Okada,{PA:10} from Lucky Realtors.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Just let me take a peek here to make sure.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Lucky Realtors.{PA:20}.{PA:20}.{PA:20} Seiichi Okada.{PA:20}.{PA:20}.{PA:20}?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "This is.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid "You live here,{PA:10} kid?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Huh?{PA:20} Yeah.{PA:20}.{PA:20}.{PA:20} What of it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Then.{PA:20}.{PA:20}.{PA:20} That means.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid "What?{PA:20} What's the problem?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Yo,{PA:10} what the fuck,{PA:10} Katsunori?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Wait,{PA:10} why are you here?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Katsunori.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:13_0_1"
+msgid "The hell you doin' standin' around here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Useless fuck up.{PA:20}.{PA:20}.{PA:20} You're fired,{PA:10} kid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Hey,{PA:10} that's not fair!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Whazzat?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20} Deed to a restaurant.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:17_0_1"
+msgid "Not bad,{PA:10} kid.{PA:20} I'm impressed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:18_0_0"
+msgid "I'll just take this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:18_0_1"
+msgid "Call it my fee for comin' all this way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:19_0_0"
+msgid "The fuck is your problem?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:20_0_0"
+msgid "I'm afraid I can't let you take this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Find another deed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:22_0_0"
+msgid "You got some serious chops,{PA:10} buddy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:22_0_1"
+msgid "Piss me off,{PA:10} and you'll piss blood.{PA:20} Get it?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Boys!{PA:20} Get to work!{PA:20}"
+msgstr ""
+

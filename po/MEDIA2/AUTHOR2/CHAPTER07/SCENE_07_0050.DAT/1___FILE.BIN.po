@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Smoking doesn't suit a lady.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Mind your own business.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Don't go thinking you're all that because"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:2_0_1"
+msgid "you're some Tokyo Public Security big-shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:3_0_0"
+msgid "What?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Would it kill you to act like a lady?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:5_0_0"
+msgid "What do you mean by that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I hear you're lead detective at Osaka's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:6_0_1"
+msgid "Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Where'd you hear that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:8_0_0"
+msgid "How.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I found it up on the roof.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Figured it'd be bad if it turned up at the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:10_0_1"
+msgid "scene of the shooting,{PA:10} so I grabbed it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:11_0_0"
+msgid "You must have dropped it when you went"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:11_0_1"
+msgid "for your gun.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Real nice job.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I guess it's to be expected,{PA:10} though,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:13_0_1"
+msgid "in a situation like that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:14_0_0"
+msgid "You're awfully calm for a guy who just"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:14_0_1"
+msgid "got shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:15_0_0"
+msgid "I'm used to this sort of thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Yeah?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I guess Tokyo police really do see a"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:17_0_1"
+msgid "lot more action.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:18_0_0"
+msgid "It's not like that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Tokyo,{PA:10} Osaka,{PA:10} it's all the same.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:19_0_1"
+msgid "I'm just lucky.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:20_0_0"
+msgid "So why's a girl like you working"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:20_0_1"
+msgid "as a detective for Division 4?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:21_0_0"
+msgid "That's none of your business.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:21_0_1"
+msgid "Besides,{PA:10} what's it to you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Sorry I'm late.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:23_0_0"
+msgid "REALLY late.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Kawara.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Are you all right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Yeah,{PA:10} I'll pull through.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:27_0_0"
+msgid "What's Kazuki's condition?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Still in surgery.{PA:20} That's all we know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Hey!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Who the hell are you?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:31_0_0"
+msgid "[In Korean] Is this Kang?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:31_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Hey,{PA:10} you okay?{PA:20} Get up.{PA:20} We came to get you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:32_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Who.{PA:20}.{PA:20}.{PA:20} are you people.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:34_0_0"
+msgid "[In Korean] No.{PA:20}.{PA:20}.{PA:20} He's not Kang!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:34_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:35_0_0"
+msgid "You two are with that foreign gang.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Hold it!{PA:20} I'm police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:37_0_0"
+msgid "What did you come here for?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Wait just a minute.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:39_0_0"
+msgid "You people sure are annoying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:40_0_0"
+msgid "So you do speak Japanese.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:41_0_0"
+msgid "That makes it even worse.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:42_0_0"
+msgid "We've got no business with you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:43_0_0"
+msgid "But I've got business with you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:44_0_0"
+msgid "Oh,{PA:10} yeah?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:45_0_0"
+msgid "I can't just watch some asshole punch out"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:45_0_1"
+msgid "a woman,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:46_0_0"
+msgid "and let him walk out the door.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Well then.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:48_0_0"
+msgid "I guess we'll just have to kill you!{PA:20}"
+msgstr ""
+

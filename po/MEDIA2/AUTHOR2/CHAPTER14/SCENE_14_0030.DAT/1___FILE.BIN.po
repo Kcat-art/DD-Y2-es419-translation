@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Everything's going according to plan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Don't get cocky before this thing's done.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "I don't need you to tell me that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I'll head up there when the timing is right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Goodbye.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Come in.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Excuse me,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid "The Go-Ryu Clan have finally mobilized"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:7_0_1"
+msgid "against Kamurocho,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "If we wait,{PA:10} they'll beat us to the punch.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Don't get so excited.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:11_0_0"
+msgid "But,{PA:10} boss!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:12_0_0"
+msgid "We don't need to make our move quite yet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:12_0_1"
+msgid "There's plenty of time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Plus,{PA:10} don't forget.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:14_0_0"
+msgid "We've got an ace in the hole.{PA:20}"
+msgstr ""
+

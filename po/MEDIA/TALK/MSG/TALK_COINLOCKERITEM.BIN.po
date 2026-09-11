@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_0_0"
+msgid "Choose a coin locker to open.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_1_0"
+msgid "dummy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_2_0"
+msgid "You can't carry any more items.{PA:20}||Send to item box?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_3_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_4_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_5_0"
+msgid "You sent the item to the item box.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_6_0"
+msgid "Returned item to the coin locker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_7_0"
+msgid " obtained.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_0_0"
+msgid "Substitute Stone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_1_0"
+msgid "Trendy Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_2_0"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_3_0"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_4_0"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_5_0"
+msgid "Women's Underwear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_6_0"
+msgid "100lb Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_7_0"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_8_0"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_9_0"
+msgid "Samurai DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_10_0"
+msgid "Southpaw Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_11_0"
+msgid "Wooden Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_12_0"
+msgid "Suspicious Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_13_0"
+msgid "Green Box"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_14_0"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_15_0"
+msgid "White Miracle Tonic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_16_0"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_17_0"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_18_0"
+msgid "Sacred Tree Bokuto"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_19_0"
+msgid "Tattered Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_20_0"
+msgid "Dark Wooden Sword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_21_0"
+msgid "Hercules Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_22_0"
+msgid "Saw"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_23_0"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_24_0"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_25_0"
+msgid "Antique Hand Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_26_0"
+msgid "Lotus Style Bojutsu Encyclopedia"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_27_0"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_28_0"
+msgid "Rope"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_29_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_30_0"
+msgid "Patriarch's Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_31_0"
+msgid "Patriarch's Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_32_0"
+msgid "Table Salt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_33_0"
+msgid "Player's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_34_0"
+msgid "Bear Cellphone Accessory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_35_0"
+msgid "Skanda Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_36_0"
+msgid "Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_37_0"
+msgid "Turmeric Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_38_0"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_39_0"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_40_0"
+msgid "French Handbag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_41_0"
+msgid "Western Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_42_0"
+msgid "Charisma Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_43_0"
+msgid "Insulated Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_44_0"
+msgid "Water Pot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_45_0"
+msgid "Ashtray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_46_0"
+msgid "Hercules Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_47_0"
+msgid "Hercules Gloves"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_48_0"
+msgid "1000G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_49_0"
+msgid "Mifune's Kodachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_50_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_51_0"
+msgid "Tortoiseshell Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_52_0"
+msgid "Dark Wooden Sword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_53_0"
+msgid "Modified Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_54_0"
+msgid "Substitute Stone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_55_0"
+msgid "Masculine Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_56_0"
+msgid "Attaché Case"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_57_0"
+msgid "Ogre Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_58_0"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_59_0"
+msgid "Lifestone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_60_0"
+msgid "Pliers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_61_0"
+msgid "Turmeric Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_62_0"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_63_0"
+msgid "Steel Shin Guards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_64_0"
+msgid "Broken Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_65_0"
+msgid "Elegant Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_66_0"
+msgid "Wooden Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_67_0"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_68_0"
+msgid "Motomiya's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_69_0"
+msgid "Blackjack Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_70_0"
+msgid "Skanda Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_71_0"
+msgid "Tojo Fighting Secrets DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_72_0"
+msgid "Metal Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_73_0"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_74_0"
+msgid "Flash Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_75_0"
+msgid "Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_76_0"
+msgid "Butterfly Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_77_0"
+msgid "White Miracle Tonic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_78_0"
+msgid "Skanda Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_79_0"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_80_0"
+msgid "Bug Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_81_0"
+msgid "Lightning Bomb"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_82_0"
+msgid "Special Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_83_0"
+msgid "White Miracle Tonic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_84_0"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_85_0"
+msgid "Black Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_86_0"
+msgid "White Miracle Tonic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_87_0"
+msgid "Italian Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_88_0"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_89_0"
+msgid "Southpaw Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_90_0"
+msgid "Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_91_0"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_92_0"
+msgid "Antique Hand Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_93_0"
+msgid "Black Belt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_94_0"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_95_0"
+msgid "Banker's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_96_0"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_97_0"
+msgid "Patriarch's Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_98_0"
+msgid "Calming Towel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_99_0"
+msgid "Substitute Stone"
+msgstr ""
+

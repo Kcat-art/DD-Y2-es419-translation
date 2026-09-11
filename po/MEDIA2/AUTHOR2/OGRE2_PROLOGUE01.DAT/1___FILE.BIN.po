@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Last year,{PA:10} I lost some people"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:0_0_1"
+msgid "very dear to me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Thinking back,{PA:10} our numbers may have been up"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:2_0_0"
+msgid "ever since that night 11 years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I was still in the Tojo Clan's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:3_0_1"
+msgid "Dojima family.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:4_0_0"
+msgid "And they were my family.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:4_0_1"
+msgid "All three of them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:5_0_0"
+msgid "One was a buddy from the orphanage I grew"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:5_0_1"
+msgid "up in,{PA:10} Akira Nishiki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Another was the man who took me in and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:6_0_1"
+msgid "raised me like his own son,{PA:10} Shintaro Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:7_0_0"
+msgid "The last was Yumi.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:7_0_1"
+msgid "The girl I'd always loved.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:8_0_0"
+msgid "For a kid like me with no parents,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:9_0_0"
+msgid "they were the only family I ever knew.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Then it happened.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:11_0_0"
+msgid "I just killed.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:11_0_1"
+msgid "the top captain of the Tojo Clan.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:11_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I found my boss,{PA:10} Dojima,{PA:10} lying there.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:12_0_1"
+msgid "Lifeless.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:13_0_0"
+msgid "He'd tried to violate Yumi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Hey!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:14_0_1"
+msgid "Are you okay?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:14_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:15_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Nishiki"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:15_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Take Yumi and get out of here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:16_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:17_0_0"
+msgid "But.{PA:20}.{PA:20}.{PA:20} You.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:17_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Nishiki!{PA:20} I said get the fuck out of here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:18_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Look after Yumi.{PA:20} Please.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:19_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Go!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:20_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:21_0_0"
+msgid "So,{PA:10} to shield two of the people I loved,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:22_0_0"
+msgid "I made a decision.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Start eating!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:23_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:24_0_0"
+msgid "I served 10 years' time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:25_0_0"
+msgid "In jail,{PA:10} I got word that I'd been cast out"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:25_0_1"
+msgid "of the Tojo Clan,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:26_0_0"
+msgid "and that Yumi had disappeared.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:27_0_0"
+msgid "I was branded for patricide.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:28_0_0"
+msgid "When the clan cut me off,{PA:10} I felt like a kite"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:28_0_1"
+msgid "without a string.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:29_0_0"
+msgid "But even then,{PA:10} there was someone who"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:29_0_1"
+msgid "remembered me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Oyabun.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:30_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:31_0_0"
+msgid "It was Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Once I got out,{PA:10} I headed back to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:33_0_0"
+msgid "To see Fuma and to see for myself what had"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:33_0_1"
+msgid "happened to the Tojo Clan"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:34_0_0"
+msgid "over the decade I'd been gone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:35_0_0"
+msgid "When I got back,{PA:10} I saw how things had"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:35_0_1"
+msgid "changed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:36_0_0"
+msgid "In the presence of all the affiliate bosses,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:36_0_1"
+msgid "I'd like to ask the chairman something.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:36_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:37_0_0"
+msgid "There's a rumor that our money in the Toto Bank,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:37_0_1"
+msgid "all 10 billion yen,{PA:10} was stolen.{PA:20} Is this true?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:37_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:38_0_0"
+msgid "A former friend had turned into a"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:38_0_1"
+msgid "different man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:39_0_0"
+msgid "A pack of thugs on the trail of 10 billion"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:39_0_1"
+msgid "yen that had gone missing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:40_0_0"
+msgid "Oyabun!!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:40_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:41_0_0"
+msgid "And a power struggle within the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Things went from bad to worse,{PA:10} and I was"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:42_0_1"
+msgid "right in the middle of it all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:43_0_0"
+msgid "On a tip from Fuma,{PA:10} I started looking for"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:43_0_1"
+msgid "Yumi,{PA:10} who was involved in all of it somehow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:44_0_0"
+msgid "That was how it started.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:45_0_0"
+msgid "But what I found.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:46_0_0"
+msgid "was a little girl,{PA:10} all alone.{PA:20}"
+msgstr ""
+

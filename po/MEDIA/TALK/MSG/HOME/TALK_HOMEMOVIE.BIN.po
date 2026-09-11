@@ -1,0 +1,813 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_0_0"
+msgid "Chapter 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_1_0"
+msgid "Chapter 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_2_0"
+msgid "Chapter 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_3_0"
+msgid "Chapter 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_4_0"
+msgid "Chapter 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_5_0"
+msgid "Chapter 6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_6_0"
+msgid "Chapter 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_7_0"
+msgid "Chapter 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_8_0"
+msgid "Chapter 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_9_0"
+msgid "Chapter 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_10_0"
+msgid "Chapter 11"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_11_0"
+msgid "Chapter 12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_12_0"
+msgid "Chapter 13"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_13_0"
+msgid "Chapter 14"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_14_0"
+msgid "Chapter 15"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_15_0"
+msgid "Chapter 16"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_16_0"
+msgid "Chapter 17"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_17_0"
+msgid "Chapter 18"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_18_0"
+msgid "－"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:1_0_0"
+msgid "Select a chapter to view.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:1_1_0"
+msgid "You haven't seen this video.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:1_2_0"
+msgid "You can watch this video.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:1_3_0"
+msgid "－"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_0_0"
+msgid "A Winter Day"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_1_0"
+msgid "The Gunshot That Started It All"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_2_0"
+msgid "A Life Saved"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_3_0"
+msgid "Alone With His Memories"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_4_0"
+msgid "December 2006,{PA:10} Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_5_0"
+msgid "A Hint of Unrest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_6_0"
+msgid "Nightmares and Peace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_7_0"
+msgid "Crisis in the Tojo Clan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_8_0"
+msgid "The Bloodied Letter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_9_0"
+msgid "The Death of the Fifth"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_10_0"
+msgid "Emergency Tojo Clan Board Meeting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_11_0"
+msgid "Back in Town"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_12_0"
+msgid "Reunion with Daigo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_13_0"
+msgid "Men Who Don't Know Their Place"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_14_0"
+msgid "Sentiment Expressed with a Fist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_15_0"
+msgid "Entrusted Sentiment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_16_0"
+msgid "The Spirit of Men"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_0_0"
+msgid "Daigo's Debt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_1_0"
+msgid "Arrival in Sotenbori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_2_0"
+msgid "The Dragon of Kansai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_3_0"
+msgid "Meeting Ryuji Goda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_4_0"
+msgid "Fireworks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_5_0"
+msgid "Police Division Four: Sudo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_0_0"
+msgid "The Yakuza Eater"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_1_0"
+msgid "The Osaka Police Agenda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_2_0"
+msgid "Omi Stronghold"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_3_0"
+msgid "The Reality of the Omi Alliance"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_4_0"
+msgid "Coup d'Etat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_5_0"
+msgid "The Spirit of Daigo Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_6_0"
+msgid "The Battle of the Dragons"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:4_7_0"
+msgid "Arrest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_0_0"
+msgid "The Detective and the Killer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_1_0"
+msgid "Reference Room 13"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_2_0"
+msgid "Classified Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_3_0"
+msgid "The Two Targets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_4_0"
+msgid "Aoi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_5_0"
+msgid "Mystery of the Bullet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_6_0"
+msgid "The Other Side of Takashima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_7_0"
+msgid "Takashima and Bessho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_8_0"
+msgid "Expensive Information"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_9_0"
+msgid "100 Million Yen Bounty"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_10_0"
+msgid "The Fight for the Top"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_11_0"
+msgid "Toranosuke Sengoku"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_12_0"
+msgid "Sayama's True Goal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_0_0"
+msgid "Sayama in Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_1_0"
+msgid "Back to Serena"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_2_0"
+msgid "Go-Ryu's Foreign Connection"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_3_0"
+msgid "Kaoru Sayama's Past"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_4_0"
+msgid "Entrance to Purgatory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_5_0"
+msgid "Purgatory Reborn"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_6_0"
+msgid "The Underground City"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_7_0"
+msgid "Purgatory's New Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_8_0"
+msgid "The Dragon of Dojima Fights Again"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_9_0"
+msgid "Versus the Former King"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_10_0"
+msgid "Champion Majima vs.{PA:20} Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_11_0"
+msgid "After the Bout"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_12_0"
+msgid "The Surprising Face of Terada"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_13_0"
+msgid "The Pain of Knowing the Past"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:7_0_0"
+msgid "To Stardust"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:7_1_0"
+msgid "The Investigation Begins"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:7_2_0"
+msgid "The Two Kazukis"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_0_0"
+msgid "To Emoto Clinic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_1_0"
+msgid "Kawara's Dark Past"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_2_0"
+msgid "The Assassins"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_3_0"
+msgid "The Mysterious Foreign Threat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_4_0"
+msgid "The Jingweon Mafia"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_5_0"
+msgid "The Shadow of the Sengoku Clan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_6_0"
+msgid "Makoto Date: Suspect"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_0_0"
+msgid "Unshaken Suspicions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_1_0"
+msgid "The Legendary Information Dealer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_2_0"
+msgid "Arriving at the Millennium Tower"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_3_0"
+msgid "To Kage's Stronghold"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_4_0"
+msgid "Reunion with Kage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_5_0"
+msgid "To the Transformer Room"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_6_0"
+msgid "The Man Who Threw His Life Away"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_7_0"
+msgid "Power Restored"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_8_0"
+msgid "Hacking"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_9_0"
+msgid "To Shangri-La"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_10_0"
+msgid "The Go-Ryu Ambush"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_11_0"
+msgid "Daigo's Rescue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_0_0"
+msgid "Jingweon and Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_1_0"
+msgid "More Than Twenty Years Ago"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_2_0"
+msgid "The Missing History"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_3_0"
+msgid "The Fifth Chairman's Funeral"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_4_0"
+msgid "Insincere Condolences"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_5_0"
+msgid "Ryuji Goda Comes East"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_6_0"
+msgid "Sengoku Invasion"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_7_0"
+msgid "Mad Dog Majima Stands in the Way"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_8_0"
+msgid "A Promise Kept"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_9_0"
+msgid "Betrayal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_10_0"
+msgid "Assassination in the Tojo Clan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_11_0"
+msgid "Warped Love and Desire"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_12_0"
+msgid "The End of Internal Conflict"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_0_0"
+msgid "The Incident Uncovered"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_1_0"
+msgid "Sayama's Despair"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_2_0"
+msgid "Reunion with Takashi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_3_0"
+msgid "The Image No One Wants to See"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_4_0"
+msgid "Wholehearted Sentiment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_5_0"
+msgid "Staring Down the Barrel of a Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_6_0"
+msgid "Kiryu and Sayama in Osaka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_7_0"
+msgid "Bessho Speaks of the Past"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_8_0"
+msgid "Kazuma Will Protect Her"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_9_0"
+msgid "Escape"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_10_0"
+msgid "A Strange Pair"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_11_0"
+msgid "Time Alone Together"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_12_0"
+msgid "Sotenbori's Night Sky"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_13_0"
+msgid "A Discarded Tradition"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_14_0"
+msgid "To the Master Tattooist's Office"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_15_0"
+msgid "The Legendary Yellow Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_16_0"
+msgid "Ryuji Goda and the Yellow Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_17_0"
+msgid "A Tattooist's Responsibility"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:12_0_0"
+msgid "Seeking the Past"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:12_1_0"
+msgid "Arrival in Shinseicho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:12_2_0"
+msgid "A Survivor From Two Decades Ago"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:12_3_0"
+msgid "Murai's Memories"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:12_4_0"
+msgid "The Elite Force"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:12_5_0"
+msgid "The Final Move"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_0_0"
+msgid "The Story of"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_1_0"
+msgid "Christmas Night"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_2_0"
+msgid "Kiryu and Fuma"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_3_0"
+msgid "Kazuma's Younger Days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_4_0"
+msgid "Rashness"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_5_0"
+msgid "Atonement"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_6_0"
+msgid "The Black Scar on Kazuma's Heart"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_7_0"
+msgid "The Piercing Blade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_8_0"
+msgid "In Search of Help"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_9_0"
+msgid "Fighting Dirty"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_10_0"
+msgid "To Rescue Haruka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_11_0"
+msgid "Osaka's Castle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_12_0"
+msgid "The Armored Warriors Stand Guard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_13_0"
+msgid "Tigers and Dragons"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_14_0"
+msgid "Man Becomes Beast"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_15_0"
+msgid "A Declaration of War"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_0_0"
+msgid "The Mystery of the Memo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_1_0"
+msgid "Diamond in the Rough"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_2_0"
+msgid "Haruka's Happiness"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_3_0"
+msgid "Kurahashi's Identity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_4_0"
+msgid "The Enemy of 26 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_5_0"
+msgid "Haruka and Kaoru"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_6_0"
+msgid "Before Going to War"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_7_0"
+msgid "The Jingweon Creed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_8_0"
+msgid "For a Father,{PA:10} for a Daughter.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_9_0"
+msgid "Escape from Flames and Creed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_10_0"
+msgid "Father and Mother"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_11_0"
+msgid "A Loving Family,{PA:10} Happy Days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_12_0"
+msgid "The Reason for the Killings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_13_0"
+msgid "A Voice on the Phone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_14_0"
+msgid "Killed in the Line of Duty"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_0_0"
+msgid "Clues Left Behind"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_1_0"
+msgid "The Dragon of Kansai's Ambition"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_2_0"
+msgid "Takashima's Plot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_3_0"
+msgid "Sayama's Reaction"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_4_0"
+msgid "The Man Who Made Me Face the Past"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_5_0"
+msgid "The Bombs"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_6_0"
+msgid "Daigo's Resolve"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_7_0"
+msgid "The Go-Ryu Clan Invasion"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_8_0"
+msgid "The Tojo Clan Rises to Action"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_9_0"
+msgid "The Plan Falls Through"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_10_0"
+msgid "Purgatory Reborn"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_11_0"
+msgid "Showdown With the Go-Ryu Clan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_12_0"
+msgid "The Duel Delayed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_0_0"
+msgid "A Town to Protect"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_1_0"
+msgid "Red or Blue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_2_0"
+msgid "A Terrible Dream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_3_0"
+msgid "The Disc Analyzed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_4_0"
+msgid "A Momentary Respite"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_5_0"
+msgid "Complicated Feelings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_6_0"
+msgid "An Uneasy Feeling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_7_0"
+msgid "Emotions On-Screen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_0_0"
+msgid "To Where the Dragon Waits"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_1_0"
+msgid "The Men Called Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_2_0"
+msgid "Mastermind"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_3_0"
+msgid "Fickle Fate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_4_0"
+msgid "As the Last Survivor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_5_0"
+msgid "Rising Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_6_0"
+msgid "The Final Moments"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_7_0"
+msgid "Who We Believed In"
+msgstr ""
+

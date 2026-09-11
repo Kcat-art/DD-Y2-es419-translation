@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_TUTORIAL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_0_0"
+msgid "  Fight Tutorial #1 \"Finishing Blow\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_1_0"
+msgid "You can attack with {IC:00_02}➿ up to 4 times.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_2_0"
+msgid "This is called a \"Rush Combo\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_3_0"
+msgid "From a \"Rush Combo\",{PA:10} pressing {IC:01_01}➿ will"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_4_0"
+msgid "unleash the final \"Finishing Blow\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_6_0"
+msgid "Defeat enemies using a Finishing Blow!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_7_0"
+msgid "Press {IC:00_02}➿ 1 to 4 times,{PA:10} then {IC:01_01}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:0_8_0"
+msgid "Times remaining:      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_0_0"
+msgid "  Fight Tutorial #2 \"Grappling Attack\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_1_0"
+msgid "Grab the enemy with {IC:03_00}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_2_0"
+msgid "While holding them,{PA:10} press {IC:00_02}➿ and {IC:01_01}➿ to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_3_0"
+msgid "pummel the enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_4_0"
+msgid "Or,{PA:10} press {IC:03_00}➿ to throw them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_6_0"
+msgid "Grab and attack the enemy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_7_0"
+msgid "Grab with {IC:03_00}➿,{PA:10} then press {IC:00_02}➿,{PA:10} {IC:01_01}➿ and {IC:03_00}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:1_8_0"
+msgid "Times remaining:      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_0_0"
+msgid "  Fight Tutorial #3 \"Armed Attack\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_1_0"
+msgid "Pick up a weapon with {IC:03_00}➿,{PA:10} then press {IC:00_02}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_2_0"
+msgid "and {IC:01_01}➿ to unleash attacks with that weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_3_0"
+msgid "You can use the pause menu to equip weapons"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_4_0"
+msgid "you've purchased from stores.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_6_0"
+msgid "Use weapons to defeat your enemies!{PA:20} Get a weapon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_7_0"
+msgid "with {IC:03_00}➿ and attack with {IC:00_02}➿ and {IC:01_01}➿.{PA:20} {IC:03_00}➿ throws it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:2_8_0"
+msgid "Times remaining:      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_0_0"
+msgid "  Fight Tutorial #4 \"Guarding\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_1_0"
+msgid "Press {IC:04_0c}➿  to guard against attacks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_2_0"
+msgid "from the front.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_3_0"
+msgid "Your guard can be broken by armed attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_4_0"
+msgid "You can't guard against blades or bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_6_0"
+msgid "Guard against enemy attacks!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_7_0"
+msgid "Press {IC:04_0c}➿ .{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:3_8_0"
+msgid "Times remaining:      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_0_0"
+msgid "  Fight Tutorial #5 \"HEAT Action\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_1_0"
+msgid "When the \"{CC:00e6ff}HEAT Gauge{CR:00}\" in the upper left fills,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_2_0"
+msgid "grab an enemy and press {IC:01_01}➿ where {IC:05_05}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_3_0"
+msgid "appears to perform a special HEAT action.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_4_0"
+msgid "This can also be done when armed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_6_0"
+msgid "Use a HEAT action!{PA:20} In HEAT,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_7_0"
+msgid "     grab an enemy/weapon and press {IC:01_01}➿ at {IC:05_05}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:4_8_0"
+msgid "Times remaining:      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_0_0"
+msgid "  Fight Tutorial #6 \"Turning Attack\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_1_0"
+msgid "Hold the left analog stick back and use {IC:00_02}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_2_0"
+msgid "and {IC:01_01}➿ to attack behind you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_3_0"
+msgid "Try different inputs for different combos.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_4_0"
+msgid "*Cannot perform while pressing {IC:06_0a}➿ .{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_6_0"
+msgid "Defeat enemies with turning attacks!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_7_0"
+msgid "Back on left analog stick,{PA:10} and {IC:00_02}➿ and {IC:01_01}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:5_8_0"
+msgid "Times remaining:      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_0_0"
+msgid "  Fight Tutorial #7 \"Fighting Stance\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_1_0"
+msgid "Hold {IC:06_0a}➿  to take up a stance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_2_0"
+msgid "Then use the left analog stick to move while"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_3_0"
+msgid "facing the enemy.{PA:20} This is useful when you"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_4_0"
+msgid "want to focus your attacks on one opponent.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_6_0"
+msgid "Assume a fighting stance and move!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_7_0"
+msgid "Hold {IC:06_0a}➿  and move.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:6_8_0"
+msgid "Times remaining (sec.):      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_0_0"
+msgid "  Fight Tutorial #8 \"Quickstep\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_1_0"
+msgid "While moving in a stance,{PA:10} press {IC:02_03}➿ to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_2_0"
+msgid "dodge quickly with a quickstep.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_3_0"
+msgid "With proper timing,{PA:10} you can evade attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_4_0"
+msgid "This is vital when fighting one-on-one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_5_0"
+msgid "Press {IC:02_03}➿ to start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_6_0"
+msgid "Use the quickstep to move quickly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_7_0"
+msgid "Move with {IC:06_0a}➿  and left analog stick,{PA:10} then press {IC:02_03}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:7_8_0"
+msgid "Times remaining:      "
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL.BIN::line:8_0_0"
+msgid "You've completed the Fight Tutorial.{PA:20}||Defeat the remaining enemies.{PA:20}"
+msgstr ""
+

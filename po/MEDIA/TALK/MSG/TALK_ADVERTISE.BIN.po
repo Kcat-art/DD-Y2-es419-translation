@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_ADVERTISE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:0_0_0"
+msgid "Yakuza save data found.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:0_1_0"
+msgid "A reward has been placed in your item box.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:0_2_0"
+msgid "Press {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:1_0_0"
+msgid "Mode Selection"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:1_1_0"
+msgid "Fight Master Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:1_2_0"
+msgid "Normal Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:2_0_0"
+msgid "Scenario Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:2_1_0"
+msgid "Load"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:2_2_0"
+msgid "Free Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:2_3_0"
+msgid "Options"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:2_4_0"
+msgid "Scenario Selection"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:3_0_0"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:3_1_0"
+msgid "Sotenbori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:4_0_0"
+msgid "Start from the beginning.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:4_1_0"
+msgid "Start from last saved point.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:4_2_0"
+msgid "Freely walk around the city.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:4_3_0"
+msgid "Change your settings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:4_4_0"
+msgid "Go to Scenario Selection Mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_0_0"
+msgid "Coliseum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_1_0"
+msgid "Batting Cage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_2_0"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_3_0"
+msgid "Crane Game"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_4_0"
+msgid "Shogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_5_0"
+msgid "Mahjong"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_6_0"
+msgid "Gambling Parlor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_7_0"
+msgid "Massage Parlor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_8_0"
+msgid "Roulette"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_9_0"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_10_0"
+msgid "Baccarat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_11_0"
+msgid "Pachi-Slot (Beast King)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_12_0"
+msgid "Pachi-Slot (Aladdin)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_13_0"
+msgid "Yakuza Fighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_0_0"
+msgid "EASY"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_1_0"
+msgid "NORMAL"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_2_0"
+msgid "HARD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_3_0"
+msgid "EX-HARD (CANNOT CONTINUE)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:7_0_0"
+msgid "First time through"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:7_1_0"
+msgid "Second time through"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:8_0_0"
+msgid "Story Demo Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:8_1_0"
+msgid "Recreation Demo Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:8_2_0"
+msgid "Battle Practice Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:8_3_0"
+msgid "Battle Demo Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:8_4_0"
+msgid "Trailer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:8_5_0"
+msgid "Options"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:9_0_0"
+msgid "Cabaret"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:9_1_0"
+msgid "Host Demo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:9_2_0"
+msgid "Golf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:9_3_0"
+msgid "Bowling"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:10_0_0"
+msgid "Would you like to take the tutorial?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:10_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:10_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:11_0_0"
+msgid "Select your vibration settings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:11_1_0"
+msgid "On"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:11_2_0"
+msgid "Off"
+msgstr ""
+

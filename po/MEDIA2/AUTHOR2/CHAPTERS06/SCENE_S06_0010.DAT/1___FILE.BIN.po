@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Hey,{PA:10} what's going on?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Looks like a couple are having it out up"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:1_0_1"
+msgid "there on the roof!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Akimoto!{PA:20} Are you at it again?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Look,{PA:10} just leave that bitch!{PA:20} Seriously!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I'm on your side,{PA:10} man!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:4_0_1"
+msgid "Don't do anything stupid!{PA:20}"
+msgstr ""
+

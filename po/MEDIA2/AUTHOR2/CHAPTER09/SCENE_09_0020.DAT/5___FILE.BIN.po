@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:0_0_0"
+msgid "Back then,{PA:10} a number of foreign syndicates"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:0_0_1"
+msgid "were operating in Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:1_0_0"
+msgid "The Tojo Clan's biggest competitor was the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:1_0_1"
+msgid "Korean Jingweon mafia.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:2_0_0"
+msgid "The Dojima family wasn't yet a major power"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:2_0_1"
+msgid "within the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:3_0_0"
+msgid "To expand,{PA:10} they needed to take those other"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:3_0_1"
+msgid "groups out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:4_0_0"
+msgid "So.{PA:20}.{PA:20}.{PA:20} We doin' this,{PA:10} boss?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:5_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:6_0_0"
+msgid "Kill 'em all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:7_0_0"
+msgid "All of them?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:8_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:9_0_0"
+msgid "You got a problem with that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:10_0_0"
+msgid "No,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:11_0_0"
+msgid "What,{PA:10} Fuma?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:12_0_0"
+msgid "Guy like you,{PA:10} killed hundreds of people,{PA:10} and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:12_0_1"
+msgid "this spooks you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:13_0_0"
+msgid "It's not like that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:14_0_0"
+msgid "Boss.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:14_0_1"
+msgid "Is there any way past this other than war?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:15_0_0"
+msgid "What the fuck are you smokin'?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:16_0_0"
+msgid "They're the ones who started this!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:17_0_0"
+msgid "You kill my boys,{PA:10} I kill you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:17_0_1"
+msgid "Welcome to the fuckin' yakuza world.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:18_0_0"
+msgid "Fuma.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:19_0_0"
+msgid "I hear where you're coming from.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:20_0_0"
+msgid "Boss!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:21_0_0"
+msgid "Cool it a minute.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:22_0_0"
+msgid "Still.{PA:20}.{PA:20}.{PA:20} These Jingweon guys are different.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:23_0_0"
+msgid "Their methods are inhuman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:24_0_0"
+msgid "If we let this keep up,{PA:10} the Dojima family's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:24_0_1"
+msgid "gonna be in danger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:25_0_0"
+msgid "Yes,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:26_0_0"
+msgid "Now's our only chance to do it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:27_0_0"
+msgid "We go soft on them now,{PA:10} we're digging"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:27_0_1"
+msgid "our own graves.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:28_0_0"
+msgid "We've got no choice but to wipe them out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:29_0_0"
+msgid "You understand,{PA:10} don't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:30_0_0"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:30_0_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}But do we really need to kill them all?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:31_0_0"
+msgid "Course we do!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:32_0_0"
+msgid "How many of my boys d'ya think they whacked?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:33_0_0"
+msgid "I won't be satisfied 'til I choke the last"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:33_0_1"
+msgid "of 'em dead.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:34_0_0"
+msgid "They're based behind a disco here in town.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:35_0_0"
+msgid "Tonight's our only chance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:36_0_0"
+msgid "Leave it to me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:37_0_0"
+msgid "I understand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:38_0_0"
+msgid "Fuma was against it to the end.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:39_0_0"
+msgid "But in this world,{PA:10} the boss' word is law.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:40_0_0"
+msgid "In the end,{PA:10} Fuma went along with Shimano.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:41_0_0"
+msgid "They hit the Jingweon headquarters and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:41_0_1"
+msgid "wiped out the lot of them.{PA:20}"
+msgstr ""
+

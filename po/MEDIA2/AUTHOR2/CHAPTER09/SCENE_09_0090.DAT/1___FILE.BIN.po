@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Majima!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Y-You're late,{PA:10} Kazzy.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:2_0_0"
+msgid "I already smeared all o' Sengoku's girls.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Majima!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Promise is a promise,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:4_0_1"
+msgid "I.{PA:20}.{PA:20}.{PA:20} I kept it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Yeah,{PA:10} you did.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:6_0_0"
+msgid "But you've gotta.{PA:20}.{PA:20}.{PA:20} get back to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:6_0_1"
+msgid "headquarters!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:7_0_0"
+msgid "What?{PA:20} Why?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:8_0_0"
+msgid "The 'copters and troops marchin' around.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:9_0_0"
+msgid "That was just to get ya out here,{PA:10} Kaz.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:10_0_0"
+msgid "They're fixin' to.{PA:20}.{PA:20}.{PA:20} take over Tojo HQ.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Are you serious?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:13_0_0"
+msgid "There was a rat helpin' Sengoku.{PA:20}.{PA:20}.{PA:20} Shindo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Shindo?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:15_0_0"
+msgid "That dumb bitch.{PA:20}.{PA:20}.{PA:20} He sold out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:16_0_0"
+msgid "So go.{PA:20} Hurry,{PA:10} Kaz.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I'll take him to the clinic.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Hey,{PA:10} babe.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:18_0_1"
+msgid "You're even hotter from up close.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Screw the clinic,{PA:10} let's go.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Shut it!{PA:20} You shouldn't be talking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:21_0_0"
+msgid "He's in your hands.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Okay.{PA:20}"
+msgstr ""
+

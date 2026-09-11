@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Took you long enough.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "What's the matter?{PA:20} Planning on using that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "I can't trust anyone anymore.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid "The chief never once told me he used to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:3_0_1"
+msgid "work in Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I trusted him this whole time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "That hardly constitutes a betrayal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Of course it does.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid "You have no idea what I've been through,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:7_0_1"
+msgid "how hard it's been getting this far.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "I thought he was the one person who"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:8_0_1"
+msgid "understood me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "But behind the scenes he was making deals"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:9_0_1"
+msgid "with the yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Sorry,{PA:10} but our next stop is going to be"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:10_0_1"
+msgid "Osaka Police HQ.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Finding out about the Jingweon comes first.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Do what you want.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:12_0_1"
+msgid "I'm going to look for Chairman Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Don't get the wrong idea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:14_0_0"
+msgid "You're still in my custody.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:14_0_1"
+msgid "You're not going anywhere on your own.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Understand?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Got it.{PA:20}"
+msgstr ""
+

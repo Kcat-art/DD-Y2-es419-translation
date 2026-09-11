@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_0_0"
+msgid "Items"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_1_0"
+msgid "Map"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_2_0"
+msgid "Status"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_3_0"
+msgid "Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_4_0"
+msgid "Community"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_5_0"
+msgid "Missions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_6_0"
+msgid "Completion"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_7_0"
+msgid "Settings"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_0_0"
+msgid "Use and equip items currently in||your possession.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_1_0"
+msgid "Display a map of the city.{PA:20}||Zoom in to see street and shop names.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_2_0"
+msgid "Use experience points you've earned||to strengthen Kiryu's abilities.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_3_0"
+msgid "Check mail you've received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_4_0"
+msgid "View information about the people||you've encountered.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_5_0"
+msgid "View the current mission as well as||side missions you've encountered.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_6_0"
+msgid "View the completion status of various||game elements.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_7_0"
+msgid "Adjust the game settings,{PA:10} such as||screen,{PA:10} vibration and sound settings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_8_0"
+msgid "This item cannot be selected now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_9_0"
+msgid "You're in pain and you can't concentrate||enough to strengthen your abilities!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:2_0_0"
+msgid "You can strengthen your abilities.{PA:20} {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:2_1_0"
+msgid "Money"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:2_2_0"
+msgid "Learn the turn kick.{PA:20} {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:3_0_0"
+msgid "No mail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:3_1_0"
+msgid "No new mail.{PA:20}||Press {IC:01_02}➿ to display all mail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:3_2_0"
+msgid "Displaying all mail.{PA:20}||Press {IC:01_02}➿ to display only unread mail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:3_3_0"
+msgid "Displaying unread mail.{PA:20}||Press {IC:01_02}➿ to display all mail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:4_0_0"
+msgid "No map.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:5_0_0"
+msgid "Inbox"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:5_1_0"
+msgid "Received Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:6_0_0"
+msgid "Open"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:6_1_0"
+msgid "Back"
+msgstr ""
+

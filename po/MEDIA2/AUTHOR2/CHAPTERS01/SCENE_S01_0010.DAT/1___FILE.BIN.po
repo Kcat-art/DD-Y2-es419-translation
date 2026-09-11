@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Hey!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Where's Yuya?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Get him out here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Black Thunder.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:4_0_0"
+msgid "What the hell are you doing here?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Hell of way to greet your old team,{PA:10} \"boss\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Koji.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:7_0_0"
+msgid "You used to head up the team.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:7_0_1"
+msgid "You should know why I'm here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Where's Okano?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I don't know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Don't feed me your fucking lies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:11_0_0"
+msgid "You're the one who made him boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Of course you know where he's at!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I'm telling you,{PA:10} I don't know!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Yeah?{PA:20} .{PA:20}.{PA:20}.{PA:20}Fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:14_0_1"
+msgid "You fork over the five million,{PA:10} then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Why the hell should I pay you that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:16_0_0"
+msgid "You're doing pretty well here,{PA:10} yeah?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:17_0_0"
+msgid "You've probably got that much in the till.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:18_0_0"
+msgid "That's the club's money,{PA:10} not mine!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Hey,{PA:10} that's not my problem.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Leave the team,{PA:10} pay five million yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:20_0_1"
+msgid "That was your rule,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Well,{PA:10} your replacement bailed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Now you get to settle his tab!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:23_0_0"
+msgid "I'll be back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Have Okano or the money ready by then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:24_0_1"
+msgid "Take your pick.{PA:20}"
+msgstr ""
+

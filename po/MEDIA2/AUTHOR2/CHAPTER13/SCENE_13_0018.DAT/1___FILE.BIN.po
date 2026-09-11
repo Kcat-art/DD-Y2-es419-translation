@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:0_0_0"
+msgid "You've taken Date hostage?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Now,{PA:10} now.{PA:20} Calm down and listen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Who is this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Wataru Kurahashi.{PA:20} Tokyo Metropolitan Police,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:3_0_1"
+msgid "Public Security Division 2.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:4_0_0"
+msgid "You're from Public Security?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I wasn't always with the police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:5_0_1"
+msgid "Twenty years ago I went by \"Yeongmin Ji\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:6_0_0"
+msgid "So you're another Jingweon survivor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Oh,{PA:10} yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Did the Go-Ryu Clan put you up to this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:9_0_0"
+msgid "They had nothing to do with this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:10_0_0"
+msgid "The time has finally come for the Jingweon"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:10_0_1"
+msgid "mafia to strike.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:11_0_0"
+msgid "It's time to avenge the cruel deaths of"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:11_0_1"
+msgid "our brothers 26 years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Date's got nothing to do with that!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I'm afraid we needed a hostage to bring"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:13_0_1"
+msgid "everyone together here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Everyone who?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Who are you after?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:16_0_0"
+msgid "The people who ruined our lives that night.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:17_0_0"
+msgid "You'll be joining us as well,{PA:10} of course,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:17_0_1"
+msgid "won't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Where?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:19_0_0"
+msgid "The heart of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Please be here by dawn.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Otherwise I'm afraid that this time,{PA:10} the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:22_0_1"
+msgid "entire building will go up in smoke.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:23_0_0"
+msgid "All right.{PA:20} I'll be there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Ah,{PA:10} and one more thing.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:24_0_1"
+msgid "Be sure Ms.{PA:20} Kaoru Sayama joins you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Why?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Oh,{PA:10} you'll see when you get here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:27_0_0"
+msgid "I just got a call from the chief.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:27_0_1"
+msgid "He says they've taken Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:28_0_0"
+msgid "I just talked to the man who took him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:29_0_0"
+msgid "To think a man in his station could be one"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:29_0_1"
+msgid "of the Jingweon survivors.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Kurahashi from Public Security,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:31_0_0"
+msgid "So what did he want?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Us,{PA:10} at the Millennium Tower by dawn.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:33_0_0"
+msgid "The trains aren't running this late.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:33_0_1"
+msgid "We'll go by car.{PA:20}"
+msgstr ""
+

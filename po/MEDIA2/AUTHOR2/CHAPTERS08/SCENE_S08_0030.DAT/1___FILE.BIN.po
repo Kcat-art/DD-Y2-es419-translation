@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Th-That's.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "It's.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "It's Utabori's.{PA:20}.{PA:20}.{PA:20} dragon.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I've gained a lot and lost as much since"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:3_0_1"
+msgid "the day I took up this dragon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid "But I feel that getting this dragon done and"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:4_0_1"
+msgid "the way my life has turned out.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I believe it's all fate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "You weren't wrong to have given Ryuji Goda"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:6_0_1"
+msgid "that dragon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Mr.{PA:20} Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "It's easy for powerful men to stray.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "They're only men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid "But setting them straight isn't your job.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:11_0_0"
+msgid "All an artist can do is stand by and watch"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:11_0_1"
+msgid "them walk the path they choose.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Akina.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:13_0_0"
+msgid "If you feel responsible as an artist.{PA:20}.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Isn't it your job to take on the Kazahori"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:14_0_1"
+msgid "name and see where Ryuji goes?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Mr.{PA:20} Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Good luck to you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:18_0_0"
+msgid "I won't run anymore.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:19_0_0"
+msgid "I'll become the Fifth Kazahori.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:19_0_1"
+msgid "Thank you,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+

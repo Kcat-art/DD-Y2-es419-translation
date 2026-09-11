@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Haven't seen you in a while,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:1_0_0"
+msgid "I see you've gone from underground hideout"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:1_0_1"
+msgid "to high-profile luxury suite.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:2_0_0"
+msgid "You always were full of surprises.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Lovely young lady you've got there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:4_0_0"
+msgid "She's a detective with Osaka's Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Miss Kaoru Sayama,{PA:10} correct?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:6_0_0"
+msgid "How do you know my name?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Passed the Tier II Public Service Exam at"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:7_0_1"
+msgid "age 20 while in technical college.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Joined the Osaka Prefectural Police as on a"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:8_0_1"
+msgid "semi-career track,{PA:10} on state recommendation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Entered Division 4 where,{PA:10} as of this April,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:9_0_1"
+msgid "you completed year four in the police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:10_0_0"
+msgid "At which point you set the record for"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:10_0_1"
+msgid "quickest promotion to assistant inspector.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Following your promotion,{PA:10} you were named"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:11_0_1"
+msgid "Division 4 lead detective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Also known as \"The Yakuza-Eater\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:12_0_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}Did I leave anything out?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:13_0_0"
+msgid "How do you know all that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:14_0_0"
+msgid "I've tracked more or less all of your"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:14_0_1"
+msgid "activity since you got to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:15_0_0"
+msgid "I just did a little homework on the side.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Impressive,{PA:10} as always.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:17_0_0"
+msgid "It's what I do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Then you already know why we're here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:19_0_0"
+msgid "I've got a pretty good guess,{PA:10} anyway.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Daigo Dojima,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:22_0_0"
+msgid "I went to the Amano Building because Daigo's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:22_0_1"
+msgid "kidnappers told me to.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:23_0_0"
+msgid "And that landed you in a shootout.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:24_0_0"
+msgid "You've gotten wrapped up in a real mess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Date said that the video the police are"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:25_0_1"
+msgid "using as evidence came from you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:26_0_0"
+msgid "It's true.{PA:20}.{PA:20}.{PA:20} That was bad luck.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:27_0_0"
+msgid "The way the camera was angled,{PA:10} you could"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:27_0_1"
+msgid "only see Date and Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:28_0_0"
+msgid "And as a result,{PA:10} he's suspected for murder.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:29_0_0"
+msgid "I know.{PA:20} I feel responsible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:30_0_0"
+msgid "How so?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Because.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:32_0_0"
+msgid "If I'd seen it,{PA:10} I never would have given"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:32_0_1"
+msgid "them a video so full of holes as evidence.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:33_0_0"
+msgid "It's too little,{PA:10} too late now,{PA:10} but that"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:33_0_1"
+msgid "video was submitted in my absence.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:34_0_0"
+msgid "What does that mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:35_0_0"
+msgid "That I've got a rat problem here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:36_0_0"
+msgid "A spy?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:37_0_0"
+msgid "I can't say for sure,{PA:10} but take the bombing"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:37_0_1"
+msgid "that happened upstairs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:38_0_0"
+msgid "I should have seen that coming.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:39_0_0"
+msgid "But for some reason,{PA:10} none of the relevant"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:39_0_1"
+msgid "data ever came through here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:40_0_0"
+msgid "So somebody is sneaking around filtering"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:40_0_1"
+msgid "the data from the inside?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:41_0_0"
+msgid "We watch over Kamurocho 24 hours a day here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Even I can't be up and at it all the time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:43_0_0"
+msgid "The only way I see it is somebody used"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:43_0_1"
+msgid "that window to jack the system.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:44_0_0"
+msgid "Any ideas who your rat might be?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:45_0_0"
+msgid "No.{PA:20} Everyone working here is an old buddy"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:45_0_1"
+msgid "from back in Purgatory.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:46_0_0"
+msgid "I can't imagine any of them turning traitor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Boss!{PA:20} I've found our man!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:48_0_0"
+msgid "Put it on the main monitor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:49_0_0"
+msgid "Is that Daigo?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:50_0_0"
+msgid "Yup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:51_0_0"
+msgid "I figured you'd come here,{PA:10} so I got a jump"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:51_0_1"
+msgid "on tracking him down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:52_0_0"
+msgid "Pinpoint that location!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:53_0_0"
+msgid "It's on Taihei Boulevard.{PA:20} The building is.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:54_0_0"
+msgid "What happened?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:55_0_0"
+msgid "The power's down!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:56_0_0"
+msgid "Why?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:57_0_0"
+msgid "Looks like trouble in the transformer room!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:58_0_0"
+msgid "We'll switch over to the emergency system!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:59_0_0"
+msgid "All the building's power comes from the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:59_0_1"
+msgid "transformer room.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:60_0_0"
+msgid "Boss!{PA:20} Intruders in the transformer room!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:60_0_1"
+msgid "I'll put it on the monitor now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:61_0_0"
+msgid "Who are they?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:62_0_0"
+msgid "How many of them are there?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:63_0_0"
+msgid "Eight,{PA:10} sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:64_0_0"
+msgid "Where is that room?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:65_0_0"
+msgid "In the 10th basement level.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:66_0_0"
+msgid "Why,{PA:10} are you going to go play exterminator?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:67_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0060.DAT/1___FILE.BIN::line:67_0_1"
+msgid "I've got to find Daigo.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_0_0"
+msgid "Showa St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_1_0"
+msgid "Senryo Ave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_2_0"
+msgid "Pink St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_3_0"
+msgid "Nakamichi St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_4_0"
+msgid "Tenkaichi St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_5_0"
+msgid "Suppon St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_6_0"
+msgid "Theater Square"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_7_0"
+msgid "Taihei Blvd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_8_0"
+msgid "Shichifuku St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_9_0"
+msgid "Park Blvd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_10_0"
+msgid "Champion Dist.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_11_0"
+msgid "Theater Ave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_12_0"
+msgid "Children's Pk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_13_0"
+msgid "Public Park 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_14_0"
+msgid "Sotenbori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_15_0"
+msgid "Sotenbori Riv.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_16_0"
+msgid "Bishamon Br.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_17_0"
+msgid "Iwao Bridge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_18_0"
+msgid "Shofukucho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:0_19_0"
+msgid "Jizo Ave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_0_0"
+msgid "Showa St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_1_0"
+msgid "Senryo Ave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_2_0"
+msgid "Pink St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_3_0"
+msgid "Nakamichi St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_4_0"
+msgid "Tenkaichi St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_5_0"
+msgid "Suppon St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_6_0"
+msgid "Theater Square"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_7_0"
+msgid "Taihei Blvd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_8_0"
+msgid "Shichifuku St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_9_0"
+msgid "Park Blvd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_10_0"
+msgid "Champion Dist.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_11_0"
+msgid "Theater Ave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_12_0"
+msgid "Children's Pk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_13_0"
+msgid "Public Park 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_14_0"
+msgid "Sotenbori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_15_0"
+msgid "Sotenbori Riv.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_16_0"
+msgid "Bishamon Brdg.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_17_0"
+msgid "Iwao Bridge"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_18_0"
+msgid "Shofukucho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMAP.BIN::line:1_19_0"
+msgid "Jizo Ave.{PA:20}"
+msgstr ""
+

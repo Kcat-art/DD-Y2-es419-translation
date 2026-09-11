@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:0_1_0"
+msgid "Give"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:0_2_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_0_0"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_1_0"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_2_0"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_3_0"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_4_0"
+msgid "Recovery Medicine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_5_0"
+msgid "Oden Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_6_0"
+msgid "Salmon Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_7_0"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_8_0"
+msgid "Club Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_9_0"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_10_0"
+msgid "Steamed Bun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_11_0"
+msgid "Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_12_0"
+msgid "Spaghetti With Meat Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_13_0"
+msgid "Fried Chicken Lunch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_14_0"
+msgid "Pudding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_15_0"
+msgid "Seaweed Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_16_0"
+msgid "Tuna Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_17_0"
+msgid "Frankfurter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_18_0"
+msgid "Melon Bread"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_19_0"
+msgid "Tonkatsu Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_20_0"
+msgid "Soba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_21_0"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_22_0"
+msgid "Hamburger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_23_0"
+msgid "Fish Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_24_0"
+msgid "French Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_25_0"
+msgid "Haruka's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_26_0"
+msgid "Haruka's Chocolate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_27_0"
+msgid "Takoyaki (8)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_28_0"
+msgid "Takoyaki (12)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_29_0"
+msgid "Takoyaki (20)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_30_0"
+msgid "iemon (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_31_0"
+msgid "iemon hot (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_32_0"
+msgid "Suntory Natural Mineral Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_33_0"
+msgid "Natchan Orange"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_34_0"
+msgid "Pepsi NEX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_35_0"
+msgid "Suntory Oolong Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_36_0"
+msgid "C.{PA:20}C.{PA:20} Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_37_0"
+msgid "DAKARA"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_38_0"
+msgid "Gatorade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_39_0"
+msgid "Sushi Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_40_0"
+msgid "Old Lady's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_41_0"
+msgid "Homemade Cookies"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_42_0"
+msgid "Nutritional Supplement ZLD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_43_0"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_44_0"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_45_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_46_0"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_47_0"
+msgid "Haruka's First-Aid Kit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_48_0"
+msgid "Ultra Nourishment SHW"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_49_0"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_50_0"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_51_0"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_52_0"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:1_53_0"
+msgid "Spirit Revitalizer BKH"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_0_0"
+msgid "Toughness Z.{PA:20}||Replenishes a bit of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_1_0"
+msgid "Toughness ZZ.{PA:20}||Replenishes a lot of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_2_0"
+msgid "Toughness Emperor.{PA:20}||Extremely effective for health recovery.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_3_0"
+msgid "Toughness Infinity.{PA:20}||Restores the maximum amount of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_4_0"
+msgid "Recovery medicine.{PA:20}||Replenishes a large amount of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_5_0"
+msgid "Nothing says winter like a bowl of oden||soup.{PA:20} You get quite a bit of it too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_6_0"
+msgid "Everyone loves a good salmon rice ball,{PA:10}||but just one isn't going to cut it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_7_0"
+msgid "The classic lunch set.{PA:20} This won't leave||you wanting more.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_8_0"
+msgid "A club sandwich might not fill you up,{PA:10} but||it's nice that you can eat it cold.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_9_0"
+msgid "This dry noodle dish tastes better heated,{PA:10}||but it's not bad cold either.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_10_0"
+msgid "A steamed bun is great in wintertime,{PA:10} but||it's not something you'd want to eat cold.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_11_0"
+msgid "Your typical carton of milk.{PA:20}||It could be good for your health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_12_0"
+msgid "Spaghetti with lots of sauce and plenty of||mushrooms.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_13_0"
+msgid "Fried chicken lunch filled with really||juicy chicken.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_14_0"
+msgid "Pudding might be a dessert,{PA:10} but it's got||nutritional value too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_15_0"
+msgid "Seaweed rice ball,{PA:10} filled with kelp seaweed||boiled in soy sauce and mirin.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_16_0"
+msgid "Tuna rice ball,{PA:10} filled with tuna fish and||mayonnaise.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_17_0"
+msgid "This frankfurter tastes like authentic||German cooking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_18_0"
+msgid "Melon bread with an outer crust and stuffed||with melon cream filling.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_19_0"
+msgid "Tonkatsu sandwich with a thick pork cutlet||as well as shredded cabbage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_20_0"
+msgid "Soba noodles,{PA:10} topped with little bits of||tempura batter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_21_0"
+msgid "A special burger,{PA:10} served à la carte.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_22_0"
+msgid "A hamburger,{PA:10} the basic fast food entrée.{PA:20}||Eat it while it's still hot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_23_0"
+msgid "A fish burger.{PA:20} It's healthier than a||hamburger,{PA:10} at least.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_24_0"
+msgid "French fries.{PA:20} They're bad for the skin,{PA:10} but||replenish some health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_25_0"
+msgid "Candy received from Haruka.{PA:20} You can't buy||it in any store.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_26_0"
+msgid "Chocolate received from Haruka.{PA:20} You've||never seen packaging like this before.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_27_0"
+msgid "These octopus dumplings are all the rage.{PA:20}||Eight's good when you're only a bit hungry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_28_0"
+msgid "A dozen octopus dumplings.{PA:20} This is a||decent-sized meal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_29_0"
+msgid "The ultimate order of 20 octopus dumplings.{PA:20}||This should fill you up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_30_0"
+msgid "A bottle of iemon green tea,{PA:10} made from||leaves selected by tea masters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_31_0"
+msgid "A bottle of hot iemon tea.{PA:20} The same great||flavor,{PA:10} served hot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_32_0"
+msgid "A bottle of Suntory Natural Mineral||Water from the Minami Alps mountains.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_33_0"
+msgid "A bottle of Natchan Orange,{PA:10} a refreshing||orange beverage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_34_0"
+msgid "A bottle of Pepsi NEX.{PA:20} Delicious,{PA:10} with||zero calories.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_35_0"
+msgid "A bottle of Suntory Oolong Tea,{PA:10} the||standard in oolong teas.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_36_0"
+msgid "A bottle of C.{PA:20}C.{PA:20} Lemon,{PA:10} loaded with||vitamin C.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_37_0"
+msgid "A bottle of DAKARA.{PA:20} Packed with fiber,{PA:10} it's||refreshing and goes down smooth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_38_0"
+msgid "A bottle of Gatorade.{PA:20} It's refreshing and||replenishes your body's moisture.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_39_0"
+msgid "The carefully selected nigiri we use is||nothing to scoff at,{PA:10} nor is the price.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_40_0"
+msgid "Candy received from an old lady.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_41_0"
+msgid "Homemade cookies,{PA:10} made by the kids at the||Sunflower Orphanage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_42_0"
+msgid "A health revitalizer called Zheng Liu Di.{PA:20}||Well-known among fighters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_43_0"
+msgid "Staminan X.{PA:20}||Replenishes a little bit of health and HEAT.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_44_0"
+msgid "Staminan XX.{PA:20}||Increases HEAT and replenishes health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_45_0"
+msgid "Staminan Royale.{PA:20}||Replenishes a lot of health and HEAT.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_46_0"
+msgid "Staminan Spark.{PA:20} Fully replenishes health||and maintains HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_47_0"
+msgid "A first-aid kit from Haruka.{PA:20} It recharges||physical and mental energy completely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_48_0"
+msgid "Sheng Hai Wang.{PA:20} A drink similar to Staminan||Royale,{PA:10} but far less popular.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_49_0"
+msgid "Tauriner.{PA:20}||Slightly increases HEAT level.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_50_0"
+msgid "Tauriner +.{PA:20}||Increases HEAT by a fair amount.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_51_0"
+msgid "Tauriner ++.{PA:20}||Increases HEAT by a large amount.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_52_0"
+msgid "Tauriner Maximum.{PA:20} Maintains HEAT mode for||a fixed amount of time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0002.BIN::line:2_53_0"
+msgid "A spirit revitalizer called Ba Kong Huang.{PA:20}||Well-known among fighters.{PA:20}"
+msgstr ""
+

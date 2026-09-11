@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Keep this up an' you'll fall apart!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Oh,{PA:10} leave me alone!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Why do ya always have to push yerself?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Because ya won't tell me anything,{PA:10} Mama!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I told ya plenty!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:4_0_1"
+msgid "They had nuthin' to do with the yakuza!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Then tell me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:5_0_1"
+msgid "Who are my parents,{PA:10} really?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Ugh,{PA:10} enough.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Say what ya want,{PA:10} I'm following"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:7_0_1"
+msgid "Kazuma Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:8_0_0"
+msgid "But why,{PA:10} honey?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Because he's Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Tojo?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:11_0_0"
+msgid "As long as he's in my custody,{PA:10} I can get"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:11_0_1"
+msgid "close to the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Close enough to dig up what happened.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:12_0_1"
+msgid "Whatever it is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Kaoru.{PA:20}.{PA:20}.{PA:20} Are ya really.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Does that arm still hurt?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:15_0_0"
+msgid "It's fine now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Could I trouble you for some water?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Sayama here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:18_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Um,{PA:10} yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:19_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Sustained a minor injury.{PA:20} Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:20_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}He's here with me now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:21_0_0"
+msgid "What.{PA:20}.{PA:20}.{PA:20}?{PA:20} Y-Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:22_0_0"
+msgid "It's the Chief.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Kiryu here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:25_0_0"
+msgid "This is Bessho,{PA:10} Osaka Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Did Sayama tell ya about the investigation?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Yes.{PA:20}.{PA:20}.{PA:20} But what do you want with me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Hope you're sittin' down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Yer buddy and Chairman Goda have been"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:29_0_1"
+msgid "kidnapped by some gang.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:30_0_0"
+msgid "What did you say?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Seems they ran off,{PA:10} machine guns blazin',{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:31_0_1"
+msgid "when our men went after 'em.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Go-Ryu Clan members?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Nope,{PA:10} they were speakin' a foreign language.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:34_0_0"
+msgid "Any other guesses?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:35_0_0"
+msgid "No.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Ah,{PA:10} well.{PA:20}.{PA:20}.{PA:20} That's fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Just wanted to ask.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Maybe you'd better get back up to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:39_0_0"
+msgid "To Kamurocho?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:40_0_0"
+msgid "But.{PA:20}.{PA:20}.{PA:20} I can't leave Daigo and Chairman Goda"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:40_0_1"
+msgid "like this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:41_0_0"
+msgid "The plates on the kidnappers' cars had"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:41_0_1"
+msgid "Kamurocho numbers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:42_0_0"
+msgid "What?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:43_0_0"
+msgid "That's all I can tell ya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:43_0_1"
+msgid "You gotta understand my position here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:44_0_0"
+msgid "I understand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:44_0_1"
+msgid "I owe you one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:45_0_0"
+msgid "Just remember that the Osaka Police have got"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:45_0_1"
+msgid "ya by the short and curlies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:46_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}I'll remember.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Later.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:48_0_0"
+msgid "I'm going back to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:49_0_0"
+msgid "What?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:50_0_0"
+msgid "That's outside Osakan police jurisdiction.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:50_0_1"
+msgid "You don't have to come.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:51_0_0"
+msgid "Jurisdiction went out the window the minute"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:51_0_1"
+msgid "they put you in my custody.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:52_0_0"
+msgid "I'm going with you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0120.DAT/1___FILE.BIN::line:53_0_0"
+msgid "Do what you want.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Hey.{PA:20} Here he is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Mr.{PA:20} Date.{PA:20}.{PA:20}.{PA:20} I'm sorry to drag you down here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "It's fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Let me introduce you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "This is Senior Superintendent Kurahashi,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:4_0_1"
+msgid "Chief of Public Security Division 2.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I've heard the stories,{PA:10} Mr.{PA:20} Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Public Security Division 2?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "What's Asian Affairs doing down here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "As I said yesterday,{PA:10} Division 4 is"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:8_0_1"
+msgid "monitoring Omi Alliance activity.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20} Terada's killing,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:10_0_0"
+msgid "That's correct.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:11_0_0"
+msgid "We suspect that some foreign organization.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:11_0_1"
+msgid "a Chinese or Korean group may be involved.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:12_0_0"
+msgid "As in foreign mafia?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Division 2 has been on the watch for Asian"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:14_0_1"
+msgid "mafia activity for about a year now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:15_0_0"
+msgid "We've gotten word that there's been some"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:15_0_1"
+msgid "major movement lately.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:16_0_0"
+msgid "We'd suspected it for some time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:17_0_0"
+msgid "We knew something big was going to happen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Like what?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:19_0_0"
+msgid "I'd been watching Kamurocho for weeks on"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:19_0_1"
+msgid "secret orders from Chief Kurahashi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Then,{PA:10} sure enough.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:21_0_0"
+msgid "A bomb goes off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Precisely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Our suspicions were confirmed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:24_0_0"
+msgid "But wait.{PA:20}.{PA:20}.{PA:20} What does all that have to do"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:24_0_1"
+msgid "with you in Division 4?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Second Chairman of the Omi Alliance's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:25_0_1"
+msgid "Go-Ryu Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:26_0_0"
+msgid "A man named Ryuji Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Ryuji Goda.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:28_0_0"
+msgid "An Omi higher-up who we suspect led the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:28_0_1"
+msgid "Terada killing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Okay,{PA:10} what about him?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Our intelligence picked up a conversation"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:30_0_1"
+msgid "Goda had,{PA:10} conspiring with the bomber.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Just know this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:31_0_1"
+msgid "I ain't one of your comrades.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:32_0_0"
+msgid "We're just after the same thing here.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:32_0_1"
+msgid "Turnin' Kamurocho into a sea of fire.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Once this job is over,{PA:10} we're strangers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:34_0_0"
+msgid "Ya got that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:35_0_0"
+msgid "Sure.{PA:20} You just enjoy the show.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:36_0_0"
+msgid "The man with the Kansai accent is Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:37_0_0"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:38_0_0"
+msgid "So now Divisions 2 and 4 are trying to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:38_0_1"
+msgid "figure out who the other guy is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Correct.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:40_0_0"
+msgid "Our first aim is to identify him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:41_0_0"
+msgid "Using that,{PA:10} we hope to uncover the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:41_0_1"
+msgid "organization connected to the Omi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Where did that conversation take place?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:43_0_0"
+msgid "We tried eliminating all the line noise,{PA:10} but"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:43_0_1"
+msgid "haven't been able to pinpoint the location.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:44_0_0"
+msgid "So.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:44_0_1"
+msgid "What's this mission only I can handle?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:45_0_0"
+msgid "You see,{PA:10} Mr.{PA:20} Date.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:46_0_0"
+msgid "We need you to get close to this man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Huh?{PA:20} That's.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:48_0_0"
+msgid "Yes.{PA:20}.{PA:20}.{PA:20} Someone you know very well,{PA:10} Mr.{PA:20} Date.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:49_0_0"
+msgid "Owner of the Kamurocho club,{PA:10} Stardust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:50_0_0"
+msgid "Alias \"Kazuki\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:51_0_0"
+msgid "Why Kazuki?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:52_0_0"
+msgid "Six months ago,{PA:10} Ryuji Goda came to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:52_0_1"
+msgid "Kamurocho,{PA:10} just once.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:53_0_0"
+msgid "The man he was meeting then was Kazuki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:54_0_0"
+msgid "I don't see how that's enough reason to.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:55_0_0"
+msgid "That's not all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:56_0_0"
+msgid "He has another name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:56_0_1"
+msgid "A real name,{PA:10} aside from \"Kazuki\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:57_0_0"
+msgid "Another name?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:58_0_0"
+msgid "Jinwu Kang.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:59_0_0"
+msgid "He's a bona fide Korean.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:60_0_0"
+msgid "We need you to approach him subtly"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:60_0_1"
+msgid "and apply a little pressure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:61_0_0"
+msgid "Is he Korean mafia or not?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:62_0_0"
+msgid "That's what we need you to find out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:63_0_0"
+msgid "He trusts you,{PA:10} after last year's events.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0020.DAT/1___FILE.BIN::line:64_0_0"
+msgid "You're the only man for this job,{PA:10} Mr.{PA:20} Date.{PA:20}"
+msgstr ""
+

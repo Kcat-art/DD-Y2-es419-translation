@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:0_0_0"
+msgid "What,{PA:10} you didn't trust Terada?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:1_0_0"
+msgid "Nope.{PA:20} Man wasn't the saint they say he was.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:2_0_0"
+msgid "How do you mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:3_0_0"
+msgid "Terada surrounded himself with nuthin' but"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:3_0_1"
+msgid "head-bobbing yes-men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:4_0_0"
+msgid "Old hats like me 'n' Kashiwagi got bumped out"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:4_0_1"
+msgid "as soon as he took over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:5_0_0"
+msgid "Kashiwagi?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:6_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20} Interim Second-in-Command my ass.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:6_0_1"
+msgid "He was an ornament.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:7_0_0"
+msgid "Got a big office up in the tower,{PA:10} but still"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:7_0_1"
+msgid "couldn't do a thing without Terada's okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:8_0_0"
+msgid "I got tired of his bullshit and bailed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:9_0_0"
+msgid "I never knew Terada was that kind of man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:10_0_0"
+msgid "Eh,{PA:10} can't read another guy's mind,{PA:10} I guess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:11_0_0"
+msgid "Still.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:12_0_0"
+msgid "There's nuthin' wrong with trusting folks,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:12_0_1"
+msgid "Kazzy,{PA:10} but you gotta be careful.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:0_0_0"
+msgid "Attack in all directions.{PA:20} Quickly,{PA:10} now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:0_1_0"
+msgid "Tilt the left analog stick back and use {IC:00_02}➿ and {IC:01_01}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:1_0_0"
+msgid "Use the Komaki Fist Reversal!{PA:20} Quickly,{PA:10} now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:1_1_0"
+msgid "Meet enemy attacks with {IC:01_01}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:2_0_0"
+msgid "Enter HEAT mode quickly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:2_1_0"
+msgid "Use finishing blows effectively.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:3_0_0"
+msgid "Get close to enemies with guns to defeat them!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:3_1_0"
+msgid "Press {IC:02_0c}➿  with a weapon to guard against bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:4_0_0"
+msgid "Use the Komaki Shot Stopper!{PA:20} Quickly,{PA:10} now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:4_1_0"
+msgid "Approach enemies with guns and press {IC:01_01}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:5_0_0"
+msgid "Spar with Cyclops Oba!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:5_1_0"
+msgid "Don't hold back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:6_0_0"
+msgid "Spar with Cyclops Oba!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:6_1_0"
+msgid "Don't hold back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:7_0_0"
+msgid "Spar with Cyclops Oba!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:7_1_0"
+msgid "Don't hold back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:8_0_0"
+msgid "The Final Lesson: \"Super Finish\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:8_1_0"
+msgid "In some cases,{PA:10} you'll reach this state against specific"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:8_2_0"
+msgid "enemies.{PA:20}Press {IC:03_0b}➿  rapidly to enter {CC:00e6ff}HEAT mode{CR:00} within"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:8_3_0"
+msgid "10 seconds.{PA:20}Then press {IC:01_01}➿ to unleash the \"Super Finish\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:8_4_0"
+msgid "If you are already in {CC:00e6ff}HEAT mode{CR:00},{PA:10} you don't need to press {IC:03_0b}➿ .{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_TUTORIAL2.BIN::line:8_5_0"
+msgid "Press {IC:04_03}➿ to start.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::name:1"
+msgid "Kaoru"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::name:2"
+msgid "Haruka"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::name:3"
+msgid "Date"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::name:4"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::name:5"
+msgid "Il Yu-Jin"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_0"
+msgid "({CC:ffc8c8}Love in Heart Massage Parlor{CR:00})"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_1"
+msgid "({CC:ffc8c8}Notice to customers: We offer massage only.{CR:00}{PA:20})"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_2"
+msgid "({CC:ffc8c8}We do not offer services beyond therapeutic||massage,{PA:10} even at additional cost.{CR:00}{PA:20})"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_3"
+msgid "({CC:ffc8c8}Relax and enjoy as our expert staff treats||you with the latest in massage techniques.{CR:00}{PA:20})"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_4"
+msgid "(.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_6"
+msgid "Wait,{PA:10} you're going in here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_7"
+msgid "(I've got Sayama with me.{PA:20} What do I do?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_8"
+msgid "Yeah.{PA:20} Sorry,{PA:10} but I need you to wait for me||out here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_9"
+msgid "Doesn't look like I have much of a choice.{PA:20}||Fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_10"
+msgid "No,{PA:10} I'll come back another time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_11"
+msgid "You sure?{PA:20} I don't really care.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_12"
+msgid "Are you going in here,{PA:10} Uncle Kaz?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_13"
+msgid "(I've got Haruka with me.{PA:20} What do I do?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_14"
+msgid "Yeah.{PA:20} Sorry,{PA:10} but I need you to wait for me||out here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_15"
+msgid ".{PA:20}.{PA:20}.{PA:20}Okay.{PA:20} I'll stay right here.{PA:20}||Have fun.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_16"
+msgid "No,{PA:10} I'll come back another time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_17"
+msgid "Really?{PA:20} If it's because of me,{PA:10} you don't||have to,{PA:10} Uncle Kaz.{PA:20} I'll be fine here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_18"
+msgid "Whoa,{PA:10} whoa.{PA:20} Kazuma,{PA:10} you're going in HERE?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_19"
+msgid "(I've got Date with me.{PA:20} What do I do?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_20"
+msgid "Yeah.{PA:20} Care to join me,{PA:10} Date?{PA:20}||Should be a fun time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_21"
+msgid ".{PA:20}.{PA:20}.{PA:20}I'll pass.{PA:20}||Go have your fun.{PA:20} I'll be here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_22"
+msgid "No,{PA:10} I'll come back another time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_23"
+msgid "You sure?{PA:20} Won't bother me.{PA:20}||I can keep myself busy for an hour.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_24"
+msgid "You're not thinking of going in,{PA:10} are you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_25"
+msgid "(I've got Daigo with me.{PA:20} What do I do?)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_26"
+msgid "Yeah,{PA:10} I am.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_27"
+msgid "All right,{PA:10} well.{PA:20}.{PA:20}.{PA:20}||I'll just wait here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_28"
+msgid "Thanks,{PA:10} Daigo.{PA:20} I'll catch up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_29"
+msgid "No,{PA:10} not right now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_0_30"
+msgid "Yeah?{PA:20} Well,{PA:10} a'ight then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_1_1"
+msgid "*Sigh* Finally.{PA:20}||Now c'mon,{PA:10} let's get out of here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_1_2"
+msgid "You took foreeever!{PA:20}||I'm bored,{PA:10} let's go!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_1_3"
+msgid "All done with your fun?{PA:20}||Let's get back to work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_1_4"
+msgid "Fucking finally.{PA:20}||Let's go already.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_3_0"
+msgid "(There's no time for that now.{PA:20} I need to||find a hospital.)"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_4_0"
+msgid "No,{PA:10} Mr.{PA:20} Kiryu.{PA:20}||This not where I wanted to go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:138_5_0"
+msgid "      You acquired a \"{CC:ffc8c8}HEAT gauge boost{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:140_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:141_0_0"
+msgid "Senryo Ave.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:142_0_0"
+msgid "Enter anyway.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:142_1_0"
+msgid "Never mind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:143_0_0"
+msgid "Enter anyway.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:143_1_0"
+msgid "Never mind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:144_0_0"
+msgid "Enter anyway.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:144_1_0"
+msgid "Never mind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:145_0_0"
+msgid "Enter anyway.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0031.ARC/TALK_ST_KAB0031_BTL.BIN::line:145_1_0"
+msgid "Never mind.{PA:20}"
+msgstr ""
+

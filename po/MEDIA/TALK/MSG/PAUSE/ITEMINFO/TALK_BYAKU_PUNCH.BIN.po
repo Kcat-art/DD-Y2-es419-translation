@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_0"
+msgid "\"Lotus Style Senkijutsu Encyclopedia\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_1"
+msgid "To summarize,{PA:10} this scroll explains the"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_2"
+msgid "following: Practitioners of the Lotus"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_3"
+msgid "style have studied \"Ki\" energy for eons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_4"
+msgid "Eventually they discovered the existence"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_5"
+msgid "of \"Sen-Ki\",{PA:10} which imparts great damage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_6"
+msgid "when attacking.{PA:20} By amassing this Sen-Ki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_7"
+msgid "and releasing it,{PA:10} one can perform an"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_PUNCH.BIN::line:0_0_8"
+msgid "unblockable attack.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_0_0"
+msgid "Komaki Style \"Book of Ultimate Secrets\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_0_1"
+msgid "As you are no doubt aware,{PA:10} there are many"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_0_2"
+msgid "menacing \"ultimate arts\" in the world.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_0_3"
+msgid "This skill,{PA:10} developed by the founder of"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_0_4"
+msgid "the Komaki style,{PA:10} is surely deserving of"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_0_5"
+msgid "the name \"ultimate\".{PA:20} It's properly"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_0_6"
+msgid "referred to as the \"Ultimate Extreme\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_0"
+msgid "As with the other techniques of its kind,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_1"
+msgid "the first requirement is the state of"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_2"
+msgid "burning spirit radiating from the body.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_3"
+msgid "While in this state,{PA:10} stand before a"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_4"
+msgid "stunned opponent and focus your fighting"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_5"
+msgid "spirit in your right palm,{PA:10} and strike"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_6"
+msgid "the opponent's cheek.{PA:20} When properly"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_7"
+msgid "mastered,{PA:10} it is said that one strike is"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_1_8"
+msgid "as three.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_0"
+msgid "To stun the opponent,{PA:10} you can throw a"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_1"
+msgid "large weapon at them.{PA:20} In the Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_2"
+msgid "style,{PA:10} however,{PA:10} the secret technique"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_3"
+msgid "\"Ukenagashi\" is often used to stun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_4"
+msgid "opponents.{PA:20} In accordance with the"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_5"
+msgid "Komaki family precept,{PA:10} \"Learn the"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_6"
+msgid "details on the battlefield\",{PA:10} mastery"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_ULTIMATE_BOOK.BIN::line:0_2_7"
+msgid "requires its use in actual battles.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,453 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Sorry,{PA:10} this is the only open room we had.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Good enough for a private chat,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:2_0_0"
+msgid "So whaddya want with me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Twenty-some years ago,{PA:10} Dojima and Jingweon"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:3_0_1"
+msgid "mafia fought for control of Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:4_0_0"
+msgid "You handled that case,{PA:10} didn't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:5_0_0"
+msgid "What,{PA:10} I'm being interrogated?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Yeah,{PA:10} I was on the case.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:6_0_1"
+msgid "What of it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Chief,{PA:10} the Millennium Tower bombing,{PA:10} the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:7_0_1"
+msgid "kidnapping of Jin Goda and Daigo Dojima.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:8_0_0"
+msgid "It looks like the Jingweon are involved.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I'll put this to you bluntly.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:9_0_1"
+msgid "Do you know anything about this,{PA:10} Chief?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:10_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}No.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:11_0_0"
+msgid "But that's.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Look,{PA:10} cool it a sec.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:13_0_0"
+msgid "All I know's what happened back then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:14_0_0"
+msgid "No way I could know what's going down now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Then why didn't you tell me anything"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:15_0_1"
+msgid "about the Jingweon?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:16_0_0"
+msgid "I didn't see any connection to this case.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:16_0_1"
+msgid "Can't just go giving out classified info.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:17_0_0"
+msgid "A bad lead's worse than no lead.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:18_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}That's your only reason?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:20_0_0"
+msgid "All right.{PA:20} Tell us what you know about what"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:20_0_1"
+msgid "happened back then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Sure.{PA:20} Where do I start?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Probably already heard,{PA:10} but I was up in"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:22_0_1"
+msgid "Kamurocho's Division 4.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:23_0_0"
+msgid "I know.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:24_0_0"
+msgid "And you made the Dojima do your work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:25_0_0"
+msgid "That's simplifying it,{PA:10} but yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:26_0_0"
+msgid "That was our only choice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Cops couldn't do a damn thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:28_0_0"
+msgid "We couldn't find out shit about 'em.{PA:20} Daily"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:28_0_1"
+msgid "looting and beatings had folks scared bad.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Soon as the Jingweon hit Kamurocho,{PA:10} the city"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:29_0_1"
+msgid "went to shit faster than we could react.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:30_0_0"
+msgid "It's never appropriate to cut a deal with"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:30_0_1"
+msgid "the yakuza behind the scenes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:31_0_0"
+msgid "It invites corruption.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:31_0_1"
+msgid "Isn't that what you always said?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:32_0_0"
+msgid "There was no other way at the time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Let me ask a different question.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:34_0_0"
+msgid "The supposedly extinct Jingweon mafia is"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:34_0_1"
+msgid "on the move.{PA:20}.{PA:20}.{PA:20} Any ideas about that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:35_0_0"
+msgid "You know something,{PA:10} don't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:36_0_0"
+msgid "The Jingweon mafia was a 36-man outfit at"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:36_0_1"
+msgid "the time of the raid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Of that,{PA:10} we only found 33 bodies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Meaning three survivors.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:40_0_0"
+msgid "I know about one of 'em.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:41_0_0"
+msgid "Who is it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Please,{PA:10} tell me,{PA:10} Chief!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:43_0_0"
+msgid "Near Tsutenkaku Tower,{PA:10} there's a place"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:43_0_1"
+msgid "called \"Keima\".{PA:20} That's where he hangs out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:44_0_0"
+msgid "What's his name?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:45_0_0"
+msgid "Lives under the name \"Murai\" now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:46_0_0"
+msgid "Murai,{PA:10} you said?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Sayama.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:48_0_0"
+msgid "I'm the one who brought 'im to Osaka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:49_0_0"
+msgid "I gave 'im the name Murai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:50_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:51_0_0"
+msgid "It's a miracle he survived.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:52_0_0"
+msgid "The Jingweon creed is \"death"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:52_0_1"
+msgid "before dishonor\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:53_0_0"
+msgid "You can't live if you won't take revenge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:54_0_0"
+msgid "Murai chose to break that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:55_0_0"
+msgid "So I helped 'im get outta Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:56_0_0"
+msgid "To shield him from retribution from other"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:56_0_1"
+msgid "Jingweon members?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:57_0_0"
+msgid "Right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:58_0_0"
+msgid "Kawara and I brought 'im with us when we"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:58_0_1"
+msgid "got transferred down here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:59_0_0"
+msgid "Kawara was transferred to Kansai too?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:60_0_0"
+msgid "Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:61_0_0"
+msgid "Yes?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:62_0_0"
+msgid "Yer protective custody job ends today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:63_0_0"
+msgid "What?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:64_0_0"
+msgid "That's an order.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:65_0_0"
+msgid "For what reason?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:66_0_0"
+msgid "If the Jingweon are involved,{PA:10} this thing"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:66_0_1"
+msgid "is way too dangerous.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:67_0_0"
+msgid "Is.{PA:20}.{PA:20}.{PA:20} Is this because I'm a woman?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:68_0_0"
+msgid "Hell no.{PA:20} It ain't like that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:69_0_0"
+msgid "It's just outside Division 4 jurisdiction.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:70_0_0"
+msgid "Don't give me that now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:70_0_1"
+msgid "Bringing criminals to justice is my job!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:71_0_0"
+msgid "This isn't just another yakuza hunt,{PA:10} Kaoru!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:72_0_0"
+msgid "They're still just people!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:73_0_0"
+msgid "You only say that 'cause you don't know how"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:73_0_1"
+msgid "scary the Jingweon really are.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:74_0_0"
+msgid "Women and kids are just more meat to 'em!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:75_0_0"
+msgid "But I.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:76_0_0"
+msgid "I said that's an order,{PA:10} goddammit!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:77_0_0"
+msgid "Stubborn as hell,{PA:10} that one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:78_0_0"
+msgid "Look out for her,{PA:10} would ya?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:79_0_0"
+msgid "You're about the only one who can.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:80_0_0"
+msgid "As a favor to me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:81_0_0"
+msgid "I had a question for you,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:82_0_0"
+msgid "Oh yeah?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:83_0_0"
+msgid "You know about Kawara's shootings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:84_0_0"
+msgid "Are those related to the Dojima-Jingweon"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:84_0_1"
+msgid "incident in some way?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:85_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}And to the transfer down to Kansai?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:86_0_0"
+msgid "Look,{PA:10} I can't say any more than I have.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:87_0_0"
+msgid "Just take good care of Sayama,{PA:10} would ya?{PA:20}"
+msgstr ""
+

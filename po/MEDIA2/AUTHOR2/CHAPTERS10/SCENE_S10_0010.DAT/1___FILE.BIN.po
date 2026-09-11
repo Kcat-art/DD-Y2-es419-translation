@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Who the hell do you think you're talking to?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Who the fuck do you think this is?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:2_0_0"
+msgid "The Dragon of Dojima.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:3_0_0"
+msgid "This here's Mr.{PA:20} Kazuma Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Shit,{PA:10} is he serious?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Oh,{PA:10} fuck.{PA:20}.{PA:20}.{PA:20} He's like a legend!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I've been having a shitty day,{PA:10} guys.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I'm feeling ex-fucking-tremely pissed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Oh,{PA:10} jeez.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:8_0_1"
+msgid "It's all over when he gets like this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Sorry,{PA:10} but you're all dead.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Chalk it up to bad luck,{PA:10} guys.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:11_0_0"
+msgid "I'm sorry!{PA:20} Oh shit,{PA:10} I'm sorry!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:11_0_1"
+msgid "Here,{PA:10} take this,{PA:10} just let me live!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Man.{PA:20}.{PA:20}.{PA:20} Kids these days are broke,{PA:10} bro.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:13_0_0"
+msgid "You dumbass!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:13_0_1"
+msgid "That's why I told you not to go for kids!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Hey,{PA:10} hold it!{PA:20}"
+msgstr ""
+

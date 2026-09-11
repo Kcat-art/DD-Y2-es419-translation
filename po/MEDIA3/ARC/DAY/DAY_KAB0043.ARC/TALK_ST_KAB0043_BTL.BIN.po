@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:138_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:139_0_0"
+msgid "Shichifuku St.{PA:20} East"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:140_0_0"
+msgid "Dai the Yumbo"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:141_0_0"
+msgid "Miki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:142_0_0"
+msgid "Miyahara"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:143_0_0"
+msgid "Konishi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:144_0_0"
+msgid "Yamanaka"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:145_0_0"
+msgid "Okada"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:146_0_0"
+msgid "Emoto"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:147_0_0"
+msgid "Mizuno"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:148_0_0"
+msgid "Generic 1"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:149_0_0"
+msgid "Generic 2"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:150_0_0"
+msgid "Generic 3"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:151_0_0"
+msgid "Generic 4"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:152_0_0"
+msgid "Generic 5"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:153_0_0"
+msgid "Generic 6"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:154_0_0"
+msgid "Generic 7"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:155_0_0"
+msgid "Generic 8"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:156_0_0"
+msgid "Takenaka"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:157_0_0"
+msgid "Amnesiac"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:158_0_0"
+msgid "Yamada"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:159_0_0"
+msgid "Kaneda"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/DAY/DAY_KAB0043.ARC/TALK_ST_KAB0043_BTL.BIN::line:160_0_0"
+msgid "Takai"
+msgstr ""
+

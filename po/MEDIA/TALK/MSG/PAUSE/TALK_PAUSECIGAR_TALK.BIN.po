@@ -1,0 +1,1377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_0_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_1_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_2_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_3_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_4_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_5_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_6_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_7_0"
+msgid "It's already been a year since Fuma's death.{PA:20}||This is where he,{PA:10} Nishiki and Yumi rest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_8_0"
+msgid "What are the Omi Alliance doing here?{PA:20}||Are they trying to stop the truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_9_0"
+msgid "According to Yayoi,{PA:10} Daigo is somewhere in||Kamurocho.{PA:20} But where?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_10_0"
+msgid "According to Yayoi,{PA:10} Daigo is somewhere in||Kamurocho.{PA:20} But where?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_11_0"
+msgid "It's been a year since I've been here.{PA:20}||Better go to Nakamichi St.{PA:20} for some intel.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_12_0"
+msgid "According to Yayoi,{PA:10} Daigo is somewhere in||Kamurocho.{PA:20} But where?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_13_0"
+msgid "According to Yayoi,{PA:10} Daigo is somewhere in||Kamurocho.{PA:20} But where?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_14_0"
+msgid "If I go to the area around the theater,{PA:10}||maybe I'll find out where Daigo is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_15_0"
+msgid "If I go to the area around the theater,{PA:10}||maybe I'll find out where Daigo is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_16_0"
+msgid "Maybe I'll run into Daigo at \"Shine\".{PA:20}||I should check it out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_17_0"
+msgid "I didn't think things would come to this.{PA:20}.{PA:20}.{PA:20}||Nothing to do now but fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_18_0"
+msgid "I didn't think things would come to this.{PA:20}.{PA:20}.{PA:20}||Nothing to do now but fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_19_0"
+msgid "I didn't think things would come to this.{PA:20}.{PA:20}.{PA:20}||Nothing to do now but fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_20_0"
+msgid "I didn't think things would come to this.{PA:20}.{PA:20}.{PA:20}||Nothing to do now but fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_21_0"
+msgid "I didn't think things would come to this.{PA:20}.{PA:20}.{PA:20}||Nothing to do now but fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_22_0"
+msgid "What are the Omi Alliance doing here?{PA:20}||Are they trying to stop the truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:0_38_0"
+msgid "I didn't think things would come to this.{PA:20}.{PA:20}.{PA:20}||Nothing to do now but fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_0_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_1_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_2_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_3_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_4_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_5_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_6_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_7_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_8_0"
+msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_9_0"
+msgid "He seems cheesy,{PA:10} but not a bad guy.{PA:20}||The night's young.{PA:20} I could go for a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_10_0"
+msgid "I wonder if someone around here can get me||into the VIP area.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_11_0"
+msgid "I should be able to get into Cabaret Grand's||VIP area now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_12_0"
+msgid "I should be able to get into Cabaret Grand's||VIP area now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_13_0"
+msgid "It'd be bad to cause trouble now.{PA:20} I should||find a way to get out of this quietly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_14_0"
+msgid "It'd be bad to cause trouble now.{PA:20} I should||find a way to get out of this quietly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_15_0"
+msgid "Kamurocho,{PA:10} fireworks,{PA:10} midnight.{PA:20}.{PA:20}.{PA:20}||I'd better ask around and see what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_16_0"
+msgid "Kamurocho,{PA:10} fireworks,{PA:10} midnight.{PA:20}.{PA:20}.{PA:20}||I'd better ask around and see what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_17_0"
+msgid "Kamurocho,{PA:10} fireworks,{PA:10} midnight.{PA:20}.{PA:20}.{PA:20}||I'd better ask around and see what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_18_0"
+msgid "Kamurocho,{PA:10} fireworks,{PA:10} midnight.{PA:20}.{PA:20}.{PA:20}||I'd better ask around and see what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_19_0"
+msgid "Kamurocho,{PA:10} fireworks,{PA:10} midnight.{PA:20}.{PA:20}.{PA:20}||I'd better ask around and see what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_20_0"
+msgid "Kamurocho,{PA:10} fireworks,{PA:10} midnight.{PA:20}.{PA:20}.{PA:20}||I'd better ask around and see what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:1_21_0"
+msgid "Kamurocho,{PA:10} fireworks,{PA:10} midnight.{PA:20}.{PA:20}.{PA:20}||I'd better ask around and see what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_0_0"
+msgid "Chairman Goda of the Omi Alliance.{PA:20}.{PA:20}.{PA:20}||Will he really agree to a truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_1_0"
+msgid "Chairman Goda of the Omi Alliance.{PA:20}.{PA:20}.{PA:20}||Will he really agree to a truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_2_0"
+msgid "Chairman Goda of the Omi Alliance.{PA:20}.{PA:20}.{PA:20}||Will he really agree to a truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_3_0"
+msgid "Their headquarters are impressive.{PA:20}.{PA:20}.{PA:20}||I'd better head to the top floor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_4_0"
+msgid "I've got to save Chairman Goda!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_5_0"
+msgid "I've got to save Chairman Goda!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_7_0"
+msgid "I can't let Ryuji have his way.{PA:20} I've got to||get the chairman to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_8_0"
+msgid "I can't let Ryuji have his way.{PA:20} I've got to||get the chairman to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:2_9_0"
+msgid "Their headquarters are impressive.{PA:20}.{PA:20}.{PA:20}||I'd better head to the top floor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_0_0"
+msgid "Detective Sayama said it was called \"Aoi\".{PA:20}||I've got to find it,{PA:10} and fast.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_1_0"
+msgid "Detective Sayama said it was called \"Aoi\".{PA:20}||I've got to find it,{PA:10} and fast.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_2_0"
+msgid "Detective Sayama said it was called \"Aoi\".{PA:20}||I've got to find it,{PA:10} and fast.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_3_0"
+msgid "Detective Sayama said it was called \"Aoi\".{PA:20}||I've got to find it,{PA:10} and fast.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_4_0"
+msgid "If I don't get the detective somewhere safe||quickly,{PA:10} she'll be in serious trouble.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_5_0"
+msgid "If I don't get the detective somewhere safe||quickly,{PA:10} she'll be in serious trouble.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_6_0"
+msgid "Sayama's condition is getting worse.{PA:20}||I need to get her to Aoi quickly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_7_0"
+msgid "Sayama's condition is getting worse.{PA:20}||I need to get her to Aoi quickly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_8_0"
+msgid "Sayama's condition is getting worse.{PA:20}||I need to get her to Aoi quickly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_9_0"
+msgid "Sayama's condition is getting worse.{PA:20}||I need to get her to Aoi quickly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_10_0"
+msgid "Sayama's condition is getting worse.{PA:20}||I need to get her to Aoi quickly!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_11_0"
+msgid "We made it to the bar,{PA:10} but will she be okay?{PA:20}||Nothing to do now but wait.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_12_0"
+msgid "We made it to the bar,{PA:10} but will she be okay?{PA:20}||I'll do what I can to help.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_13_0"
+msgid "Crisis averted.{PA:20}||Better go kill time until she recovers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_14_0"
+msgid "Crisis averted.{PA:20}||Better go kill time until she recovers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_15_0"
+msgid "The owner of Aoi asked for bandages.{PA:20}||I'd better go find some.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_17_0"
+msgid "I need to find out more about what's going||on.{PA:20} Better go back to the bar.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_18_0"
+msgid "I wonder if that detective's all right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_19_0"
+msgid "Sayama said the informant was at a mahjong||club in Shofukucho.{PA:20} Better go check it out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_20_0"
+msgid "I need an invitation to get into the club.{PA:20}||I should ask the man named Jongka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_21_0"
+msgid "A stuffed animal to get the invitation.{PA:20}.{PA:20}.{PA:20}||Not a bad trade,{PA:10} I guess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_23_0"
+msgid "I need a \"cherry tile\" to get into the club.{PA:20}||I should ask that guy Jongka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_24_0"
+msgid "To get the cherry tile,{PA:10} I have to||bring back Yukiko.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_25_0"
+msgid "To get the cherry tile,{PA:10} I have to||bring back Yukiko.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_26_0"
+msgid "Yukiko is apparently near the parasol||by the river.{PA:20} I should go check.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_28_0"
+msgid "With this cherry tile,{PA:10} I can get into the||mahjong parlor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_29_0"
+msgid "Sayama said the informant was at a mahjong||club in Shofukucho.{PA:20} Better go check it out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_30_0"
+msgid "Sayama said the informant was at a mahjong||club in Shofukucho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_31_0"
+msgid "The guy wearing a vest at the table with||three people is the informant Esaki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_32_0"
+msgid "I need money for the information.{PA:20}.{PA:20}.{PA:20}||I have to come up with 100,{PA:10}000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_34_0"
+msgid "I need 300,{PA:10}000 yen to get information||on Takashima.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_35_0"
+msgid "300,{PA:10}000 yen for information.{PA:20}.{PA:20}.{PA:20} At this||point,{PA:10} I really need that information.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_37_0"
+msgid "Someone put a price on my head!?{PA:20} I should||take these men out and find out who.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_38_0"
+msgid "Looks like I'm caught up in an Omi power||struggle.{PA:20} I'll head back to Aoi for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_39_0"
+msgid "Looks like I'm caught up in an Omi power||struggle.{PA:20} I'll head back to Aoi for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_40_0"
+msgid "Looks like I'm caught up in an Omi power||struggle.{PA:20} I'll head back to Aoi for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_41_0"
+msgid "I should go ask someone at Stijl about||almonds.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_42_0"
+msgid "I wonder if I can trade this info about||almonds.{PA:20} I'll go back and see Esaki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_43_0"
+msgid "I need an invitation to get into the club.{PA:20}||I wonder where I can get one.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:3_45_0"
+msgid "The guy wearing a vest at the table with||three people is the informant Esaki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_0_0"
+msgid "I hope Daigo and Chairman Goda are safe.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_1_0"
+msgid "I should go to Tojo Clan headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_2_0"
+msgid "I should go to Tojo Clan headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_3_0"
+msgid "I should take a cab to Tojo Clan headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_4_0"
+msgid "What happened to Daigo?{PA:20}||I'm worried about Chairman Goda,{PA:10} too.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_5_0"
+msgid "I'm worried about Daigo and Chairman Goda.{PA:20}.{PA:20}.{PA:20}||But now I need to take a taxi to Tojo HQ.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_6_0"
+msgid "It'd be tough to fight a war with the Go-||Ryu Clan with the Tojo Clan in this state.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_7_0"
+msgid "I have to meet Yayoi at the first floor||entrance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_8_0"
+msgid "I have to meet Yayoi at the first floor||entrance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_9_0"
+msgid "What is this pheasant key for?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_10_0"
+msgid "I never knew there was something like this||inside Tojo headquarters.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_11_0"
+msgid "I never knew there was something like this||inside Tojo headquarters.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_12_0"
+msgid "I never knew there about this hidden room||inside Tojo headquarters.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_13_0"
+msgid "Majima.{PA:20}.{PA:20}.{PA:20}||Where could he be?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_14_0"
+msgid "Majima's the only one who can stand up to||the Omi.{PA:20} He should be in Purgatory now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_18_0"
+msgid "Sayama asked me to bring her some underwear||and beer.{PA:20}.{PA:20}.{PA:20} Oh,{PA:10} well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_19_0"
+msgid "I have to go see Majima.{PA:20}||He should be in Purgatory now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_25_0"
+msgid "I have to win the tournament to get Majima||to come back to the clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_32_0"
+msgid "I need to talk it out with Majima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_33_0"
+msgid "I should get back to Serena.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:4_34_0"
+msgid "I should get back to Serena.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_0_0"
+msgid "The man on the phone said 1 o'clock at the||Amano Building.{PA:20} What's happened to Daigo?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_1_0"
+msgid "The man on the phone said 1 o'clock at the||Amano Building.{PA:20} What's happened to Daigo?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_4_0"
+msgid "The Amano Building.{PA:20}.{PA:20}.{PA:20} Maybe the informant||Tamura knows something.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_6_0"
+msgid "The Amano Building is on the west end of||Shichifuku St.{PA:20} I should check it out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_9_0"
+msgid "These are those guys Morita was talking||about,{PA:10} \"16-Bit\".{PA:20} Maybe they know something.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_11_0"
+msgid "I need to get a key to the Amano Building||from the leader of that gang.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_13_0"
+msgid "With this key,{PA:10} I can get into the||Amano Building.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:5_14_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Where is Daigo?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_0_0"
+msgid "I've got to get to the hospital immediately.{PA:20}||I'll let Sayama deal with the police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_1_0"
+msgid "I'd better get out of here while Sayama is||distracting the police.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_2_0"
+msgid "I've got to get them to the building on West||Taihei Blvd.{PA:20} without the police noticing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_3_0"
+msgid "I've got to get them to the building on West||Taihei Blvd.{PA:20} without the police noticing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_4_0"
+msgid "I've got to get them to the building on West||Taihei Blvd.{PA:20} without the police noticing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_5_0"
+msgid "I've got to get them to the building on West||Taihei Blvd.{PA:20} without the police noticing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_6_0"
+msgid "I've got to get them to the building on West||Taihei Blvd.{PA:20} without the police noticing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_7_0"
+msgid "I've got to get them to the building on West||Taihei Blvd.{PA:20} without the police noticing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_8_0"
+msgid "The bleeding is getting worse.{PA:20} I've got to||get to the building on West Taihei Blvd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_9_0"
+msgid "The bleeding is getting worse.{PA:20} I've got to||get to the building on West Taihei Blvd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_10_0"
+msgid "I need to talk to Date to pool our||information.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_11_0"
+msgid "I need to talk to Date to pool our||information.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_12_0"
+msgid "I need to talk to Date to pool our||information.{PA:20} Bantam should do fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_13_0"
+msgid "Kawara's past and a foreign organization.{PA:20}.{PA:20}.{PA:20}||What's that got to do with us?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_14_0"
+msgid "I should go see Sayama at the Emoto Clinic.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_15_0"
+msgid "I wonder if these guys know Kazuki.{PA:20}||In any case,{PA:10} I can't let them just walk out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_16_0"
+msgid "I wonder if these guys know Kazuki.{PA:20}||In any case,{PA:10} I can't let them just walk out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_17_0"
+msgid "It's too dangerous here.{PA:20}||I'd better get back to Bantam.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_18_0"
+msgid "It's too dangerous here.{PA:20}||I'd better get back to Bantam.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_19_0"
+msgid "It's too dangerous here.{PA:20}||I'd better get back to Bantam.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_20_0"
+msgid "Why a picture of Sayama?{PA:20} I need to get them||settled down and find out what's going on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_21_0"
+msgid "I should get back to Serena and meet up||with everyone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_22_0"
+msgid "I should get back to Serena and meet up||with everyone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:6_23_0"
+msgid "I should get back to Serena and meet up||with everyone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_0_0"
+msgid "I need Kage's help.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_1_0"
+msgid "I need Kage's help.{PA:20}||They said he was in the Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_2_0"
+msgid "Who's in the transformer room!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_3_0"
+msgid "Who is that!?{PA:20} Looks like eight people.{PA:20}||I'd better get them out of there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_4_0"
+msgid "Hayashi was with the Go-Ryu Clan.{PA:20}.{PA:20}.{PA:20}||I've got to protect the transformer room.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_5_0"
+msgid "Hayashi was with the Go-Ryu Clan.{PA:20}.{PA:20}.{PA:20}||I've got to protect the transformer room.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_6_0"
+msgid "Shangri-La.{PA:20}.{PA:20}.{PA:20} That's where Daigo is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_7_0"
+msgid "Shangri-La.{PA:20}.{PA:20}.{PA:20} That's where Daigo is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_8_0"
+msgid "Shangri-La.{PA:20}.{PA:20}.{PA:20} That's where Daigo is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_9_0"
+msgid "Shangri-La.{PA:20}.{PA:20}.{PA:20} Daigo should be in here||somewhere.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_10_0"
+msgid "Shangri-La.{PA:20}.{PA:20}.{PA:20} Daigo should be in here||somewhere.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_11_0"
+msgid "Shangri-La.{PA:20}.{PA:20}.{PA:20} Daigo should be in here||somewhere.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_12_0"
+msgid "I have to save Daigo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_13_0"
+msgid "I have to save Daigo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:7_14_0"
+msgid "I have to save Daigo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_0_0"
+msgid "The Go-Ryu Clan and the Jingweon mafia.{PA:20}.{PA:20}.{PA:20}||What's their connection?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_1_0"
+msgid "Terada's funeral service is today,{PA:10} at Tojo||Clan headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_2_0"
+msgid "Terada's funeral service is today,{PA:10} at Tojo||Clan headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_3_0"
+msgid "Terada's funeral service is today,{PA:10} at Tojo||Clan headquarters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_4_0"
+msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_5_0"
+msgid "There's a commotion at the front entrance.{PA:20}||What's going on?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_6_0"
+msgid "There's a commotion at the front entrance.{PA:20}||What's going on?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_7_0"
+msgid "It's the Go-Ryu Clan!?{PA:20}||I can't let them get through.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_8_0"
+msgid "It's the Go-Ryu Clan!?{PA:20}||I can't let them get through.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_9_0"
+msgid "The Sengoku family is in Kamurocho.{PA:20}||What's going on here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_10_0"
+msgid "The Sengoku family is in Kamurocho.{PA:20}||What's going on here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_11_0"
+msgid "The Sengoku family is in Kamurocho.{PA:20}||What's going on here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_12_0"
+msgid "The Sengoku family is in Kamurocho.{PA:20}||What's going on here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_13_0"
+msgid "The Sengoku family is in Kamurocho.{PA:20}||What's going on here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_14_0"
+msgid "A man with an eye patch.{PA:20}.{PA:20}.{PA:20} Is Majima||fighting the Sengoku family alone!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_15_0"
+msgid "The Sengoku family is in Kamurocho.{PA:20}||What's going on here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_16_0"
+msgid "Shindo and the Sengoku family.{PA:20}.{PA:20}.{PA:20}||Tojo HQ is in trouble!{PA:20} I have to hurry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_17_0"
+msgid "Shindo and the Sengoku family.{PA:20}.{PA:20}.{PA:20}||Tojo HQ is in trouble!{PA:20} I have to hurry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_18_0"
+msgid "Shindo and the Sengoku family.{PA:20}.{PA:20}.{PA:20}||Tojo HQ is in trouble!{PA:20} I have to hurry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_19_0"
+msgid "Where is Shindo?{PA:20} I need to find him quickly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_20_0"
+msgid "Where is Shindo?{PA:20} I need to find him quickly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_21_0"
+msgid "Where is Shindo?{PA:20} I need to find him quickly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_22_0"
+msgid "I'm the only one who can protect Yayoi now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_23_0"
+msgid "I'm the only one who can protect Yayoi now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_24_0"
+msgid "I'm the only one who can protect Yayoi now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_25_0"
+msgid "I'm the only one who can protect Yayoi now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_26_0"
+msgid "The Sengoku family is in Kamurocho.{PA:20}||What's going on here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_0_0"
+msgid "I wonder if Chairman Goda's safe.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_1_0"
+msgid "Before I go to Kansai,{PA:10} I should meet up||with Sayama at Serena.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_2_0"
+msgid "I haven't seen Takashi in a long time.{PA:20}||Why is he with a different girl?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_3_0"
+msgid "I guess I'll ask Kage if he'll take Takashi||as a client.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_4_0"
+msgid "Kage says he'll see him,{PA:10} but only for||business.{PA:20} But I wonder.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_5_0"
+msgid "Kage says he'll see him,{PA:10} but only for||business.{PA:20} But I wonder.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_6_0"
+msgid "Heh.{PA:20} Kage's actually a decent father.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_7_0"
+msgid "Before I go to Kansai,{PA:10} I should meet up||with Sayama at Serena.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_8_0"
+msgid "Come to think of it,{PA:10} I wonder what Sayama||is doing now.{PA:20} I should look for her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_9_0"
+msgid "Come to think of it,{PA:10} I wonder what Sayama||is doing now.{PA:20} I should look for her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_10_0"
+msgid "It seems Sayama's at a bar.{PA:20} Maybe I'll go||find her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_11_0"
+msgid "It seems Sayama is by the river.{PA:20} What is||she doing there?{PA:20} I should go see her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_12_0"
+msgid "What a sleazy bunch.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_14_0"
+msgid "That was enjoyable.{PA:20} I think I understand her||a little bit better.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_15_0"
+msgid "I guess I'll kill some time in Osaka while||I sober up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_16_0"
+msgid "This old man.{PA:20}.{PA:20}.{PA:20}||He seems like a master tattooist.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_17_0"
+msgid "This old man.{PA:20}.{PA:20}.{PA:20}||He seems like a master tattooist.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_18_0"
+msgid "A dispute over who will be the next||master.{PA:20}.{PA:20}.{PA:20} This must run deep.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_19_0"
+msgid "Looks like that Satoshi guy is at a building||in Shofukucho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_20_0"
+msgid "He should be in here somewhere.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_21_0"
+msgid "I'm here to get back the dragon sketch||Satoshi stole.{PA:20} I should teach him a lesson.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_22_0"
+msgid "I'm here to get back the dragon sketch||Satoshi stole.{PA:20} I should teach him a lesson.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_23_0"
+msgid "A tattooist's destiny.{PA:20}.{PA:20}.{PA:20} So they were the||ones who did Ryuji's dragon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:9_24_0"
+msgid "There's still time before we have to meet.{PA:20}||I guess I'll kill time around town.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_0_0"
+msgid "I'm meeting Sayama at Iwao Bridge||at 10 o'clock.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_1_0"
+msgid "I'm meeting Sayama at Iwao Bridge||at 10 o'clock.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_2_0"
+msgid "I should follow Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_3_0"
+msgid "I should follow Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_4_0"
+msgid "I should follow Sayama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_5_0"
+msgid "Keima.{PA:20}.{PA:20}.{PA:20} from the name,{PA:10} it must have||something to do with shogi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_6_0"
+msgid "Keima.{PA:20}.{PA:20}.{PA:20} from the name,{PA:10} it must have||something to do with shogi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_8_0"
+msgid "The only thing to do is find Arigato.{PA:20}||I should go to the green Billiken statue.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_9_0"
+msgid "I don't think I'll get any info on Keima||unless I win at shogi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_11_0"
+msgid "A sure-fire way to win.{PA:20}.{PA:20}.{PA:20} If I could win||without it that'd be great,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_12_0"
+msgid "I wonder if this sure-fire way to win really||works?{PA:20} I'll give it a shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_14_0"
+msgid "The only thing to do is find Arigato.{PA:20}||I should go to the green Billiken statue.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_15_0"
+msgid "Maybe it's not enough?{PA:20} Maybe I should||give a little more money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_16_0"
+msgid "Is that Arigato?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_17_0"
+msgid "Is that Arigato?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_18_0"
+msgid "I've got to get the info on Keima out of||Arigato.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_19_0"
+msgid "I've got to get the info on Keima out of||Arigato.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_20_0"
+msgid "I've got to get the info on Keima out of||Arigato.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_21_0"
+msgid "The hint is the binoculars with a yellow||sticker at the Tsutenkaku viewing platform.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_22_0"
+msgid "The hint is the binoculars with a yellow||sticker at the Tsutenkaku viewing platform.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_23_0"
+msgid "The only thing I could see that would be a||hint was the phone number on the signboard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_24_0"
+msgid "The only thing I could see that would be a||hint was the phone number on the signboard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_25_0"
+msgid "The number of steps on the Tsutenkaku||stairs.{PA:20}.{PA:20}.{PA:20} How many are there?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_26_0"
+msgid "What does \"Black bear,{PA:10} grilled guts,{PA:10}||three times\" mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_27_0"
+msgid "The number of steps on the Tsutenkaku||stairs.{PA:20}.{PA:20}.{PA:20} How many are there?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_28_0"
+msgid "Black bear,{PA:10} grilled guts,{PA:10} three times.{PA:20}.{PA:20}.{PA:20}||If it's grilled,{PA:10} maybe it's food-related.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_30_0"
+msgid "I should be able to get into Keima with||this Ryuma piece.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_31_0"
+msgid "So this is Keima.{PA:20}.{PA:20}.{PA:20}||I hope we can find a clue or something.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_32_0"
+msgid "So this is Keima.{PA:20}.{PA:20}.{PA:20}||I hope we can find a clue or something.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_33_0"
+msgid "I have to find out where Chairman Goda||is from the Jingweon mafia!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_34_0"
+msgid "I have to find out where Chairman Goda||is from the Jingweon mafia!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_35_0"
+msgid "I have to find out where Chairman Goda||is from the Jingweon mafia!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:10_36_0"
+msgid "I have to find out where Chairman Goda||is from the Jingweon mafia!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_0_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_1_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_2_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_3_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_4_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_5_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_6_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_7_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_8_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_9_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_10_0"
+msgid "The bleeding won't stop.{PA:20} I need to get||Tamiyo's help.{PA:20}.{PA:20}.{PA:20} I should go to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_11_0"
+msgid "Sengoku kidnapped Haruka!?{PA:20}||I need to find out where he is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_14_0"
+msgid "Was that someone from the Sengoku family?{PA:20}||I should check out the Yokobori Golf Center.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_17_0"
+msgid "Was that someone from the Sengoku family?{PA:20}||I have to find out where Haruka is!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_19_0"
+msgid "Sengoku kidnapped Haruka!?{PA:20}||I need to find out where he is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_20_0"
+msgid "Did Kurokawa find a lead?{PA:20}||I should go see him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_21_0"
+msgid "Tricked by Kurokawa.{PA:20}.{PA:20}.{PA:20} I've got to defeat||these men and get answers about Sengoku.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_23_0"
+msgid "Esaki.{PA:20}.{PA:20}.{PA:20} He's in Shinseicho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_24_0"
+msgid "I have to find out about Sengoku||from Esaki!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_29_0"
+msgid "Sengoku is in Osakan Castle.{PA:20}.{PA:20}.{PA:20}||Maybe Haruka is there,{PA:10} too!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_31_0"
+msgid "Sengoku should be in here somewhere.{PA:20}||I'll save you,{PA:10} Haruka!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_32_0"
+msgid "Haruka is in the central tower!{PA:20}||I'd better hurry!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_33_0"
+msgid "Haruka is in the central tower!{PA:20}||I'd better hurry!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_34_0"
+msgid "I didn't think I'd be fighting a battle like||this!{PA:20} But I can't die now.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_35_0"
+msgid "I didn't think I'd be fighting a battle like||this!{PA:20} But I can't die now.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:11_36_0"
+msgid "I didn't think I'd be fighting a battle like||this!{PA:20} But I can't die now.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_0_0"
+msgid "What could that memo mean?{PA:20}||I should finish up and get back to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_4_0"
+msgid "We were followed!?{PA:20}||We've got to get through this somehow!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_5_0"
+msgid "We were followed!?{PA:20}||We've got to get through this somehow!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_6_0"
+msgid "Kurahashi said to come to the Millennium||Tower.{PA:20} I wonder if Date's all right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_20_0"
+msgid "I can't let them kill everyone!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_21_0"
+msgid "I can't let them kill everyone!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_22_0"
+msgid "I can't let them kill everyone!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_23_0"
+msgid "I can't let them kill everyone!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_24_0"
+msgid "I can't let them kill everyone!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_27_0"
+msgid "Haruka a star?{PA:20} I can't even imagine it.{PA:20}||She doesn't seem interested.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_28_0"
+msgid "I should at least listen to what that talent||agent has to say.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_30_0"
+msgid "Thinking about Haruka's future.{PA:20}.{PA:20}.{PA:20}||Maybe being a star wouldn't be so bad.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_31_0"
+msgid "A yakuza from a rival company.{PA:20}.{PA:20}.{PA:20} I won't||forgive anyone who puts Haruka in danger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_32_0"
+msgid "Well,{PA:10} that's that.{PA:20}||All that's left is to sign the contract.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_33_0"
+msgid "If Haruka is happy with things as they are,{PA:10}||then so be it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_34_0"
+msgid "An employee at Stijl is supposed to be a||good singer.{PA:20} Maybe I'll bring Haruka to see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_35_0"
+msgid "Does that employee hate to sing or||something?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_36_0"
+msgid "There's someone singing over by the river.{PA:20}||I should take Haruka and go check it out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_37_0"
+msgid "Seems like the singer from Stijl has issues||to deal with.{PA:20}.{PA:20}.{PA:20} But she shouldn't give up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_39_0"
+msgid "I should be getting back to Aoi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_40_0"
+msgid "It's been a long time since I could take||Haruka out.{PA:20} I should show her around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_0_0"
+msgid "Where's Sayama.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_1_0"
+msgid "Where's Sayama.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_2_0"
+msgid "Sayama didn't seem herself.{PA:20}.{PA:20}.{PA:20}||I should find her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_3_0"
+msgid "Sayama didn't seem herself.{PA:20}.{PA:20}.{PA:20}||I should find her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_5_0"
+msgid "That was the only thing I can do for her||right now.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_6_0"
+msgid "I wonder if Sayama will ever come back||to this town.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_7_0"
+msgid "What Kazuki said about bombs sounds like||trouble.{PA:20} I've got to get to the clinic.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_8_0"
+msgid "There are 31 bombs left,{PA:10} for the Jingweon||mafia's revenge.{PA:20} We have to find them!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_9_0"
+msgid "There are 31 bombs left,{PA:10} for the Jingweon||mafia's revenge.{PA:20} We have to find them!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_10_0"
+msgid "I need to get the Tojo Clan's cooperation to||hold off the Go-Ryu invasion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_11_0"
+msgid "I need to get the Tojo Clan's cooperation to||hold off the Go-Ryu invasion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_12_0"
+msgid "I should head to Purgatory.{PA:20} It seemed like||there was a problem.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_13_0"
+msgid "I'll have to leave the bombs to Daigo and||the boys.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_14_0"
+msgid "I'll have to leave the bombs to Daigo and||the boys.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_15_0"
+msgid "Bantam's being attacked by the Go-Ryu!?{PA:20}||I need to go help!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_16_0"
+msgid "Damn!{PA:20} Even the Emoto Clinic!{PA:20}||I've got to help them!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_17_0"
+msgid "I've got to protect Bantam and the Emoto||Clinic from the Go-Ryu attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_18_0"
+msgid "Is the bartender okay?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_19_0"
+msgid "I've got the stop the Go-Ryu invasion.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_20_0"
+msgid "I've got to protect Bantam and the Emoto||Clinic from the Go-Ryu attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_21_0"
+msgid "The Go-Ryu even attacked the Emoto Clinic!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_22_0"
+msgid "I've got the stop the Go-Ryu invasion.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_23_0"
+msgid "I've got to protect Bantam and the Emoto||Clinic from the Go-Ryu attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_24_0"
+msgid "The Go-Ryu are at Stardust,{PA:10} too!?{PA:20} I hope||Yuya can hold them off until I get there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_25_0"
+msgid "Ryuji Goda's even going after civilians.{PA:20}.{PA:20}.{PA:20}||What is he thinking!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_27_0"
+msgid "Ryuji Goda's even going after civilians.{PA:20}.{PA:20}.{PA:20}||What is he thinking!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:13_28_0"
+msgid "I'm worried about Yuya.{PA:20}.{PA:20}.{PA:20}||I need to get to Stardust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:14_0_0"
+msgid "Majima?{PA:20} Dismantling bombs!?{PA:20}||I should head to Purgatory.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:14_1_0"
+msgid "Majima?{PA:20} Dismantling bombs!?{PA:20}||I should head to Purgatory.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:14_2_0"
+msgid "I'm meeting Date at Serena,{PA:10} but I guess I||can kill time until he calls.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:14_6_0"
+msgid "I'll take in the town with Haruka for now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:14_8_0"
+msgid "I'm meeting Date at Serena.{PA:20} I guess Haruka||and I should head over there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:14_9_0"
+msgid "Bessho wants to see us in Archive Room 13 at||police HQ?{PA:20} What could he want?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:14_10_0"
+msgid "Bessho wants to see us in Archive Room 13 at||police HQ?{PA:20} What could he want?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_0_0"
+msgid "It's time to settle things with Ryuji.{PA:20} The||top of the town.{PA:20}.{PA:20}.{PA:20} he's at Kamurocho Hills.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_6_0"
+msgid "Before I head to Kamurocho Hills to fight||Ryuji,{PA:10} I need to get ready.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_7_0"
+msgid "There's no going back.{PA:20}.{PA:20}.{PA:20}||It's time to head to Kamurocho Hills.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_8_0"
+msgid "They think they can stop me?{PA:20}||I've got to get to Ryuji!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_9_0"
+msgid "They think they can stop me?{PA:20}||I've got to get to Ryuji!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_10_0"
+msgid "Ryuji must be up ahead.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_11_0"
+msgid "Who knows what's waiting up ahead.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_12_0"
+msgid "I can't let anything else happen to||Kamurocho.{PA:20} This ends now!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_13_0"
+msgid "If Terada wins,{PA:10} Kamurocho will be destroyed.{PA:20}||I can't let that happen!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_14_0"
+msgid "If Terada wins,{PA:10} Kamurocho will be destroyed.{PA:20}||I can't let that happen!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_15_0"
+msgid "Kaoru.{PA:20}.{PA:20}.{PA:20} Haruka.{PA:20}.{PA:20}.{PA:20} Date.{PA:20}.{PA:20}.{PA:20} I'm sorry.{PA:20}||There's still something I have to do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_16_0"
+msgid "End"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_17_0"
+msgid "End"
+msgstr ""
+

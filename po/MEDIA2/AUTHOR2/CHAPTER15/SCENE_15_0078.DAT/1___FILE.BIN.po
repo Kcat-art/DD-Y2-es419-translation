@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Hmm?{PA:20} There's nobody here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Wait,{PA:10} what's.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:2_0_0"
+msgid "What is it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:3_0_0"
+msgid "This is.{PA:20}.{PA:20}.{PA:20} Sayama?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Okay.{PA:20}.{PA:20}.{PA:20} That should do it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Umm,{PA:10} hi.{PA:20} Sorry for the wild goose chase.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I'm recording this now in case something"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:6_0_1"
+msgid "should happen to me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I wanted you to know everything I know now,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:7_0_1"
+msgid "and to know how I feel.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Please.{PA:20}.{PA:20}.{PA:20} Hear me out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I just cracked Kurahashi's disk using"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:9_0_1"
+msgid "Osaka HQ's system.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Reading its contents,{PA:10} I found something out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Ryuji Goda and I are.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:12_0_0"
+msgid "We're half-siblings by blood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:13_0_0"
+msgid "The child that Kawara.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:14_0_0"
+msgid "that my dad rescued from the fire that night"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:14_0_1"
+msgid "must have been Ryuji.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:15_0_0"
+msgid "To think that my only living family now is"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:15_0_1"
+msgid "Ryuji Goda.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Talk about irony!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I grow up hating organized crime,{PA:10} and my"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:17_0_1"
+msgid "brother's a clan leader.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Anyway,{PA:10} all I can do now is talk to him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:18_0_1"
+msgid "Try to get him to stop this stupid war.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:19_0_0"
+msgid "As his only blood relative.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:20_0_0"
+msgid "And as a Division 4 detective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Everything we talked about.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:22_0_0"
+msgid "The time we spent in Osaka.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:23_0_0"
+msgid "I'll never forget it,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:24_0_0"
+msgid "I'll keep it in my heart always.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:25_0_0"
+msgid "I'm afraid we won't be making any more"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:25_0_1"
+msgid "memories together.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:26_0_0"
+msgid "But that's how it should be.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:27_0_0"
+msgid "We're just.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:28_0_0"
+msgid "The worlds we live in are so different.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:29_0_0"
+msgid "I shouldn't have let you in"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:29_0_1"
+msgid "as much as I did.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:30_0_0"
+msgid "It just shows how.{PA:20}.{PA:20}.{PA:20} how special you are.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:31_0_0"
+msgid "I'm so sorry.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:31_0_1"
+msgid "I wanted to say goodbye with a smile.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:32_0_0"
+msgid "I'm going to keep my promise,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:33_0_0"
+msgid "I'm not running away anymore.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:34_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Goodbye.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:35_0_0"
+msgid "Sayama.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

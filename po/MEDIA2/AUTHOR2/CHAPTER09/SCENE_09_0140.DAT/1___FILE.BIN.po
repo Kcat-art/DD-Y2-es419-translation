@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Aren't you ashamed?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:1_0_0"
+msgid "You handed over the Tojo Clan that"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:1_0_1"
+msgid "stood by you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Just for a pile of cash!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I never said I was handing it over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I'm its next Chairman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:5_0_0"
+msgid "And finally.{PA:20}.{PA:20}.{PA:20} Yayoi will be mine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:6_0_0"
+msgid "What are you talking about?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:7_0_0"
+msgid "You know,{PA:10} Yayoi.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:8_0_0"
+msgid "I've wanted you for some time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:9_0_0"
+msgid "You can't get away from me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Do you have any idea what you're doing?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Oh,{PA:10} you and Nishiki fought over a woman"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:11_0_1"
+msgid "a year ago,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:12_0_0"
+msgid "And as a result,{PA:10} the Tojo went all to hell.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I guess at the end of the day,{PA:10} we're both"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:13_0_1"
+msgid "skunks of the same stripe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:14_0_0"
+msgid "It'll be a cold day in hell before I'll be"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:14_0_1"
+msgid "your woman!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:15_0_0"
+msgid "I'll make you a lot happier than Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:16_0_0"
+msgid "That man had a mistress on every corner!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:17_0_0"
+msgid "You don't know a damn thing about him!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Mistresses or not,{PA:10} I don't care!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:19_0_0"
+msgid "I only ever had eyes for one man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:19_0_1"
+msgid "Sohei Dojima!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:20_0_0"
+msgid "I feel the same now,{PA:10} even after he's gone!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Shindo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:22_0_0"
+msgid "You heard her.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:23_0_0"
+msgid "The kind of woman able to keep on loving"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:23_0_1"
+msgid "the man she fell for.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:24_0_0"
+msgid "She's too strong for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:25_0_0"
+msgid "That's lovely,{PA:10} but you can cut the speech.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:26_0_0"
+msgid "What I want,{PA:10} I take by force.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:27_0_0"
+msgid "It's just that easy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Over my dead body.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:29_0_0"
+msgid "That's certainly my intent.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:30_0_0"
+msgid "I'll take your head and become Chairman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:31_0_0"
+msgid "And then.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:32_0_0"
+msgid "I'll make Yayoi all mine!{PA:20}"
+msgstr ""
+

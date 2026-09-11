@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::name:1"
+msgid "Komaki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_2"
+msgid "Ah,{PA:10} my finest pupil.{PA:20}||I'm happy to see you found me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_3"
+msgid "When Purgatory was shut down.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_4"
+msgid "I was left floating around the city,{PA:10} until I||spotted this prime plot here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_5"
+msgid "It's a bit drafty,{PA:10} though.{PA:20}||Come on close by the fire.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_7"
+msgid "Hm?{PA:20} What,{PA:10} are you here for some training?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_8"
+msgid "Yes,{PA:10} please.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_9"
+msgid "All right!{PA:20} Always happy to help folks when||they've run up against their internal wall.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_12"
+msgid "All right!{PA:20} Let's get training,{PA:10} then.{PA:20}||What are you up for?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_13"
+msgid "All right!{PA:20} Let's get training,{PA:10} then.{PA:20}||What are you up for?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_14"
+msgid "Ah,{PA:10} Kazuma!{PA:20} Doing well?{PA:20}||What brings you here today?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_15"
+msgid "Ah,{PA:10} Kazuma!{PA:20} Doing well?{PA:20}||What brings you here today?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_20"
+msgid "Just saying hello.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_0_21"
+msgid "What?{PA:20} Well.{PA:20}.{PA:20}.{PA:20} hello.{PA:20}||Next time,{PA:10} come ready to sweat,{PA:10} son.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_1_0"
+msgid "I want to work on omni-directional offense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_1_1"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_1_2"
+msgid "I've got nothing more to teach you.{PA:20}||Just be smart with your turning attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_1_3"
+msgid "If you want more than that,{PA:10} I can put you||up against multiple opponents.{PA:20}.{PA:20}.{PA:20} Well?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_0"
+msgid "I want to know how to raise my HEAT Gauge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_1"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Yes.{PA:20}.{PA:20}.{PA:20} Learning to raise it swiftly is||a challenge,{PA:10} but an important one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_2"
+msgid "Some attacks raise the HEAT Gauge faster||than others,{PA:10} even those that hurt more.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_3"
+msgid "Specifically,{PA:10} weapon-based attacks raise it||the fastest,{PA:10} and the {IC:00_02}➿ combo the slowest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_4"
+msgid "The Circle Breaker's the same as {IC:00_02}➿.{PA:20}||{IC:00_02}➿ deals out hits the quickest,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_5"
+msgid "But for bare-handed combat,{PA:10} the {IC:01_01}➿ finisher||fills up nearly as much as a weapon attack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_6"
+msgid "So if you're in a rush to fill that gauge.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_7"
+msgid "Stick to weapons and finishers.{PA:20}||They'll get the job done fastest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_8"
+msgid "Get hit,{PA:10} caught in a hold,{PA:10} or knocked down,{PA:10}||and that gauge'll empty out fast.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_9"
+msgid "Got all that so far?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_2_10"
+msgid "All right,{PA:10} Kazuma.{PA:20}.{PA:20}.{PA:20}||Let's put some of that into action.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_0"
+msgid "I'd like to work on anti-firearm combat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_1"
+msgid "Ah,{PA:10} yes.{PA:20} How to handle a gunman.{PA:20}.{PA:20}.{PA:20}||I reckon that's knowledge you'll be needing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_2"
+msgid "A gun's greatest weakness is that it targets||a single point.{PA:20} Same as a bow and arrow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_3"
+msgid "At close range,{PA:10} it's a lot harder to stave||off a katana.{PA:20} Maybe you already know that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_4"
+msgid "So,{PA:10} if they pull out a gun,{PA:10} you close in.{PA:20}||That's your only chance,{PA:10} bare-handed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_5"
+msgid "If they're out of your reach,{PA:10} you're sunk.{PA:20}||Get in close,{PA:10} and they're all yours.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_6"
+msgid "It's best to hold a big object in front of||you as a shield,{PA:10} and take a fighting stance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_7"
+msgid "Anything you find lying around that can stop||a bullet'll work,{PA:10} then walk straight at 'em.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_8"
+msgid "Just hold down {IC:02_0c}➿  as you move.{PA:20}||As long as you're in a stance,{PA:10} you're fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_9"
+msgid "That should cover the basic theory.{PA:20} The rest||you'll have to learn for yourself.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_3_10"
+msgid "Nothing beats the real thing,{PA:10} I always say.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_4_0"
+msgid "I'd like to do some sparring.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_4_1"
+msgid "Yes,{PA:10} you're on your way to recovering the||Komaki School Ultimate Three.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_4_2"
+msgid "Sparring may push you to the next level.{PA:20}||I'm happy to help where I can,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_4_3"
+msgid "Come at me any way you like!{PA:20}||Prize pupil or not,{PA:10} I won't be holding back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_5_0"
+msgid "You're wearing equipment!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_5_1"
+msgid "I'm not teaching you anything like that.{PA:20}||Off with it now.{PA:20} All of it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_6_1"
+msgid "This lesson will be a tough one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_6_2"
+msgid "You'll have to move sharp and quick as a||whip to take these boys on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_6_3"
+msgid "Beat 'em all with {IC:00_02}➿ and {IC:01_01}➿ turning attacks!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_6_4"
+msgid "Now,{PA:10} BEGIN!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_7_3"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Looks like you've got it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_7_4"
+msgid "I see you've been training your Soul,{PA:10}||as well.{PA:20} Good work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_7_7"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Yes!{PA:20} That's my star pupil!{PA:20}||You've mastered it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_7_9"
+msgid "Not bad.{PA:20} You can handle the Circle Breaker.{PA:20}||Still,{PA:10} I have higher hopes for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_7_10"
+msgid "Was that your impression of a slug?{PA:20}||Your Circle Breaker needs practice.{PA:20} Badly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_7_11"
+msgid "If this were a real fight,{PA:10} you'd be dead.{PA:20}||Try putting some effort into it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_8_0"
+msgid "I am moved beyond words.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_8_1"
+msgid "Beyond.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_8_2"
+msgid "Words.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_8_3"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_8_4"
+msgid "You're ready.{PA:20} I've decided to pass on the||Komaki Fist Reversal!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_9_1"
+msgid "Stand there at ease and wait to be attacked.{PA:20}||Then,{PA:10} press {IC:01_01}➿ just as the {IC:03_05}➿ flashes!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_10_0"
+msgid "You listening,{PA:10} Kazuma?{PA:20} I said stand at ease!{PA:20}||When they attack,{PA:10} you hit {IC:01_01}➿.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_11_1"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Yes.{PA:20} That completes your training on||the Komaki Fist Reversal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_11_2"
+msgid "   You learned the \"{CC:ffc8c8}Komaki Fist Reversal{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_11_4"
+msgid "If this were a real fight,{PA:10} you'd be dead.{PA:20}||Try putting some effort into it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_12_1"
+msgid "It's you against the clock,{PA:10} Kazuma.{PA:20} See how||fast you can get that HEAT Gauge filled up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_12_2"
+msgid "I'll keep time.{PA:20} You just worry about them.{PA:20}||No need to hold back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_12_3"
+msgid "You clock in a good time,{PA:10} and I'll give you||a little prize.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_12_4"
+msgid "Now,{PA:10} BEGIN!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_5"
+msgid "Amazing.{PA:20}.{PA:20}.{PA:20} I've never seen anything so fast!{PA:20}||Here,{PA:10} you've earned your prize!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_7"
+msgid "     You received a \"{CC:ffffc8}Toughness Emperor{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_9"
+msgid "       You received a \"{CC:ffffc8}Toughness ZZ{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_11"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Yes.{PA:20} A fine time!{PA:20}||You've met my expectations,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_12"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Average at best.{PA:20}||I'd expected better of you,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_13"
+msgid "Ugh.{PA:20}.{PA:20}.{PA:20} Is that really all you've got?{PA:20}||It'd keep you alive,{PA:10} but it's.{PA:20}.{PA:20}.{PA:20} amateurish.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_14"
+msgid "Nnuagh!{PA:20} Unacceptable.{PA:20} Entirely too slow!{PA:20}||You'd be dead before entering Heat mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_15"
+msgid "If this were a real fight,{PA:10} you'd be dead.{PA:20}||Try putting some effort into it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_13_16"
+msgid "Care to try that again,{PA:10} Kazuma?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_14_1"
+msgid "Now,{PA:10} use these iron plates to get in close||and take him on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_14_2"
+msgid "Just like I told you--hold the plate as a||shield,{PA:10} and walk straight for him!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_14_3"
+msgid "Now,{PA:10} BEGIN!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_4"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Looks like you've got it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_5"
+msgid "I see you've been training your Soul,{PA:10}||as well.{PA:20} Good work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_8"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Yes!{PA:20} That's my star pupil!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_10"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} I'm satisfied with that time.{PA:20}||Now keep up that training,{PA:10} Kazuma!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_11"
+msgid "Is that as smooth as you can get it?{PA:20}||Not much for finesse,{PA:10} are you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_12"
+msgid "If this were a real fight,{PA:10} you'd be dead.{PA:20}||Try putting some effort into it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_13"
+msgid "If this were a real fight,{PA:10} you'd be dead.{PA:20}||Try putting some effort into it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_15_14"
+msgid "Care to try that again,{PA:10} Kazuma?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_16_0"
+msgid "I am moved beyond words.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_16_1"
+msgid "Beyond.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_16_2"
+msgid "Words.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_16_3"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_16_4"
+msgid "You're ready.{PA:20} I've decided to pass on the||Komaki Shot Stopper!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_17_1"
+msgid "Approach a foe while in Heat mode,{PA:10} and the||{IC:03_05}➿ signal will appear in the top right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_17_2"
+msgid "When it does,{PA:10} hit {IC:01_01}➿,{PA:10} quick!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_17_3"
+msgid "Don't worry,{PA:10} this gun's a fake.{PA:20}||Now,{PA:10} BEGIN!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_18_0"
+msgid "What's wrong,{PA:10} Kazuma?{PA:20} Did I talk too fast?{PA:20}||Hit {IC:01_01}➿ when you think they're set to fire.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_19_1"
+msgid "Very good.{PA:20}||As you might guess.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_19_2"
+msgid "This technique was originally created for||use against muskets,{PA:10} back in the day.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_19_3"
+msgid "I've refined it for the sorts of guns you||see today into the Heat Action you see now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_19_4"
+msgid "That completes your training on the Komaki||Shot Stopper.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_19_5"
+msgid "It should be all you need to put any gunmen||you cross in their place.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_19_6"
+msgid "    You learned the \"{CC:ffc8c8}Komaki Shot Stopper{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:139_19_8"
+msgid "If this were a real fight,{PA:10} you'd be dead.{PA:20}||Try putting some effort into it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_0_1"
+msgid "I'll give you three minutes.{PA:20} Let's see how||much damage you can do to me.{PA:20} Heh heh.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_0_2"
+msgid "And no Heat Actions,{PA:10} Kazuma.{PA:20} We're sparring,{PA:10}||not street fighting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_0_3"
+msgid "Now.{PA:20}.{PA:20}.{PA:20} Come and get me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_4"
+msgid "We're even.{PA:20}.{PA:20}.{PA:20} No,{PA:10} you have the advantage!{PA:20}||Here,{PA:10} you've earned your prize!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_6"
+msgid "      You received a \"{CC:ffffc8}Toughness Infinity{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_8"
+msgid "        You received a \"{CC:ffffc8}Toughness ZZ{CR:00}\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_10"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Yes.{PA:20} A fine workout!{PA:20}||You're still just one step behind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_11"
+msgid "Get out there and practice.{PA:20} I'll be here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_12"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Not a bad workout.{PA:20}||You've got room to grow,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_13"
+msgid "Get out there and practice.{PA:20} I'll be here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_14"
+msgid "Hm.{PA:20}.{PA:20}.{PA:20} Not great,{PA:10} but not terrible.{PA:20}||Get out there and practice.{PA:20} I'll be here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_15"
+msgid "Today's sparring ends there!{PA:20}||Get out there and practice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:140_1_16"
+msgid "Care to try that again,{PA:10} Kazuma?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_0_0"
+msgid "0123456789+-円万億¥,{PA:10}枚点"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_1_0"
+msgid "Experience Points: {NU:02_08_00}00000000"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_2_0"
+msgid "Nutritional Supplement ZLD received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_3_0"
+msgid "You have too many items so||it was discarded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_4_0"
+msgid "Your inventory is full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_5_0"
+msgid "Experience points:"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_6_0"
+msgid "Spirit Revitalizer BKH received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:141_7_0"
+msgid "Ultra Nourishment SHW received.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:142_0_0"
+msgid "Vacant Lot"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:143_0_0"
+msgid "Mitani"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:144_0_0"
+msgid "Imada"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:145_0_0"
+msgid "Yorita"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:146_0_0"
+msgid "Sotaro Komaki"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:147_0_0"
+msgid "Tsukamoto"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:148_0_0"
+msgid "Oshita"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:149_0_0"
+msgid "Generic 1"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:150_0_0"
+msgid "Generic 2"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:151_0_0"
+msgid "Generic 3"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:152_0_0"
+msgid "Generic 4"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:153_0_0"
+msgid "Generic 5"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:154_0_0"
+msgid "Generic 6"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:155_0_0"
+msgid "Generic 7"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:156_0_0"
+msgid "Generic 8"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:157_0_0"
+msgid "Makihara"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:158_0_0"
+msgid "Akita"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:159_0_0"
+msgid "Yamada"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:160_0_0"
+msgid "Nagashima"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:161_0_0"
+msgid "Nagata"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:162_0_0"
+msgid "Iijima"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:163_0_0"
+msgid "Takahashi"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:164_0_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:164_1_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:165_0_0"
+msgid "        Attacking in All Directions"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:165_1_0"
+msgid "       Raising the HEAT Gauge Quickly"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:165_2_0"
+msgid "            Anti-Firearm Combat"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:165_3_0"
+msgid "                  Nothing"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:166_0_0"
+msgid "        Attacking in All Directions"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:166_1_0"
+msgid "       Raising the HEAT Gauge Quickly"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:166_2_0"
+msgid "            Anti-Firearm Combat"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:166_3_0"
+msgid "   Komaki School Ultimate Three Sparring"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:166_4_0"
+msgid "                  Nothing"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:167_0_0"
+msgid "        Attacking in All Directions"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:167_1_0"
+msgid "       Raising the HEAT Gauge Quickly"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:167_2_0"
+msgid "            Anti-Firearm Combat"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:167_3_0"
+msgid "                  Nothing"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:168_0_0"
+msgid "        Attacking in All Directions"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:168_1_0"
+msgid "       Raising the HEAT Gauge Quickly"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:168_2_0"
+msgid "            Anti-Firearm Combat"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:168_3_0"
+msgid "   Komaki School Ultimate Three Sparring"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:168_4_0"
+msgid "                  Nothing"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:169_0_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:169_1_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:170_0_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:170_1_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:171_0_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:171_1_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:172_0_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA3/ARC/ST/ST_KAB0073.ARC/TALK_ST_KAB0073_BTL.BIN::line:172_1_0"
+msgid "No"
+msgstr ""
+

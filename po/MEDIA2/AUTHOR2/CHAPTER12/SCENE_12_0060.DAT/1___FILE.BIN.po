@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:0_0_0"
+msgid "It might as well have been me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:1_0_0"
+msgid "I was the one who really killed him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:1_0_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}Your father.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Aren't you going to shoot me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I told you I'd do whatever it took to set"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:3_0_1"
+msgid "things right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Just drop the tough guy act!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Do you think what you did will just go away"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:5_0_1"
+msgid "if I take my revenge?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:6_0_0"
+msgid "\"I want us to be even,{PA:10} so kill me\"!?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:7_0_0"
+msgid "That's not the way life works!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0060.DAT/1___FILE.BIN::line:7_0_1"
+msgid "It's not that simple!{PA:20}"
+msgstr ""
+

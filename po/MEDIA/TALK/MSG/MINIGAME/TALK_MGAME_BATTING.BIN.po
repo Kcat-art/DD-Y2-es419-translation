@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:0_0_0"
+msgid "View controls?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:0_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:0_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_0_0"
+msgid "Swing bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_1_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_2_0"
+msgid "Move"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_3_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:2_0_0"
+msgid "Little League Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:2_1_0"
+msgid "Minor League Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:2_2_0"
+msgid "Pro Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:2_3_0"
+msgid "Major League Mode"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:3_0_0"
+msgid "Results"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:3_1_0"
+msgid "Home Runs"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:4_0_0"
+msgid "km/h"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:5_0_0"
+msgid "Play again?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:5_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:5_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_0_0"
+msgid "You hit at least 10 runs.{PA:20} That's not bad.{PA:20}||This is the beginner's prize.{PA:20}||||||           Received \"Tissues\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_1_0"
+msgid "You hit at least 15 runs.{PA:20} Pretty good!{PA:20}||This is the beginner's prize.{PA:20}||||||       Received \"Club Sandwich\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_2_0"
+msgid "All home runs!{PA:20} That's amazing!{PA:20}||This is the beginner's prize.{PA:20}||||||   Received \"Toughness Z\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_3_0"
+msgid "You hit at least 10 runs.{PA:20} That's not bad.{PA:20}||This is the intermediate course prize.{PA:20}||||||       Received \"Salmon Rice Ball\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_4_0"
+msgid "You hit at least 15 runs.{PA:20} Pretty good!{PA:20}||This is the intermediate course prize.{PA:20}||||||          Received \"Tauriner\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_5_0"
+msgid "All home runs!{PA:20} That's amazing!{PA:20}||This is the intermediate course prize.{PA:20}||||||      Received \"Snack Sampler\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_6_0"
+msgid "You hit at least 10 runs.{PA:20} That's not bad.{PA:20}||This is the advanced course prize.{PA:20}||||||      Received \"Special Yakisoba\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_7_0"
+msgid "You hit at least 15 runs.{PA:20} Pretty good!{PA:20}||This is the advanced course prize.{PA:20}||||||         Received \"Tauriner +\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_8_0"
+msgid "All home runs!{PA:20} That's amazing!{PA:20}||This is the advanced course prize.{PA:20}||||||      Received \"Staminan Royale\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_9_0"
+msgid "You hit at least 10 runs.{PA:20} That's not bad.{PA:20}||This is the pro course prize.{PA:20}||||||          Received \"Oden Soup\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_10_0"
+msgid "You hit at least 15 runs.{PA:20} Pretty good!{PA:20}||This is the pro course prize.{PA:20}||||||        Received \"Tauriner ++\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_11_0"
+msgid "All home runs!{PA:20} That's amazing!{PA:20}||This is the pro course prize.{PA:20}||||||      Received \"Italian Scarf\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_12_0"
+msgid "You hit at least 10 runs.{PA:20} That's not bad.{PA:20}||This is the major league prize.{PA:20}||||||       Received \"Tattered Scarf\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_13_0"
+msgid "You hit at least 15 runs.{PA:20} Pretty good!{PA:20}||This is the major leage prize.{PA:20}||||||      Received \"Lacquered Plate\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_14_0"
+msgid "All home runs!{PA:20} That's amazing!{PA:20}||This is the major league prize.{PA:20}||||||      Received \"Italian Cologne\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_15_0"
+msgid "You hit at least 10 runs.{PA:20} That's not bad.{PA:20}||This is the alien league prize.{PA:20}||||||      Received \"Staminan X\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_16_0"
+msgid "You hit at least 15 runs.{PA:20} Pretty good!{PA:20}||This is the alien league prize.{PA:20}||||||      Received \"Toughness Emperor\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_17_0"
+msgid "All home runs!{PA:20} That's amazing!{PA:20}||This is the alien league prize.{PA:20}||||||      Received \"Italian Necklace\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:7_0_0"
+msgid "Leave the batting cage?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:7_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:7_2_0"
+msgid "No"
+msgstr ""
+

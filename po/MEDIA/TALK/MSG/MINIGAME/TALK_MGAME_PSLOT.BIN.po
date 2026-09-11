@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:0_0_0"
+msgid "Number of medals"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:0_1_0"
+msgid "Machine number"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_0_0"
+msgid "Exit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_1_0"
+msgid "Lever"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_2_0"
+msgid "Glance"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_3_0"
+msgid "R1: Insert Medals"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_4_0"
+msgid "R2: Max Bet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_5_0"
+msgid "Stop Left Reel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_6_0"
+msgid "Stop Right Reel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_7_0"
+msgid "Stop Center Reel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_8_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_9_0"
+msgid "Exit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_10_0"
+msgid "L1: Bet 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:1_11_0"
+msgid "L2: Bet 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_0_0"
+msgid "Stop playing?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_PSLOT.BIN::line:2_3_0"
+msgid "Borrow 50 medals?{PA:20}"
+msgstr ""
+

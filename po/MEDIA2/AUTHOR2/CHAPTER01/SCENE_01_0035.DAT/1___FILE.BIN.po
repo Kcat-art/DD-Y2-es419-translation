@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:0_0_0"
+msgid "I'll go alone from here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:1_0_0"
+msgid "But,{PA:10} sir!{PA:20} What if there are Kansai men"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:1_0_1"
+msgid "waiting for you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:2_0_0"
+msgid "People's souls are laid to rest here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:3_0_0"
+msgid "They wouldn't be so crass as to stain this"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:3_0_1"
+msgid "place with more death.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Yes,{PA:10} but Mr.{PA:20} Kashiwagi told us to be extra"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:4_0_1"
+msgid "careful when escorting you,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I'll go alone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I need to have a private conversation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Have your pieces at the ready,{PA:10} boys.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Yes sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Mommy.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:10_0_0"
+msgid "I can go shopping and cook for myself now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Living with Uncle Kaz is super fun,{PA:10} so don't"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:11_0_1"
+msgid "worry about me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Old man.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I don't know why I'm the only one still"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:13_0_1"
+msgid "alive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:14_0_0"
+msgid "But now that I've gone straight,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:15_0_0"
+msgid "I plan on bringing Haruka up right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Fourth Chairman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:18_0_0"
+msgid "It's been a while.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:19_0_0"
+msgid "You shouldn't be out alone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:20_0_0"
+msgid "I got the boys waiting down yonder.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:21_0_0"
+msgid "There was something I wanted to tell ya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:21_0_1"
+msgid "And only you,{PA:10} Chairman.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Lose the \"Chairman\".{PA:20} I'm an honest man now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:23_0_0"
+msgid "So,{PA:10} what's this all about?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:24_0_0"
+msgid "I'm hoping to call a truce with the Omi"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:24_0_1"
+msgid "Alliance chairman,{PA:10} Jin Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:25_0_0"
+msgid "A truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:26_0_0"
+msgid "I can't think of any other way to avoid an"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:26_0_1"
+msgid "all-out war between the clans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:27_0_0"
+msgid "The Tojo Clan's situation is that grim?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:28_0_0"
+msgid "The Tojo infrastructure's still in shambles"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:28_0_1"
+msgid "after what happened last year.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:29_0_0"
+msgid "If it comes to war,{PA:10} we'll see blood spilled,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:29_0_1"
+msgid "and the Omi Alliance will swallow us up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:30_0_0"
+msgid "I can't bear to see that happen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Chairman Goda's a powerful man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:32_0_0"
+msgid "I can't imagine him agreeing to a truce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:33_0_0"
+msgid "I know that a dozen times over,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:34_0_0"
+msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:35_0_0"
+msgid "You're Fifth Chairman of the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:36_0_0"
+msgid "I'm retired.{PA:20} It's not my place to interfere.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Chairman,{PA:10} please tell me how you'd see"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:37_0_1"
+msgid "the Tojo through this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:38_0_0"
+msgid "I need yer guidance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Please,{PA:10} Chairman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:40_0_0"
+msgid "What do you want?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:41_0_0"
+msgid "We came for old man Terada's head!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Trigger men sent up from Kansai,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:43_0_0"
+msgid "Tojo bodyguards ain't much of a challenge.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:44_0_0"
+msgid "My men.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:45_0_0"
+msgid "They're just waiting for someone to dig"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:45_0_1"
+msgid "'em a hole.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:46_0_0"
+msgid "What?!{PA:20} You.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:47_0_0"
+msgid "We're in a graveyard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:48_0_0"
+msgid "You should thank us for saving ya the trip.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:49_0_0"
+msgid "Take Haruka and get out of here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:50_0_0"
+msgid "But.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:51_0_0"
+msgid "The Tojo Clan can't afford to lose you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:52_0_0"
+msgid "I'll take care of these guys.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:53_0_0"
+msgid "Time to teach you some yakuza etiquette!{PA:20}"
+msgstr ""
+

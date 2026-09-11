@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_5_0"
+msgid "{CU:c8c8ff}(I don't have enough money.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_6_0"
+msgid "All right,{PA:10} that comes to||{NU:02_0c_00}000000000000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_7_0"
+msgid "Would you like anything else?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_8_0"
+msgid "It seems you can't carry anything more.{PA:20}||Please take care of that first.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_0_0"
+msgid "Beef Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_1_0"
+msgid "Beef Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_2_0"
+msgid "Pork Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_3_0"
+msgid "Pork Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_4_0"
+msgid "Healthy Chicken Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_5_0"
+msgid "Healthy Chicken Curry (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_6_0"
+msgid "Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_7_0"
+msgid "Beef Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_8_0"
+msgid "Kalbi Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_9_0"
+msgid "Demitama Hamburger Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_10_0"
+msgid "Natto Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_11_0"
+msgid "Sausage Egg Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:1_12_0"
+msgid "Salted Salmon Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_0_0"
+msgid "Plump,{PA:10} tender and delicious.{PA:20} Regular size,{PA:10}||served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_1_0"
+msgid "Plump,{PA:10} tender and delicious.{PA:20} Large size,{PA:10}||served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_2_0"
+msgid "Tender and flavorful!{PA:20} Classic Matsuya fare.{PA:20}||Regular size with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_3_0"
+msgid "Tender and flavorful!{PA:20} Classic Matsuya fare.{PA:20}||Large size with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_4_0"
+msgid "Spicy and delicious chicken curry!{PA:20} Regular||size,{PA:10} served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_5_0"
+msgid "Spicy and delicious chicken curry!{PA:20} Large||size,{PA:10} served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_6_0"
+msgid "A delicious melding of two flavors!{PA:20}||Comes with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_7_0"
+msgid "A popular meal set with BBQ beef,{PA:10} rice,{PA:10}||miso soup and assorted vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_8_0"
+msgid "BBQ beef rib meat with rice,{PA:10} miso soup||and assorted vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_9_0"
+msgid "With soft-boiled egg,{PA:10} savory demi-glace||sauce,{PA:10} rice,{PA:10} miso soup and vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_10_0"
+msgid "The best breakfast is a healthy one.{PA:20} Natto,{PA:10}||raw egg,{PA:10} rice,{PA:10} soup,{PA:10} seaweed and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_11_0"
+msgid "Have an uplifting breakfast today!{PA:20} Sausage,{PA:10}||egg,{PA:10} miso soup,{PA:10} seaweed and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0000.BIN::line:2_12_0"
+msgid "A quick morning meal.{PA:20} Salted salmon,{PA:10} rice,{PA:10}||soup,{PA:10} tofu and pickles.{PA:20}"
+msgstr ""
+

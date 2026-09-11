@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_0_0"
+msgid "Enter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_1_0"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_2_0"
+msgid "Change Bet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_3_0"
+msgid "R1: Results Right"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_4_0"
+msgid "L1: Results Left"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_5_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_6_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:1_0_0"
+msgid "Place your bets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:1_1_0"
+msgid "Betting is closed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_0_0"
+msgid "A bet on red||pays 1 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_1_0"
+msgid "A bet on black||pays 1 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_2_0"
+msgid "A bet on even numbers||pays 1 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_3_0"
+msgid "A bet on odd numbers||pays 1 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_4_0"
+msgid "A bet on 1 through 18||pays 1 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_5_0"
+msgid "A bet on 19 through 36||pays 1 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_6_0"
+msgid "A bet on 1 through 12||pays 2 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_7_0"
+msgid "A bet on 13 through 24||pays 2 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_8_0"
+msgid "A bet on 25 through 36||pays 2 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_9_0"
+msgid "A bet on the left||column pays 2 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_10_0"
+msgid "A bet on the center||column pays 2 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_11_0"
+msgid "A bet on the right||column pays 2 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_12_0"
+msgid "A 6-number bet||pays 5 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_13_0"
+msgid "A 4-number bet||pays 8 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_14_0"
+msgid "A 3-number street bet||pays 11 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_15_0"
+msgid "A 2-number split bet||pays 17 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_16_0"
+msgid "A 1-number straight bet||pays 35 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:2_17_0"
+msgid "A 5-number bet||pays 6 to 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:3_0_0"
+msgid "Select chips to bet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:3_1_0"
+msgid "You've already bet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:3_2_0"
+msgid "Bet again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_0_0"
+msgid "Finish betting?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:5_0_0"
+msgid "Time is up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_0_0"
+msgid "Continue?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_0_0"
+msgid "Bet Amount"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_1_0"
+msgid "Payout"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_2_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_3_0"
+msgid "MIN"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_4_0"
+msgid "MAX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_0_0"
+msgid "Leave the Roulette table?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_2_0"
+msgid "No"
+msgstr ""
+

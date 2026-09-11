@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Looks like you were the real Dragon of"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:0_0_1"
+msgid "Dojima,{PA:10} Mr.{PA:20} Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Ryuji!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Tojo and Omi in a 50-50 truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Sure that ain't 80-20?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:3_0_1"
+msgid "Shit,{PA:10} more like 90-10.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Why have you come here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:5_0_0"
+msgid "You're not an Omi officer!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Eh?{PA:20} What the fuck d'you want?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:7_0_0"
+msgid "You know who I am.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Nope.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:9_0_0"
+msgid "You set me up five years ago.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:9_0_1"
+msgid "I'm Sohei Dojima's son.{PA:20}.{PA:20}.{PA:20} Daigo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:10_0_0"
+msgid "I said I don't know you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:11_0_0"
+msgid "To hell with the peace talks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I've got unfinished business with you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Can't expect me to remember every little"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:13_0_1"
+msgid "pissant.{PA:20} .{PA:20}.{PA:20}.{PA:20}You're in my way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Take a nap or somethin'.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:15_0_0"
+msgid "What're you trying to pull here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Do it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:17_0_0"
+msgid "What?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:18_0_0"
+msgid "What's the meaning of this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Ryuji.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Where the hell d'you think you are?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:21_0_0"
+msgid "What the hell are ya going on about?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:22_0_0"
+msgid "This is Omi Alliance Headquarters!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Ya think I don't know that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:24_0_0"
+msgid "We're here to stage a little coup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:25_0_0"
+msgid "What.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Can't go havin' my old man talking peace"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:26_0_1"
+msgid "with the Tojo now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:27_0_0"
+msgid "You sign a truce with them and all my"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:27_0_1"
+msgid "plans'll be shot to hell.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Is that what you're after.{PA:20}.{PA:20}.{PA:20} A war?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Yeah.{PA:20} A big one between east and west.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:30_0_0"
+msgid "That's all I ask for.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:30_0_1"
+msgid "Well,{PA:10} that and one more thing.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Me?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Bingo.{PA:20} Yer head on a platter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Sorry,{PA:10} but it's time to see if you're really"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:33_0_1"
+msgid "worth the trouble.{PA:20}"
+msgstr ""
+

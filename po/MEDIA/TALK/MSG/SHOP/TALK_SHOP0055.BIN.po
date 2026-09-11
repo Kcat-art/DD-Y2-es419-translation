@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_5_0"
+msgid "You.{PA:20}.{PA:20}.{PA:20} don't got enough money.{PA:20}||And we don't do discounts.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_6_0"
+msgid "Thanks.{PA:20}.{PA:20}.{PA:20}||{NU:02_0c_00}000000000000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_7_0"
+msgid "Need anything else?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_8_0"
+msgid "What's all that you've got there?{PA:20}||Come back when you have more room.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:0_10_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_0_0"
+msgid "White Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_1_0"
+msgid "Blue Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_2_0"
+msgid "Black Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_3_0"
+msgid "Red Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_4_0"
+msgid "Double Slats"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_5_0"
+msgid "Double Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_6_0"
+msgid "Double Shafts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_7_0"
+msgid "Spiked Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_8_0"
+msgid "Double Stun Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_9_0"
+msgid "Double Fire Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_10_0"
+msgid "Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:1_11_0"
+msgid "Trendy Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_0_0"
+msgid "White tonfa.{PA:20}.{PA:20}.{PA:20} A beginner,{PA:10} right?{PA:20}||Hee hee hee.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_1_0"
+msgid "Blue tonfa.{PA:20}.{PA:20}.{PA:20} Intermediate,{PA:10} right?{PA:20}||Go easy on them or they'll break.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_2_0"
+msgid "Black tonfa.{PA:20}.{PA:20}.{PA:20} You're advanced then,{PA:10} right?{PA:20}||Those.{PA:20}.{PA:20}.{PA:20} hurt a lot.{PA:20} Hee hee hee.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_3_0"
+msgid "Red tonfa.{PA:20}.{PA:20}.{PA:20} Those're what the legendary||tonfa master used.{PA:20} Hee hee.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_4_0"
+msgid "Double slats.{PA:20} A pair of thin wooden sticks.{PA:20}||Don't expect them to last very long.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_5_0"
+msgid "A basic set of kali sticks.{PA:20} Not sure if||they'll actually hold up in battle.{PA:20} Hee.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_6_0"
+msgid "A pair of sticks made from iron pipes.{PA:20}||Watch how you use 'em.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_7_0"
+msgid "A pair of drumsticks full of nails.{PA:20}.{PA:20}.{PA:20}||I made 'em myself.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_8_0"
+msgid "A pair of sticks with a stun function.{PA:20}||Think you can use 'em?{PA:20} Hee hee.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_9_0"
+msgid "This pair of sticks.{PA:20}.{PA:20}.{PA:20} They shoot fire.{PA:20}.{PA:20}.{PA:20}||So if showy's what you're after.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_10_0"
+msgid "An iron umbrella.{PA:20} There's a kung-fu||movie that used these.{PA:20} It was great.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0055.BIN::line:2_11_0"
+msgid "Thought if I put this out,{PA:10} maybe a pretty||girl would come buy it someday.{PA:20}.{PA:20}.{PA:20} Hee.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

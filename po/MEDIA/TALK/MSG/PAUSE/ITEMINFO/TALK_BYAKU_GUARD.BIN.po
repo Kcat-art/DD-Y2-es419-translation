@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_0"
+msgid "\"Lotus Style Kokijutsu Encyclopedia\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_1"
+msgid "To summarize,{PA:10} this scroll explains the"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_2"
+msgid "following: As a result of studying"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_3"
+msgid "\"Sen-Ki\",{PA:10} the existence of \"Ko-Ki\",{PA:10} or"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_4"
+msgid "\"Hard Ki\",{PA:10} was uncovered.{PA:20} By drawing this"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_5"
+msgid "Hard Ki into one's arm,{PA:10} it can withstand"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_6"
+msgid "blade attacks.{PA:20} A more recent footnote"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_7"
+msgid "clarifies,{PA:10} \"As for defense against"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_BYAKU_GUARD.BIN::line:0_0_8"
+msgid "bullets,{PA:10} more study is required\".{PA:20}"
+msgstr ""
+

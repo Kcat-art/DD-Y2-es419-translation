@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Sayama was acting funny,{PA:10} don't you think?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Think something happened in Kansai?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Plus it's strange that Osaka's Division 4"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:3_0_1"
+msgid "chief would ask us down here.{PA:20}"
+msgstr ""
+

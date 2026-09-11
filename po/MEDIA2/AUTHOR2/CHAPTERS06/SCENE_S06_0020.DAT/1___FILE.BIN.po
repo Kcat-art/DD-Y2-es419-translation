@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "If we die here,{PA:10} what'll happen"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:0_0_1"
+msgid "to our baby?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Our.{PA:20}.{PA:20}.{PA:20} baby?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Yeah,{PA:10} silly.{PA:20} I'm pregnant!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Wh-What,{PA:10} wait,{PA:10} what?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "H-How did you?{PA:20} When did.{PA:20}.{PA:20}.{PA:20}?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid "What,{PA:10} do you need a diagram?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "B-But we've never even kissed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:6_0_1"
+msgid "How could you.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Hey!{PA:20} Just whose baby am I carrying,{PA:10} then?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "How come.{PA:20}.{PA:20}.{PA:20} Why didn't you say so until now?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I wanted it to be a surprise,{PA:10} honey.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:10_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Wahoo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:11_0_0"
+msgid "I'm gonna be a daddy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Mizuki.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Come on.{PA:20}.{PA:20}.{PA:20} Let's go.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:14_0_0"
+msgid "I.{PA:20}.{PA:20}.{PA:20} I'm gonna make you so happy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:15_0_0"
+msgid "I'll bet!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Now let's get out of here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:16_0_1"
+msgid "We're having a champagne party!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:17_0_0"
+msgid "You got it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Wahooo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:19_0_0"
+msgid "What a pair!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:19_0_1"
+msgid "How far will they take this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0020.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Beats me.{PA:20}"
+msgstr ""
+

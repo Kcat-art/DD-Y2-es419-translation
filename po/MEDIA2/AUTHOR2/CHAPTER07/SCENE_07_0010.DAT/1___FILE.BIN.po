@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Hmm?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:1_0_0"
+msgid "He's hurt bad.{PA:20} Doc,{PA:10} please.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Huh.{PA:20}.{PA:20}.{PA:20} Detective Kawara?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:3_0_0"
+msgid "And you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Sorry,{PA:10} but this is an emergency.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:5_0_0"
+msgid "What happened to your leg?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Forget about me.{PA:20} He's in a lot worse shape.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:7_0_0"
+msgid "What happened?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:8_0_0"
+msgid "He's been shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Hmm?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:10_0_0"
+msgid "This.{PA:20}.{PA:20}.{PA:20} He's a big-time host here.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:11_0_0"
+msgid "We've got to get him patched up fast.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Help me get him into the operating room.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:13_0_0"
+msgid "This is going to take a while.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:14_0_0"
+msgid "I won't ask questions,{PA:10} but if someone's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:14_0_1"
+msgid "after you,{PA:10} you should get out of here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:15_0_0"
+msgid "You'll draw attention here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Got it.{PA:20}"
+msgstr ""
+

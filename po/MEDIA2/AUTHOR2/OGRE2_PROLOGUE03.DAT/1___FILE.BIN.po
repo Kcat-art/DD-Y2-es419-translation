@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:0_0_0"
+msgid "The closer we got to the truth,{PA:10} the more"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:0_0_1"
+msgid "people stood in our way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:1_0_0"
+msgid "A top Tojo officer,{PA:10} Futo Shimano.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:1_0_1"
+msgid "After the chairmanship and the 10 billion.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:2_0_0"
+msgid "What fun!{PA:20}  We meet again,{PA:10} Kazuma!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:2_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Shimano's second-in-command,{PA:10} Goro Majima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Ahh.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:4_0_1"
+msgid "Kazuma-chan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:4_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I've been lookin' for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:5_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Each successive fight against these veterans"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:6_0_1"
+msgid "was fiercer than the last.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Even Sohei Dojima's widow,{PA:10} Yayoi,{PA:10} confronted"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:7_0_1"
+msgid "me in the hopes of vengeance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Are you the one who killed Dojima?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:8_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Her words were like a crushing weight on me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:10_0_0"
+msgid "But through all that,{PA:10} there were those who"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:10_0_1"
+msgid "selflessly stood by us.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Kazuki,{PA:10} owner of the host club,{PA:10} Stardust,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:11_0_1"
+msgid "and Yuya,{PA:10} a host there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Terada,{PA:10} from the Omi Alliance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:13_0_0"
+msgid "The people Fuma led me to meet gave me"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:13_0_1"
+msgid "the courage to keep going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:14_0_0"
+msgid "And another man.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:15_0_0"
+msgid "One who pointed Haruka and me towards the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:15_0_1"
+msgid "real truth behind the chaos.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Kazuma Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:16_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:17_0_0"
+msgid "You don't waste any time,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:17_0_1"
+msgid "right outta the pen and straight into a ruckus.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:17_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:18_0_0"
+msgid "They call him \"Kage the Florist\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:19_0_0"
+msgid "A legendary information dealer hidden away"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:19_0_1"
+msgid "beneath Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Here it is,{PA:10} Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:20_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:21_0_0"
+msgid "The video from Serena.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:21_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:22_0_0"
+msgid "His intelligence revealed the man"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:22_0_1"
+msgid "controlling things from the shadows.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:23_0_0"
+msgid "According to Kage,{PA:10} they're part of a top"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:23_0_1"
+msgid "secret organization run by the government.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:23_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:24_0_0"
+msgid "So I dug a little deeper and came across"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:24_0_1"
+msgid "a covert department run by the Cabinet,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:24_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:25_0_0"
+msgid "called the \"MBI\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:25_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:26_0_0"
+msgid "A politician,{PA:10} tied to the 10 billion yen"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:26_0_1"
+msgid "that disappeared from the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Kyohei Jingu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:28_0_0"
+msgid "The 10 billion was fund money he had left"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:28_0_1"
+msgid "with the clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Jingu had been using the Tojo to generate"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:29_0_1"
+msgid "money for years.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:30_0_0"
+msgid "The 10 billion yen heist was an effort to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:30_0_1"
+msgid "protect the Tojo from his influence.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:31_0_0"
+msgid "We learned who was behind it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:32_0_1"
+msgid "It was Yumi,{PA:10} Sera,{PA:10} and I.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:32_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:33_0_0"
+msgid "We took the money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:33_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:34_0_0"
+msgid "We finally uncovered the truth.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:35_0_0"
+msgid "But it came at a price.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Haruka!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:36_0_1"
+msgid "Oyabun!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:36_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Fuma sacrificed himself to protect Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:38_0_0"
+msgid "He told us the final piece of the puzzle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Kazuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:39_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:40_0_0"
+msgid "I'm the one.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:40_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:41_0_0"
+msgid "Who.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:41_0_1"
+msgid "killed your parents.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:41_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:42_0_0"
+msgid "It was me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:42_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:43_0_0"
+msgid "It doesn't matter,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:43_0_1"
+msgid "that's in the past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:43_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:44_0_0"
+msgid "Oyabun,{PA:10} to me,{PA:10} you were my.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:44_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:45_0_0"
+msgid "You were my real father!!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:45_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:46_0_0"
+msgid "and confessed his connection to my past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:47_0_0"
+msgid "He left us that night.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:48_0_0"
+msgid "And went to a better place.{PA:20}"
+msgstr ""
+

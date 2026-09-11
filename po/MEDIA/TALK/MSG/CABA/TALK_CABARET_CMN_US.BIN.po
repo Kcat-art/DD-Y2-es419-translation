@@ -1,0 +1,2569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::name:0"
+msgid "Waiter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::name:1"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_0_0"
+msgid "Welcome.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_1_0"
+msgid "Would you like to come inside?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_1_1"
+msgid "Please wait a moment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_1_2"
+msgid "I see.{PA:20} Please come again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_2_0"
+msgid "I'll show you in.{PA:20} This way,{PA:10} please.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_3_0"
+msgid "Who will you choose?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_3_1"
+msgid "Please wait a moment.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_4_0"
+msgid "We're getting things ready now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_4_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_5_0"
+msgid "My apologies.{PA:20}||She's currently out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_5_1"
+msgid "Please come again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_6_0"
+msgid "This way,{PA:10} please.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_6_1"
+msgid ".{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_7_0"
+msgid "(Should I give her a present?)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_7_1"
+msgid "(What should I give her?)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_7_2"
+msgid "(Maybe next time.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_8_0"
+msgid "Excuse me,{PA:10} but your time is almost up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_8_1"
+msgid "I guess I should be going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_8_2"
+msgid "I'll stay a bit longer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_9_0"
+msgid "Your time is up.{PA:20} Would you like to extend?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_9_1"
+msgid "No,{PA:10} I should be going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_10_0"
+msgid "Your bill,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_10_1"
+msgid "All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_10_2"
+msgid "Thank you very much.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_10_3"
+msgid "Please come again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_11_0"
+msgid "I see you have a coupon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:0_11_1"
+msgid "This entitles you to 1,{PA:10}000 yen||off the base price.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:1_0_0"
+msgid "Karen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:1_1_0"
+msgid "Shine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:1_2_0"
+msgid "A half-Hawaiian model!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:2_0_0"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:2_1_0"
+msgid "Shine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:2_2_0"
+msgid "Cool and sexy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:3_0_0"
+msgid "Maiko"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:3_1_0"
+msgid "Shine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:3_2_0"
+msgid "Cute and sweet!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:4_0_0"
+msgid "Yuma"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:4_1_0"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:4_2_0"
+msgid "Glamorous and laid-back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:5_0_0"
+msgid "Natsuki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:5_1_0"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:5_2_0"
+msgid "Intelligent,{PA:10} from a top university!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:6_0_0"
+msgid "Anna"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:6_1_0"
+msgid "Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:6_2_0"
+msgid "Sexy and cute!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:7_0_0"
+msgid "Jun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:7_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:7_2_0"
+msgid "Quick-witted and sweet!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:8_0_0"
+msgid "Madoka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:8_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:8_2_0"
+msgid "A proper girl from Kyoto!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:9_0_0"
+msgid "Ayano"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:9_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:9_2_0"
+msgid "A former television star!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:10_0_0"
+msgid "Nana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:10_1_0"
+msgid "Prime"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:10_2_0"
+msgid "A legendary cabaret girl!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:11_0_0"
+msgid "Receipt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:11_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:11_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:12_0_0"
+msgid "Base fee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:12_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:12_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:13_0_0"
+msgid "Appointment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:13_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:13_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:14_0_0"
+msgid "Refreshments"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:14_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:14_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:15_0_0"
+msgid "Service"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:15_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:15_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:16_0_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:16_1_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:16_2_0"
+msgid "n"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:17_0_0"
+msgid "Champagne Gold    300000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:18_0_0"
+msgid "Champagne Black   150000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:19_0_0"
+msgid "Champagne Rose    100000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:20_0_0"
+msgid "Champagne White    40000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:21_0_0"
+msgid "Yamazaki 12 Years  20000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:22_0_0"
+msgid "Kyogetsu GREEN      8000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:23_0_0"
+msgid "Beer                1000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:24_0_0"
+msgid "Cassis Grape        1000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:25_0_0"
+msgid "Orange Juice        1000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:26_0_0"
+msgid "House Bottle        FREE"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:27_0_0"
+msgid "Osaka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:28_0_0"
+msgid "Champagne Gold    300000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:29_0_0"
+msgid "Champagne Black   150000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:30_0_0"
+msgid "Champagne Rose    100000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:31_0_0"
+msgid "Champagne White    40000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:32_0_0"
+msgid "Yamazaki 12 Years  20000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:33_0_0"
+msgid "Kyogetsu GREEN      8000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:34_0_0"
+msgid "Beer                1000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:35_0_0"
+msgid "Cassis Grape        1000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:36_0_0"
+msgid "Orange Juice        1000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:37_0_0"
+msgid "House Bottle        FREE"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:38_0_0"
+msgid "Fruit Platter    5,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:39_0_0"
+msgid "Chicken Basket   3,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:40_0_0"
+msgid "Vegetable Sticks 2,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:41_0_0"
+msgid "Shrimp Fillet    1,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:42_0_0"
+msgid "Chocolate        1,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:43_0_0"
+msgid "Pickles          1,{PA:10}000"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_0"
+msgid "dummy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_1"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_2"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_3"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_4"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_5"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_6"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_7"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_8"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_9"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_10"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_11"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_12"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_13"
+msgid "Dragon Fang Needle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_14"
+msgid "Recovery Medicine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_15"
+msgid "Adhesive Bandage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_16"
+msgid "Hangover Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_17"
+msgid "Turmeric Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_18"
+msgid "White Miracle Tonic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_19"
+msgid "Skanda Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_20"
+msgid "Oden Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_21"
+msgid "Salmon Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_22"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_23"
+msgid "Club Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_24"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_25"
+msgid "Steamed Bun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_26"
+msgid "Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_27"
+msgid "Spaghetti With Meat Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_28"
+msgid "Fried Chicken Lunch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_29"
+msgid "Pudding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_30"
+msgid "Seaweed Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_31"
+msgid "Tuna Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_32"
+msgid "Frankfurter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_33"
+msgid "Melon Bread"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_34"
+msgid "Tonkatsu Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_35"
+msgid "Soba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_36"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_37"
+msgid "Hamburger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_38"
+msgid "Fish Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_39"
+msgid "French Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_40"
+msgid "Strawberry Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_41"
+msgid "Chocolate Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_42"
+msgid "Neapolitan Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_43"
+msgid "Vanilla Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_44"
+msgid "Beef Bowl (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_45"
+msgid "Beef Bowl (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_46"
+msgid "Beef Bowl (Special)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_47"
+msgid "Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_48"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_49"
+msgid "Won Ton Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_50"
+msgid "Half Ramen,{PA:10} Extra Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_51"
+msgid "Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_52"
+msgid "Spicy Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_53"
+msgid "Ichiban Star Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_54"
+msgid "Ichiban Star Ichiban Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_55"
+msgid "Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_56"
+msgid "Seaweed Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_57"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_58"
+msgid "Black Sesame Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_59"
+msgid "Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_60"
+msgid "Silk Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_61"
+msgid "Sky Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_62"
+msgid "Peach Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_0_63"
+msgid "Big Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_0"
+msgid "Chai Panda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_1"
+msgid "Araracoon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_2"
+msgid "Teddy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_3"
+msgid "Dragan (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_4"
+msgid "Dragan (Gold)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_5"
+msgid "Yamazaki 50 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_6"
+msgid "Yamazaki 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_7"
+msgid "Yamazaki 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_8"
+msgid "Hakushu 18 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_9"
+msgid "Hakushu 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_10"
+msgid "The Macallan 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_11"
+msgid "The Macallan 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_12"
+msgid "Laphroaig 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_13"
+msgid "Laphroaig 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_14"
+msgid "Bowmore 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_15"
+msgid "Glenfiddich 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_16"
+msgid "Glenfiddich 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_17"
+msgid "Hibiki 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_18"
+msgid "Hibiki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_19"
+msgid "Hokuto 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_20"
+msgid "Kakubin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_21"
+msgid "Ballantine's 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_22"
+msgid "Ballantine's 17 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_23"
+msgid "Ballantine's Finest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_24"
+msgid "Jack Daniel's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_25"
+msgid "Early Times"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_26"
+msgid "Suntory Brandy X.{PA:20}O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_27"
+msgid "Suntory Brandy V.S.O.P"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_28"
+msgid "Suntory Brandy V.O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_29"
+msgid "Courvoisier XO"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_30"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_31"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_32"
+msgid "Carlsberg"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_33"
+msgid "Kyogetsu GREEN"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_34"
+msgid "Beefeater"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_35"
+msgid "Lemon Hart Demerara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_36"
+msgid "Herradura Tequila Silver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_37"
+msgid "Skyy Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_38"
+msgid "Stolichnaya Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_39"
+msgid "The Suntory Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_40"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_41"
+msgid "Hamburger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_42"
+msgid "Fish Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_43"
+msgid "French Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_44"
+msgid "Burger Set A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_45"
+msgid "Burger Set B"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_46"
+msgid "Burger Set C"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_47"
+msgid "Smile Cheeseburger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_48"
+msgid "Teriyaki Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_49"
+msgid "King Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_50"
+msgid "Tuna Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_51"
+msgid "Stewed Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_52"
+msgid "Smile Shake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_53"
+msgid "Smile Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_54"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_55"
+msgid "Premium Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_56"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_57"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_58"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_59"
+msgid "Lemon Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_60"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_61"
+msgid "Apple Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_62"
+msgid "Lemon Spritzer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_1_63"
+msgid "Warm Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_0"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_1"
+msgid "Tomato Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_2"
+msgid "Toast Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_3"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_4"
+msgid "Pasta Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_5"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_6"
+msgid "Today's Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_7"
+msgid "Cafe Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_8"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_9"
+msgid "Caramel Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_10"
+msgid "Mille Crepes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_11"
+msgid "Mixed Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_12"
+msgid "Central Blend Short"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_13"
+msgid "Central Blend Tall"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_14"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_15"
+msgid "Central Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_16"
+msgid "Central Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_17"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_18"
+msgid "Soy Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_19"
+msgid "Shortcake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_20"
+msgid "Demon's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_21"
+msgid "Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_22"
+msgid "Bulletproof Vest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_23"
+msgid "Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_24"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_25"
+msgid "Dragon's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_26"
+msgid "Bulletproof Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_27"
+msgid "Fearless Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_28"
+msgid "Western Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_29"
+msgid "Lifestone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_30"
+msgid "Red Rose Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_31"
+msgid "Beads of Good Fortune"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_32"
+msgid "Sake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_33"
+msgid "Monogrammed Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_34"
+msgid "French Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_35"
+msgid "French Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_36"
+msgid "Italian Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_37"
+msgid "Italian Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_38"
+msgid "French Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_39"
+msgid "French Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_40"
+msgid "Italian Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_41"
+msgid "Italian Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_42"
+msgid "French Handbag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_43"
+msgid "Italian Shoulder Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_44"
+msgid "Swiss Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_45"
+msgid "Asian Digital Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_46"
+msgid "Japanese Diver's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_47"
+msgid "French Haute Couture Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_48"
+msgid "French Prêt-à-Porter Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_49"
+msgid "Italian Women's Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_50"
+msgid "Italian Women's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_51"
+msgid "Italian Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_52"
+msgid "Caviar Skin Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_53"
+msgid "Italian Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_54"
+msgid "Italian Men's Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_55"
+msgid "British Women's Coat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_56"
+msgid "German Luxury Car"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_57"
+msgid "Yacht"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_58"
+msgid "Penthouse Apartment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_59"
+msgid "Pocket Tissues"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_60"
+msgid "Cat Food"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_61"
+msgid "Dog Food"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_62"
+msgid "Flier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_2_63"
+msgid "Lucky Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_0"
+msgid "10G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_1"
+msgid "100G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_2"
+msgid "1000G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_3"
+msgid "Matches"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_4"
+msgid "Snack Sampler"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_5"
+msgid "Pink Lily Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_6"
+msgid "Cookie Sampler"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_7"
+msgid "Sledgehammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_8"
+msgid "Beer Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_9"
+msgid "Rope"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_10"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_11"
+msgid "Crowbar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_12"
+msgid "Old Chinese Broadswd"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_13"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_14"
+msgid "Lamp"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_15"
+msgid "Golf Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_16"
+msgid "Water Pot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_17"
+msgid "Cleaver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_18"
+msgid "Patriarch's Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_19"
+msgid "Lightning Bomb"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_20"
+msgid "Attaché Case"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_21"
+msgid "Mystic Blade Mugetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_22"
+msgid "Mystic Blade Sengetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_23"
+msgid "Mystic Blade Myogetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_24"
+msgid "Katana \"Demon Fang\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_25"
+msgid "Wooden Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_26"
+msgid "Long Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_27"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_28"
+msgid "Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_29"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_30"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_31"
+msgid "Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_32"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_33"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_34"
+msgid "Nameless Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_35"
+msgid "Handmade Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_36"
+msgid "Broken Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_37"
+msgid "Motomiya's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_38"
+msgid "Elegant Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_39"
+msgid "Wooden Hammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_40"
+msgid "Smoke Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_41"
+msgid "Dart"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_42"
+msgid "Saw"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_43"
+msgid "Old Semi-Auto Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_44"
+msgid "9mm Semi-Automatic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_45"
+msgid "Modified Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_46"
+msgid "Musashi's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_47"
+msgid "Mifune's Kodachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_48"
+msgid "Tear Gas Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_49"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_50"
+msgid "Bug Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_51"
+msgid "Majima's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_52"
+msgid "Sacred Tree Bokuto"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_53"
+msgid "Mail Order Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_54"
+msgid "Special Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_55"
+msgid "Ninja Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_56"
+msgid "Tesshusai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_57"
+msgid "Mystic Blade Muramasa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_58"
+msgid "Shotgun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_59"
+msgid "Flash Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_60"
+msgid "Antique Hand Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_61"
+msgid "Butterfly Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_62"
+msgid "9mm Semi-Automatic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_3_63"
+msgid "Charisma Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_0"
+msgid "Hariti Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_1"
+msgid "Popularity Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_2"
+msgid "Charismatic Photo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_3"
+msgid "Champion's Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_4"
+msgid "Masculine Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_5"
+msgid "Angelic Bell"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_6"
+msgid "Pink Nail Polish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_7"
+msgid "Haruka's Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_8"
+msgid "Haruka's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_9"
+msgid "Haruka's Chocolate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_10"
+msgid "777 Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_11"
+msgid "Haruka's First-Aid Kit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_12"
+msgid "Haruka's Marble"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_13"
+msgid "Haruka's Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_14"
+msgid "Banker's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_15"
+msgid "Player's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_16"
+msgid "Red Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_17"
+msgid "Black Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_18"
+msgid "Blackjack Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_19"
+msgid "Ogre Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_20"
+msgid "Dragon's Fist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_21"
+msgid "Cedar Slat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_22"
+msgid "Sake Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_23"
+msgid "Iron Pipe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_24"
+msgid "Modified Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_25"
+msgid "Modif.{PA:20} Portable Stove"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_26"
+msgid "Softball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_27"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_28"
+msgid "Gentleman's Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_29"
+msgid "Fork"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_30"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_31"
+msgid "Old Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_32"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_33"
+msgid "Chinese Throwing Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_34"
+msgid "Lau's Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_35"
+msgid "Ashtray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_36"
+msgid "Table Salt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_37"
+msgid "Pliers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_38"
+msgid "Iai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_39"
+msgid "Dark Wooden Sword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_40"
+msgid "Bungo Shimizu Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_41"
+msgid "Autographed Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_42"
+msgid "Custom Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_43"
+msgid "Patriarch's Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_44"
+msgid "100lb Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_45"
+msgid "Double Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_46"
+msgid "Demon Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_47"
+msgid "Dragon Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_48"
+msgid "Spiked Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_49"
+msgid "Double Fire Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_50"
+msgid "Double Stun Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_51"
+msgid "Modified Model Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_52"
+msgid "White Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_53"
+msgid "Blue Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_54"
+msgid "Black Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_55"
+msgid "Red Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_56"
+msgid "\"Scattered Blossoms\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_57"
+msgid "Mystic Katana \"Asura\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_58"
+msgid "Classic Katana Shadow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_59"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_60"
+msgid "Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_61"
+msgid "Hercules Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_62"
+msgid "9-Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_4_63"
+msgid "Black Shaft"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_0"
+msgid "Akagi Autographed 5-Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_1"
+msgid "Metal Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_2"
+msgid "Spiked Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_3"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_4"
+msgid "Gold Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_5"
+msgid "Tortoiseshell Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_6"
+msgid "Silver Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_7"
+msgid "Marble Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_8"
+msgid "Dragon Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_9"
+msgid "Lacquered Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_10"
+msgid "Gold Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_11"
+msgid "White Snake Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_12"
+msgid "White Snake Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_13"
+msgid "Kimchi Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_14"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_15"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_16"
+msgid "Egg Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_17"
+msgid "Rich Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_18"
+msgid "Tonkotsu Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_19"
+msgid "Takoyaki (8)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_20"
+msgid "Takoyaki (12)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_21"
+msgid "Takoyaki (20)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_22"
+msgid "Bear Cellphone Accessory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_23"
+msgid "Women's Underwear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_24"
+msgid "Bandage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_25"
+msgid "Black Boss"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_26"
+msgid "iemon (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_27"
+msgid "iemon hot (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_28"
+msgid "Suntory Natural Mineral Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_29"
+msgid "Natchan Orange"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_30"
+msgid "Pepsi NEX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_31"
+msgid "Suntory Oolong Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_32"
+msgid "C.{PA:20}C.{PA:20} Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_33"
+msgid "DAKARA"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_34"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_35"
+msgid "Boss Rainbow Mountain Blend"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_36"
+msgid "Gatorade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_37"
+msgid "Chuhai -196℃ Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_38"
+msgid "Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_39"
+msgid "Deluxe Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_40"
+msgid "Tessa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_41"
+msgid "Milt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_42"
+msgid "Globefish Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_43"
+msgid "Deep-fried Globefish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_44"
+msgid "Globefish Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_45"
+msgid "Globefish Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_46"
+msgid "Globefish Deluxe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_47"
+msgid "Globefish Shabu-shabu Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_48"
+msgid "Tecchiri Nabe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_49"
+msgid "Tiger Globefish Benten Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_50"
+msgid "Tiger Globefish Daikoku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_51"
+msgid "Tiger Globefish Hotei Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_52"
+msgid "Beef Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_53"
+msgid "Beef Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_54"
+msgid "Pork Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_55"
+msgid "Pork Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_56"
+msgid "Healthy Chicken Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_57"
+msgid "Healthy Chicken Curry (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_58"
+msgid "Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_59"
+msgid "Beef Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_60"
+msgid "Kalbi Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_61"
+msgid "Demitama Hamburger Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_62"
+msgid "Natto Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_5_63"
+msgid "Sausage Egg Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_0"
+msgid "Salted Salmon Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_1"
+msgid "Pork Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_2"
+msgid "Squid Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_3"
+msgid "Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_4"
+msgid "Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_5"
+msgid "Oyster Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_6"
+msgid "Pork & Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_7"
+msgid "Squid & Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_8"
+msgid "Pork & Beef Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_9"
+msgid "Squid & Shrimp Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_10"
+msgid "Fugetsu-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_11"
+msgid "Fugetsu-yaki (Modan)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_12"
+msgid "Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_13"
+msgid "Pokkasoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_14"
+msgid "Champonsoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_15"
+msgid "Salted Tongue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_16"
+msgid "Sirloin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_17"
+msgid "Rib Meat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_18"
+msgid "Top Shelf Rib Meat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_19"
+msgid "Harami"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_20"
+msgid "Yuk Hwe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_21"
+msgid "Liver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_22"
+msgid "Horumon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_23"
+msgid "Horumon-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_24"
+msgid "Black Bear Horumon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_25"
+msgid "Mino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_26"
+msgid "Hachinosu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_27"
+msgid "Senmai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_28"
+msgid "Giara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_29"
+msgid "Bara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_30"
+msgid "Kimo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_31"
+msgid "Akasen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_32"
+msgid "Urute"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_33"
+msgid "Suji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_34"
+msgid "Basa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_35"
+msgid "Tecchan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_36"
+msgid "Stew"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_37"
+msgid "Tamago"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_38"
+msgid "Kappamaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_39"
+msgid "Maguro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_40"
+msgid "Ama-ebi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_41"
+msgid "Engawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_42"
+msgid "Tsubugai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_43"
+msgid "Namatako"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_44"
+msgid "Kampachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_45"
+msgid "Kamburi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_46"
+msgid "Hirame"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_47"
+msgid "Shima-aji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_48"
+msgid "Kimmedai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_49"
+msgid "Ikura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_50"
+msgid "Akagai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_51"
+msgid "Otoro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_52"
+msgid "Awabi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_53"
+msgid "Uni"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_54"
+msgid "Ise-ebi Miso Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_55"
+msgid "Sushi Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_56"
+msgid "Kimchi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_57"
+msgid "Namul"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_58"
+msgid "Dolsot Bibimbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_59"
+msgid "Gukbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_60"
+msgid "Kimchi Jjigae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_61"
+msgid "Bossam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_62"
+msgid "Bulgogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_6_63"
+msgid "Pajeon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_0"
+msgid "Doppogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_1"
+msgid "Samgyeopsal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_2"
+msgid "Dakgalbi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_3"
+msgid "Japchae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_4"
+msgid "Today's Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_5"
+msgid "Hamo Three Dish Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_6"
+msgid "Yubazashi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_7"
+msgid "Assorted Otsukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_8"
+msgid "Lobster Ikizukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_9"
+msgid "Sazae Tsubo-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_10"
+msgid "Raw Oysters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_11"
+msgid "Kaiseki Hokkori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_12"
+msgid "Kaiseki Hannari"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_13"
+msgid "Winter Vegetable Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_14"
+msgid "Abalone Odoriyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_15"
+msgid "Snow Crab Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_16"
+msgid "Tissue w/ Flier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_17"
+msgid "Rare Action Figure"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_18"
+msgid "Old Lady's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_19"
+msgid "Gold Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_20"
+msgid "Robot Manager"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_21"
+msgid "Robot Chief"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_22"
+msgid "Robot President"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_23"
+msgid "Gold Robot President"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_24"
+msgid "Kitty Kat (Red)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_25"
+msgid "Kitty Kat (Tiger)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_26"
+msgid "Kitty Kat (Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_27"
+msgid "Kitty Kat (Short Hair)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_28"
+msgid "Kitty Kat (Calico)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_29"
+msgid "Beary Bear (Big)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_30"
+msgid "Beary Bear (Brown)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_31"
+msgid "Beary Bear (Gray)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_32"
+msgid "Beary Bear (Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_33"
+msgid "Beary Bear (Pink)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_34"
+msgid "Cabaret Discount Ticket"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_35"
+msgid "Desperation Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_36"
+msgid "Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_37"
+msgid "Hercules Gloves"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_38"
+msgid "Dragon Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_39"
+msgid "High-Tech Shin Guards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_40"
+msgid "Steel Shin Guards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_41"
+msgid "Tattered Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_42"
+msgid "Calming Towel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_43"
+msgid "Substitute Stone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_44"
+msgid "Southpaw Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_45"
+msgid "Tourmaline Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_46"
+msgid "Immovable Belt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_47"
+msgid "Black Belt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_48"
+msgid "Payback Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_49"
+msgid "Bloody Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_50"
+msgid "Insulated Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_51"
+msgid "Yakuza Training Gear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_52"
+msgid "Sacred Tree Armor Replica"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_53"
+msgid "Sacred Tree Armor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_54"
+msgid "Anti-blade Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_55"
+msgid "Gift Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_56"
+msgid "Antique Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_57"
+msgid "Iron Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_58"
+msgid "Bulletproof Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_59"
+msgid "Bulletproof Protector"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_60"
+msgid "SWAT Body Armor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_61"
+msgid "YF Figure Prize"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_62"
+msgid "Figure #12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_7_63"
+msgid "Homemade Cookies"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_0"
+msgid "Hand-knit Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_1"
+msgid "Italian Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_2"
+msgid "Komaki Matchlock"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_3"
+msgid "Double Slats"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_4"
+msgid "Skull Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_5"
+msgid "Double Spiked Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_6"
+msgid "Double Shafts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_7"
+msgid "Trendy Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_8"
+msgid "Phantom Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_9"
+msgid "Hiro's Autograph"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_10"
+msgid "Photon Blade RG"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_11"
+msgid "Dragon-SP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_12"
+msgid "Chinese Dragon Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_13"
+msgid "Nutritional Supplement ZLD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_14"
+msgid "Spirit Revitalizer BKH"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_15"
+msgid "Ultra Nourishment SHW"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:44_8_16"
+msgid "Company Deed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:45_0_0"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:45_1_0"
+msgid "No.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:46_0_0"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:46_1_0"
+msgid "No.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:47_0_0"
+msgid "Don't extend the time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABARET_CMN_US.BIN::line:47_1_0"
+msgid "Ask for an extension.{PA:20}"
+msgstr ""
+

@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_5_0"
+msgid "{CU:c8c8ff}(I don't have enough money.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_6_0"
+msgid "Thank you.{PA:20} Your total is||{NU:02_0c_00}000000000000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_7_0"
+msgid "Would you like anything else?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_8_0"
+msgid "It seems you can't carry anything more.{PA:20}||Please take care of that first.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_0_0"
+msgid "Monogrammed Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_1_0"
+msgid "French Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_2_0"
+msgid "French Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_3_0"
+msgid "Italian Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_4_0"
+msgid "Italian Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_5_0"
+msgid "French Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_6_0"
+msgid "French Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_7_0"
+msgid "Italian Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_8_0"
+msgid "Italian Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_9_0"
+msgid "French Handbag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_10_0"
+msgid "Italian Shoulder Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_11_0"
+msgid "Swiss Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_12_0"
+msgid "French Haute Couture Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_13_0"
+msgid "French Prêt-à-Porter Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_14_0"
+msgid "Italian Women's Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_15_0"
+msgid "Italian Women's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_16_0"
+msgid "Italian Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_17_0"
+msgid "Caviar Skin Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_18_0"
+msgid "Italian Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_19_0"
+msgid "Italian Men's Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:1_20_0"
+msgid "British Women's Coat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_0_0"
+msgid "A monogrammed bag from France.{PA:20}||It would make a good present.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_1_0"
+msgid "This French men's cologne has a delicate||fragrance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_2_0"
+msgid "This French perfume has a subtle floral||fragrance and makes a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_3_0"
+msgid "This Italian men's cologne has a very||sensual fragrance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_4_0"
+msgid "This Italian perfume has a sexy smell and||might make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_5_0"
+msgid "A cashmere scarf made in France.{PA:20} It would||make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_6_0"
+msgid "A top-quality wallet made in France.{PA:20} It||would make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_7_0"
+msgid "A designer scarf made in Italy.{PA:20} It would||make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_8_0"
+msgid "A designer wallet made in Italy.{PA:20} It would||make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_9_0"
+msgid "This French handbag is sure to make a||great gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_10_0"
+msgid "This Italian shoulder bag is sure to make a||great gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_11_0"
+msgid "This high-class Swiss watch is delicately||hand-crafted by artisans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_12_0"
+msgid "This French haute couture dress is all the||rage in Paris this season.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_13_0"
+msgid "Although this French dress is ready-made,{PA:10}||it's very popular these days.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_14_0"
+msgid "An elegant Italian women's suit with||stylish coloring.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_15_0"
+msgid "This Italian women's watch would make a||wonderful present.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_16_0"
+msgid "This high-class Italian necklace would make||a good gift for a woman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_17_0"
+msgid "This caviar skin bag is an unbeatable gift||for any woman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_18_0"
+msgid "This high-class Italian ring would make a||good gift for a woman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_19_0"
+msgid "This high-class silver Italian necklace for||men has a certain elegance about it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0046.BIN::line:2_20_0"
+msgid "This British-made high-class coat would make||a good present for a woman.{PA:20}"
+msgstr ""
+

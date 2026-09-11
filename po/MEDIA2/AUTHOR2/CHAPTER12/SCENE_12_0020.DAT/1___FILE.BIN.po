@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Every year at Christmas,{PA:10} Fuma would come"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:0_0_1"
+msgid "by Sunflower,{PA:10} the orphanage I grew up at.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "But we hadn't seen him at all that day.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "I was worried something had happened to him,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:2_0_1"
+msgid "so I went to Kamurocho on my own.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "It's been a while,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Why are you here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I wanted to talk to you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Not today,{PA:10} son.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Go home.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "He was always kind,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:8_0_1"
+msgid "That night something was different.{PA:20}"
+msgstr ""
+

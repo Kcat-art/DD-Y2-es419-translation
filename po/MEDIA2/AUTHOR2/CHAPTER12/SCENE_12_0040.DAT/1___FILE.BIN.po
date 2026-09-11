@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:0_0_0"
+msgid "You.{PA:20}.{PA:20}.{PA:20}?{PA:20} You'd let us live?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:1_0_0"
+msgid "On the condition that you leave Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:2_0_0"
+msgid "This isn't some trap,{PA:10} is it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:3_0_0"
+msgid "I couldn't hear what they were saying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I.{PA:20}.{PA:20}.{PA:20} I thought Fuma was in danger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:4_0_1"
+msgid "I wanted to protect him,{PA:10} at any cost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Call your men and head out the back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:6_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Or it'll be a matter of time before"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:6_0_1"
+msgid "they're all dead.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Trust me on this!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Kazuma?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:9_0_0"
+msgid "I knew this was a trap!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Wait!{PA:20} The boy's not with the Tojo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:11_0_0"
+msgid "I.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I thought you were.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:13_0_0"
+msgid "That he was going to.{PA:20}.{PA:20}.{PA:20} I didn't.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

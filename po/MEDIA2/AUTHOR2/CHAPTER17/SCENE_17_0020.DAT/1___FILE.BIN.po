@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Thank you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "I.{PA:20}.{PA:20}.{PA:20} I'll never forget you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Thank you so much,{PA:10} Mr.{PA:20} Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "All that time,{PA:10} the bomb was a fake.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I guess Terada was the best actor of all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid "You said it.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I guess he meant it when he told Takashima"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:6_0_1"
+msgid "he never really trusted him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I guess so.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "I mean,{PA:10} he'd removed the fuse"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:8_0_1"
+msgid "from the start.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:9_0_0"
+msgid "He never intended for the thing to go off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Still,{PA:10} I just about shit a brick when it"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:10_0_1"
+msgid "started counting down.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:11_0_0"
+msgid "No kidding.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:12_0_0"
+msgid "If it hadn't been for Terada's move,{PA:10} though,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:12_0_1"
+msgid "Takashima would have gotten his way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Wait.{PA:20}.{PA:20}.{PA:20} Did you know the bomb wouldn't go"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:13_0_1"
+msgid "off the whole time?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:14_0_0"
+msgid "No,{PA:10} not for sure.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:15_0_0"
+msgid "But the last thing he said was,{PA:10} \"Trust me.{PA:20}\""
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Trust him about what,{PA:10} I wonder?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:17_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}About the way he felt towards Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:17_0_1"
+msgid "That's what I'd like to believe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Thinking back on it now.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:19_0_0"
+msgid "That does make sense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:20_0_0"
+msgid "So he really wasn't lying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Guess not.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Ah!{PA:20}"
+msgstr ""
+

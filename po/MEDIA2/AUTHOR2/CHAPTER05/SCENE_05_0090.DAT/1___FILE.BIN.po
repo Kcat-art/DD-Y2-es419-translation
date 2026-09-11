@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Ladies and gentlemen!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:1_0_0"
+msgid "At long last,{PA:10} the Dragon of Dojima returns"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:1_0_1"
+msgid "to the ring!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:2_0_0"
+msgid "He endured a decade of unjust jail time"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:2_0_1"
+msgid "to save the city and become a legend!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Last year's king of the underground"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:3_0_1"
+msgid "tournament,{PA:10} Kazuma Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Against him,{PA:10} the rising star of the cage!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:5_0_0"
+msgid "The Brazilian Juggernaut.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:5_0_1"
+msgid "Robison Caetano di Sciuva!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Our champ returns after a long year's wait!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Who will victory smile upon tonight?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Here's the gong!{PA:20}"
+msgstr ""
+

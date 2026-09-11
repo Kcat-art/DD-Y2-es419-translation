@@ -1,0 +1,1129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_0_0"
+msgid "Matsuya"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_1_0"
+msgid "Beef Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_2_0"
+msgid "Plump,{PA:10} tender and delicious.{PA:20} Regular size,{PA:10}||served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_3_0"
+msgid "Beef Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_4_0"
+msgid "Plump,{PA:10} tender and delicious.{PA:20} Large size,{PA:10}||served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_5_0"
+msgid "Pork Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_6_0"
+msgid "Tender and flavorful!{PA:20} Classic Matsuya fare.{PA:20}||Regular size with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_7_0"
+msgid "Pork Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_8_0"
+msgid "Tender and flavorful!{PA:20} Classic Matsuya fare.{PA:20}||Large size with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_9_0"
+msgid "Healthy Chicken Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_10_0"
+msgid "Spicy and delicious chicken curry!{PA:20} Regular||size,{PA:10} served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_11_0"
+msgid "Healthy Chicken Curry (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_12_0"
+msgid "Spicy and delicious chicken curry!{PA:20} Large||size,{PA:10} served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_13_0"
+msgid "Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_14_0"
+msgid "A delicious melding of two flavors!{PA:20}||Comes with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_15_0"
+msgid "Beef Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_16_0"
+msgid "A popular meal set with BBQ beef,{PA:10} rice,{PA:10}||miso soup and assorted vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_17_0"
+msgid "Kalbi Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_18_0"
+msgid "BBQ beef rib meat with rice,{PA:10} miso soup||and assorted vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_19_0"
+msgid "Demitama Hamburger Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_20_0"
+msgid "With soft-boiled egg,{PA:10} savory demi-glace||sauce,{PA:10} rice,{PA:10} miso soup and vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_21_0"
+msgid "Natto Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_22_0"
+msgid "The best breakfast is a healthy one.{PA:20} Natto,{PA:10}||raw egg,{PA:10} rice,{PA:10} soup,{PA:10} seaweed and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_23_0"
+msgid "Sausage Egg Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_24_0"
+msgid "Have an uplifting breakfast today!{PA:20} Sausage,{PA:10}||egg,{PA:10} miso soup,{PA:10} seaweed and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_25_0"
+msgid "Salted Salmon Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:0_26_0"
+msgid "A quick morning meal.{PA:20} Salted salmon,{PA:10} rice,{PA:10}||soup,{PA:10} tofu and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_0_0"
+msgid "Gelato"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_1_0"
+msgid "Vanilla Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_2_0"
+msgid "Vanilla ice cream,{PA:10} loaded with high-quality||vanilla beans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_3_0"
+msgid "Strawberry Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_4_0"
+msgid "Strawberry ice cream,{PA:10} packed with fresh||strawberries.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_5_0"
+msgid "Chocolate Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_6_0"
+msgid "Chocolate ice cream.{PA:20} Its rich flavor comes||from Belgian chocolate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_7_0"
+msgid "Neapolitan Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:1_8_0"
+msgid "Neapolitan ice cream,{PA:10} with three fun||flavors in one.{PA:20} The variety won't disappoint.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_0_0"
+msgid "Smile B.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_1_0"
+msgid "Smile Cheeseburger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_2_0"
+msgid "This set comes with a Smile Cheeseburger,{PA:10}||french fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_3_0"
+msgid "Teriyaki Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_4_0"
+msgid "This set comes with a Teriyaki Smile||Burger,{PA:10} french fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_5_0"
+msgid "King Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_6_0"
+msgid "This set comes with a King Smile Burger,{PA:10}||french fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_7_0"
+msgid "Tuna Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_8_0"
+msgid "This set comes with a Tuna Burger,{PA:10} french||fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_9_0"
+msgid "Stewed Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_10_0"
+msgid "This set comes with a Stewed Burger,{PA:10} french||fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_11_0"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_12_0"
+msgid "A special burger,{PA:10} served à la carte.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_13_0"
+msgid "Smile Shake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_14_0"
+msgid "A Smile Shake.{PA:20} It's delectable and frosty.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_15_0"
+msgid "Smile Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_16_0"
+msgid "Smile french fries.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_0_0"
+msgid "K1 Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_1_0"
+msgid "Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_2_0"
+msgid "Ramen noodles in a tonkotsu soy sauce base.{PA:20}||You don't know Kyushu until you've tried it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_3_0"
+msgid "Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_4_0"
+msgid "A large bowl of ramen noodles featuring a||tonkotsu soy sauce soup base.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_5_0"
+msgid "Seaweed Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_6_0"
+msgid "This seaweed ramen features fragrant dried||seaweed from Shizuoka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_7_0"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_8_0"
+msgid "Ramen noodles topped with slow-simmered||pork!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_9_0"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_10_0"
+msgid "A refreshing tonkotsu ramen with lots of||crisp,{PA:10} organically grown Welsh onions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_11_0"
+msgid "Black Sesame Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:3_12_0"
+msgid "Ramen noodles with black sesame.{PA:20} Sesame is||great for your health!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_0_0"
+msgid "Café Alps"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_1_0"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_2_0"
+msgid "Coffee brewed from a blend of Colombian,{PA:10}||Mandarin and Brazilian beans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_3_0"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_4_0"
+msgid "Enjoy the citrusy bergamot scent of our||teas from our farms in Sri Lanka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_5_0"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_6_0"
+msgid "We take special Assam tea from our private||farms and add milk from Hokkaido.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_7_0"
+msgid "Tomato Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_8_0"
+msgid "We use only organically grown tomatoes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_9_0"
+msgid "Lemon Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_10_0"
+msgid "We combine rich,{PA:10} fragrant teas from Nuwara||Eliya with organically grown lemons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_11_0"
+msgid "Toast Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_12_0"
+msgid "This set comes with a soft-boiled egg,{PA:10} bacon,{PA:10}||toast and your choice of coffee or tea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_13_0"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_14_0"
+msgid "A simple sandwich of egg,{PA:10} ham and lettuce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_15_0"
+msgid "Pasta Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_16_0"
+msgid "Pasta with eggplant and bacon.{PA:20} The set||includes a beverage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_17_0"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_18_0"
+msgid "Beef curry,{PA:10} made from scratch with our own||special recipe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_0_0"
+msgid "Café C.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_1_0"
+msgid "Central Blend Short"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_2_0"
+msgid "Our own original blend.{PA:20} Small size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_3_0"
+msgid "Central Blend Tall"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_4_0"
+msgid "Our own original blend.{PA:20} Large size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_5_0"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_6_0"
+msgid "A very strong coffee.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_7_0"
+msgid "Central Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_8_0"
+msgid "An espresso with steamed milk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_9_0"
+msgid "Central Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_10_0"
+msgid "An espresso with steamed milk and chocolate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_11_0"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_12_0"
+msgid "An espresso with milk foam.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_13_0"
+msgid "Soy Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_14_0"
+msgid "Instead of milk we use soymilk.{PA:20} A healthy||alternative.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_0_0"
+msgid "W Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_1_0"
+msgid "White Snake Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_2_0"
+msgid "C'mon and try our super-rich tonkotsu-||flavored White Snake ramen noodles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_3_0"
+msgid "White Snake Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_4_0"
+msgid "C'mon and try a big ol' bowl of our super-||rich tonkotsu-flavored White Snake ramen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_5_0"
+msgid "Kimchi Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_6_0"
+msgid "Trust us,{PA:10} spicy kimchi goes great with our||ramen noodles!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_7_0"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_8_0"
+msgid "Our tonkotsu-flavored White Snake ramen||is packed to the gills with pork.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_9_0"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_10_0"
+msgid "Loaded with scallions.{PA:20} A great way to boost||your immune system!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_11_0"
+msgid "Egg Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:6_12_0"
+msgid "With seasoned egg!{PA:20} It's delicious!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_0_0"
+msgid "Zuboraya"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_1_0"
+msgid "Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_2_0"
+msgid "Fresh globefish hotpot with our special||ponzu sauce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_3_0"
+msgid "Deluxe Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_4_0"
+msgid "Freshly caught wild globefish hotpot with our||special ponzu sauce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_5_0"
+msgid "Tessa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_6_0"
+msgid "Enjoy only the best fresh raw globefish.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_7_0"
+msgid "Milt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_8_0"
+msgid "You'll love our superb soft globefish milt.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_9_0"
+msgid "Globefish Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_10_0"
+msgid "Globefish tempura.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_11_0"
+msgid "Deep-fried Globefish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_12_0"
+msgid "Deep-fried globefish.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_13_0"
+msgid "Globefish Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_14_0"
+msgid "Globefish fried,{PA:10} lighly roasted,{PA:10} and in soup,{PA:10}||with rice and pickled vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_15_0"
+msgid "Globefish Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_16_0"
+msgid "Globefish delicacy,{PA:10} sushi,{PA:10} salad,{PA:10} tempura,{PA:10}||chawanmushi and soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_17_0"
+msgid "Globefish Deluxe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_18_0"
+msgid "Globefish prepared a variety of ways,{PA:10} with||soup,{PA:10} rice,{PA:10} pickles and fruit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_19_0"
+msgid "Globefish Shabu-shabu Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_20_0"
+msgid "Meal set with all kinds of globefish: appetizer,{PA:10}||lightly roasted,{PA:10} fried,{PA:10} and shabu-shabu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_21_0"
+msgid "Tecchiri Nabe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_22_0"
+msgid "Meal set with all kinds of globefish:||appetizer,{PA:10} raw,{PA:10} fried,{PA:10} and hotpot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_23_0"
+msgid "Tiger Globefish Benten Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_24_0"
+msgid "All kinds of globefish: appetizer,{PA:10} raw,{PA:10}||fried,{PA:10} hotpot,{PA:10} porridge,{PA:10} pickles and dessert.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_25_0"
+msgid "Tiger Globefish Daikoku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_26_0"
+msgid "All kinds of globefish: appetizer,{PA:10} grilled,{PA:10} raw,{PA:10}||fried,{PA:10} hotpot,{PA:10} porridge,{PA:10} pickles and dessert.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_27_0"
+msgid "Tiger Globefish Hotei Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_28_0"
+msgid "A wild globefish feast: appetizer,{PA:10} grilled,{PA:10} raw,{PA:10}||fried,{PA:10} hotpot,{PA:10} porridge,{PA:10} pickles and dessert.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_0_0"
+msgid "Fugetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_1_0"
+msgid "Pork Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_2_0"
+msgid "Okonomiyaki with pork.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_3_0"
+msgid "Squid Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_4_0"
+msgid "Okonomiyaki with squid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_5_0"
+msgid "Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_6_0"
+msgid "Okonomiyaki with beef.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_7_0"
+msgid "Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_8_0"
+msgid "Okonomiyaki with shrimp.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_9_0"
+msgid "Oyster Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_10_0"
+msgid "Okonomiyaki with oysters.{PA:20} Only available||in the winter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_11_0"
+msgid "Pork & Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_12_0"
+msgid "Okonomiyaki with pork and beef.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_13_0"
+msgid "Squid & Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_14_0"
+msgid "Okonomiyaki with squid and shrimp.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_15_0"
+msgid "Pork & Beef Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_16_0"
+msgid "Beef and pork okonomiyaki with fresh||noodles on top.{PA:20} It really fills you up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_17_0"
+msgid "Squid & Shrimp Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_18_0"
+msgid "Squid and shrimp okonomiyaki with fresh||noodles on top.{PA:20} It really fills you up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_19_0"
+msgid "Fugetsu-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_20_0"
+msgid "Okonomiyaki with squid,{PA:10} shrimp,{PA:10} beef and||pork.{PA:20} Oysters,{PA:10} too,{PA:10} in the winter only!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_21_0"
+msgid "Fugetsu-yaki (Modan)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_22_0"
+msgid "Okonomiyaki and noodles,{PA:10} with squid,{PA:10}||shrimp,{PA:10} beef,{PA:10} pork and oysters (winter only).{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_23_0"
+msgid "Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_24_0"
+msgid "Yakisoba featuring Fugetsu's own noodles||with pork and squid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_25_0"
+msgid "Pokkasoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_26_0"
+msgid "Spicy yakisoba featuring kimchi and||Fugetsu's own noodles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_27_0"
+msgid "Champonsoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:8_28_0"
+msgid "Yakisoba with squid,{PA:10} shrimp,{PA:10} beef and||pork.{PA:20} Oysters,{PA:10} too,{PA:10} in the winter only!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_0_0"
+msgid "Yotteya"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_1_0"
+msgid "Bara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_2_0"
+msgid "Shoulder meat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_3_0"
+msgid "Kimo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_4_0"
+msgid "Cow's liver.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_5_0"
+msgid "Harami"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_6_0"
+msgid "Meat from the center of the body.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_7_0"
+msgid "Mino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_8_0"
+msgid "Meat from the first compartment of a||cow's stomach.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_9_0"
+msgid "Akasen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_10_0"
+msgid "Crunchy meat from the fourth compartment||of a cow's stomach.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_11_0"
+msgid "Urute"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_12_0"
+msgid "Crunchy cartilage from a cow's trachea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_13_0"
+msgid "Suji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_14_0"
+msgid "The cow's Achilles' tendon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_15_0"
+msgid "Basa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_16_0"
+msgid "Cow's lung.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_17_0"
+msgid "Tecchan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_18_0"
+msgid "Cow's large intestines.{PA:20} Juicy and chewy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_19_0"
+msgid "Stew"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_20_0"
+msgid "Our stewed cow offal can't be beat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_0_0"
+msgid "Kanrai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_1_0"
+msgid "Kimchi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_2_0"
+msgid "Nothing says Korean cuisine like kimchi.{PA:20}||Our homemade recipe uses Chinese cabbage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_3_0"
+msgid "Namul"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_4_0"
+msgid "This Korean salad is said to be how a||cook's abilities are judged in Korea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_5_0"
+msgid "Dolsot Bibimbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_6_0"
+msgid "This is namul,{PA:10} meat and egg on rice.{PA:20}||Try it with gochujang paste.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_7_0"
+msgid "Gukbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_8_0"
+msgid "Korean rice porridge with beef and||vegetables,{PA:10} stewed in beef juices for hours.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_9_0"
+msgid "Kimchi Jjigae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_10_0"
+msgid "Jjigae means stew,{PA:10} and this kimchi stew||will warm you up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_11_0"
+msgid "Bossam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_12_0"
+msgid "Boiled pork shoulder,{PA:10} wrapped in our||famous kimchi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_13_0"
+msgid "Bulgogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_14_0"
+msgid "Tasty beef soaked with special sauce,{PA:10}||and grilled in an iron skillet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_15_0"
+msgid "Pajeon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_16_0"
+msgid "This scallion pancake is Korea's answer to||okonomiyaki.{PA:20} Try it with our house sauce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_17_0"
+msgid "Doppogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_18_0"
+msgid "Korean mochi,{PA:10} called tteok,{PA:10} steeped in||gochujang paste.{PA:20} Popular at street stands.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_19_0"
+msgid "Samgyeopsal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_20_0"
+msgid "Juicy pork shoulder meat,{PA:10} grilled to||perfection.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_21_0"
+msgid "Dakgalbi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_22_0"
+msgid "Stir-fried chicken rib meat and vegetables.{PA:20}||It's spicy and delicious!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_23_0"
+msgid "Japchae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_24_0"
+msgid "Japchae is bean thread noodles stir-fried||with vegetables.{PA:20} It's light and tasty!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_0_0"
+msgid "Sushi Gin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_1_0"
+msgid "Tamago"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_2_0"
+msgid "You can get a feel for a shop's sushi from||their egg sushi.{PA:20} Ours is top notch!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_3_0"
+msgid "Kappamaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_4_0"
+msgid "Why are they called kappa rolls?{PA:20} Because||kappas love cucumbers,{PA:10} that's why!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_5_0"
+msgid "Maguro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_6_0"
+msgid "There are lots of different kinds of tuna,{PA:10}||but our shop uses only the top maguro cut.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_7_0"
+msgid "Ama-ebi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_8_0"
+msgid "With our sweet shrimp sushi you'll find||unrivaled freshness and quality!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_9_0"
+msgid "Engawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_10_0"
+msgid "Crunchy fin-muscle tissue from a certain||kind of halibut.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_11_0"
+msgid "Tsubugai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_12_0"
+msgid "When you bite into our tsubugai shellfish||you'll feel the summer ocean breeze!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_13_0"
+msgid "Namatako"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_14_0"
+msgid "The more you chew our fresh octopus,{PA:10} the||more you'll fall in love with it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_15_0"
+msgid "Kampachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_16_0"
+msgid "Lately a lot of amberjack is farm-raised,{PA:10}||but we only use freshly caught.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_17_0"
+msgid "Kamburi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_18_0"
+msgid "Our seasonal fatty amberjack is freshly||caught.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_19_0"
+msgid "Hirame"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_20_0"
+msgid "This is the season for halibut,{PA:10} and ours||is freshly caught.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_21_0"
+msgid "Shima-aji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_22_0"
+msgid "This striped jack is the king of mackerel.{PA:20}||They're best eaten raw in the summertime.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_23_0"
+msgid "Kimmedai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_24_0"
+msgid "This golden-eyed fish is fresh and tasty.{PA:20}||Caught this very morning.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_25_0"
+msgid "Ikura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_26_0"
+msgid "Farmed salmon roe has a different taste,{PA:10}||but ours is straight from the ocean.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_27_0"
+msgid "Akagai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_28_0"
+msgid "The ark shell has red blood and has been a||part of Japanese culture for centuries.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_29_0"
+msgid "Otoro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_30_0"
+msgid "This is the highest grade of tuna.{PA:20}||It will absolutely melt in your mouth!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_31_0"
+msgid "Awabi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_32_0"
+msgid "This top-shelf abalone isn't for the||thrifty.{PA:20} But it's worth it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_33_0"
+msgid "Uni"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_34_0"
+msgid "Our first-rate sea urchin roe is delivered||fresh from Numazu port.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_35_0"
+msgid "Ise-ebi Miso Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_36_0"
+msgid "We use an entire lobster for this||extravagant red miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_0_0"
+msgid "Komian"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_1_0"
+msgid "Today's Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_2_0"
+msgid "Enjoy the freshness of the finest||ingredients of the season.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_3_0"
+msgid "Hamo Three Dish Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_4_0"
+msgid "Hamo is a summer fish,{PA:10} but can be enjoyed||this way in the winter,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_5_0"
+msgid "Yubazashi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_6_0"
+msgid "Raw yuba in fresh this morning from Kyoto,{PA:10}||rich in soy flavor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_7_0"
+msgid "Assorted Otsukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_8_0"
+msgid "Scallops,{PA:10} amberjack and young bluefin tuna,{PA:10}||served fresh and raw.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_9_0"
+msgid "Lobster Ikizukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_10_0"
+msgid "Live lobster plucked fresh from the water||this morning.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_11_0"
+msgid "Sazae Tsubo-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_12_0"
+msgid "This spiny shellfish is plucked from the||Seto Inland Sea and grilled.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_13_0"
+msgid "Raw Oysters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_14_0"
+msgid "These oysters delivered directly from||Okayama taste best raw.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_15_0"
+msgid "Kaiseki Hokkori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_16_0"
+msgid "Enjoy this calm,{PA:10} relaxing kaiseki course.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_17_0"
+msgid "Kaiseki Hannari"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_18_0"
+msgid "Enjoy this gorgeous kaiseki course.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_19_0"
+msgid "Winter Vegetable Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_20_0"
+msgid "Kyoto vegetables in a tempura batter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_21_0"
+msgid "Abalone Odoriyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_22_0"
+msgid "The abalone seems to dance on the grill as||it's cooked while still alive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_23_0"
+msgid "Snow Crab Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_24_0"
+msgid "A luxurious full course meal of delicious||snow crab.{PA:20}"
+msgstr ""
+

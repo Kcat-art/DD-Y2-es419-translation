@@ -1,0 +1,5121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_0_0"
+msgid "Do you really want to discard it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_3_0"
+msgid "Health recovered.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_4_0"
+msgid "Spirit increased.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_5_0"
+msgid "Health recovered and||spirit increased.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_6_0"
+msgid "Item equipped.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_7_0"
+msgid "No need to use it now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_8_0"
+msgid "You seem to be drunk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_9_0"
+msgid "You seem to have sobered up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_10_0"
+msgid "The HEAT gauge has been maxed.{PA:20}||This should last for a while.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_11_0"
+msgid "The HEAT gauge is gradually being filled.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_12_0"
+msgid "The HEAT gauge has been maxed.{PA:20}||This should last for a while.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_13_0"
+msgid "Received 1,{PA:10}000 experience points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_14_0"
+msgid "Your body feels unbelievably light and||your concentration is sharp.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_15_0"
+msgid "A coin locker key.{PA:20}||You have no keys right now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_16_0"
+msgid "Item removed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_17_0"
+msgid "You are carrying too many items.{PA:20}||You cannot unequip this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_18_0"
+msgid "Select where to equip this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_19_0"
+msgid "You used the Banker's Game Piece.{PA:20}||You sense the Banker will win at Baccarat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_20_0"
+msgid "You used the Player's Game Piece.{PA:20}||You sense the Player will win at Baccarat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_21_0"
+msgid "You used a Red Gem.{PA:20}||You sense that red will win in Roulette.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_22_0"
+msgid "You used a Black Gem.{PA:20}||You sense that black will win in Roulette.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_23_0"
+msgid "You used a Blackjack Charm.{PA:20}||You sense the dealer will bust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_24_0"
+msgid "-"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_25_0"
+msgid "You cannot put away this weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_27_0"
+msgid " pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_28_0"
+msgid " pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_29_0"
+msgid "Use your cell phone?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_30_0"
+msgid "Will you try calling this number?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_31_0"
+msgid "You cannot equip during a fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:0_32_0"
+msgid "You're currently using a fixed machine gun!{PA:20}||You don't have time to equip another weapon!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:1_0_0"
+msgid "■No key"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:1_1_0"
+msgid "■Can open"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:1_2_0"
+msgid "■Opened"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_0"
+msgid "dummy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_1"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_2"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_3"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_4"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_5"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_6"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_7"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_8"
+msgid "Tauriner Maximum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_9"
+msgid "Toughness Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_10"
+msgid "Toughness ZZ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_11"
+msgid "Toughness Emperor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_12"
+msgid "Toughness Infinity"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_13"
+msgid "Dragon Fang Needle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_14"
+msgid "Recovery Medicine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_15"
+msgid "Adhesive Bandage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_16"
+msgid "Hangover Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_17"
+msgid "Turmeric Pills"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_18"
+msgid "White Miracle Tonic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_19"
+msgid "Skanda Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_20"
+msgid "Oden Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_21"
+msgid "Salmon Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_22"
+msgid "Bento Lunch Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_23"
+msgid "Club Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_24"
+msgid "Special Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_25"
+msgid "Steamed Bun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_26"
+msgid "Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_27"
+msgid "Spaghetti With Meat Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_28"
+msgid "Fried Chicken Lunch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_29"
+msgid "Pudding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_30"
+msgid "Seaweed Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_31"
+msgid "Tuna Rice Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_32"
+msgid "Frankfurter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_33"
+msgid "Melon Bread"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_34"
+msgid "Tonkatsu Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_35"
+msgid "Soba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_36"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_37"
+msgid "Hamburger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_38"
+msgid "Fish Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_39"
+msgid "French Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_40"
+msgid "Strawberry Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_41"
+msgid "Chocolate Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_42"
+msgid "Neapolitan Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_43"
+msgid "Vanilla Ice Cream"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_44"
+msgid "Beef Bowl (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_45"
+msgid "Beef Bowl (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_46"
+msgid "Beef Bowl (Special)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_47"
+msgid "Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_48"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_49"
+msgid "Won Ton Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_50"
+msgid "Half Ramen,{PA:10} Extra Sauce"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_51"
+msgid "Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_52"
+msgid "Spicy Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_53"
+msgid "Ichiban Star Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_54"
+msgid "Ichiban Star Ichiban Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_55"
+msgid "Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_56"
+msgid "Seaweed Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_57"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_58"
+msgid "Black Sesame Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_59"
+msgid "Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_60"
+msgid "Silk Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_61"
+msgid "Sky Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_62"
+msgid "Peach Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_0_63"
+msgid "Big Piyo-chan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_0"
+msgid "Chai Panda"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_1"
+msgid "Araracoon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_2"
+msgid "Teddy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_3"
+msgid "Dragan (Black)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_4"
+msgid "Dragan (Gold)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_5"
+msgid "Yamazaki 50 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_6"
+msgid "Yamazaki 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_7"
+msgid "Yamazaki 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_8"
+msgid "Hakushu 18 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_9"
+msgid "Hakushu 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_10"
+msgid "The Macallan 25 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_11"
+msgid "The Macallan 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_12"
+msgid "Laphroaig 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_13"
+msgid "Laphroaig 10 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_14"
+msgid "Bowmore 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_15"
+msgid "Glenfiddich 30 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_16"
+msgid "Glenfiddich 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_17"
+msgid "Hibiki 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_18"
+msgid "Hibiki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_19"
+msgid "Hokuto 12 Years"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_20"
+msgid "Kakubin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_21"
+msgid "Ballantine's 30 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_22"
+msgid "Ballantine's 17 Years Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_23"
+msgid "Ballantine's Finest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_24"
+msgid "Jack Daniel's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_25"
+msgid "Early Times"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_26"
+msgid "Suntory Brandy X.{PA:20}O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_27"
+msgid "Suntory Brandy V.S.O.P"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_28"
+msgid "Suntory Brandy V.O"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_29"
+msgid "Courvoisier XO"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_30"
+msgid "The Premium Malt's"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_31"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_32"
+msgid "Carlsberg"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_33"
+msgid "Kyogetsu GREEN"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_34"
+msgid "Beefeater"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_35"
+msgid "Lemon Hart Demerara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_36"
+msgid "Herradura Tequila Silver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_37"
+msgid "Skyy Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_38"
+msgid "Stolichnaya Vodka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_39"
+msgid "The Suntory Old"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_40"
+msgid "Special Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_41"
+msgid "Hamburger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_42"
+msgid "Fish Burger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_43"
+msgid "French Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_44"
+msgid "Burger Set A"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_45"
+msgid "Burger Set B"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_46"
+msgid "Burger Set C"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_47"
+msgid "Smile Cheeseburger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_48"
+msgid "Teriyaki Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_49"
+msgid "King Smile Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_50"
+msgid "Tuna Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_51"
+msgid "Stewed Burger Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_52"
+msgid "Smile Shake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_53"
+msgid "Smile Fries"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_54"
+msgid "Blended Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_55"
+msgid "Premium Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_56"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_57"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_58"
+msgid "Milk Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_59"
+msgid "Lemon Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_60"
+msgid "Orange Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_61"
+msgid "Apple Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_62"
+msgid "Lemon Spritzer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_1_63"
+msgid "Warm Milk"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_0"
+msgid "Earl Grey Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_1"
+msgid "Tomato Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_2"
+msgid "Toast Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_3"
+msgid "Sandwich"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_4"
+msgid "Pasta Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_5"
+msgid "Original Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_6"
+msgid "Today's Coffee"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_7"
+msgid "Cafe Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_8"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_9"
+msgid "Caramel Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_10"
+msgid "Mille Crepes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_11"
+msgid "Mixed Juice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_12"
+msgid "Central Blend Short"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_13"
+msgid "Central Blend Tall"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_14"
+msgid "Espresso"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_15"
+msgid "Central Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_16"
+msgid "Central Mocha"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_17"
+msgid "Cappuccino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_18"
+msgid "Soy Latte"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_19"
+msgid "Shortcake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_20"
+msgid "Demon's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_21"
+msgid "Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_22"
+msgid "Bulletproof Vest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_23"
+msgid "Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_24"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_25"
+msgid "Dragon's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_26"
+msgid "Bulletproof Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_27"
+msgid "Fearless Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_28"
+msgid "Western Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_29"
+msgid "Lifestone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_30"
+msgid "Red Rose Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_31"
+msgid "Beads of Good Fortune"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_32"
+msgid "Sake"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_33"
+msgid "Monogrammed Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_34"
+msgid "French Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_35"
+msgid "French Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_36"
+msgid "Italian Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_37"
+msgid "Italian Perfume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_38"
+msgid "French Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_39"
+msgid "French Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_40"
+msgid "Italian Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_41"
+msgid "Italian Wallet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_42"
+msgid "French Handbag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_43"
+msgid "Italian Shoulder Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_44"
+msgid "Swiss Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_45"
+msgid "Asian Digital Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_46"
+msgid "Japanese Diver's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_47"
+msgid "French Haute Couture Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_48"
+msgid "French Prêt-à-Porter Dress"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_49"
+msgid "Italian Women's Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_50"
+msgid "Italian Women's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_51"
+msgid "Italian Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_52"
+msgid "Caviar Skin Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_53"
+msgid "Italian Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_54"
+msgid "Italian Men's Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_55"
+msgid "British Women's Coat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_56"
+msgid "German Luxury Car"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_57"
+msgid "Yacht"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_58"
+msgid "Penthouse Apartment"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_59"
+msgid "Pocket Tissues"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_60"
+msgid "Cat Food"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_61"
+msgid "Dog Food"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_62"
+msgid "Flier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_2_63"
+msgid "Lucky Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_0"
+msgid "10G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_1"
+msgid "100G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_2"
+msgid "1000G gold coin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_3"
+msgid "Matches"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_4"
+msgid "Snack Sampler"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_5"
+msgid "Pink Lily Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_6"
+msgid "Cookie Sampler"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_7"
+msgid "Sledgehammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_8"
+msgid "Beer Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_9"
+msgid "Rope"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_10"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_11"
+msgid "Crowbar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_12"
+msgid "Old Chinese Broadswd"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_13"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_14"
+msgid "Lamp"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_15"
+msgid "Golf Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_16"
+msgid "Water Pot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_17"
+msgid "Cleaver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_18"
+msgid "Patriarch's Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_19"
+msgid "Lightning Bomb"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_20"
+msgid "Attaché Case"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_21"
+msgid "Mystic Blade Mugetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_22"
+msgid "Mystic Blade Sengetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_23"
+msgid "Mystic Blade Myogetsu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_24"
+msgid "Katana \"Demon Fang\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_25"
+msgid "Wooden Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_26"
+msgid "Long Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_27"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_28"
+msgid "Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_29"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_30"
+msgid "Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_31"
+msgid "Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_32"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_33"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_34"
+msgid "Nameless Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_35"
+msgid "Handmade Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_36"
+msgid "Broken Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_37"
+msgid "Motomiya's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_38"
+msgid "Elegant Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_39"
+msgid "Wooden Hammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_40"
+msgid "Smoke Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_41"
+msgid "Dart"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_42"
+msgid "Saw"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_43"
+msgid "Old Semi-Auto Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_44"
+msgid "9mm Semi-Automatic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_45"
+msgid "Modified Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_46"
+msgid "Musashi's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_47"
+msgid "Mifune's Kodachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_48"
+msgid "Tear Gas Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_49"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_50"
+msgid "Bug Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_51"
+msgid "Majima's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_52"
+msgid "Sacred Tree Bokuto"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_53"
+msgid "Mail Order Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_54"
+msgid "Special Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_55"
+msgid "Ninja Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_56"
+msgid "Tesshusai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_57"
+msgid "Mystic Blade Muramasa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_58"
+msgid "Shotgun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_59"
+msgid "Flash Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_60"
+msgid "Antique Hand Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_61"
+msgid "Butterfly Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_62"
+msgid "9mm Semi-Automatic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_3_63"
+msgid "Charisma Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_0"
+msgid "Hariti Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_1"
+msgid "Popularity Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_2"
+msgid "Charismatic Photo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_3"
+msgid "Champion's Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_4"
+msgid "Masculine Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_5"
+msgid "Angelic Bell"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_6"
+msgid "Pink Nail Polish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_7"
+msgid "Haruka's Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_8"
+msgid "Haruka's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_9"
+msgid "Haruka's Chocolate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_10"
+msgid "777 Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_11"
+msgid "Haruka's First-Aid Kit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_12"
+msgid "Haruka's Marble"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_13"
+msgid "Haruka's Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_14"
+msgid "Banker's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_15"
+msgid "Player's Game Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_16"
+msgid "Red Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_17"
+msgid "Black Jewel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_18"
+msgid "Blackjack Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_19"
+msgid "Ogre Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_20"
+msgid "Dragon's Fist"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_21"
+msgid "Cedar Slat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_22"
+msgid "Sake Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_23"
+msgid "Iron Pipe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_24"
+msgid "Modified Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_25"
+msgid "Modif.{PA:20} Portable Stove"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_26"
+msgid "Softball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_27"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_28"
+msgid "Gentleman's Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_29"
+msgid "Fork"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_30"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_31"
+msgid "Old Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_32"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_33"
+msgid "Chinese Throwing Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_34"
+msgid "Lau's Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_35"
+msgid "Ashtray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_36"
+msgid "Table Salt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_37"
+msgid "Pliers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_38"
+msgid "Iai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_39"
+msgid "Dark Wooden Sword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_40"
+msgid "Bungo Shimizu Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_41"
+msgid "Autographed Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_42"
+msgid "Custom Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_43"
+msgid "Patriarch's Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_44"
+msgid "100lb Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_45"
+msgid "Double Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_46"
+msgid "Demon Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_47"
+msgid "Dragon Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_48"
+msgid "Spiked Taiko Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_49"
+msgid "Double Fire Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_50"
+msgid "Double Stun Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_51"
+msgid "Modified Model Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_52"
+msgid "White Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_53"
+msgid "Blue Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_54"
+msgid "Black Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_55"
+msgid "Red Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_56"
+msgid "\"Scattered Blossoms\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_57"
+msgid "Mystic Katana \"Asura\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_58"
+msgid "Classic Katana Shadow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_59"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_60"
+msgid "Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_61"
+msgid "Hercules Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_62"
+msgid "9-Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_4_63"
+msgid "Black Shaft"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_0"
+msgid "Akagi Autographed 5-Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_1"
+msgid "Metal Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_2"
+msgid "Spiked Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_3"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_4"
+msgid "Gold Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_5"
+msgid "Tortoiseshell Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_6"
+msgid "Silver Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_7"
+msgid "Marble Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_8"
+msgid "Dragon Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_9"
+msgid "Lacquered Plate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_10"
+msgid "Gold Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_11"
+msgid "White Snake Ramen (Regular)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_12"
+msgid "White Snake Ramen (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_13"
+msgid "Kimchi Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_14"
+msgid "Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_15"
+msgid "Scallion Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_16"
+msgid "Egg Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_17"
+msgid "Rich Tonkotsu Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_18"
+msgid "Tonkotsu Pork Ramen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_19"
+msgid "Takoyaki (8)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_20"
+msgid "Takoyaki (12)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_21"
+msgid "Takoyaki (20)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_22"
+msgid "Bear Cellphone Accessory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_23"
+msgid "Women's Underwear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_24"
+msgid "Bandage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_25"
+msgid "Black Boss"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_26"
+msgid "iemon (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_27"
+msgid "iemon hot (Green Tea)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_28"
+msgid "Suntory Natural Mineral Water"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_29"
+msgid "Natchan Orange"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_30"
+msgid "Pepsi NEX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_31"
+msgid "Suntory Oolong Tea"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_32"
+msgid "C.{PA:20}C.{PA:20} Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_33"
+msgid "DAKARA"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_34"
+msgid "Suntory Malt's Beer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_35"
+msgid "Boss Rainbow Mountain Blend"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_36"
+msgid "Gatorade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_37"
+msgid "Chuhai -196℃ Lemon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_38"
+msgid "Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_39"
+msgid "Deluxe Tecchiri Nabe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_40"
+msgid "Tessa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_41"
+msgid "Milt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_42"
+msgid "Globefish Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_43"
+msgid "Deep-fried Globefish"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_44"
+msgid "Globefish Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_45"
+msgid "Globefish Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_46"
+msgid "Globefish Deluxe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_47"
+msgid "Globefish Shabu-shabu Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_48"
+msgid "Tecchiri Nabe Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_49"
+msgid "Tiger Globefish Benten Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_50"
+msgid "Tiger Globefish Daikoku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_51"
+msgid "Tiger Globefish Hotei Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_52"
+msgid "Beef Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_53"
+msgid "Beef Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_54"
+msgid "Pork Rice"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_55"
+msgid "Pork Rice (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_56"
+msgid "Healthy Chicken Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_57"
+msgid "Healthy Chicken Curry (Large)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_58"
+msgid "Beef Curry"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_59"
+msgid "Beef Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_60"
+msgid "Kalbi Yakiniku Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_61"
+msgid "Demitama Hamburger Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_62"
+msgid "Natto Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_5_63"
+msgid "Sausage Egg Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_0"
+msgid "Salted Salmon Meal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_1"
+msgid "Pork Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_2"
+msgid "Squid Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_3"
+msgid "Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_4"
+msgid "Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_5"
+msgid "Oyster Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_6"
+msgid "Pork & Beef Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_7"
+msgid "Squid & Shrimp Okonomiyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_8"
+msgid "Pork & Beef Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_9"
+msgid "Squid & Shrimp Modanyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_10"
+msgid "Fugetsu-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_11"
+msgid "Fugetsu-yaki (Modan)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_12"
+msgid "Yakisoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_13"
+msgid "Pokkasoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_14"
+msgid "Champonsoba"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_15"
+msgid "Salted Tongue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_16"
+msgid "Sirloin"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_17"
+msgid "Rib Meat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_18"
+msgid "Top Shelf Rib Meat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_19"
+msgid "Harami"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_20"
+msgid "Yuk Hwe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_21"
+msgid "Liver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_22"
+msgid "Horumon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_23"
+msgid "Horumon-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_24"
+msgid "Black Bear Horumon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_25"
+msgid "Mino"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_26"
+msgid "Hachinosu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_27"
+msgid "Senmai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_28"
+msgid "Giara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_29"
+msgid "Bara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_30"
+msgid "Kimo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_31"
+msgid "Akasen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_32"
+msgid "Urute"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_33"
+msgid "Suji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_34"
+msgid "Basa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_35"
+msgid "Tecchan"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_36"
+msgid "Stew"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_37"
+msgid "Tamago"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_38"
+msgid "Kappamaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_39"
+msgid "Maguro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_40"
+msgid "Ama-ebi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_41"
+msgid "Engawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_42"
+msgid "Tsubugai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_43"
+msgid "Namatako"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_44"
+msgid "Kampachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_45"
+msgid "Kamburi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_46"
+msgid "Hirame"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_47"
+msgid "Shima-aji"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_48"
+msgid "Kimmedai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_49"
+msgid "Ikura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_50"
+msgid "Akagai"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_51"
+msgid "Otoro"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_52"
+msgid "Awabi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_53"
+msgid "Uni"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_54"
+msgid "Ise-ebi Miso Soup"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_55"
+msgid "Sushi Set"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_56"
+msgid "Kimchi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_57"
+msgid "Namul"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_58"
+msgid "Dolsot Bibimbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_59"
+msgid "Gukbap"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_60"
+msgid "Kimchi Jjigae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_61"
+msgid "Bossam"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_62"
+msgid "Bulgogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_6_63"
+msgid "Pajeon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_0"
+msgid "Doppogi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_1"
+msgid "Samgyeopsal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_2"
+msgid "Dakgalbi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_3"
+msgid "Japchae"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_4"
+msgid "Today's Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_5"
+msgid "Hamo Three Dish Special"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_6"
+msgid "Yubazashi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_7"
+msgid "Assorted Otsukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_8"
+msgid "Lobster Ikizukuri"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_9"
+msgid "Sazae Tsubo-yaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_10"
+msgid "Raw Oysters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_11"
+msgid "Kaiseki Hokkori"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_12"
+msgid "Kaiseki Hannari"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_13"
+msgid "Winter Vegetable Tempura"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_14"
+msgid "Abalone Odoriyaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_15"
+msgid "Snow Crab Course"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_16"
+msgid "Tissue w/ Flier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_17"
+msgid "Rare Action Figure"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_18"
+msgid "Old Lady's Candy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_19"
+msgid "Gold Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_20"
+msgid "Robot Manager"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_21"
+msgid "Robot Chief"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_22"
+msgid "Robot President"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_23"
+msgid "Gold Robot President"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_24"
+msgid "Kitty Kat (Red)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_25"
+msgid "Kitty Kat (Tiger)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_26"
+msgid "Kitty Kat (Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_27"
+msgid "Kitty Kat (Short Hair)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_28"
+msgid "Kitty Kat (Calico)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_29"
+msgid "Beary Bear (Big)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_30"
+msgid "Beary Bear (Brown)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_31"
+msgid "Beary Bear (Gray)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_32"
+msgid "Beary Bear (Blue)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_33"
+msgid "Beary Bear (Pink)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_34"
+msgid "Cabaret Discount Ticket"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_35"
+msgid "Desperation Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_36"
+msgid "Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_37"
+msgid "Hercules Gloves"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_38"
+msgid "Dragon Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_39"
+msgid "High-Tech Shin Guards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_40"
+msgid "Steel Shin Guards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_41"
+msgid "Tattered Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_42"
+msgid "Calming Towel"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_43"
+msgid "Substitute Stone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_44"
+msgid "Southpaw Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_45"
+msgid "Tourmaline Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_46"
+msgid "Immovable Belt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_47"
+msgid "Black Belt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_48"
+msgid "Payback Ring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_49"
+msgid "Bloody Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_50"
+msgid "Insulated Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_51"
+msgid "Yakuza Training Gear"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_52"
+msgid "Sacred Tree Armor Replica"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_53"
+msgid "Sacred Tree Armor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_54"
+msgid "Anti-blade Shirt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_55"
+msgid "Gift Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_56"
+msgid "Antique Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_57"
+msgid "Iron Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_58"
+msgid "Bulletproof Breastplate"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_59"
+msgid "Bulletproof Protector"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_60"
+msgid "SWAT Body Armor"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_61"
+msgid "YF Figure Prize"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_62"
+msgid "Figure #12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_7_63"
+msgid "Homemade Cookies"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_0"
+msgid "Hand-knit Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_1"
+msgid "Italian Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_2"
+msgid "Komaki Matchlock"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_3"
+msgid "Double Slats"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_4"
+msgid "Skull Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_5"
+msgid "Double Spiked Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_6"
+msgid "Double Shafts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_7"
+msgid "Trendy Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_8"
+msgid "Phantom Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_9"
+msgid "Hiro's Autograph"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_10"
+msgid "Photon Blade RG"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_11"
+msgid "Dragon-SP"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_12"
+msgid "Chinese Dragon Tonfa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_13"
+msgid "Nutritional Supplement ZLD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_14"
+msgid "Spirit Revitalizer BKH"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_15"
+msgid "Ultra Nourishment SHW"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:2_8_16"
+msgid "Company Deed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_0"
+msgid "dummy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_1"
+msgid "Staminan X.{PA:20}||Replenishes a little bit of health and HEAT.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_2"
+msgid "Staminan XX.{PA:20}||Increases HEAT and replenishes health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_3"
+msgid "Staminan Royale.{PA:20}||Replenishes a lot of health and HEAT.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_4"
+msgid "Staminan Spark.{PA:20} Fully replenishes health||and maintains HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_5"
+msgid "Tauriner.{PA:20}||Slightly increases HEAT level.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_6"
+msgid "Tauriner +.{PA:20}||Increases HEAT by a fair amount.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_7"
+msgid "Tauriner ++.{PA:20}||Increases HEAT by a large amount.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_8"
+msgid "Tauriner Maximum.{PA:20} Maintains HEAT mode for||a fixed amount of time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_9"
+msgid "Toughness Z.{PA:20}||Replenishes a bit of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_10"
+msgid "Toughness ZZ.{PA:20}||Replenishes a lot of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_11"
+msgid "Toughness Emperor.{PA:20}||Extremely effective for health recovery.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_12"
+msgid "Toughness Infinity.{PA:20}||Restores the maximum amount of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_13"
+msgid "Dragon fang needle,{PA:10} made from mysterious||bone.{PA:20} Prevents HEAT gauge from dropping.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_14"
+msgid "Recovery medicine.{PA:20}||Replenishes a large amount of health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_15"
+msgid "Adhesive bandage.{PA:20}||It's for first aid,{PA:10} but it won't heal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_16"
+msgid "Hangover pills.{PA:20}||Effective at curing hangovers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_17"
+msgid "Turmeric pills.{PA:20}||They have a sobering effect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_18"
+msgid "White miracle tonic.{PA:20} A liquid that gives||experience points when swallowed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_19"
+msgid "Skanda water.{PA:20} Helps senses gain clarity||and makes everything seem slower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_20"
+msgid "Nothing says winter like a bowl of oden||soup.{PA:20} You get quite a bit of it too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_21"
+msgid "Everyone loves a good salmon rice ball,{PA:10}||but just one isn't going to cut it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_22"
+msgid "The classic lunch set.{PA:20} This won't leave||you wanting more.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_23"
+msgid "A club sandwich might not fill you up,{PA:10} but||it's nice that you can eat it cold.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_24"
+msgid "This dry noodle dish tastes better heated,{PA:10}||but it's not bad cold either.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_25"
+msgid "A steamed bun is great in wintertime,{PA:10} but||it's not something you'd want to eat cold.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_26"
+msgid "Your typical carton of milk.{PA:20}||It could be good for your health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_27"
+msgid "Spaghetti with lots of sauce and plenty of||mushrooms.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_28"
+msgid "Fried chicken lunch filled with really||juicy chicken.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_29"
+msgid "Pudding might be a dessert,{PA:10} but it's got||nutritional value too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_30"
+msgid "Seaweed rice ball,{PA:10} filled with kelp seaweed||boiled in soy sauce and mirin.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_31"
+msgid "Tuna rice ball,{PA:10} filled with tuna fish and||mayonnaise.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_32"
+msgid "This frankfurter tastes like authentic||German cooking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_33"
+msgid "Melon bread with an outer crust and stuffed||with melon cream filling.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_34"
+msgid "Tonkatsu sandwich with a thick pork cutlet||as well as shredded cabbage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_35"
+msgid "Soba noodles,{PA:10} topped with little bits of||tempura batter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_36"
+msgid "A special burger,{PA:10} served à la carte.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_37"
+msgid "A hamburger,{PA:10} the basic fast food entrée.{PA:20}||Eat it while it's still hot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_38"
+msgid "A fish burger.{PA:20} It's healthier than a||hamburger,{PA:10} at least.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_39"
+msgid "French fries.{PA:20} They're bad for the skin,{PA:10} but||replenish some health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_40"
+msgid "Strawberry ice cream,{PA:10} packed with fresh||strawberries.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_41"
+msgid "Chocolate ice cream.{PA:20} Its rich flavor comes||from Belgian chocolate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_42"
+msgid "Neapolitan ice cream,{PA:10} with three fun||flavors in one.{PA:20} The variety won't disappoint.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_43"
+msgid "Vanilla ice cream,{PA:10} loaded with high-quality||vanilla beans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_44"
+msgid "A regular-sized beef bowl.{PA:20} It might not be||enough to make you full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_45"
+msgid "You get quite a bit of food with this large||beef bowl.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_46"
+msgid "The special beef bowl is as big as they||come.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_47"
+msgid "Ramen noodles in a tonkotsu soy sauce base.{PA:20}||You don't know Kyushu until you've tried it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_48"
+msgid "Ramen noodles topped with slow-simmered||pork!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_49"
+msgid "A bowl of ramen noodles featuring||home-style won tons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_50"
+msgid "A password you picked up.{PA:20} Is it really||something you can order?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_51"
+msgid "Rich,{PA:10} Kyushu-style tonkotsu ramen noodles.{PA:20}||It's got something other ramen lacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_52"
+msgid "Unless you're really hungry you won't be||able to finish this large tonkotsu ramen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_53"
+msgid "Ichiban Star tonkotsu ramen,{PA:10} named after||the shop and packed with the best toppings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_54"
+msgid "The heartiest ramen ever,{PA:10} with all the||toppings in the shop.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_55"
+msgid "A large bowl of ramen noodles featuring a||tonkotsu soy sauce soup base.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_56"
+msgid "This seaweed ramen features fragrant dried||seaweed from Shizuoka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_57"
+msgid "A refreshing tonkotsu ramen with lots of||crisp,{PA:10} organically grown Welsh onions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_58"
+msgid "Ramen noodles with black sesame.{PA:20} Sesame is||great for your health!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_59"
+msgid "Piyo-chan.{PA:20} A yellow stuffed animal modeled||after a baby chick.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_60"
+msgid "Silk Piyo-chan.{PA:20} A black stuffed animal||modeled after a silkie chicken.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_61"
+msgid "Sky Piyo-chan.{PA:20} A tiny blue stuffed toy||chick.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_62"
+msgid "Peach Piyo-chan.{PA:20} A tiny pink stuffed toy||chick.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_0_63"
+msgid "Big Piyo-chan.{PA:20} A stuffed toy chick that's||bigger than most.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_0"
+msgid "Chai Panda.{PA:20} A toy modeled after a Chinese||panda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_1"
+msgid "Araracoon is a stuffed toy raccoon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_2"
+msgid "This teddy bear has a bandage on it for||some reason.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_3"
+msgid "This stuffed animal was modeled after a||dragon.{PA:20} In black.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_4"
+msgid "This stuffed animal was modeled after a||dragon.{PA:20} In gold.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_5"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_6"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_7"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_8"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_9"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_10"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_11"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_12"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_13"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_14"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_15"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_16"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_17"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_18"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_19"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_20"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_21"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_22"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_23"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_24"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_25"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_26"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_27"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_28"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_29"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_30"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_31"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_32"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_33"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_34"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_35"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_36"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_37"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_38"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_39"
+msgid "A list of drinks you had in the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_40"
+msgid "A special burger,{PA:10} served à la carte.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_41"
+msgid "A hamburger,{PA:10} the basic fast food entrée.{PA:20}||Eat it while it's still hot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_42"
+msgid "A fish burger.{PA:20} It's healthier than a||hamburger,{PA:10} at least.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_43"
+msgid "French fries.{PA:20} They're bad for the skin,{PA:10} but||replenish some health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_44"
+msgid "This set comes with a hamburger,{PA:10} fries and||a small drink.{PA:20} It'll fill you up somewhat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_45"
+msgid "This set comes with a fish burger,{PA:10} fries||and a small drink.{PA:20} It should fill you up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_46"
+msgid "This set comes with a special burger,{PA:10} fries||and small drink.{PA:20} This will make you full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_47"
+msgid "This set comes with a Smile Cheeseburger,{PA:10}||french fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_48"
+msgid "This set comes with a Teriyaki Smile||Burger,{PA:10} french fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_49"
+msgid "This set comes with a King Smile Burger,{PA:10}||french fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_50"
+msgid "This set comes with a Tuna Burger,{PA:10} french||fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_51"
+msgid "This set comes with a Stewed Burger,{PA:10} french||fries and a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_52"
+msgid "A Smile Shake.{PA:20} It's delectable and frosty.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_53"
+msgid "Smile french fries.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_54"
+msgid "Coffee brewed from a blend of Colombian,{PA:10}||Mandarin and Brazilian beans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_55"
+msgid "Premium coffee.{PA:20} Deep,{PA:10} rich and caffeinated.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_56"
+msgid "Cappuccino.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_57"
+msgid "Espresso.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_58"
+msgid "We take special Assam tea from our private||farms and add milk from Hokkaido.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_59"
+msgid "We combine rich,{PA:10} fragrant teas from Nuwara||Eliya with organically grown lemons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_60"
+msgid "Orange juice.{PA:20} With pulp!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_61"
+msgid "Crisp and refreshing apple juice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_62"
+msgid "A drink with lemon juice and soda water.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_1_63"
+msgid "Soothing and delicious warm milk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_0"
+msgid "Enjoy the citrusy bergamot scent of our||teas from our farms in Sri Lanka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_1"
+msgid "We use only organically grown tomatoes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_2"
+msgid "This set comes with a soft-boiled egg,{PA:10} bacon,{PA:10}||toast and your choice of coffee or tea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_3"
+msgid "A simple sandwich of egg,{PA:10} ham and lettuce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_4"
+msgid "Pasta with eggplant and bacon.{PA:20} The set||includes a beverage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_5"
+msgid "Beef curry,{PA:10} made from scratch with our own||special recipe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_6"
+msgid "Coffee of the day.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_7"
+msgid "Cafe mocha.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_8"
+msgid "Cappuccino.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_9"
+msgid "A cappuccino with caramel flavoring.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_10"
+msgid "Mille crepes.{PA:20} Feathery,{PA:10} delicate and silky||rich.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_11"
+msgid "A blend of orange,{PA:10} banana and apple juices.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_12"
+msgid "Our own original blend.{PA:20} Small size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_13"
+msgid "Our own original blend.{PA:20} Large size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_14"
+msgid "A very strong coffee.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_15"
+msgid "An espresso with steamed milk.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_16"
+msgid "An espresso with steamed milk and chocolate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_17"
+msgid "An espresso with milk foam.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_18"
+msgid "Instead of milk we use soymilk.{PA:20} A healthy||alternative.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_19"
+msgid "Shortcake.{PA:20} A buttery dessert.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_20"
+msgid "Demon's Binding.{PA:20} Tightly bound,{PA:10} thick cloth||with steel to protect the body.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_21"
+msgid "Armor made of linked chain.{PA:20} It should help||defend against blade attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_22"
+msgid "Bulletproof vest.{PA:20} Contains lead to greatly||reduce the damage from bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_23"
+msgid "Cloth binding that,{PA:10} when wrapped around the||midsection,{PA:10} helps protect vital organs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_24"
+msgid "Fighter's binding.{PA:20} Thick cloth wrappings||that can dull most punches.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_25"
+msgid "The dragon's binding is made of top-of-the-||line cloth with a dragon pattern.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_26"
+msgid "A hand-held shield that protects against||bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_27"
+msgid "Fearless Binding.{PA:20} Midsection protection||that's popular in yakuza circles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_28"
+msgid "A European-style shield that protects well||against bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_29"
+msgid "Lifestone.{PA:20} It emits an eerie glow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_30"
+msgid "A bouquet of red roses,{PA:10} perfect for a||romantic gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_31"
+msgid "Wearing these beads of good fortune||prevents unexpected fights.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_32"
+msgid "A typical bottle of mass-produced,{PA:10} cheap||Japanese rice wine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_33"
+msgid "A monogrammed bag.{PA:20} It might make a good||present.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_34"
+msgid "French cologne.{PA:20} A men's cologne with a||delicate fragrance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_35"
+msgid "French perfume with a subtle floral||fragrance.{PA:20} It might make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_36"
+msgid "Italian cologne.{PA:20} A men's cologne with a||very sensual fragrance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_37"
+msgid "Italian perfume with a sensual fragrance.{PA:20}||It might make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_38"
+msgid "A very trendy Parisian scarf.{PA:20} It might make||a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_39"
+msgid "A leather wallet made in France.{PA:20} It might||make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_40"
+msgid "A stylish Italian scarf.{PA:20} It might make a||good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_41"
+msgid "An elegant wallet made in Italy.{PA:20} It might||make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_42"
+msgid "A fashionable handbag made in France.{PA:20} It||might make a great gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_43"
+msgid "A shoulder bag made in Italy.{PA:20} It might make||a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_44"
+msgid "This high-class Swiss watch is delicately||hand-crafted by artisans.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_45"
+msgid "A digital watch with an emphasis on||functionality over style.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_46"
+msgid "A diver's watch,{PA:10} made in Japan.{PA:20} Can operate||up to 200 meters underwater.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_47"
+msgid "A French haute couture dress.{PA:20} It's all the||rage in Paris this season.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_48"
+msgid "This French dress is ready-made,{PA:10} but its||price is nothing to scoff at.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_49"
+msgid "An elegant Italian women's suit with||stylish coloring.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_50"
+msgid "A stylish Italian women's watch.{PA:20} It might||make a good present.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_51"
+msgid "An elegant Italian necklace.{PA:20} It might make||a good gift for a discerning woman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_52"
+msgid "A caviar skin bag.{PA:20} It might make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_53"
+msgid "A sophisticated Italian ring.{PA:20} It might make||a good gift for a discerning woman.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_54"
+msgid "This high-quality silver necklace for men||has a certain elegance about it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_55"
+msgid "A fine women's coat from London.{PA:20} It might||make a good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_56"
+msgid "A legendary top-of-the-line German||automobile.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_57"
+msgid "A luxurious yacht for cruising the open||seas.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_58"
+msgid "A four-bedroom penthouse apartment in the||center of the city.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_59"
+msgid "Free pocket tissues with ads.{PA:20} Convenient,{PA:10}||but there's no need to carry too many.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_60"
+msgid "Cat food,{PA:10} nutritionally balanced for a||cat's health.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_61"
+msgid "Dog food,{PA:10} with a great smell and taste that||attracts dogs from miles around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_62"
+msgid "An advertisement for a store's grand||opening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_2_63"
+msgid "A lucky bracelet.{PA:20} Supposedly makes the||wearer irresistible to the ladies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_0"
+msgid "A 10G gold coin that can be sold for a||small amount of money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_1"
+msgid "A 100G gold coin that can be sold for a||moderate amount of money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_2"
+msgid "A 1000G gold coin that can be sold for a||whole lot of  money.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_3"
+msgid "Matches.{PA:20} You don't see them much these||days,{PA:10} but they're useful sometimes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_4"
+msgid "A box of snacks.{PA:20} There's probably some||use for them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_5"
+msgid "A bouquet of pink lilies.{PA:20} It might make a||good gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_6"
+msgid "A box of cookies.{PA:20} Who doesn't like cookies?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_7"
+msgid "This large hammer is used in construction||but it can do some damage too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_8"
+msgid "A beer bottle.{PA:20} Useful as a weapon whether||it's intact or broken.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_9"
+msgid "Rope.{PA:20} It can be a useful weapon,{PA:10} depending||on how it's used.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_10"
+msgid "A kettle.{PA:20} It can be used as a weapon,{PA:10} but||just don't expect too much from it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_11"
+msgid "A crowbar.{PA:20} Normally used to pull nails,{PA:10} but||it makes a great weapon.{PA:20} And pulls nails.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_12"
+msgid "This broadsword is a bit worn out,{PA:10} so don't||expect it to last very long.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_13"
+msgid "A bat.{PA:20} It could really knock one out of the||park with a good swing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_14"
+msgid "A lamp.{PA:20} It can momentarily blind enemies||with a good smack to the head.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_15"
+msgid "A golf club.{PA:20} A good swing could send||enemies flying.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_16"
+msgid "A water pot.{PA:20} Well,{PA:10} at least it's better||than fighting barehanded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_17"
+msgid "A Chinese cleaver.{PA:20} It's got some weight to||it,{PA:10} making it great for chopping.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_18"
+msgid "It was a patriarch's favorite bat,{PA:10} so you||know it's solid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_19"
+msgid "Lightning bomb.{PA:20} Can paralyze enemies when||thrown.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_20"
+msgid "An attaché case.{PA:20} Has a sturdy build,{PA:10} so it||can also be used as a weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_21"
+msgid "A mysterious katana named Mugetsu.{PA:20} It's||said to be inhabited by dark spirits.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_22"
+msgid "A mysterious katana named Sengetsu.{PA:20} It's||said to be inhabited by thunder spirits.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_23"
+msgid "A mysterious katana named Myogetsu.{PA:20} It's||said to be inhabited by fire spirits.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_24"
+msgid "A classic katana named Demon Fang.{PA:20} The||blade's sharpness lives up to its name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_25"
+msgid "A wooden sword made of oak.{PA:20} It's a blunt,{PA:10}||yet deadly weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_26"
+msgid "A long dagger.{PA:20} This blade,{PA:10} with its long||reach,{PA:10} is nice to have in battle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_27"
+msgid "A military survival knife.{PA:20} Its blade is||designed for close-quarters combat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_28"
+msgid "A stun gun.{PA:20} It can shock an opponent help-||less,{PA:10} making it popular for self-defense.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_29"
+msgid "The blackjack packs quite a punch without||leaving any marks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_30"
+msgid "A tonfa.{PA:20} A self-defense weapon,{PA:10} it delivers||more damage than unarmed hits.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_31"
+msgid "A police baton.{PA:20} It's compact and easy to||wield.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_32"
+msgid "A classic Chinese broadsword.{PA:20} The flexible||blade makes it a little difficult to wield.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_33"
+msgid "Brass knuckles.{PA:20} A punching aid,{PA:10} gripped in||the fist.{PA:20} An old-school weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_34"
+msgid "An unsigned,{PA:10} yet quality katana.{PA:20} It has a||dim glimmer,{PA:10} as if it's out for blood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_35"
+msgid "A handmade,{PA:10} old-style semi-automatic pistol.{PA:20}||There's only one round in the chamber.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_36"
+msgid "A stun gun can shock an opponent helpless,{PA:10}||but this one's battery is almost dead.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_37"
+msgid "This dagger was once used by Motomiya||Takeshi.{PA:20} No one knows who that is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_38"
+msgid "An elegant umbrella.{PA:20} Oddly,{PA:10} it makes a good||weapon,{PA:10} as it's quite durable.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_39"
+msgid "A wooden hammer.{PA:20} It's mostly decorative,{PA:10}||and doesn't look very solid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_40"
+msgid "A smoke grenade.{PA:20} When thrown,{PA:10} it||temporarily blocks enemy vision.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_41"
+msgid "A dart.{PA:20} It doesn't look too useful for||striking,{PA:10} but throwing it might work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_42"
+msgid "A saw.{PA:20} Using it as a weapon is at least||better than going in unarmed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_43"
+msgid "A very old semi-auto pistol.{PA:20} It's not||a very accurate shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_44"
+msgid "A 9mm semi-automatic pistol.{PA:20} It's fairly||accurate and easy to use.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_45"
+msgid "A regular old lighter modified to simulate||a flamethrower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_46"
+msgid "A dagger used by Miyamoto Musashi.{PA:20} Solid,{PA:10}||but its authenticity is questionable.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_47"
+msgid "A short sword crafted by Mifune.{PA:20} Its blade||glistens beautifully.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_48"
+msgid "A tear gas grenade.{PA:20} It temporarily blinds||enemies in a fixed area.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_49"
+msgid "Pepper spray.{PA:20} Temporarily blinds an enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_50"
+msgid "Bug spray.{PA:20} Blinds an enemy for a short||time.{PA:20} Also great for killing bugs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_51"
+msgid "A dagger Majima used to carry.{PA:20} It's just as||sharp as you'd expect it to be.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_52"
+msgid "A wooden sword made from a 100-year-old||sacred tree.{PA:20} Its very existence is sinful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_53"
+msgid "A mail-order mystic katana.{PA:20} Nowadays you||can order a mystical sword in the mail!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_54"
+msgid "A custom-made police baton that||electrocutes opponents when it hits.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_55"
+msgid "A dagger said to be used by ninjas.{PA:20} Light||and easy to handle.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_56"
+msgid "A katana with Tesshusai's inscription and||an artfully crafted blade.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_57"
+msgid "An katana by Muramasa.{PA:20} There are countless||stories about these legendary swords.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_58"
+msgid "A shotgun.{PA:20} Shoots a spread of shot pellets||that do a lot of damage from close range.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_59"
+msgid "A flash grenade.{PA:20} Blinds enemies in a||limited area for a long time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_60"
+msgid "An antique hand grenade.{PA:20} It's unclear||whether it will even explode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_61"
+msgid "A butterfly knife.{PA:20} Doesn't pack a lot of||power,{PA:10} but it's better than nothing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_62"
+msgid "A 9mm semi-automatic pistol.{PA:20} It's accurate||and easy to use,{PA:10} but has a strange glow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_3_63"
+msgid "Charisma ring.{PA:20} It's said that with this||ring,{PA:10} a man can better attract women.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_0"
+msgid "This charm from the Goddess of Children||prevents the wearer from being surrounded.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_1"
+msgid "Popularity bracelet.{PA:20} It's said that it||makes the wearer irresistible to women.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_2"
+msgid "A photo of a famous yakuza.{PA:20} It seems to||attract people in that line of work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_3"
+msgid "Champion's ring.{PA:20} It seems to encourage||aggressiveness in enemies.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_4"
+msgid "Masculine cologne.{PA:20} Men's cologne,{PA:10} spiked||with pheromones.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_5"
+msgid "Angelic bell.{PA:20} It supposedly reduces enemy||attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_6"
+msgid "Pink nail polish,{PA:10} from a moderately popular||brand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_7"
+msgid "A charm received from Haruka.{PA:20} It seems to||invigorate the spirit a little.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_8"
+msgid "Candy received from Haruka.{PA:20} You can't buy||it in any store.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_9"
+msgid "Chocolate received from Haruka.{PA:20} You've||never seen packaging like this before.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_10"
+msgid "777 charm.{PA:20} Supposedly increases one's||chances to win at slots.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_11"
+msgid "A first-aid kit from Haruka.{PA:20} It recharges||physical and mental energy completely.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_12"
+msgid "A strange-colored marble received from||Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_13"
+msgid "A necklace received from Haruka.{PA:20} It seems||to invigorate the spirit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_14"
+msgid "Banker's game piece.{PA:20} Wonder what kind of||effect it will have.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_15"
+msgid "Player's game piece.{PA:20} Wonder what kind of||effect it will have.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_16"
+msgid "Red jewel.{PA:20} Wonder what kind of effect it||will have.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_17"
+msgid "Black jewel.{PA:20} Wonder what kind of effect it||will have.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_18"
+msgid "Blackjack charm.{PA:20} Wonder what kind of effect||it will have.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_19"
+msgid "Ogre Knuckles.{PA:20} Extremely hard brass||knuckles,{PA:10} made from a secret alloy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_20"
+msgid "Dragon's Fist.{PA:20} When you wear these brass||knuckles,{PA:10} you can feel their power.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_21"
+msgid "A common piece of wood,{PA:10} used for||construction.{PA:20} It doesn't seem very solid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_22"
+msgid "A sake bottle.{PA:20} Even when broken,{PA:10} it makes||an effective weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_23"
+msgid "An iron pipe.{PA:20} Durable and does decent||damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_24"
+msgid "A modified iron.{PA:20} It's hefty enough to do||some damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_25"
+msgid "A modified portable stove.{PA:20} It can burn||enemies and do a lot of damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_26"
+msgid "A softball.{PA:20} It's really easy to throw,{PA:10} but||it won't do much damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_27"
+msgid "A kettle.{PA:20} It can be used as a weapon,{PA:10} but||it won't do much damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_28"
+msgid "A gentleman's umbrella.{PA:20} Can be used as a||weapon.{PA:20} Also great for staying dry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_29"
+msgid "A fork.{PA:20} Can be used as a weapon.{PA:20} Also great||as an eating utensil.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_30"
+msgid "This military knife is an older model but||it's still useful in combat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_31"
+msgid "This dagger is old,{PA:10} but it's sharp and||reassuring to have in your pocket.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_32"
+msgid "A classic Chinese sword,{PA:10} though it's a||little rough around the edges.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_33"
+msgid "A Chinese throwing knife.{PA:20} It has very low||durability.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_34"
+msgid "A Chinese broadsword from the Lau family.{PA:20}||Its blade is incredibly sharp.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_35"
+msgid "This ashtray is hard enough,{PA:10} but it||probably makes for a substandard weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_36"
+msgid "Table salt isn't going to do damage,{PA:10} but it||can be thrown in opponents' eyes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_37"
+msgid "Pliers.{PA:20} It can be used as a weapon,{PA:10} but it's||not going to do a lot of damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_38"
+msgid "This sword,{PA:10} used in Iaidō,{PA:10} isn't very||special but it can do a lot of damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_39"
+msgid "A wooden sword made from a dark hardwood.{PA:20}||It's a blunt,{PA:10} yet powerful weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_40"
+msgid "A katana by Bungo Shimizu.{PA:20} The sharpness of||its blade is outstanding.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_41"
+msgid "A ball signed by Bob.{PA:20} It's not usable for||anything but it might have some value.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_42"
+msgid "A Custom Bowling Ball.{PA:20} The holes were||drilled for a perfect fit!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_43"
+msgid "A yakuza patriarch's own personal bowling||ball.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_44"
+msgid "A custom-made bowling ball that weighs 100||pounds.{PA:20} Could you really bowl with it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_45"
+msgid "Double sticks.{PA:20} A weapon based on kali||sticks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_46"
+msgid "Demon Taiko Sticks.{PA:20} They're the perfect||weight for your hands.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_47"
+msgid "Dragon Taiko Sticks,{PA:10} with dragon||carvings and made from dense wood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_48"
+msgid "Drumsticks spiked with countless nails.{PA:20}||They're not so great to drum with.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_49"
+msgid "Double fire sticks.{PA:20} When you press the||switches on the handles,{PA:10} flames come out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_50"
+msgid "Double stun sticks.{PA:20} Like a pair of||drumsticks with a built-in stun gun.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_51"
+msgid "A modified model gun.{PA:20} Its power rivals that||of a stun grenade.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_52"
+msgid "White tonfa.{PA:20} Meant for beginners,{PA:10} it's||light and easy to use.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_53"
+msgid "Blue tonfa.{PA:20} Meant for intermediate||students,{PA:10} they don't do too much damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_54"
+msgid "Black tonfa,{PA:10} for advanced students.{PA:20}||Masterfully crafted from steel and wood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_55"
+msgid "Red tonfa,{PA:10} for experts.{PA:20} It was used in||Kamiyama's video.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_56"
+msgid "A blade named \"Scattered Blossoms\".{PA:20} Enemies||scatter like cherry blossoms in the wind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_57"
+msgid "A mystic katana named \"Asura\".{PA:20} Its strength||lies in its speed rather than weight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_58"
+msgid "A classic katana named \"Shadow\".{PA:20} At night||its black blade is practically invisible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_59"
+msgid "A light,{PA:10} easy-to-carry staff that extends||like a fishing rod.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_60"
+msgid "A heavy iron umbrella.{PA:20} It wouldn't budge,{PA:10}||even in a typhoon.{PA:20} Makes a good weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_61"
+msgid "Hercules Knuckles.{PA:20} Heavier than most brass||knuckles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_62"
+msgid "A 9-iron.{PA:20} With its newly designed head,{PA:10} you||could really get some air with this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_4_63"
+msgid "A cutting-edge golf club with a black||shaft.{PA:20} New materials give it a dark luster.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_0"
+msgid "Albatross Akagi's legendary 5-iron.{PA:20} It's||too valuable to use as a club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_1"
+msgid "A metal club.{PA:20} It's every bit as devastating||as it looks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_2"
+msgid "A bat spiked with nails,{PA:10} the classic dirty||fighter's tool.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_3"
+msgid "A bat.{PA:20} You could really knock one out of||the park with this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_4"
+msgid "An expensive plate made of gold.{PA:20} It feels||valuable,{PA:10} like an antique.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_5"
+msgid "A plate made from a tortoise shell.{PA:20} It's a||real work of art.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_6"
+msgid "A plate made of sterling silver.{PA:20}||It glimmers beautifully.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_7"
+msgid "A plate made of marble.{PA:20} Very||aesthetically pleasing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_8"
+msgid "An expensive plate with the character for||\"dragon\" written by a famous calligrapher.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_9"
+msgid "A lacquered plate of moderate value,{PA:10} but||with practical use as well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_10"
+msgid "A gold-colored lighter.{PA:20} It looks cheap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_11"
+msgid "C'mon and try our super-rich tonkotsu-||flavored White Snake ramen noodles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_12"
+msgid "C'mon and try a big ol' bowl of our super-||rich tonkotsu-flavored White Snake ramen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_13"
+msgid "Trust us,{PA:10} spicy kimchi goes great with our||ramen noodles!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_14"
+msgid "Our tonkotsu-flavored White Snake ramen||is packed to the gills with pork.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_15"
+msgid "Loaded with scallions.{PA:20} A great way to boost||your immune system!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_16"
+msgid "With seasoned egg!{PA:20} It's delicious!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_17"
+msgid "Juicy fatty meat floating in a big bowl of||ramen noodles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_18"
+msgid "There's no shortage of calories in this||tonkotsu ramen covered in pork.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_19"
+msgid "These octopus dumplings are all the rage.{PA:20}||Eight's good when you're only a bit hungry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_20"
+msgid "A dozen octopus dumplings.{PA:20} This is a||decent-sized meal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_21"
+msgid "The ultimate order of 20 octopus dumplings.{PA:20}||This should fill you up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_22"
+msgid "A bear mascot for a cell phone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_23"
+msgid "Women's underwear.{PA:20} Top and bottoms.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_24"
+msgid "A standard sterilized bandage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_25"
+msgid "Boss canned unsweetened black coffee.{PA:20} Deep||fire roasting results in a smooth taste.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_26"
+msgid "A bottle of iemon green tea,{PA:10} made from||leaves selected by tea masters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_27"
+msgid "A bottle of hot iemon tea.{PA:20} The same great||flavor,{PA:10} served hot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_28"
+msgid "A bottle of Suntory Natural Mineral||Water from the Minami Alps mountains.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_29"
+msgid "A bottle of Natchan Orange,{PA:10} a refreshing||orange beverage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_30"
+msgid "A bottle of Pepsi NEX.{PA:20} Delicious,{PA:10} with||zero calories.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_31"
+msgid "A bottle of Suntory Oolong Tea,{PA:10} the||standard in oolong teas.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_32"
+msgid "A bottle of C.{PA:20}C.{PA:20} Lemon,{PA:10} loaded with||vitamin C.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_33"
+msgid "A bottle of DAKARA.{PA:20} Packed with fiber,{PA:10} it's||refreshing and goes down smooth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_34"
+msgid "A can of beer made from mineral water.{PA:20} The||water quality stands out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_35"
+msgid "Boss Rainbow Mountain Blend coffee.{PA:20} It's||full-bodied and goes down smooth.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_36"
+msgid "A bottle of Gatorade.{PA:20} It's refreshing and||replenishes your body's moisture.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_37"
+msgid "Chuhai -196℃ Lemon with a refreshing||taste of fresh fruit juice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_38"
+msgid "Fresh globefish hotpot with our special||ponzu sauce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_39"
+msgid "Freshly caught wild globefish hotpot with our||special ponzu sauce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_40"
+msgid "Enjoy only the best fresh raw globefish.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_41"
+msgid "You'll love our superb soft globefish milt.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_42"
+msgid "Globefish tempura.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_43"
+msgid "Deep-fried globefish.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_44"
+msgid "Globefish fried,{PA:10} lighly roasted,{PA:10} and in soup,{PA:10}||with rice and pickled vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_45"
+msgid "Globefish delicacy,{PA:10} sushi,{PA:10} salad,{PA:10} tempura,{PA:10}||chawanmushi and soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_46"
+msgid "Globefish prepared a variety of ways,{PA:10} with||soup,{PA:10} rice,{PA:10} pickles and fruit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_47"
+msgid "Meal set with all kinds of globefish: appetizer,{PA:10}||lightly roasted,{PA:10} fried,{PA:10} and shabu-shabu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_48"
+msgid "Meal set with all kinds of globefish:||appetizer,{PA:10} raw,{PA:10} fried,{PA:10} and hotpot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_49"
+msgid "All kinds of globefish: appetizer,{PA:10} raw,{PA:10}||fried,{PA:10} hotpot,{PA:10} porridge,{PA:10} pickles and dessert.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_50"
+msgid "All kinds of globefish: appetizer,{PA:10} grilled,{PA:10} raw,{PA:10}||fried,{PA:10} hotpot,{PA:10} porridge,{PA:10} pickles and dessert.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_51"
+msgid "A wild globefish feast: appetizer,{PA:10} grilled,{PA:10} raw,{PA:10}||fried,{PA:10} hotpot,{PA:10} porridge,{PA:10} pickles and dessert.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_52"
+msgid "Plump,{PA:10} tender and delicious.{PA:20} Regular size,{PA:10}||served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_53"
+msgid "Plump,{PA:10} tender and delicious.{PA:20} Large size,{PA:10}||served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_54"
+msgid "Tender and flavorful!{PA:20} Classic Matsuya fare.{PA:20}||Regular size with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_55"
+msgid "Tender and flavorful!{PA:20} Classic Matsuya fare.{PA:20}||Large size with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_56"
+msgid "Spicy and delicious chicken curry!{PA:20} Regular||size,{PA:10} served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_57"
+msgid "Spicy and delicious chicken curry!{PA:20} Large||size,{PA:10} served with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_58"
+msgid "A delicious melding of two flavors!{PA:20}||Comes with miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_59"
+msgid "A popular meal set with BBQ beef,{PA:10} rice,{PA:10}||miso soup and assorted vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_60"
+msgid "BBQ beef rib meat with rice,{PA:10} miso soup||and assorted vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_61"
+msgid "With soft-boiled egg,{PA:10} savory demi-glace||sauce,{PA:10} rice,{PA:10} miso soup and vegetables.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_62"
+msgid "The best breakfast is a healthy one.{PA:20} Natto,{PA:10}||raw egg,{PA:10} rice,{PA:10} soup,{PA:10} seaweed and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_5_63"
+msgid "Have an uplifting breakfast today!{PA:20} Sausage,{PA:10}||egg,{PA:10} miso soup,{PA:10} seaweed and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_0"
+msgid "A quick morning meal.{PA:20} Salted salmon,{PA:10} rice,{PA:10}||soup,{PA:10} tofu and pickles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_1"
+msgid "Okonomiyaki with pork.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_2"
+msgid "Okonomiyaki with squid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_3"
+msgid "Okonomiyaki with beef.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_4"
+msgid "Okonomiyaki with shrimp.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_5"
+msgid "Okonomiyaki with oysters.{PA:20} Only available||in the winter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_6"
+msgid "Okonomiyaki with pork and beef.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_7"
+msgid "Okonomiyaki with squid and shrimp.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_8"
+msgid "Beef and pork okonomiyaki with fresh||noodles on top.{PA:20} It really fills you up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_9"
+msgid "Squid and shrimp okonomiyaki with fresh||noodles on top.{PA:20} It really fills you up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_10"
+msgid "Okonomiyaki with squid,{PA:10} shrimp,{PA:10} beef and||pork.{PA:20} Oysters,{PA:10} too,{PA:10} in the winter only!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_11"
+msgid "Okonomiyaki and noodles,{PA:10} with squid,{PA:10}||shrimp,{PA:10} beef,{PA:10} pork and oysters (winter only).{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_12"
+msgid "Yakisoba featuring Fugetsu's own noodles||with pork and squid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_13"
+msgid "Spicy yakisoba featuring kimchi and||Fugetsu's own noodles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_14"
+msgid "Yakisoba with squid,{PA:10} shrimp,{PA:10} beef and||pork.{PA:20} Oysters,{PA:10} too,{PA:10} in the winter only!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_15"
+msgid "Salted cow's tongue,{PA:10} sliced.{PA:20} It's got a||unique texture that's very popular.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_16"
+msgid "The portion of the loin of beef in front of||the rump.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_17"
+msgid "Delectable and hearty.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_18"
+msgid "Delectable,{PA:10} hearty and refined.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_19"
+msgid "Meat from the center of the body.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_20"
+msgid "Raw beef and egg.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_21"
+msgid "Very good for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_22"
+msgid "Organ meat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_23"
+msgid "Fried organ meat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_24"
+msgid "Black bear organs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_25"
+msgid "Meat from the first compartment of a||cow's stomach.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_26"
+msgid "Meat from the second compartment of||a cow's stomach.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_27"
+msgid "Meat from the third compartment of a||cow's stomach.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_28"
+msgid "Meat from the fourth compartment of a||cow's stomach.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_29"
+msgid "Shoulder meat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_30"
+msgid "Cow's liver.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_31"
+msgid "Crunchy meat from the fourth compartment||of a cow's stomach.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_32"
+msgid "Crunchy cartilage from a cow's trachea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_33"
+msgid "The cow's Achilles' tendon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_34"
+msgid "Cow's lung.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_35"
+msgid "Cow's large intestines.{PA:20} Juicy and chewy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_36"
+msgid "Our stewed cow offal can't be beat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_37"
+msgid "You can get a feel for a shop's sushi from||their egg sushi.{PA:20} Ours is top notch!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_38"
+msgid "Why are they called kappa rolls?{PA:20} Because||kappas love cucumbers,{PA:10} that's why!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_39"
+msgid "There are lots of different kinds of tuna,{PA:10}||but our shop uses only the top maguro cut.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_40"
+msgid "With our sweet shrimp sushi you'll find||unrivaled freshness and quality!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_41"
+msgid "Crunchy fin-muscle tissue from a certain||kind of halibut.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_42"
+msgid "When you bite into our tsubugai shellfish||you'll feel the summer ocean breeze!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_43"
+msgid "The more you chew our fresh octopus,{PA:10} the||more you'll fall in love with it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_44"
+msgid "Lately a lot of amberjack is farm-raised,{PA:10}||but we only use freshly caught.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_45"
+msgid "Our seasonal fatty amberjack is freshly||caught.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_46"
+msgid "This is the season for halibut,{PA:10} and ours||is freshly caught.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_47"
+msgid "This striped jack is the king of mackerel.{PA:20}||They're best eaten raw in the summertime.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_48"
+msgid "This golden-eyed fish is fresh and tasty.{PA:20}||Caught this very morning.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_49"
+msgid "Farmed salmon roe has a different taste,{PA:10}||but ours is straight from the ocean.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_50"
+msgid "The ark shell has red blood and has been a||part of Japanese culture for centuries.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_51"
+msgid "This is the highest grade of tuna.{PA:20}||It will absolutely melt in your mouth!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_52"
+msgid "This top-shelf abalone isn't for the||thrifty.{PA:20} But it's worth it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_53"
+msgid "Our first-rate sea urchin roe is delivered||fresh from Numazu port.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_54"
+msgid "We use an entire lobster for this||extravagant red miso soup.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_55"
+msgid "The carefully selected nigiri we use is||nothing to scoff at,{PA:10} nor is the price.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_56"
+msgid "Nothing says Korean cuisine like kimchi.{PA:20}||Our homemade recipe uses Chinese cabbage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_57"
+msgid "This Korean salad is said to be how a||cook's abilities are judged in Korea.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_58"
+msgid "This is namul,{PA:10} meat and egg on rice.{PA:20}||Try it with gochujang paste.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_59"
+msgid "Korean rice porridge with beef and||vegetables,{PA:10} stewed in beef juices for hours.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_60"
+msgid "Jjigae means stew,{PA:10} and this kimchi stew||will warm you up!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_61"
+msgid "Boiled pork shoulder,{PA:10} wrapped in our||famous kimchi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_62"
+msgid "Tasty beef soaked with special sauce,{PA:10}||and grilled in an iron skillet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_6_63"
+msgid "This scallion pancake is Korea's answer to||okonomiyaki.{PA:20} Try it with our house sauce.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_0"
+msgid "Korean mochi,{PA:10} called tteok,{PA:10} steeped in||gochujang paste.{PA:20} Popular at street stands.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_1"
+msgid "Juicy pork shoulder meat,{PA:10} grilled to||perfection.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_2"
+msgid "Stir-fried chicken rib meat and vegetables.{PA:20}||It's spicy and delicious!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_3"
+msgid "Japchae is bean thread noodles stir-fried||with vegetables.{PA:20} It's light and tasty!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_4"
+msgid "Enjoy the freshness of the finest||ingredients of the season.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_5"
+msgid "Hamo is a summer fish,{PA:10} but can be enjoyed||this way in the winter,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_6"
+msgid "Raw yuba in fresh this morning from Kyoto,{PA:10}||rich in soy flavor.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_7"
+msgid "Scallops,{PA:10} amberjack and young bluefin tuna,{PA:10}||served fresh and raw.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_8"
+msgid "Live lobster plucked fresh from the water||this morning.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_9"
+msgid "This spiny shellfish is plucked from the||Seto Inland Sea and grilled.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_10"
+msgid "These oysters delivered directly from||Okayama taste best raw.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_11"
+msgid "Enjoy this calm,{PA:10} relaxing kaiseki course.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_12"
+msgid "Enjoy this gorgeous kaiseki course.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_13"
+msgid "Kyoto vegetables in a tempura batter.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_14"
+msgid "The abalone seems to dance on the grill as||it's cooked while still alive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_15"
+msgid "A luxurious full course meal of delicious||snow crab.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_16"
+msgid "Pocket tissues with a flier for a shop||called Grand.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_17"
+msgid "A collectible action figure that's hard to||come by.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_18"
+msgid "Candy received from an old lady.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_19"
+msgid "A gold ring.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_20"
+msgid "A stuffed doll called the Robot Manager.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_21"
+msgid "A stuffed doll called the Robot Chief.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_22"
+msgid "A stuffed doll called the Robot President.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_23"
+msgid "A stuffed doll called the Gold Robot||President.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_24"
+msgid "A stuffed animal called Kitty Kat.{PA:20} In red.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_25"
+msgid "A stuffed animal called Kitty Kat.{PA:20} It has||tiger stripes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_26"
+msgid "A stuffed animal called Kitty Kat.{PA:20} In blue.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_27"
+msgid "A stuffed animal called Kitty Kat.{PA:20} An||American short-hair breed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_28"
+msgid "A stuffed animal called Kitty Kat.{PA:20}||In calico.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_29"
+msgid "A stuffed animal called Beary Bear.{PA:20} This||one is bigger than most.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_30"
+msgid "A stuffed animal called Beary Bear.{PA:20}||In brown.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_31"
+msgid "A stuffed animal called Beary Bear.{PA:20}||In gray.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_32"
+msgid "A stuffed animal called Beary Bear.{PA:20}||In blue.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_33"
+msgid "A stuffed animal called Beary Bear.{PA:20}||In pink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_34"
+msgid "A discount ticket for a cabaret club.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_35"
+msgid "Desperation charm.{PA:20} Helps boost your mental||strength when you're in a bind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_36"
+msgid "European-style gauntlets.{PA:20} Can be worn under||a shirt,{PA:10} and improves the ability to block.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_37"
+msgid "Hercules gloves.{PA:20} Wear these,{PA:10} and you can||hold onto your opponent for a long time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_38"
+msgid "Gauntlets with a dragon design.{PA:20} When you||block with them your defense is improved.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_39"
+msgid "Shin guards built for shock absorption.{PA:20} You||won't trip when your legs are attacked.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_40"
+msgid "Shin guards made of steel.{PA:20} They're heavy,{PA:10}||but you can't be tripped when wearing them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_41"
+msgid "An old,{PA:10} tattered scarf.{PA:20} Has a strong smell||that drives people away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_42"
+msgid "Calming towel.{PA:20} This towel will put your||mind at ease.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_43"
+msgid "Substitute stone.{PA:20} It's said that it will||take your place when you face death.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_44"
+msgid "Southpaw bracelet.{PA:20} It's said to make the||left arm more powerful when attacking.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_45"
+msgid "Tourmaline bracelet.{PA:20} It has some sort of||healing effect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_46"
+msgid "Belt of the The Immovable.{PA:20} Boosts throwing||ability regardless of opponent size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_47"
+msgid "A black belt.{PA:20} It improves throwing ability.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_48"
+msgid "Payback ring.{PA:20} It boosts attack power when||health is low.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_49"
+msgid "Blood-soaked binding.{PA:20} It causes grave||injury to both sides in a fight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_50"
+msgid "Insulated shirt.{PA:20} Made from rubber,{PA:10} it||protects the wearer from electric shock.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_51"
+msgid "Training gear.{PA:20} It prevents running during||battle,{PA:10} but you can gain a lot by using it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_52"
+msgid "A replica of the Sacred Tree Armor.{PA:20} Very||heavy.{PA:20} Comes with a bullet-dodging charm.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_53"
+msgid "Armor made from a Sacred Tree.{PA:20} A national||treasure,{PA:10} it has a bullet-dodging charm.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_54"
+msgid "Anti-blade shirt.{PA:20} Made from aramid fibers,{PA:10}||it offers some protection against blades.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_55"
+msgid "A suit from the manager at Marietta.{PA:20}||Reduces damage from blade attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_56"
+msgid "Antique chain mail.{PA:20} Greatly reduces damage||from bladed weapons.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_57"
+msgid "Iron breastplate.{PA:20} Used by yakuza from days||past,{PA:10} it reduces damage from bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_58"
+msgid "Bulletproof breastplate.{PA:20} It's high in||defense and reduces damage from bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_59"
+msgid "Bulletproof protector.{PA:20} Used by the||military,{PA:10} it reduces damage from bullets.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_60"
+msgid "SWAT body armor.{PA:20} It offers top-level||protection against firearms.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_61"
+msgid "Snacks with a figure from the popular game||series \"YF\" included as a prize.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_62"
+msgid "Figure #12 from the popular game series||\"YF\".{PA:20} Found as a prize in a box of snacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_7_63"
+msgid "Homemade cookies,{PA:10} made by the kids at the||Sunflower Orphanage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_0"
+msgid "A hand-knit scarf,{PA:10} from the headmistress of||the Sunflower Orphanage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_1"
+msgid "An Italian watch.{PA:20} Imported from Venice,{PA:10}||allegedly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_2"
+msgid "A matchlock rifle from the Komaki family's||ancestors.{PA:20} Probably not very old.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_3"
+msgid "Double slats.{PA:20} A pair of thin wooden sticks.{PA:20}||Don't expect them to last very long.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_4"
+msgid "Legendary tonfa with a skull engraving,{PA:10}||made from the bone of some animal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_5"
+msgid "Double spiked sticks,{PA:10} covered with||countless nails.{PA:20} A terrifying weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_6"
+msgid "Double shafts.{PA:20} They look like regular pipes||but the center of gravity is at the tips.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_7"
+msgid "A fashionable iron umbrella.{PA:20} Its purpose is||unclear,{PA:10} but it's both strong and elegant.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_8"
+msgid "The phantom tonfa is a superb weapon.{PA:20} It||once belonged to a legendary warrior.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_9"
+msgid "Hiro's autograph.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_10"
+msgid "A photon blade from YF6.{PA:20} It's realistic||and has some weight behind it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_11"
+msgid "A gun known as the Dragon-SP,{PA:10} said to never||run out of ammo if held by someone worthy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_12"
+msgid "Chinese dragon tonfa.{PA:20} Made from extremely||hard materials,{PA:10} with a dragon carving.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_13"
+msgid "A health revitalizer called Zheng Liu Di.{PA:20}||Well-known among fighters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_14"
+msgid "A spirit revitalizer called Ba Kong Huang.{PA:20}||Well-known among fighters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_15"
+msgid "Sheng Hai Wang.{PA:20} A drink similar to Staminan||Royale,{PA:10} but far less popular.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:3_8_16"
+msgid "A company deed won while playing blackjack.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_0"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_1"
+msgid "Cell Phone"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_2"
+msgid "Taihei Blvd.{PA:20} West Locker Key"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_3"
+msgid "Shofukucho Locker Key"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_4"
+msgid "Casino Chips"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_5"
+msgid "Pachi-slot Medals"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_6"
+msgid "Dice Hall Wooden Cards"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_7"
+msgid "Mahjong Point Sticks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_8"
+msgid "Yakuza Observation Notes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_9"
+msgid "Book of Sword Drawing Mastery"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_10"
+msgid "Turn Kick Book"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_11"
+msgid "Haruka's Pendant"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_12"
+msgid "Haruka's Pendant"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_13"
+msgid "Kiryu's Portrait"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_14"
+msgid "Shin Gi Tai Reinforcement Text"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_15"
+msgid "Letter From Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_16"
+msgid "Hidden Weapons Dealer's Memo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_17"
+msgid "Pheasant Key"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_18"
+msgid "Rifle Round"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_19"
+msgid "Cherry Blossom Tile"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_20"
+msgid "Mahjong Strategy Guide"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_21"
+msgid "Amano Building Key"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_22"
+msgid "Kien Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_23"
+msgid "Ultimate Shogi Guide"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_24"
+msgid "Laguna Memo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_25"
+msgid "Ryuma Shogi Piece"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_26"
+msgid "Suspicious Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_27"
+msgid "Cursed Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_28"
+msgid "Stained Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_29"
+msgid "Young Comedian's Autograph"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_30"
+msgid "Gambling Strategy Guide"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_31"
+msgid "Green Box"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_32"
+msgid "Signed Publicity Photo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_33"
+msgid "Self-Help Book"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_34"
+msgid "Taxi Company Business Card"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_35"
+msgid "Kung-Fu DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_36"
+msgid "Escalator to Heaven DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_37"
+msgid "Tojo Fighting Secrets DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_38"
+msgid "Ninja 3 DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_39"
+msgid "Kazumi DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_40"
+msgid "Yuko DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_41"
+msgid "Pervert DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_42"
+msgid "Gambling DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_43"
+msgid "Gourmet Cooking DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_44"
+msgid "Samurai DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_45"
+msgid "Lonely Housewife DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_46"
+msgid "Practical Joke DVD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_47"
+msgid "Lifewind Stock"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_48"
+msgid "Peeping Tom Video"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_49"
+msgid "Enka CD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_50"
+msgid "Hip Hop CD"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_51"
+msgid "Party Ticket"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_52"
+msgid "Fanzine"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_53"
+msgid "Fancy Fountain Pen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_54"
+msgid "Hybrid Boots"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_55"
+msgid "Dancer's Shoes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_56"
+msgid "Photo of Yagi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_57"
+msgid "Photo of Kajiwara"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_58"
+msgid "Photo of Kojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_59"
+msgid "Photo of Miki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_60"
+msgid "Book of Ultimate Secrets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_61"
+msgid "Memo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_62"
+msgid "Sunflower Picture"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_0_63"
+msgid "Photo of Haruka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_0"
+msgid "Photo of Haruka"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_1"
+msgid "Newspaper"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_2"
+msgid "Sketch of Dragon Tattoo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_3"
+msgid "Home Renovator's Business Card"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_4"
+msgid "The Real Yakuza Story"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_5"
+msgid "Knife Magician"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_6"
+msgid "Combat Legend Takeshi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_7"
+msgid "The Chop Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_8"
+msgid "The Kancho Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_9"
+msgid "The Karate Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_10"
+msgid "The Military Master"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_11"
+msgid "Exploding Demon Fist!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_12"
+msgid "Deadly Thumb Wrestling!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_13"
+msgid "Brain Busters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_14"
+msgid "Ascension: Secrets of India!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_15"
+msgid "Secrets of the Philippines!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_16"
+msgid "Lotus Style Bojutsu Encyclopedia"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_17"
+msgid "Lotus Style Senki Encyclopedia"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_18"
+msgid "Lotus Style Koki Encyclopedia"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_19"
+msgid "Lotus Style Nanki Encyclopedia"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_20"
+msgid "Goriki Terayama \"All About Tag-Team\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_21"
+msgid "Goriki Terayama \"If You Swing\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_22"
+msgid "Goriki Terayama Autobiography"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_23"
+msgid "Yuya Publicity Photo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_24"
+msgid "Kawachi Family History Book"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_25"
+msgid "Book of Extremes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_26"
+msgid "Book of the Fighting God"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:4_1_27"
+msgid "5-iron Signed by Akagi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_0"
+msgid "Dummy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_1"
+msgid "A cell phone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_2"
+msgid "A key to a locker in Taihei Blvd.{PA:20} West,{PA:10}||in Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_3"
+msgid "A key to a locker in Shofukucho,{PA:10} in Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_4"
+msgid "Chips you can use at a casino.{PA:20}||You currently have {NU:02_10_00}0000000000000000.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_5"
+msgid "Medals you can use in pachi-slot machines.{PA:20}||You currently have {NU:02_10_00}0000000000000000.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_6"
+msgid "Wooden cards you can use at the dice hall.{PA:20}||You currently have {NU:02_10_00}0000000000000000 points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_7"
+msgid "Point sticks from the mahjong parlor.{PA:20}||You currently have {NU:02_10_00}0000000000000000 points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_8"
+msgid "\"Yakuza Observation Notes\".{PA:20} It seems someone||wrote down their observations of Majima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_9"
+msgid "A book explaining the secrets of batto-jutsu,{PA:10}||the art of drawing a sword.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_10"
+msgid "A book with over 300 pages explaining every||detail of the turn kick.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_11"
+msgid "Haruka's pendant.{PA:20} It looks like you can open it,{PA:10}|| but it's locked.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_12"
+msgid "Haruka's pendant.{PA:20} A key was inside.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_13"
+msgid "A portrait drawn by Haruka.{PA:20} It's a little||embarrassing,{PA:10} but it's also sweet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_14"
+msgid "A book on improving one's soul,{PA:10} technique and||body for greater fighting ability.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_15"
+msgid "A letter from Master Sotaro Komaki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_16"
+msgid "A memo from a hidden weapons dealer.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_17"
+msgid "A key shaped like a pheasant.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_18"
+msgid "A rifle round removed from Kaoru Sayama's||shoulder.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_19"
+msgid "A mahjong tile with a cherry blossom design.{PA:20}||It's needed to enter Reach Towers Mahjong.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_20"
+msgid "A book entitled \"Tiles of Happiness\",{PA:10}||written by Jongka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_21"
+msgid "A key to get into the Amano Building.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_22"
+msgid "A familiar-looking dagger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_23"
+msgid "A book entitled \"Ultimate Shogi\" that covers||how to win at shogi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_24"
+msgid "A memo about the Hotel Laguna.{PA:20} 4,{PA:10}000 yen for||a rest.{PA:20} 6,{PA:10}000 yen to stay the night.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_25"
+msgid "A promoted bishop piece apparently used||at the shogi club \"Keima\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_26"
+msgid "A suspicious video found in a coin locker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_27"
+msgid "An eerie cursed video.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_28"
+msgid "A video covered in stains.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_29"
+msgid "A young comedian's autograph.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_30"
+msgid "A book entitled \"How to Never Lose||at Gambling\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_31"
+msgid "A green box.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_32"
+msgid "A photo signed by Korean star Il Yu-Jin.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_33"
+msgid "A book entitled \"You're Wonderful!{PA:20} Happiness||Isn't All About Money\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_34"
+msgid "A taxi driver's business card,{PA:10} with contact||info.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_35"
+msgid "A DVD titled \"Super Kung Fu Man\".{PA:20}||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_36"
+msgid "A DVD titled \"Escalator to Heaven\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_37"
+msgid "A DVD titled \"Legend of the First Patriarch:||Secret Fighting Techniques of Makoto Tojo\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_38"
+msgid "A DVD titled \"Space Ninja 3: Galaxy Castle\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_39"
+msgid "A DVD titled \"Kazumi's Sexy Day at the Beach\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_40"
+msgid "A DVD titled \"Yuko's First Impact\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_41"
+msgid "A DVD titled \"The Pervert\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_42"
+msgid "A DVD titled \"Isoji Ando: King of Gamblers\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_43"
+msgid "A DVD titled \"Chef Sadaji's Cooking Adventure\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_44"
+msgid "A DVD titled \"Way of the Samurai,{PA:10} Way of the||Sword\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_45"
+msgid "A DVD titled \"Lonely Housewife's Fantasy\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_46"
+msgid "A DVD titled \"Take's Prankster High School||Heaven\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_47"
+msgid "A stock certificate from a company called||\"Lifewind\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_48"
+msgid "A peeping tom video.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_49"
+msgid "An enka (Japanese music similar to country||music) CD sung by Chikamatsu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_50"
+msgid "A hip hop CD entitled \"Bummin' tha Beat\",{PA:10}||sung by Michael Naoya.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_51"
+msgid "A ticket to a secret party.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_52"
+msgid "A fanzine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_53"
+msgid "An expensive-looking fountain pen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_54"
+msgid "Hybrid boots made of a special material.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_55"
+msgid "A pair of shoes used by dancers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_56"
+msgid "A photo of Yagi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_57"
+msgid "A photo of Kajiwara.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_58"
+msgid "A photo of Kojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_59"
+msgid "A photo of Miki,{PA:10} Yuriko's sister.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_60"
+msgid "A book covering the most advanced secret||technique of the Komaki style.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_61"
+msgid "A memo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_62"
+msgid "A letter and picture from Sunflower Orphanage||made with loving care.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_0_63"
+msgid "A photo of Haruka.{PA:20} She's wearing a||warm-looking down jacket.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_0"
+msgid "A photo of Haruka wearing a jacket.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_1"
+msgid "A sports newspaper reporting the debut of a new||female celebrity.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_2"
+msgid "A sketch for a dragon tattoo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_3"
+msgid "A business card for a home renovation company||called \"Imitation Renovating\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_4"
+msgid "A DVD titled \"The Real Yakuza Story\".{PA:20}||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_5"
+msgid "A DVD titled \"Knife Magician\".{PA:20}||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_6"
+msgid "A DVD titled \"Combat Legend Takeshi\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_7"
+msgid "A DVD titled \"The Chop Master\".{PA:20}||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_8"
+msgid "A DVD titled \"The Kancho Master\".{PA:20}||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_9"
+msgid "A DVD titled \"The Karate Master\".{PA:20}||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_10"
+msgid "A DVD titled \"The Military Master\".{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_11"
+msgid "A DVD titled \"Exploding Demon Fist!{PA:20}\"||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_12"
+msgid "A DVD titled \"Deadly Thumb Wrestling!{PA:20}\"||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_13"
+msgid "A DVD titled \"Brain Busters\".{PA:20}||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_14"
+msgid "A DVD titled \"Ascension: Secrets of India!{PA:20}\"||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_15"
+msgid "A DVD titled \"Secrets of the Philippines!{PA:20}\"||Purchased from Kamiyama.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_16"
+msgid "A scroll containing everything from the basics||to the secrets of Lotus Style staff fighting.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_17"
+msgid "A scroll explaining the secret techniques of||Lotus Style Senki from a scholastic view.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_18"
+msgid "A scroll containing the secret defensive||techniques of Lotus Style Koki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_19"
+msgid "A scroll containing the secret techniques of||Lotus Style Nanki.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_20"
+msgid "A book by Cyclops Oba's master.{PA:20} Mostly pictures,{PA:10}||so it's a quick read.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_21"
+msgid "A book by Cyclops Oba's master.{PA:20} An exhaustive||study of leg-grabbing throws.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_22"
+msgid "A book by Cyclops Oba's master.{PA:20} It's more of a||photo book than an autobiography.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_23"
+msgid "A publicity photo of Yuya.{PA:20} The old lady of||the Lotus clan really wants one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_24"
+msgid "A book passed down in the Kawachi family.{PA:20} It||holds the secret to escaping from holds.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_25"
+msgid "An ancient book of extremes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_26"
+msgid "An ancient book titled \"Book of the Fighting||God\",{PA:10} covering the secrets of HEAT action.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEITEM.BIN::line:5_1_27"
+msgid "Albatross Akagi's legendary 5-iron.{PA:20} It doesn't||look like it's usable for golf anymore.{PA:20}"
+msgstr ""
+

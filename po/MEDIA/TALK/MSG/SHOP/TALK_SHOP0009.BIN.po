@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_5_0"
+msgid "Looks like ya ain't got enough money.{PA:20}||Come back when ya do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_6_0"
+msgid "Preciate it.{PA:20}||That'll be {NU:02_0c_00}000000000000 yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_7_0"
+msgid "Anything else ya lookin' for?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_8_0"
+msgid "Ya don't got enough space.{PA:20}||Get yer stuff organized and come back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:0_10_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_0_0"
+msgid "Masculine Cologne"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_1_0"
+msgid "Red Rose Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_2_0"
+msgid "Pink Lily Bouquet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_3_0"
+msgid "Cookie Sampler"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_4_0"
+msgid "Caviar Skin Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_5_0"
+msgid "Monogrammed Bag"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_6_0"
+msgid "Italian Necklace"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_7_0"
+msgid "Italian Women's Watch"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_8_0"
+msgid "French Scarf"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_9_0"
+msgid "Lucky Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_10_0"
+msgid "Popularity Bracelet"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_11_0"
+msgid "Hariti Charm"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_12_0"
+msgid "Long Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_13_0"
+msgid "Iai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_14_0"
+msgid "Nameless Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_15_0"
+msgid "Bungo Shimizu Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_16_0"
+msgid "Tesshusai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_17_0"
+msgid "Classic Katana Shadow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_18_0"
+msgid "\"Scattered Blossoms\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:1_19_0"
+msgid "Dragon Gauntlets"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_0_0"
+msgid "This men's cologne gives off pheromones.{PA:20}||Sorta scary if ya think about it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_1_0"
+msgid "A bouquet of bright red roses.{PA:20}||Great to send to a special lady.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_2_0"
+msgid "Bouquet of pink lilies.{PA:20}||.{PA:20}.{PA:20}.{PA:20}They smell great.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_3_0"
+msgid "A cookie sampler.{PA:20}||It's a pretty popular gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_4_0"
+msgid "Nothing beats this caviar skin bag as a gift||for that special lady in yer life.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_5_0"
+msgid "A monogrammed bag.{PA:20} What woman wouldn't be||thrilled to get this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_6_0"
+msgid "How about this high-class necklace for yer||special girl?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_7_0"
+msgid "This Italian women's watch would make any||lady happy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_8_0"
+msgid "A French scarf.{PA:20} Feels soft.{PA:20} It'd make a||great present.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_9_0"
+msgid "This lucky bracelet supposedly brings you||luck with the ladies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_10_0"
+msgid "It's a Popularity Bracelet.{PA:20} Lemme know if it||really does what it claims.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_11_0"
+msgid "This charm from the Goddess of Children is||supposed to protect you in fights.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_12_0"
+msgid "A long blade.{PA:20} I kept 'er polished and sharp.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_13_0"
+msgid "This Iai Katana ain't fer practice.{PA:20} It's the||real thing,{PA:10} so watch where ya swing it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_14_0"
+msgid "This katana is unsigned but it's well built.{PA:20}||Price ain't too bad either.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_15_0"
+msgid "The Bungo Shimizu katana.{PA:20} It's a pretty one.{PA:20}||Makes a real good sword too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_16_0"
+msgid "Tesshusai.{PA:20}.{PA:20}.{PA:20} Never heard of him?{PA:20}||He's a famous sword maker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_17_0"
+msgid "This katana's called \"Shadow\".{PA:20}||Couldn't ya just stare at it all day long?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_18_0"
+msgid "Ain't \"Scattered Blossoms\" just the||prettiest name?{PA:20} It's a deadly sword,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0009.BIN::line:2_19_0"
+msgid "Gauntlets made with the power of the Dragon||God.{PA:20} Pretty useful in a fight.{PA:20}"
+msgstr ""
+

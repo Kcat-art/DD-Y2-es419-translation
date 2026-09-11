@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Boss!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:1_0_0"
+msgid "There was trouble outside the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:1_0_1"
+msgid "Stardust,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Were they from Kansai?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:3_0_0"
+msgid "No,{PA:10} sir.{PA:20} They were foreigners.{PA:20} The bad kind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Should I put some boys on the watch?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Leave it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:7_0_0"
+msgid "But boss,{PA:10} there's been some strange stuff.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:8_0_0"
+msgid "I said leave it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:10_0_0"
+msgid "We have no idea what could spark a war.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:11_0_0"
+msgid "So Kansai's really planning to come up east?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Our top guy,{PA:10} Terada,{PA:10} used to be one of"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:12_0_1"
+msgid "theirs.{PA:20} One of Omi's Four Kings.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I'm sure they're not happy he switched.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:14_0_0"
+msgid "One screw-up could land us in an all-out war"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:14_0_1"
+msgid "and now isn't a good time for that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:15_0_0"
+msgid "You tell the boys,{PA:10} and tell them good.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Nobody so much as sneezes without my okay.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Do we make the first move,{PA:10} or wait for them?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Kazuma.{PA:20}.{PA:20}.{PA:20} what would you do?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:20_0_0"
+msgid "It's been more than 20 years.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:21_0_0"
+msgid "We've been waiting and waiting.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Spare me the history lesson,{PA:10} pal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:23_0_0"
+msgid "You just send in the fireworks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:23_0_1"
+msgid "Let's see that kaboom.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Patience,{PA:10} man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:25_0_0"
+msgid "This is for the comrades they rubbed out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:26_0_0"
+msgid "We've been waiting all this time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Waiting for the chance to get our revenge.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:28_0_0"
+msgid "I'm telling ya I couldn't care less.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:29_0_0"
+msgid "You'd do well to quit flappin' yer yap"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:29_0_1"
+msgid "before you're overheard,{PA:10} chum.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Don't worry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:31_0_0"
+msgid "I'm a professional.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:32_0_0"
+msgid "No one can spy on this fly on the wall.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:33_0_0"
+msgid "That's just dandy.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:34_0_0"
+msgid "Just know this.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:34_0_1"
+msgid "I ain't one of your comrades.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:35_0_0"
+msgid "We're just after the same thing here.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Turnin' Kamurocho into a sea of fire.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:37_0_0"
+msgid "Once this job's over,{PA:10} we're strangers.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Ya got that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Sure.{PA:20} You just enjoy the show.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:40_0_0"
+msgid "A sea of fire's not enough.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:41_0_0"
+msgid "That won't put the souls of those who died"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:41_0_1"
+msgid "in vain to rest.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

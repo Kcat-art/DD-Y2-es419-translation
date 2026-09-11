@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:0_0_0"
+msgid "What happened?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:1_0_0"
+msgid "HQ says they're not helping on this one.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:2_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Date is still a wanted man.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I guess this means they can't trust a tip"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:4_0_1"
+msgid "from a murder suspect.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Plus we only have Kazuki's word about the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:5_0_1"
+msgid "31 bombs existing at all.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:6_0_0"
+msgid "The police never act without solid proof.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I knew that much going in,{PA:10} but I didn't"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:7_0_1"
+msgid "expect to get brushed off this fast.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:8_0_0"
+msgid "So what,{PA:10} there's no way to save Kamurocho?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:9_0_0"
+msgid "We'll have to do it ourselves.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Put your 300 men to work on those bombs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:11_0_0"
+msgid "What about the Go-Ryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I'll handle them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:13_0_0"
+msgid "What,{PA:10} by yourself?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:14_0_0"
+msgid "Kamurocho's a big place.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:14_0_1"
+msgid "It won't be easy to find 31 bombs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:15_0_0"
+msgid "The Tojo men know the city well.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:15_0_1"
+msgid "They're best put to use finding those bombs.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:16_0_0"
+msgid "I told you.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:16_0_1"
+msgid "I'll do something about the Go-Ryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:17_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}All right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Still,{PA:10} 31 of them.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:19_0_0"
+msgid "If we at least knew where to look.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:20_0_0"
+msgid "It'd be easy if the system here were up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Lookit all o' you lookin' so down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Majima.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Hey,{PA:10} Kazzy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Sounds like we're really fucked,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Hey!{PA:20} Out the way,{PA:10} move it!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:26_0_0"
+msgid "What.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Ya said ya needed this system,{PA:10} right?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Aww,{PA:10} c'mon!{PA:20} Why ain't it goin'?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20} are you okay?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:30_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Should we stop him?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Y-Yeah.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Move,{PA:10} dammit!{PA:20} Fuckin' move!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:33_0_0"
+msgid "Oh ho!{PA:20} There she is!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:34_0_0"
+msgid "What's going on?!{PA:20}"
+msgstr ""
+

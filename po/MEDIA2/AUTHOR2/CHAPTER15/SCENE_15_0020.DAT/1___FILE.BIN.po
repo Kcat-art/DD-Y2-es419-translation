@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Red next!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Theeen.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Let's say blue.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Y-Yes,{PA:10} sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:5_0_0"
+msgid "What?{PA:20} Ya got gas or somethin'?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:6_0_0"
+msgid "N-No,{PA:10} sir.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I was just thinking about my mother,{PA:10} back"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:7_0_1"
+msgid "in the country.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:8_0_0"
+msgid "What's yer mommy got to do with this bomb?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:9_0_0"
+msgid "No,{PA:10} it's just.{PA:20}.{PA:20}.{PA:20} She lives by herself,{PA:10} so if"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:9_0_1"
+msgid "something were to happen to me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:10_0_0"
+msgid "That's why we're stoppin' it,{PA:10} numbnuts!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:11_0_0"
+msgid "B-But,{PA:10} boss.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Does doing this really tell you how the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:12_0_1"
+msgid "wiring works?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Yer mama drop you a lot?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:14_0_0"
+msgid "The fuck should I know how this tangly"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:14_0_1"
+msgid "rainbow shit works?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:15_0_0"
+msgid "But we gotta get through it,{PA:10} so here I am,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:15_0_1"
+msgid "puttin' my instincts to work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Instincts?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:17_0_0"
+msgid "We're doing this on instinct?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:18_0_0"
+msgid "What.{PA:20}.{PA:20}.{PA:20} Ya don't trust my instincts?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:19_0_0"
+msgid "N-No.{PA:20}.{PA:20}.{PA:20} It's not that,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Then get back to work!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Yes,{PA:10} sir.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Hey,{PA:10} boss.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:23_0_0"
+msgid "We're down to the last two.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Aww,{PA:10} fuck this!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Which-One-Should-I-Pick-I-Know-Let's-"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:26_0_1"
+msgid "Ask-God-O-K-Here-We-Go.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:27_0_0"
+msgid "I got it.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Red me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Boss!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:30_0_0"
+msgid "This is a life-or-death decision here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:30_0_1"
+msgid "Can we be a little more serious about it?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Aww,{PA:10} quit whinin'!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:31_0_1"
+msgid "I said red me!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Gimme those!{PA:20}"
+msgstr ""
+

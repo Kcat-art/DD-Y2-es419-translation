@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Moments ago at midnight,{PA:10} a violent explosion"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:0_0_1"
+msgid "shook Kamurocho's Millennium Tower.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:1_0_0"
+msgid "The details have yet to be confirmed,{PA:10} but"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:1_0_1"
+msgid "reports suggest the explosion hit a floor"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:2_0_0"
+msgid "occupied by the offices of a criminal group,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:2_0_1"
+msgid "and that this may not have been an accident.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:3_0_0"
+msgid "That's.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Ryuji's fireworks?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0042.DAT/1___FILE.BIN::line:5_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}It begins.{PA:20}"
+msgstr ""
+

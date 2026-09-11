@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_0"
+msgid "\"Shin Gi Tai\",{PA:10} The Book of Discipline.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_1"
+msgid "The experiences used to forge your \"Shin\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_2"
+msgid "or \"soul\" will manifest themselves in"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_3"
+msgid "HEAT mode.{PA:20} For example,{PA:10} as your attack power"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_4"
+msgid "increases,{PA:10} your available HEAT action attacks"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_5"
+msgid "will also increase.{PA:20} By forging one's Shin,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_6"
+msgid "one can become untouchable by even strong"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_0_7"
+msgid "opponents while in HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_0"
+msgid "By forging your \"Gi\" or \"technique\",{PA:10} you"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_1"
+msgid "can gain skills in punching,{PA:10} kicking and"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_2"
+msgid "\"throwing\".{PA:20} However,{PA:10} no matter how many"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_3"
+msgid "techniques you learn,{PA:10} failing to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_4"
+msgid "recognize when and where to use them is"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_5"
+msgid "the same as not having them.{PA:20} Having"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_6"
+msgid "discipline and demanding more of yourself"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_1_7"
+msgid "is also part of Gi.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_0"
+msgid "Forging your \"Tai\" or \"body\" means"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_1"
+msgid "not only muscles,{PA:10} but also raising the"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_2"
+msgid "standard for power and endurance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_3"
+msgid "Neglecting your Tai and focusing only on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_4"
+msgid "Shin and Gi is as foolish as building"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_5"
+msgid "a mansion on quicksand.{PA:20} Tai forms"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_6"
+msgid "the warrior's foundation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_7"
+msgid "               -The End-"
+msgstr ""
+

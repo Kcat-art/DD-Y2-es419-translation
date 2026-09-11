@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Brilliant.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:1_0_0"
+msgid "My apologies,{PA:10} friend.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:2_0_0"
+msgid "My boys are a little trigger happy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Leaving so soon?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Booze tastes bad around people like you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:5_0_0"
+msgid "You're some piece o' work!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I like you.{PA:20} Let me set things right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:6_0_1"
+msgid "I'll buy ya a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I'll pass.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Omi's Go-Ryu Clan is offering ya a drink.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:9_0_0"
+msgid "C'mon,{PA:10} help me save a little face here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Go-Ryu Clan.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:11_0_0"
+msgid "All right!{PA:20} Gimme the most expensive booze"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:11_0_1"
+msgid "in the house!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Yes,{PA:10} sir!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Balls of steel's what you got,{PA:10} chum.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:14_0_0"
+msgid "There's nobody like you in my clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Are you from Kanto,{PA:10} friend?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Yeah.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:17_0_0"
+msgid "Course you are.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:18_0_0"
+msgid "If somebody like you was in Kansai,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:18_0_1"
+msgid "I'da heard the rumors by now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:19_0_0"
+msgid "Now that we've made the pleasure of each"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:19_0_1"
+msgid "other's acquaintance,{PA:10} how's about yer name?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:20_0_0"
+msgid "How rude o' me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:21_0_0"
+msgid "I'm the Second Chairman of the Omi"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:21_0_1"
+msgid "Alliance's Go-Ryu Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:22_0_0"
+msgid "Name's Ryuji Goda.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Goda.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:24_0_0"
+msgid "I'm sure you've heard of the Omi before.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:25_0_0"
+msgid "The most famous house in all o' Japan.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:26_0_0"
+msgid "I'm familiar.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Now.{PA:20}.{PA:20}.{PA:20} What's yer name?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:28_0_0"
+msgid "I'm nobody special.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:29_0_0"
+msgid "I'm laying my cards out on the table here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Least a guy could do is tell me"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:30_0_1"
+msgid "his name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Kazuma Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:33_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}The Dragon of Dojima.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:34_0_0"
+msgid "You're Tojo's Kazuma Kiryu?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:35_0_0"
+msgid "I'm afraid I don't know who that is.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:36_0_0"
+msgid "Don't go scaring me like that,{PA:10} friend.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:37_0_0"
+msgid "But I guess there's no way you'd be him.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:38_0_0"
+msgid "If ya were,{PA:10} ya wouldn't be sitting around"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:38_0_1"
+msgid "sipping drinks right now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:39_0_0"
+msgid "And why is that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:40_0_0"
+msgid "The real Kiryu'd have his hands full.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:41_0_0"
+msgid "He'd be getting ready for war,{PA:10} as fast as"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:41_0_1"
+msgid "he could.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:42_0_0"
+msgid "Oh,{PA:10} hey!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:43_0_0"
+msgid "I might as well fill ya in.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:44_0_0"
+msgid "The reason I got excitable back there.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:45_0_0"
+msgid "What's that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:46_0_0"
+msgid "I hate being called the Dragon of Kansai.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:47_0_0"
+msgid "Dragon,{PA:10} I don't mind.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:47_0_1"
+msgid "It's the Kansai that pisses me off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:48_0_0"
+msgid "There's no Dojima or Kansai to a dragon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:49_0_0"
+msgid "We only need one in this business.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:50_0_0"
+msgid "Ain't room for more than that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:51_0_0"
+msgid "Don't ya think?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:52_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Maybe so.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:53_0_0"
+msgid "Lookit that,{PA:10} we see eye to eye.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:54_0_0"
+msgid "This must be fate.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:55_0_0"
+msgid "Here's another tip for ya,{PA:10} while I'm at it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:56_0_0"
+msgid "Midnight tonight.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:57_0_0"
+msgid "Biggest damn fireworks ya ever saw.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:57_0_1"
+msgid "Right in Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:58_0_0"
+msgid "Fireworks?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:59_0_0"
+msgid "It's just a little show I set up.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:60_0_0"
+msgid "The party of a lifetime's set to start,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:60_0_1"
+msgid "my friend.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:61_0_0"
+msgid "What party?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:62_0_0"
+msgid "The fireworks are just the opening ceremony.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:63_0_0"
+msgid "And then,{PA:10} tomorrow.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:64_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:65_0_0"
+msgid "dies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:66_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:67_0_0"
+msgid "And I become the one true dragon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:68_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}But I've said too much.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:69_0_0"
+msgid "Kick back and relax,{PA:10} Mr.{PA:20} Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:69_0_1"
+msgid "Enjoy yer evening.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:70_0_0"
+msgid "Oh.{PA:20}.{PA:20}.{PA:20} One more thing.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:71_0_0"
+msgid "Wear some cologne or something if ya plan"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:71_0_1"
+msgid "on going out tomorrow.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:72_0_0"
+msgid "What's your point?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:73_0_0"
+msgid "I could smell ya from a mile away,{PA:10} pal.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:74_0_0"
+msgid "You reek of blood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:75_0_0"
+msgid "Kazuma Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:76_0_0"
+msgid "See ya around.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:77_0_0"
+msgid "Fireworks?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:78_0_0"
+msgid "Midnight.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0040C.DAT/1___FILE.BIN::line:79_0_0"
+msgid "What the hell is he up to?{PA:20}"
+msgstr ""
+

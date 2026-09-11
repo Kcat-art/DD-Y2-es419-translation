@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:0_0_0"
+msgid "It's past midnight.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Isn't Daigo Dojima waiting for you to"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:1_0_1"
+msgid "get him at one?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:2_0_0"
+msgid "What the hell are you doing?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:2_0_1"
+msgid "Shouldn't you be heading out?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Hey.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Aren't you scared?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Of what?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Finding out about your past.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:7_0_0"
+msgid "What kind of question is that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Hear me out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:9_0_0"
+msgid "My parents.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:10_0_0"
+msgid "were killed by the Tojo.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:11_0_0"
+msgid "What?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I learned that last year.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:13_0_0"
+msgid "The man who killed them was the one who led"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:13_0_1"
+msgid "me into this life.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:14_0_0"
+msgid "A man named Shintaro Fuma.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:15_0_0"
+msgid "That's the secret you were talking about?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:16_0_0"
+msgid "I grew up thinking of Fuma as my father,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:16_0_1"
+msgid "so I was able to forgive him in the end.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:17_0_0"
+msgid "But what about you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:18_0_0"
+msgid "If it were me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:19_0_0"
+msgid "If I learned who killed my parents.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:20_0_0"
+msgid "I don't think I could forgive them,{PA:10} no"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:20_0_1"
+msgid "matter who it was.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Of course I'm scared to find out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:22_0_0"
+msgid "But that won't stop me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:23_0_0"
+msgid "This is the road I've chosen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:24_0_0"
+msgid "I see.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Then use me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Stay close and find out what you can about"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:26_0_1"
+msgid "the Tojo Clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:27_0_0"
+msgid "If you think it'll uncover your past,{PA:10} do it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:28_0_0"
+msgid "You mean that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:29_0_0"
+msgid "You were a Tojo member,{PA:10} weren't you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:29_0_1"
+msgid "Can you really say that?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:30_0_0"
+msgid "I'm not proud of my life as a yakuza.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:31_0_0"
+msgid "And if you had something to do with it?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:32_0_0"
+msgid "Then you point that thing at me,{PA:10} squeeze the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:32_0_1"
+msgid "trigger and don't look back.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:33_0_0"
+msgid "You said you couldn't forgive anyone,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:34_0_0"
+msgid "Right.{PA:20}.{PA:20}.{PA:20} I'll do that.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:35_0_0"
+msgid "Where are you going?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:36_0_0"
+msgid "To do my job.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:37_0_0"
+msgid "What job?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:38_0_0"
+msgid "Protecting you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:39_0_0"
+msgid "Let's move out.{PA:20}"
+msgstr ""
+

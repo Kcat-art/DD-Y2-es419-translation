@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:0_0_0"
+msgid "He's pretty tired,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:1_0_0"
+msgid "You like Kazuma a lot,{PA:10} huh,{PA:10} Haruka?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Yup.{PA:20} He always protects me.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:3_0_0"
+msgid "How about you,{PA:10} Kaoru?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Oh,{PA:10} I'm just with him because of work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:4_0_1"
+msgid "I'm here,{PA:10} like him or not.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:5_0_0"
+msgid "He sure seems to like you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Hmm?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:7_0_0"
+msgid "He acts different around you than he does"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:7_0_1"
+msgid "around other people.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Different how?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:9_0_0"
+msgid "He acts.{PA:20}.{PA:20}.{PA:20}like he does around me,{PA:10} I guess.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:10_0_0"
+msgid "And how does he act around you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:11_0_0"
+msgid "He's usually quiet,{PA:10} but he's really nice.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:12_0_0"
+msgid "People always ask him for help.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:12_0_1"
+msgid "He pushes himself really hard for them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:13_0_0"
+msgid "I guess he doesn't have to worry when he's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:13_0_1"
+msgid "with you,{PA:10} so he can just be himself.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:14_0_0"
+msgid "I see.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:15_0_0"
+msgid "You're pretty grown up,{PA:10} Haruka.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:16_0_0"
+msgid "I don't think so.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I just saw him go through a lot of sad"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:17_0_1"
+msgid "stuff,{PA:10} that's all.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Now I sort of understand how he feels.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:19_0_0"
+msgid "What happened?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:20_0_0"
+msgid "They tailed us here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0070.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Floor it and keep going!{PA:20}"
+msgstr ""
+

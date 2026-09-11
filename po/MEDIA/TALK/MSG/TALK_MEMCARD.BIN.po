@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_MEMCARD.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_0_0"
+msgid "Debug Data Idle Successful"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_1_0"
+msgid "Debug Data Load Successful"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_2_0"
+msgid "Debug Data Save Successful"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_3_0"
+msgid "Debug Data Format Successful"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_4_0"
+msgid "Debug Data Check Successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_5_0"
+msgid "Idle Successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_6_0"
+msgid "Load successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_7_0"
+msgid "Save successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_8_0"
+msgid "Format Successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:0_9_0"
+msgid "Check Successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:1_0_0"
+msgid "Idling.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:1_1_0"
+msgid "Loading.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:1_2_0"
+msgid "Saving.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:1_3_0"
+msgid "Formatting.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:1_4_0"
+msgid "Checking.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:2_0_0"
+msgid "Debug.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:2_1_0"
+msgid "\"YAKUZA 2\" Save Data"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:2_2_0"
+msgid "\"YAKUZA 2\" Save Data"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:3_0_0"
+msgid "Idle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:3_1_0"
+msgid "Load"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:3_2_0"
+msgid "Save"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:3_3_0"
+msgid "Format"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:3_4_0"
+msgid "Check"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:4_0_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:4_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_0_0"
+msgid "Press {IC:00_03}➿"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_2_0"
+msgid "successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_4_0"
+msgid "Do not remove memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_5_0"
+msgid "in MEMORY CARD slot 1,{PA:10} controller"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_6_0"
+msgid "or reset / switch off the console.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_7_0"
+msgid "Are you sure you want to use this Save Data?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_8_0"
+msgid "Version is invalid.{PA:20} It will be formatted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_9_0"
+msgid "Save failed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_10_0"
+msgid "Load failed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_11_0"
+msgid "Format failed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_12_0"
+msgid "       If you continue the game,{PA:10}||     you will not be able to save.{PA:20}|| \"YAKUZA 2\" requires: 220KB of free space.{PA:20}||Would you like to continue without saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_13_0"
+msgid "Would you like to continue without loading?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:5_14_0"
+msgid "Would you like to continue without saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_0_0"
+msgid "OK"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_7_0"
+msgid "No memory card (8MB)(for PlayStation®2) inserted"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_8_0"
+msgid "in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_12_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_13_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_14_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_15_0"
+msgid "is corrupted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_21_0"
+msgid "The memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_22_0"
+msgid "in MEMORY CARD slot 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_23_0"
+msgid "has been removed or inserted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_28_0"
+msgid "Formatting canceled.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_30_0"
+msgid "Are you sure you want to continue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_31_0"
+msgid "without saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_35_0"
+msgid "All \"YAKUZA 2\" data on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_36_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_37_0"
+msgid "in MEMORY CARD slot 1 is corrupted and cannot be overwritten.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_38_0"
+msgid "Please delete corrupted data in the console browser.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_42_0"
+msgid "Insufficient space on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_43_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_44_0"
+msgid "in MEMORYCARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_45_0"
+msgid "\"YAKUZA 2\" requires at least 220KB of free space.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_46_0"
+msgid " Would you like to continue without saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_49_0"
+msgid "Failed to create file on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_50_0"
+msgid "memory card (8MB)(for PlayStation®2).{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_56_0"
+msgid "Save canceled.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_63_0"
+msgid "All \"YAKUZA 2\" data on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_64_0"
+msgid "memory card(8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_65_0"
+msgid "in MEMORY CARD slot 1 may be corrupted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_66_0"
+msgid "Would you like to overwrite corrupted"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_67_0"
+msgid "\"YAKUZA 2\" data?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_70_0"
+msgid "Please check memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_71_0"
+msgid "in MEMORY CARD slot 1 and try again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_77_0"
+msgid "Format Successful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_84_0"
+msgid "\"YAKUZA 2\" File does not exist on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_85_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_86_0"
+msgid "in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_87_0"
+msgid "Would you like to create a new \"YAKUZA 2\" File?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_91_0"
+msgid "Please check memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_92_0"
+msgid "in MEMORY CARD slot 1 and try again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_98_0"
+msgid "Please check memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_99_0"
+msgid "in MEMORY CARD slot 1 and try again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_105_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_106_0"
+msgid "is unformatted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_112_0"
+msgid "All \"YAKUZA 2\" data on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_113_0"
+msgid "memory card(8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_114_0"
+msgid "in MEMORY CARD slot 1 may be corrupted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_119_0"
+msgid "No \"YAKUZA 2\" Save Data present"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_120_0"
+msgid "on memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_121_0"
+msgid "in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_126_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_127_0"
+msgid "has already been formatted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_133_0"
+msgid "\"YAKUZA 2\" File does not exist on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_134_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_135_0"
+msgid "in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_136_0"
+msgid "Would you like to create a new \"YAKUZA 2\" File?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_140_0"
+msgid "All \"YAKUZA 2\" data on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_141_0"
+msgid "memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_142_0"
+msgid "in MEMORY CARD slot 1 may be corrupted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_143_0"
+msgid "Would you like to overwrite corrupted"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_144_0"
+msgid "\"YAKUZA 2\" data?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_147_0"
+msgid "この\"PlayStation 2\"専用メモリーカード（8ＭＢ）は"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_148_0"
+msgid "⸢龍が如く2⸥では対応していません。{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_149_0"
+msgid " Would you like to continue without saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_154_0"
+msgid "The memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_155_0"
+msgid "in MEMORY CARD slot 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_156_0"
+msgid "is unformatted.{PA:20} Would you like to format?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_161_0"
+msgid "\"YAKUZA 2\" data will be saved.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_162_0"
+msgid "Caution!{PA:20} \"YAKUZA 2\" data already exists on"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_163_0"
+msgid "this memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_164_0"
+msgid "in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_165_0"
+msgid "Do you want to overwrite this data?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_168_0"
+msgid "Save canceled.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_175_0"
+msgid "Load canceled.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_182_0"
+msgid "Are you sure you want to continue"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_183_0"
+msgid "without saving?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_189_0"
+msgid "The memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_190_0"
+msgid "in MEMORY CARD slot 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_191_0"
+msgid "is unformatted.{PA:20} Would you like to format?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_196_0"
+msgid "Version is invalid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_197_0"
+msgid "It will be formatted.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_203_0"
+msgid "Premium Box is unlocked and will be saved to"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_204_0"
+msgid "the memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_205_0"
+msgid "in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_206_0"
+msgid "Do you want to save?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_210_0"
+msgid "No \"YAKUZA\" Save Data present"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_211_0"
+msgid "on memory card (8MB)(for PlayStation®2)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD.BIN::line:6_212_0"
+msgid "in MEMORY CARD slot 1.{PA:20}"
+msgstr ""
+

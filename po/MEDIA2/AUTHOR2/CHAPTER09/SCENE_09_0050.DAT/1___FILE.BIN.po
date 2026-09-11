@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:0_0_0"
+msgid "What the hell is this?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Go-Ryu lowlifes?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Out the way,{PA:10} jack-off!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:3_0_0"
+msgid "We meet again,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:4_0_0"
+msgid "You're not setting one foot inside.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Mr.{PA:20} Ryuji ain't here today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Just me an' some boys here to bury"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:6_0_1"
+msgid "yer sorry ass!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Get 'im!{PA:20}"
+msgstr ""
+

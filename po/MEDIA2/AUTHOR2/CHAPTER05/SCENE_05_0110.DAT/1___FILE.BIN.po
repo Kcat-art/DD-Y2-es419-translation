@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Kiryu's a beast!{PA:20} He's unstoppable!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:0_0_1"
+msgid "The former king falls hard again!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:1_0_0"
+msgid "We've reached the final round.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:1_0_1"
+msgid "It's time for the big man's appearance!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Current underground tournament champ,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:2_0_1"
+msgid "Goro Majima!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Not once in the six months since his"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:3_0_1"
+msgid "appearance on the stage"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:4_0_0"
+msgid "has Mad Dog Majima tasted defeat!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Look at that chilling entrance!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:5_0_1"
+msgid "Half performance art,{PA:10} half raw power!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Is Kiryu the man to take him down?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Both fighters are in the ring!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Whaddya think,{PA:10} Kaz?{PA:20} I'm hot,{PA:10} right?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:9_0_0"
+msgid "You always were the one guy I couldn't read.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Well,{PA:10} let's get to it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:10_0_1"
+msgid "Fair and square,{PA:10} Kazzy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Here's the gong!{PA:20}"
+msgstr ""
+

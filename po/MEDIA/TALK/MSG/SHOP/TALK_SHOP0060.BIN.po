@@ -1,0 +1,753 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::name:0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_0_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_1_0"
+msgid "Total"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_2_0"
+msgid "Price"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_5_0"
+msgid "You don't got enough money,{PA:10} boss.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_6_0"
+msgid "That what you're lookin' for?{PA:20}||That's gonna be {NU:02_0c_00}000000000000 yen,{PA:10} then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_7_0"
+msgid "Anything else I can get ya?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_8_0"
+msgid "You don't got room,{PA:10} boss.{PA:20}||Get your things in order first.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_9_0"
+msgid "(Too many items.{PA:20}.{PA:20}.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_10_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:0_17_0"
+msgid "pts"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_0_0"
+msgid "Staminan X"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_1_0"
+msgid "Staminan XX"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_2_0"
+msgid "Staminan Royale"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_3_0"
+msgid "Staminan Spark"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_4_0"
+msgid "Tauriner"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_5_0"
+msgid "Tauriner +"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_6_0"
+msgid "Tauriner ++"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_7_0"
+msgid "Elegant Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_8_0"
+msgid "Wooden Hammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_9_0"
+msgid "Sake Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_10_0"
+msgid "Cedar Slat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_11_0"
+msgid "Dart"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_12_0"
+msgid "Kettle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_13_0"
+msgid "Softball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_14_0"
+msgid "Bug Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_15_0"
+msgid "Saw"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_16_0"
+msgid "Gentleman's Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_17_0"
+msgid "Rope"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_18_0"
+msgid "Cleaver"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_19_0"
+msgid "Water Pot"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_20_0"
+msgid "Pliers"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_21_0"
+msgid "Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_22_0"
+msgid "Lamp"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_23_0"
+msgid "Golf Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_24_0"
+msgid "Crowbar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_25_0"
+msgid "Ashtray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_26_0"
+msgid "Beer Bottle"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_27_0"
+msgid "Sledgehammer"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_28_0"
+msgid "Attaché Case"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_29_0"
+msgid "Table Salt"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_30_0"
+msgid "Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_31_0"
+msgid "Brass Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_32_0"
+msgid "Modified Lighter"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_33_0"
+msgid "Blackjack"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_34_0"
+msgid "Stun Gun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_35_0"
+msgid "Pepper Spray"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_36_0"
+msgid "Special Police Baton"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_37_0"
+msgid "Modified Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_38_0"
+msgid "Modif.{PA:20} Portable Stove"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_39_0"
+msgid "Iron Pipe"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_40_0"
+msgid "Butterfly Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_41_0"
+msgid "Ninja Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_42_0"
+msgid "Old Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_43_0"
+msgid "Long Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_44_0"
+msgid "Mifune's Kodachi"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_45_0"
+msgid "Musashi's Dagger"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_46_0"
+msgid "Survival Knife"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_47_0"
+msgid "Dark Wooden Sword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_48_0"
+msgid "Bungo Shimizu Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_49_0"
+msgid "Classic Katana Shadow"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_50_0"
+msgid "\"Scattered Blossoms\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_51_0"
+msgid "Mystic Katana \"Asura\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_52_0"
+msgid "Chinese Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_53_0"
+msgid "Lau's Broadsword"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_54_0"
+msgid "Iai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_55_0"
+msgid "Old Chinese Broadswd"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_56_0"
+msgid "Nameless Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_57_0"
+msgid "Wooden Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_58_0"
+msgid "Tesshusai Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_59_0"
+msgid "Mail Order Katana"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_60_0"
+msgid "Antique Hand Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_61_0"
+msgid "Lightning Bomb"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_62_0"
+msgid "Flash Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_63_0"
+msgid "Tear Gas Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_64_0"
+msgid "Smoke Grenade"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_65_0"
+msgid "Handmade Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_66_0"
+msgid "9mm Semi-Automatic"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_67_0"
+msgid "Shotgun"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_68_0"
+msgid "Old Semi-Auto Pistol"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_69_0"
+msgid "Western Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_70_0"
+msgid "Bulletproof Shield"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_71_0"
+msgid "Bulletproof Vest"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_72_0"
+msgid "Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_73_0"
+msgid "Fighter's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_74_0"
+msgid "Fearless Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_75_0"
+msgid "Chain Mail"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_76_0"
+msgid "Demon's Binding"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_77_0"
+msgid "9-Iron"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_78_0"
+msgid "Black Shaft"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_79_0"
+msgid "Metal Club"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_80_0"
+msgid "Spiked Bat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_81_0"
+msgid "100lb Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_82_0"
+msgid "Patriarch's Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_83_0"
+msgid "Extendable Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_84_0"
+msgid "Iron Umbrella"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:1_85_0"
+msgid "Hercules Knuckles"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_0_0"
+msgid "The famous Staminan,{PA:10} for when your mind and||body need a small boost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_1_0"
+msgid "When you're really tired,{PA:10} this'll give your||mind and body a big boost.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_2_0"
+msgid "Staminan Royale is our most effective drink||for restoring the mind and body.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_3_0"
+msgid "There is nothing more effective at healing||the mind and body.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_4_0"
+msgid "When you feel like you need a HEAT boost,{PA:10}||it'll give you what you need to keep going.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_5_0"
+msgid "This is what you need to refresh your spirit||and bring some excitement to your life.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_6_0"
+msgid "For when you need to really refresh your||spirit and get your HEAT on.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_7_0"
+msgid "This high-class umbrella makes for a good||weapon.{PA:20} It's pretty durable,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_8_0"
+msgid "A wooden hammer.{PA:20} How about some do-it-||yourself carpentry?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_9_0"
+msgid "A sake bottle for glass collectors.{PA:20}||If you're interested,{PA:10} buy it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_10_0"
+msgid "A common piece of wood,{PA:10} used for construc-||tion.{PA:20} Or,{PA:10} you can build a fire with it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_11_0"
+msgid "Darts.{PA:20} They're great for killing time.{PA:20}||Don't go throwing 'em at people,{PA:10} now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_12_0"
+msgid "A kettle.{PA:20} Because it's cold out.{PA:20}||It'll boil water for you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_13_0"
+msgid "A ball.{PA:20} It's great for killing time.{PA:20}||Plus it's cheap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_14_0"
+msgid "Bug spray.{PA:20} It's winter,{PA:10} so there's not much||demand for it now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_15_0"
+msgid "A saw.{PA:20} It's pretty convenient to have||around.{PA:20} Priceless around these parts.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_16_0"
+msgid "You can actually use this gentleman's||umbrella as a weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_17_0"
+msgid "Rope.{PA:20} You can use it in a lot of different||ways.{PA:20} Try it out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_18_0"
+msgid "A Chinese cleaver.{PA:20} It's got some weight to||it,{PA:10} making it great for chopping.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_19_0"
+msgid "A water pot.{PA:20} Found at a junk yard.{PA:20}||It still works.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_20_0"
+msgid "A pair of pliers.{PA:20} It's a household item,{PA:10} so||I'll let it go for cheap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_21_0"
+msgid "A bat.{PA:20} If you buy a ball,{PA:10} you gotta get||this,{PA:10} too.{PA:20} It's a pretty good bat.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_22_0"
+msgid "A lamp.{PA:20} It's fragile,{PA:10} so be careful with it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_23_0"
+msgid "A golf club.{PA:20} You can get some good hits||if used properly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_24_0"
+msgid "A crowbar.{PA:20} You can use it to pull nails.{PA:20}||It's cheap.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_25_0"
+msgid "An ashtray.{PA:20} It's made of pretty hard glass,{PA:10}||but it'll break if you hit it too hard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_26_0"
+msgid "A beer bottle.{PA:20} Well,{PA:10} my philosophy is to||sell anything and everything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_27_0"
+msgid "A sledgehammer.{PA:20} I don't think it's too||useful for most people.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_28_0"
+msgid "This attaché case is built sturdy.{PA:20} Looks||like it could cause some pain.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_29_0"
+msgid "Table salt.{PA:20} Everyone needs it.{PA:20}||Don't get it in your eyes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_30_0"
+msgid "A police baton.{PA:20} It's compact and easy to||wield.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_31_0"
+msgid "Brass knuckles.{PA:20} You're used to these,{PA:10} aren't||you?{PA:20} Press {IC:00_00}➿ for a cool move.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_32_0"
+msgid "A regular lighter with some modifications.{PA:20}||For defensive purposes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_33_0"
+msgid "The blackjack.{PA:20} It just flat-out hurts.{PA:20}||Give it a shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_34_0"
+msgid "A stun gun.{PA:20} Popular with the younger||folks these days.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_35_0"
+msgid "Pepper spray.{PA:20} A tool for protection.{PA:20}||Don't expect too much from it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_36_0"
+msgid "With this specially made baton,{PA:10} you can||electrocute your opponents when you hit them.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_37_0"
+msgid "A modified iron.{PA:20} You can carry it around||town without the police coming after you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_38_0"
+msgid "A modified portable stove.{PA:20} Hit someone with||this,{PA:10} and they'll catch fire.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_39_0"
+msgid "An iron pipe.{PA:20} I found this lying around,{PA:10}||but it makes a decent weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_40_0"
+msgid "The butterfly knife doesn't pack a lot of||power.{PA:20} Maybe use it for fruit?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_41_0"
+msgid "A ninja dagger.{PA:20} It's light and easy to use.{PA:20}||I doubt it's authentic or anything.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_42_0"
+msgid "This dagger is old,{PA:10} but it's sharp.{PA:20}||It's a good knife.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_43_0"
+msgid "The long dagger?{PA:20} It's a good item.{PA:20}||It's almost an antique,{PA:10} in a good way.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_44_0"
+msgid "This is Mifune's Kodachi.{PA:20} A good short||sword.{PA:20} It's used in festivals,{PA:10} too.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_45_0"
+msgid "A dagger used by Miyamoto Musashi.{PA:20} Not sure||it's the real thing,{PA:10} but it's solid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_46_0"
+msgid "A military survival knife.{PA:20} About as good||as a dagger.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_47_0"
+msgid "Made from a hardwood,{PA:10} it's the highest||class of wooden sword on the market.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_48_0"
+msgid "The Bungo Shimizu katana.{PA:20} It's quite a||nice sword.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_49_0"
+msgid "The Shadow katana?{PA:20} It's a great sword.{PA:20}||I recommend it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_50_0"
+msgid "The Scattered Blossom katana?{PA:20} It's a great item,{PA:10}||with a poetic name.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_51_0"
+msgid "The Asura mystic katana.{PA:20}.{PA:20}.{PA:20} It's as good as||katanas come.{PA:20} It can cut like no other.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_52_0"
+msgid "The classic Chinese broadsword.{PA:20} It's a||little rough around the edges,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_53_0"
+msgid "A Chinese broadsword from the Lau family.{PA:20}||I can guarantee its sharpness.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_54_0"
+msgid "This Iai Katana really cuts,{PA:10} so don't||swing it around here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_55_0"
+msgid "An older Chinese broadsword.{PA:20} It'll break||if you use it too roughly.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_56_0"
+msgid "There's no signature on this katana,{PA:10}||but it's good quality.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_57_0"
+msgid "A wooden katana made from oak.{PA:20}||It makes a decent weapon.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_58_0"
+msgid "Tesshusai,{PA:10} eh?{PA:20} It's a good katana that's||signed.{PA:20} It's pretty popular.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_59_0"
+msgid "A mystic sword you can buy by mail order.{PA:20}||It's no big deal.{PA:20} The blade's a replica.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_60_0"
+msgid "An old hand grenade.{PA:20} I found it.{PA:20}||I don't know how powerful it is,{PA:10} though.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_61_0"
+msgid "A lightning bomb.{PA:20} Throw it,{PA:10} and it'll||shock everyone.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_62_0"
+msgid "A flash grenade.{PA:20} It's so bright,{PA:10} anyone||who gets hit goes down.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_63_0"
+msgid "A tear gas grenade.{PA:20} It can temporarily blind||enemies in a fixed area.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_64_0"
+msgid "A smoke grenade.{PA:20} You can temporarily blind||enemies in an area.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_65_0"
+msgid "A handmade,{PA:10} old-style semi-automatic pistol.{PA:20}||There's only one round in the chamber.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_66_0"
+msgid "A 9mm pistol.{PA:20} It's easy to use,{PA:10} and fairly||precise.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_67_0"
+msgid "A shotgun.{PA:20} Shoots a spread of shot pellets.{PA:20}||It's pretty powerful.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_68_0"
+msgid "An old-style semi-automatic pistol.{PA:20} It's||pretty old so it's not a very accurate shot.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_69_0"
+msgid "A European shield.{PA:20} It's built well but,{PA:10} you||know,{PA:10} it's for decoration.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_70_0"
+msgid "A bulletproof shield.{PA:20} Not as good as a||bulletproof vest but it'll keep you safe.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_71_0"
+msgid "An item with great defense.{PA:20} It's built||from special materials.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_72_0"
+msgid "Wrap this cloth binding around the||midsection to protect your vital parts.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_73_0"
+msgid "This cloth binding is thick enough that most||punches will be ineffective.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_74_0"
+msgid "This cloth binding is famous in yakuza||circles.{PA:20} How about one?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_75_0"
+msgid "A little outdated,{PA:10} but it still gets the job||done.{PA:20} It's pretty solid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_76_0"
+msgid "Demon's Binding.{PA:20} Tightly bound,{PA:10} thick cloth||with steel to protect the body.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_77_0"
+msgid "A 9-iron golf club.{PA:20} You'll hit some||good shots.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_78_0"
+msgid "The newest technology in golf clubs.{PA:20}||It'll give you a powerful stroke.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_79_0"
+msgid "A metal club.{PA:20} Its destructive power is||pretty impressive.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_80_0"
+msgid "The spiked bat is just what it looks like.{PA:20}||I'm sure you've used one before,{PA:10} eh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_81_0"
+msgid "This 100-pound ball is non-regulation,{PA:10} so be||careful if you take it bowling.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_82_0"
+msgid "A certain family patriarch's personal ball.{PA:20}||It's easy to use.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_83_0"
+msgid "This is a light,{PA:10} easy-to-carry stick that||extends to be pretty long.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_84_0"
+msgid "An iron umbrella.{PA:20} It's an odd weapon,{PA:10} but||still pretty popular.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0060.BIN::line:2_85_0"
+msgid "These Hercules Knuckles are pretty new.{PA:20} They're||made from a special light but hard alloy.{PA:20}"
+msgstr ""
+

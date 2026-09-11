@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:0_0_0"
+msgid "R-Ryuji?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:1_0_0"
+msgid "What the fuck are ya doing in here?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:2_0_0"
+msgid "My heart goes out to ya,{PA:10} Kiryu.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Havin' to put up with this chump's games.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:4_0_0"
+msgid "H-Hey!{PA:20} Wait,{PA:10} ya little.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Y-You fuckin' crazy?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:6_0_0"
+msgid "I'm a man ready to do whatever it takes,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:6_0_1"
+msgid "same as you.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:7_0_0"
+msgid "But takin' a kid hostage is in poor taste.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:8_0_0"
+msgid "A man my ass!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:8_0_1"
+msgid "You'd be nothing if not for daddy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Enough outta you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:10_0_0"
+msgid "That takes care of that interruption.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Day after tomorrow,{PA:10} friend.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:12_0_0"
+msgid "We invade Kamurocho with all we got.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:13_0_0"
+msgid "You ready?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:14_0_0"
+msgid "I'm ready.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Later,{PA:10} then.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:16_0_0"
+msgid "You must have been so scared.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:17_0_0"
+msgid "I'm so sorry.{PA:20}.{PA:20}.{PA:20} I'm sorry I let this happen"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:17_0_1"
+msgid "to you again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Are you okay?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:19_0_0"
+msgid "I'll be fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Uncle Kaz!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Looks like that wound reopened a bit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:22_0_0"
+msgid "What?{PA:20} He's hurt?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:23_0_0"
+msgid "He'll be good as new in no time.{PA:20} I promise.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Thank goodness.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:25_0_0"
+msgid "Why are you.{PA:20}.{PA:20}.{PA:20} here?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Mama told me about the note you got.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:27_0_0"
+msgid "Ah.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:28_0_0"
+msgid "I'm glad you're all right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:29_0_0"
+msgid "Always gotta be the tough guy,{PA:10} don't ya?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:30_0_0"
+msgid "Ya big lunk.{PA:20}"
+msgstr ""
+

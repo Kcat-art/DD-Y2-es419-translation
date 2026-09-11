@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_SELECTMENU.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_0_0"
+msgid "Continue game"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_1_0"
+msgid "Quit game"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_2_0"
+msgid "Do you want to quit?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_3_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_5_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_6_0"
+msgid "Resume Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_7_0"
+msgid "Quit Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_8_0"
+msgid "CH"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_10_0"
+msgid "Adventure Review"
+msgstr ""
+

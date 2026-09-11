@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:0_0_0"
+msgid "You're out of the clan!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Get the hell out of here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:2_0_0"
+msgid "You fucked over the whole clan for your own"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:2_0_1"
+msgid "stupid greed!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Die,{PA:10} you sleazy pervert!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I'm mortified.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:5_0_0"
+msgid "I can't believe a man like Shindo put"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:5_0_1"
+msgid "his hands on me.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Lady Chairman,{PA:10} I'm so sorry!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:7_0_0"
+msgid "It's not your fault.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:8_0_0"
+msgid "You can see a threat coming from outside.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:9_0_0"
+msgid "When it comes from within like this,{PA:10} there's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:9_0_1"
+msgid "not much you can do.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:10_0_0"
+msgid "But listen good.{PA:20} Tell all your men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:11_0_0"
+msgid "If any of them spot the Omi here in"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:11_0_1"
+msgid "Kamurocho,{PA:10} take no prisoners.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:12_0_0"
+msgid "I want them out of our town!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Yes,{PA:10} ma'am!{PA:20}"
+msgstr ""
+

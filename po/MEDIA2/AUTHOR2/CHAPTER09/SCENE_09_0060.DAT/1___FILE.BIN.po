@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Daigo!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:1_0_0"
+msgid "Go-Ryu Clan?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Yes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Ryuji Goda!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Mornin',{PA:10} Mr.{PA:20} Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:5_0_0"
+msgid "What kind of person starts something at"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:5_0_1"
+msgid "a funeral?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:6_0_0"
+msgid "My boys are just so excitable.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:6_0_1"
+msgid "Can't do a thing about 'em.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:7_0_0"
+msgid "I tell 'em to cool it,{PA:10} they still go"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:7_0_1"
+msgid "runnin' off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Really,{PA:10} it's terrible what they did.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:9_0_0"
+msgid "What the hell are you here for?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:10_0_0"
+msgid "Old man Terada did right by me as a kid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:10_0_1"
+msgid "Thought I'd come pay my respects.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Your respects don't mean a damn here!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:11_0_1"
+msgid "Now get lost!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:12_0_0"
+msgid "You been lookin' all grim for a while there.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:12_0_1"
+msgid "Who are you?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Kashiwagi.{PA:20} Interim Second-in-Command.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:14_0_0"
+msgid "No shit?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:14_0_1"
+msgid "Damn,{PA:10} here I was guessin' undertaker.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:15_0_0"
+msgid "Guess that can't be helped.{PA:20} The Tojo Clan's"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:15_0_1"
+msgid "awful short on men.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:16_0_0"
+msgid "Yer big boss who croaked was cherry-picked"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:16_0_1"
+msgid "from another clan.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:17_0_0"
+msgid "His replacement's Miss Black Widow here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:18_0_0"
+msgid "Thinkin' this is the group I'm up against"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:18_0_1"
+msgid "almost makes me wanna cry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:19_0_0"
+msgid "You killed Terada,{PA:10} asshole!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:20_0_0"
+msgid "Hey,{PA:10} buddy.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:20_0_1"
+msgid "What happened to all that spunk,{PA:10} huh?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:21_0_0"
+msgid "Shit.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:22_0_0"
+msgid "I'll fucking kill you!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:23_0_0"
+msgid "Where is Chairman Goda?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:24_0_0"
+msgid "Taking a little vacation.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:24_0_1"
+msgid "Up where the air's nice and clean.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:25_0_0"
+msgid "You're trying to stop the truce?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:26_0_0"
+msgid "Course I am.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:27_0_0"
+msgid "The great Omi Alliance and this wobbly-ass"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:27_0_1"
+msgid "clan joining up?{PA:20} That's hardly even.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:28_0_0"
+msgid "Did you come here to pick a fight?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:29_0_0"
+msgid "No,{PA:10} sir.{PA:20} Ya heard me before.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:30_0_0"
+msgid "I came to offer some incense for Terada.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:30_0_1"
+msgid "That's all.{PA:20} Honest.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:31_0_0"
+msgid "Look,{PA:10} I'm as human as the next guy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:32_0_0"
+msgid "I'm not one to make trouble at a funeral.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:32_0_1"
+msgid "This shit's sacred.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:33_0_0"
+msgid "A little condolence gift.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:34_0_0"
+msgid "We don't need any Go-Ryu money!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:35_0_0"
+msgid "Tojo near fell apart last year.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:35_0_1"
+msgid "All that over what,{PA:10} a measly 10 billion?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:36_0_0"
+msgid "If you're havin' money troubles,{PA:10} I suggest"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:36_0_1"
+msgid "ya go on and take it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:37_0_0"
+msgid "You think childish taunts like this make you"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:37_0_1"
+msgid "man enough to be the next Omi Chairman?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:38_0_0"
+msgid "You're the stand-in Chairman?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:39_0_0"
+msgid "When I think of what Chairman Goda must feel,{PA:10}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:39_0_1"
+msgid "I could damn near cry.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:40_0_0"
+msgid "What's that supposed to mean,{PA:10} granny?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:41_0_0"
+msgid "No matter how bad they turn out,{PA:10} every"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:41_0_1"
+msgid "parent loves their kid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:42_0_0"
+msgid "But when their flesh and blood goes this"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:42_0_1"
+msgid "bad,{PA:10} all a parent feels is unbearable shame.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:43_0_0"
+msgid "I ain't the old man's flesh and blood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:44_0_0"
+msgid "What?!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:45_0_0"
+msgid "So can the parental love bullshit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:46_0_0"
+msgid "All we got is mutual hatred.{PA:20} Lots of it.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:47_0_0"
+msgid "I feel bad for you,{PA:10} buddy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:47_0_1"
+msgid "Yer ma's a bitch.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:48_0_0"
+msgid "You asshole!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:49_0_0"
+msgid "That's enough fun for today.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:50_0_0"
+msgid "Looks like I'm not wanted here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:50_0_1"
+msgid "I'll just let myself out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:51_0_0"
+msgid "Oh.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:52_0_0"
+msgid "Three days.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:53_0_0"
+msgid "Three days?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:54_0_0"
+msgid "Yeah.{PA:20}.{PA:20}.{PA:20} I'll call the next three days"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:54_0_1"
+msgid "a mourning period.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:55_0_0"
+msgid "After that,{PA:10} the break's over.{PA:20} Back to work.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:56_0_0"
+msgid "Back to war,{PA:10} you mean?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:57_0_0"
+msgid "That's right.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:58_0_0"
+msgid "Let's quit beating 'round the bush.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:58_0_1"
+msgid "Let's settle this now.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:59_0_0"
+msgid "I'm gonna make Kamurocho rain blood.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:60_0_0"
+msgid "Ah,{PA:10} but we got one uncouth old bastard.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:61_0_0"
+msgid "He's probably out in Kamurocho someplace"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:61_0_1"
+msgid "right now,{PA:10} puttin' on a big ol' show.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:62_0_0"
+msgid "Uncouth?{PA:20} .{PA:20}.{PA:20}.{PA:20}Who?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:63_0_0"
+msgid "Mr.{PA:20} Sengoku.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0060.DAT/1___FILE.BIN::line:64_0_0"
+msgid "Sengoku.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+

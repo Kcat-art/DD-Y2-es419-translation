@@ -1,0 +1,2557 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_0_0"
+msgid "Premium Box"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_1_0"
+msgid "Adventure Review"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_2_0"
+msgid "Battle Review"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_3_0"
+msgid "\"Yakuza\" Movie Reflection"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_4_0"
+msgid "Try Again"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_5_0"
+msgid "???{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_6_0"
+msgid "Play the side missions without progressing||through the main story.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_7_0"
+msgid "Compete in battles with various rules and||restrictions,{PA:10} such as timed battles.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_8_0"
+msgid "Watch in-game movies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:0_9_0"
+msgid "Replay from the beginning or a desired||chapter.{PA:20} Also choose Kiryu's appearance.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:1_0_0"
+msgid "Begin Adventure Review?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:1_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:1_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:2_0_0"
+msgid "Do you want to quit?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:2_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:2_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_0_0"
+msgid "Try Again"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_1_0"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_2_0"
+msgid "Costume"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_3_0"
+msgid "Infinite Weapon Durability"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_4_0"
+msgid "Infinite HEAT"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_5_0"
+msgid "Normal"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_6_0"
+msgid "Easy"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_7_0"
+msgid "Hard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_8_0"
+msgid "Super Hard"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_9_0"
+msgid "Tattoo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_10_0"
+msgid "Suit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_11_0"
+msgid "Funeral Attire"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_12_0"
+msgid "Off"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_13_0"
+msgid "On"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_14_0"
+msgid "Off"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_15_0"
+msgid "On"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_16_0"
+msgid "START"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_17_0"
+msgid "Adjust game difficulty.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_18_0"
+msgid "Change Kiryu's clothes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_19_0"
+msgid "Weapons will not break.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_20_0"
+msgid "Constantly in HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_21_0"
+msgid "Play again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_0_0"
+msgid "Speed Attack Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_1_0"
+msgid "Continuous Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_2_0"
+msgid "Trial Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_3_0"
+msgid "Theme Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_4_0"
+msgid "Revenge Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_5_0"
+msgid "Ultimate Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_6_0"
+msgid "???{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_7_0"
+msgid "A time attack mission.{PA:20}||Clear it as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_8_0"
+msgid "A series of battles,{PA:10} following the story||line.{PA:20} You'll be ranked by exp.{PA:20} points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_9_0"
+msgid "Fight battles with special conditions.{PA:20}||Break the rules and it's game over.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_10_0"
+msgid "A series of battles with enemies based on||category.{PA:20} You'll be ranked by exp.{PA:20} points.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_11_0"
+msgid "Individual battles against various Tojo Clan||patriarchs and bosses from the game.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_12_0"
+msgid "A series of battles against the game's boss||characters.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_13_0"
+msgid "You cannot play this battle yet.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:5_0_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:5_1_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:5_2_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:5_3_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:5_4_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:5_5_0"
+msgid "/"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:6_0_0"
+msgid "Battle Stage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:6_1_0"
+msgid "Clear Requirements"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:6_2_0"
+msgid "Highest Rank"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:6_3_0"
+msgid "Kiryu's Appearance"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:6_4_0"
+msgid "No Score"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_0_0"
+msgid "Speed Attack Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_1_0"
+msgid "Course 01"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_2_0"
+msgid "Course 02"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_3_0"
+msgid "Course 03"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_4_0"
+msgid "Course 04"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_5_0"
+msgid "Course 05"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_6_0"
+msgid "Course 06"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_7_0"
+msgid "Course 07"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_8_0"
+msgid "Course 08"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_9_0"
+msgid "Course 09"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_10_0"
+msgid "Course 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_11_0"
+msgid "Course 11"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:7_12_0"
+msgid "Course 12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:8_0_0"
+msgid "Continuous Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:8_1_0"
+msgid "Survival 01"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:8_2_0"
+msgid "Survival 02"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:8_3_0"
+msgid "Survival 03"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:8_4_0"
+msgid "Survival 04"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:8_5_0"
+msgid "Survival 05"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_0_0"
+msgid "Trial Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_1_0"
+msgid "Trial 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_2_0"
+msgid "Trial 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_3_0"
+msgid "Trial 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_4_0"
+msgid "Trial 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_5_0"
+msgid "Trial 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_6_0"
+msgid "Trial 6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_7_0"
+msgid "Trial 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_8_0"
+msgid "Trial 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_9_0"
+msgid "Trial 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_10_0"
+msgid "Trial 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_11_0"
+msgid "Trial 11"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_12_0"
+msgid "Trial 12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_13_0"
+msgid "Trial 13"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_14_0"
+msgid "Trial 14"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:9_15_0"
+msgid "Trial 15"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:10_0_0"
+msgid "Theme Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:10_1_0"
+msgid "Theme 01"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:10_2_0"
+msgid "Theme 02"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:10_3_0"
+msgid "Theme 03"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_0_0"
+msgid "Revenge Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_1_0"
+msgid "Revenge 1"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_2_0"
+msgid "Revenge 2"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_3_0"
+msgid "Revenge 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_4_0"
+msgid "Revenge 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_5_0"
+msgid "Revenge 5"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_6_0"
+msgid "Revenge 6"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_7_0"
+msgid "Revenge 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_8_0"
+msgid "Revenge 8"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_9_0"
+msgid "Revenge 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_10_0"
+msgid "Revenge 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_11_0"
+msgid "Revenge 11"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_12_0"
+msgid "Revenge 12"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_13_0"
+msgid "Revenge 13"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_14_0"
+msgid "Revenge 14"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_15_0"
+msgid "Revenge 15"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_16_0"
+msgid "Revenge 16"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:11_17_0"
+msgid "Revenge 17"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:12_0_0"
+msgid "Ultimate Battle Mission"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:12_1_0"
+msgid "Ultimate Battle I"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:12_2_0"
+msgid "Ultimate Battle II"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:12_3_0"
+msgid "Ultimate Battle III"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_2_0"
+msgid "Stardust"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_3_0"
+msgid "vs.{PA:20} Shimano Family Thugs"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_4_0"
+msgid " - Defeat everyone as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_2_0"
+msgid "Tojo Clan HQ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_3_0"
+msgid "vs.{PA:20} Futo Shimano,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_4_0"
+msgid " - Defeat Shimano as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_2_0"
+msgid "Purgatory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_3_0"
+msgid "vs.{PA:20} Purgatory residents"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_4_0"
+msgid " - Defeat everyone as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_2_0"
+msgid "Serena - Alley"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_3_0"
+msgid "vs.{PA:20} Koji Shindo,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_4_0"
+msgid " - Defeat Shindo as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_2_0"
+msgid "Kamurocho Streets - Deborah"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_3_0"
+msgid "vs.{PA:20} Akai Brothers,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_4_0"
+msgid " - Defeat Akai Bros.{PA:20} as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_2_0"
+msgid "Suiren - Snake Flower Triad HQ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_3_0"
+msgid "vs.{PA:20} Lau Ka Long,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_4_0"
+msgid " - Defeat Lau as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_2_0"
+msgid "Multi-tenant Building"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_3_0"
+msgid "vs.{PA:20} Kazuto Arase,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_4_0"
+msgid " - Defeat Arase as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_2_0"
+msgid "Shangri-La"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_3_0"
+msgid "vs.{PA:20} Goro Majima,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_4_0"
+msgid " - Defeat Majima as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_2_0"
+msgid "Pier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_3_0"
+msgid "vs.{PA:20} Futo Shimano,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_4_0"
+msgid " - Defeat Shimano as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_2_0"
+msgid "Tenkaichi St.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_3_0"
+msgid "vs.{PA:20} Rioters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_4_0"
+msgid " - Defeat everyone as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_2_0"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_3_0"
+msgid "vs.{PA:20} MBI"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_4_0"
+msgid " - Defeat everyone as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_2_0"
+msgid "Ares"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_3_0"
+msgid "vs.{PA:20} Kyohei Jingu,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_4_0"
+msgid " - Defeat Jingu as quickly as possible.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_0_0"
+msgid "The Sleeping Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_1_0"
+msgid "Kiryu with few upgraded abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_2_0"
+msgid "Main areas up to chapter 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_3_0"
+msgid "vs.{PA:20} Major enemies up to chapter 4"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_4_0"
+msgid " - Defeat Hayashi in the final stage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_5_0"
+msgid " - Rank based on experience points earned.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:25_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_2_0"
+msgid "Main areas up to chapter 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_3_0"
+msgid "vs.{PA:20} Major enemies up to chapter 7"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_4_0"
+msgid " - Defeat Shindo in the final stage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_5_0"
+msgid " - Rank based on experience points earned.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_2_0"
+msgid "Main areas up to chapter 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_3_0"
+msgid "vs.{PA:20} Major enemies up to chapter 9"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_4_0"
+msgid " - Defeat Lau in the final stage"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_5_0"
+msgid " - Rank based on experience points earned.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:27_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_0_0"
+msgid "The Scorching Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_1_0"
+msgid "Kiryu with upgraded HEAT abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_2_0"
+msgid "Main areas up to chapter 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_3_0"
+msgid "vs.{PA:20} Major enemies up to chapter 10"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_4_0"
+msgid " - Defeat Arase in the final stage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_5_0"
+msgid " - Rank based on experience points earned.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:28_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_2_0"
+msgid "Main areas from all chapters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_3_0"
+msgid "vs.{PA:20} Main enemies from all chapters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_4_0"
+msgid " - Defeat Nishiki in the final stage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_5_0"
+msgid " - Rank based on experience points earned.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_2_0"
+msgid "Peace Finance"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_3_0"
+msgid "vs.{PA:20} Hirata,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_4_0"
+msgid " - Defeat everyone to complete trial.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_5_0"
+msgid " - Trial fails if Kiryu takes any damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_6_0"
+msgid " - Time limit is 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:30_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_0_0"
+msgid "The Sleeping Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_1_0"
+msgid "Kiryu with few upgraded abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_2_0"
+msgid "Prison Cafeteria"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_3_0"
+msgid "vs.{PA:20} Prisoner #1356,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_4_0"
+msgid " - Finish enemies with HEAT actions only.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_5_0"
+msgid " - Fail if other attacks finish an enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_6_0"
+msgid " - Trial complete when #1356 defeated.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:31_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_0_0"
+msgid "The Scorching Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_1_0"
+msgid "Kiryu with upgraded HEAT abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_2_0"
+msgid "Tojo Clan HQ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_3_0"
+msgid "vs.{PA:20} Futo Shimano,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_4_0"
+msgid " - Trial complete when Shimano is defeated.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_5_0"
+msgid " - Only gun attacks and followup attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_6_0"
+msgid " - Time limit is 12 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:32_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_0_0"
+msgid "The Sleeping Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_1_0"
+msgid "Kiryu with few upgraded abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_2_0"
+msgid "Purgatory"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_3_0"
+msgid "vs.{PA:20} Purgatory residents"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_4_0"
+msgid " - Knock everyone down once.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_5_0"
+msgid " - Fail if an enemy's life drops to 0.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_6_0"
+msgid " - Time limit is 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_2_0"
+msgid "Theater Square"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_3_0"
+msgid "vs.{PA:20} Bloody Eye"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_4_0"
+msgid " - Defeat all enemies using only Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_5_0"
+msgid "   Tiger Drop (match enemy attack w/{IC:00_01}➿).{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_6_0"
+msgid " - Fail if any other attack is used.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_2_0"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_3_0"
+msgid "vs.{PA:20} Kyohei Jingu,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_4_0"
+msgid " - Success when Jingu defeated.{PA:20} (Defeat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_5_0"
+msgid "   everyone in Lobby and Ares Garden.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_6_0"
+msgid " - Only gun attacks and followup attacks.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_7_0"
+msgid " - Time limit is 12 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_0_0"
+msgid "The Scorching Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_1_0"
+msgid "Kiryu with upgraded HEAT abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_2_0"
+msgid "Back Alley"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_3_0"
+msgid "vs.{PA:20} Koji Shindo,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_4_0"
+msgid " - Defeat Shindo while staying in HEAT mode.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_5_0"
+msgid " - Trial fails if HEAT runs out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:36_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_2_0"
+msgid "Park Blvd.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_3_0"
+msgid "vs.{PA:20} Blue Z"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_4_0"
+msgid " - Defeat everyone to complete trial.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_5_0"
+msgid " - Only {IC:00_01}➿ can be used.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_6_0"
+msgid " - Time limit is 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_0_0"
+msgid "The Scorching Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_1_0"
+msgid "Kiryu with upgraded HEAT abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_2_0"
+msgid "Pink St.{PA:20} North"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_3_0"
+msgid "vs.{PA:20} Street toughs"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_4_0"
+msgid " - Defeat everyone without exhausting HEAT.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_5_0"
+msgid " - Trial fails if HEAT runs out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:38_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_2_0"
+msgid "Highway"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_3_0"
+msgid "vs.{PA:20} Snake Flower Triad Remnants"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_4_0"
+msgid " - Trial complete when boss is defeated.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_5_0"
+msgid " - Trial fails if Kiryu is shot even once.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_2_0"
+msgid "Paradise"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_3_0"
+msgid "vs.{PA:20} Bar Staff"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_4_0"
+msgid " - Defeat everyone to complete trial.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_5_0"
+msgid " - Trial fails if Kiryu takes any damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_6_0"
+msgid " - Time limit is 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_2_0"
+msgid "Suiren Kitchen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_3_0"
+msgid "vs.{PA:20} Snake Flower Triad members"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_4_0"
+msgid " - Defeat everyone using only HEAT actions.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_5_0"
+msgid " - Fail if other attacks finish an enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_0_0"
+msgid "The Scorching Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_1_0"
+msgid "Kiryu with upgraded HEAT abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_2_0"
+msgid "Terada's Boat"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_3_0"
+msgid "vs.{PA:20} Shimano family members"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_4_0"
+msgid " - Use HEAT action to throw everyone off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_5_0"
+msgid " - Fail if other attacks finish an enemy.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_6_0"
+msgid " - Time limit is 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:42_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_2_0"
+msgid "Public Park 3"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_3_0"
+msgid "vs.{PA:20} Snake Flower Triad members"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_4_0"
+msgid " - Defeat everyone to complete trial.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_5_0"
+msgid " - Fail if Kiryu takes any damage.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_0_0"
+msgid "The Scorching Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_1_0"
+msgid "Kiryu with upgraded HEAT abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_2_0"
+msgid "Millennium Tower"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_3_0"
+msgid "vs.{PA:20} MBI"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_4_0"
+msgid " - Defeat everyone to complete trial.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_5_0"
+msgid " - Only grappling attacks allowed.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_2_0"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_3_0"
+msgid "vs.{PA:20} Kamurocho residents"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_4_0"
+msgid "Fight through a series of battles featuring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_5_0"
+msgid "Kamurocho residents from \"Yakuza.{PA:20}\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_2_0"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_3_0"
+msgid "vs.{PA:20} Kamurocho gangsters"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_4_0"
+msgid "Fight through a series of battles featuring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_5_0"
+msgid "gang members from \"Yakuza.{PA:20}\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_2_0"
+msgid "Kamurocho"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_3_0"
+msgid "vs.{PA:20} Kamurocho yakuza"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_4_0"
+msgid "Fight through a series of battles featuring"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_5_0"
+msgid "yakuza from \"Yakuza.{PA:20}\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_6_0"
+msgid "(Excludes patriarch-class characters.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_2_0"
+msgid "Prison Cafeteria"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_3_0"
+msgid "vs.{PA:20} Prisoner #1356,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_4_0"
+msgid " - Defeat prisoner #1356 within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_2_0"
+msgid "In front of Stardust"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_3_0"
+msgid "vs.{PA:20} Yuya"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_4_0"
+msgid " - Defeat Yuya within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_2_0"
+msgid "Tojo Clan HQ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_3_0"
+msgid "vs.{PA:20} Futo Shimano"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_4_0"
+msgid " - Defeat Shimano within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_2_0"
+msgid "Ares"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_3_0"
+msgid "vs.{PA:20} Hiroshi Hayashi,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_4_0"
+msgid " - Defeat Hayashi within 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_0_0"
+msgid "The Dragon of Dojima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_1_0"
+msgid "Kiryu in his younger days"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_2_0"
+msgid "Underground Coliseum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_3_0"
+msgid "vs.{PA:20} G.{PA:20}B.{PA:20} Holmes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_4_0"
+msgid " - Defeat Holmes within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_2_0"
+msgid "Batting Cages"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_3_0"
+msgid "vs.{PA:20} Majima Goro,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_4_0"
+msgid " - Defeat Majima within 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:53_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_2_0"
+msgid "Batting Cages"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_3_0"
+msgid "vs.{PA:20} B-King"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_4_0"
+msgid " - Defeat all enemies within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:54_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_2_0"
+msgid "Hanagata Office"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_3_0"
+msgid "vs.{PA:20} Shota,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_4_0"
+msgid " - Defeat Shota within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:55_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_2_0"
+msgid "Serena Alley"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_3_0"
+msgid "vs.{PA:20} Koji Shindo,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_4_0"
+msgid " - Defeat Shindo within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_2_0"
+msgid "Club Deborah"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_3_0"
+msgid "vs.{PA:20} Akai Brothers,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_4_0"
+msgid " - Defeat the Akai Bros.{PA:20} within 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:57_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_2_0"
+msgid "Snake Flower Triad HQ"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_3_0"
+msgid "vs.{PA:20} Lau Ka Long"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_4_0"
+msgid " - Defeat Lau within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:58_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_2_0"
+msgid "Multi-tenant building: Roof"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_3_0"
+msgid "vs.{PA:20} Kazuto Arase,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_4_0"
+msgid " - Defeat Arase within 3 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_2_0"
+msgid "Shangri-La"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_3_0"
+msgid "vs.{PA:20} Goro Majima"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_4_0"
+msgid " - Defeat Majima within 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_2_0"
+msgid "Pier"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_3_0"
+msgid "vs.{PA:20} Futo Shimano,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_4_0"
+msgid " - Defeat Shimano within 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_2_0"
+msgid "Ares Garden"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_3_0"
+msgid "vs.{PA:20} Kyohei Jingu,{PA:10} others"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_4_0"
+msgid " - Defeat Jingu within 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_2_0"
+msgid "Ares"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_3_0"
+msgid "vs.{PA:20} Akira Nishiki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_4_0"
+msgid " - Defeat Nishiki within 5 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_2_0"
+msgid "Underground Coliseum"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_3_0"
+msgid "vs.{PA:20} Sotaro Komaki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_4_0"
+msgid " - Defeat Komaki within 7 minutes.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_0_0"
+msgid "The Herculean Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_1_0"
+msgid "Kiryu with Body abilities upgraded"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_2_0"
+msgid "Major Boss Stages"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_3_0"
+msgid "vs.{PA:20} Major Bosses"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_4_0"
+msgid " - Defeat all bosses.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:65_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_0_0"
+msgid "The Scorching Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_1_0"
+msgid "Kiryu with upgraded HEAT abilities"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_2_0"
+msgid "Major Boss Stages"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_3_0"
+msgid "vs.{PA:20} Major Bosses"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_4_0"
+msgid " - Defeat all bosses.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:66_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_0_0"
+msgid "The Legendary Dragon"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_1_0"
+msgid "Kiryu at full strength"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_2_0"
+msgid "Major Boss Stages"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_3_0"
+msgid "vs.{PA:20} Major Bosses"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_4_0"
+msgid " - Defeat all bosses.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_5_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_6_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_7_0"
+msgid "- -"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_0_0"
+msgid "Clear Time"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_1_0"
+msgid "Damage Taken"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_2_0"
+msgid "Exp.{PA:20} Points"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_3_0"
+msgid "Total Rating"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_4_0"
+msgid "No Rating"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_5_0"
+msgid "No Rating"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_6_0"
+msgid "No Rating"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_7_0"
+msgid "Failed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_8_0"
+msgid "- - －"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_9_0"
+msgid "- - －"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_10_0"
+msgid "- - －"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_11_0"
+msgid "Failed"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_0_0"
+msgid "Course 01 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_1_0"
+msgid "Course 02 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_2_0"
+msgid "Course 03 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_3_0"
+msgid "Course 04 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_4_0"
+msgid "Course 05 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_5_0"
+msgid "Course 06 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_6_0"
+msgid "Course 07 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_7_0"
+msgid "Course 08 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_8_0"
+msgid "Course 09 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_9_0"
+msgid "Course 10 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_10_0"
+msgid "Course 11 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_11_0"
+msgid "Course 12 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_12_0"
+msgid "Survival 01 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_13_0"
+msgid "Survival 02 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_14_0"
+msgid "Survival 03 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_15_0"
+msgid "Survival 04 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_16_0"
+msgid "Survival 05 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_17_0"
+msgid "Trial 1 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_18_0"
+msgid "Trial 2 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_19_0"
+msgid "Trial 3 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_20_0"
+msgid "Trial 4 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_21_0"
+msgid "Trial 5 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_22_0"
+msgid "Trial 6 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_23_0"
+msgid "Trial 7 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_24_0"
+msgid "Trial 8 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_25_0"
+msgid "Trial 9 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_26_0"
+msgid "Trial 10 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_27_0"
+msgid "Trial 11 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_28_0"
+msgid "Trial 12 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_29_0"
+msgid "Trial 13 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_30_0"
+msgid "Trial 14 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_31_0"
+msgid "Trial 15 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_32_0"
+msgid "Theme 01 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_33_0"
+msgid "Theme 02 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_34_0"
+msgid "Theme 03 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_35_0"
+msgid "Revenge 1 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_36_0"
+msgid "Revenge 2 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_37_0"
+msgid "Revenge 3 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_38_0"
+msgid "Revenge 4 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_39_0"
+msgid "Revenge 5 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_40_0"
+msgid "Revenge 6 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_41_0"
+msgid "Revenge 7 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_42_0"
+msgid "Revenge 8 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_43_0"
+msgid "Revenge 9 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_44_0"
+msgid "Revenge 10 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_45_0"
+msgid "Revenge 11 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_46_0"
+msgid "Revenge 12 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_47_0"
+msgid "Revenge 13 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_48_0"
+msgid "Revenge 14 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_49_0"
+msgid "Revenge 15 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_50_0"
+msgid "Revenge 16 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_51_0"
+msgid "Revenge 17 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_52_0"
+msgid "Ultimate Battle I results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_53_0"
+msgid "Ultimate Battle II results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_54_0"
+msgid "Ultimate Battle III results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:70_0_0"
+msgid "Earned S Rank on all missions!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:70_1_0"
+msgid "You can now select Fight Master Mode from"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:70_2_0"
+msgid "New Games on the title screen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:70_3_0"
+msgid "In this mode you can perform HEAT actions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:70_4_0"
+msgid "regardless of your HEAT gauge level.{PA:20}"
+msgstr ""
+

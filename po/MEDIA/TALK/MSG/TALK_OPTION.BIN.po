@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/TALK_OPTION.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_0_0"
+msgid "Options"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_1_0"
+msgid "Screen Size"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_2_0"
+msgid "Vibration"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_3_0"
+msgid "Captions"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_4_0"
+msgid "Sound"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_5_0"
+msgid "Event Skip"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_6_0"
+msgid "Display Color Bar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_7_0"
+msgid "Back"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:1_0_0"
+msgid "Select settings to adjust.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:1_1_0"
+msgid "On"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:1_2_0"
+msgid "Off"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:2_0_0"
+msgid "Change screen size.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:2_1_0"
+msgid "Wide (16:9)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:2_2_0"
+msgid "Normal (4:3)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:3_0_0"
+msgid "Turn controller vibration on/off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:4_0_0"
+msgid "Turn movie subtitles on/off.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:5_0_0"
+msgid "Switch between stereo and monaural.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:5_1_0"
+msgid "Stereo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:5_2_0"
+msgid "Mono"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:5_3_0"
+msgid "Dolby Digital"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:6_0_0"
+msgid "Pressing the START button||will skip event movies.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:7_0_0"
+msgid "Use the color bar to adjust your||television's display.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:8_0_0"
+msgid "Color bar"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:8_1_0"
+msgid "Display"
+msgstr ""
+

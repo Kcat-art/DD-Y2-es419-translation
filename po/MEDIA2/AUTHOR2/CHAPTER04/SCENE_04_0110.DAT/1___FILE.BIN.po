@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Got it.{PA:20}.{PA:20}.{PA:20} So Kiryu walked outta the"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:0_0_1"
+msgid "mahjong place in one piece?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:1_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Fine.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Waste o' time,{PA:10} beating that lady cop to her"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:2_0_1"
+msgid "broke-ass stool pigeon to buy him out.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:3_0_0"
+msgid "Guess amateurs like him can't handle Kiryu.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:4_0_0"
+msgid "Do we make our next move?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Nah,{PA:10} let 'im enjoy the city a bit.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:6_0_0"
+msgid "But boss,{PA:10} at this rate,{PA:10} Go-Ryu'll get"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:6_0_1"
+msgid "to him first!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:7_0_0"
+msgid "What can that brat do?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:8_0_0"
+msgid "Kid's bound to pick a fight head-on and land"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:8_0_1"
+msgid "his sorry ass in jail.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Kiryu'll go back to Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:9_0_1"
+msgid "Just watch.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:10_0_0"
+msgid "He does,{PA:10} and that brat'll go runnin' after.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:11_0_0"
+msgid "Before that happens.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:12_0_0"
+msgid "Take this billion yen.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:13_0_0"
+msgid "Go spread it around Kamurocho.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0110.DAT/1___FILE.BIN::line:14_0_0"
+msgid "You got it,{PA:10} boss.{PA:20}"
+msgstr ""
+

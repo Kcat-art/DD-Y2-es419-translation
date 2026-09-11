@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:0_0_0"
+msgid "[In Korean] What do you think,{PA:10} Yeongmin?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:0_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:1_0_0"
+msgid "[In Korean] Shit!{PA:20} We're no match for them.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:1_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Ko!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:2_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:3_0_0"
+msgid "All right.{PA:20}.{PA:20}.{PA:20} You ready?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:3_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:4_0_0"
+msgid "We've got to get them for Ko!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:4_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:5_0_0"
+msgid "We might be able to get him from behind.{PA:20}.{PA:20}.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:5_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:6_0_0"
+msgid "Live.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:7_0_0"
+msgid "Huh.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:8_0_0"
+msgid "You boys are still young.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:9_0_0"
+msgid "Don't throw your lives away.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:10_0_0"
+msgid ".{PA:20}.{PA:20}.{PA:20}Live.{PA:20}"
+msgstr ""
+

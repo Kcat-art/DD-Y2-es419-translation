@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:0_0_0"
+msgid "Play again"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:0_1_0"
+msgid "Give up"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_0_0"
+msgid "Move crane"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_1_0"
+msgid "Move view"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_2_0"
+msgid "Controls"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_3_0"
+msgid "Quit"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:2_0_0"
+msgid "Quit bowling?{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:2_1_0"
+msgid "Yes"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:2_2_0"
+msgid "No"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_0_0"
+msgid "Kiryu"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_1_0"
+msgid "Sayama"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_2_0"
+msgid "Daigo"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_3_0"
+msgid "Date"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_4_0"
+msgid "Yukihide"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_5_0"
+msgid "Ritsuko"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_6_0"
+msgid "Kuranosuke"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_7_0"
+msgid "Yuma"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_8_0"
+msgid "Natsuki"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_9_0"
+msgid "Anna"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_10_0"
+msgid "Karen"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_11_0"
+msgid "Kaede"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_12_0"
+msgid "Maiko"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_13_0"
+msgid "Osawa"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_0_0"
+msgid "House Ball (12 lbs.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_1_0"
+msgid "House Ball (13 lbs.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_2_0"
+msgid "House Ball (14 lbs.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_3_0"
+msgid "House Ball (15 lbs.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_4_0"
+msgid "House Ball (16 lbs.)"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_5_0"
+msgid "Custom Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_6_0"
+msgid "Patriarch's Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_7_0"
+msgid "100lb Bowling Ball"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_0_0"
+msgid "A score over 30 isn't bad,{PA:10} I guess.{PA:20}||Here's the 30-point prize.{PA:20}||||      Received \"Steamed Bun\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_1_0"
+msgid "A score over 60 is pretty good.{PA:20}||Here's the 60-point prize.{PA:20}||||      Received \"Melon Bread\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_2_0"
+msgid "A score over 90,{PA:10} now that's good!{PA:20}||Here's the 90-point prize.{PA:20}||||      Received \"10g Gold Coin\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_3_0"
+msgid "A score over 100,{PA:10} that's not bad.{PA:20}||Here's the 100-point prize.{PA:20}||||      Received \"Pudding\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_4_0"
+msgid "You must be good to get a score over 200!{PA:20}||Here's the 200-point prize.{PA:20}||||      Received \"Staminan Royale\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_5_0"
+msgid "300 points!{PA:20} That's a perfect game!{PA:20}||This is the 300-point prize.{PA:20}||||      Received \"100lb Bowling Ball\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_6_0"
+msgid "You beat Yukihide,{PA:10} eh?{PA:20} Not bad.{PA:20}||Here's your prize.{PA:20}||||  Received \"Fried Chicken Lunch\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_7_0"
+msgid "You beat Ritsuko!{PA:20} Have you been practicing?{PA:20}||Here's your prize.{PA:20}||||      Received \"Asian Digital Watch\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_8_0"
+msgid "You beat the owner!{PA:20} That's amazing!{PA:20}||Here's your prize.{PA:20}||||      Received \"French Scarf\""
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_9_0"
+msgid "That's not a very good score,{PA:10} is it?{PA:20}||You can do better than that.{PA:20}||||      No prize.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_10_0"
+msgid "I guess Yukihide is the better player.{PA:20}||Try a little harder next time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_11_0"
+msgid "You're not good enough to beat Ritsuko.{PA:20}||Try to do better next time.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_12_0"
+msgid "The owner isn't any ordinary player.{PA:20}||Improve your game and try again.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_13_0"
+msgid "You must be pretty good to knock down||all three splits!{PA:20} Here's your prize.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_14_0"
+msgid "Knocking down all 10 splits,{PA:10}||that's impressive!{PA:20} Here's your prize.{PA:20}"
+msgstr ""
+

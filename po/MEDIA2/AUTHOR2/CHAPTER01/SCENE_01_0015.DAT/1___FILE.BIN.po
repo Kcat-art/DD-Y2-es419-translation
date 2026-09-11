@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yakuza 2 (USA)\n"
+"POT-Creation-Date: 2026-09-11 02:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: yakuza_ps2xr English text extractor\n"
+"X-Yakuza-Source: MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN\n"
+"X-Yakuza-Lang-ID: us\n"
+"X-Yakuza-ISO-ID: SLUS_217.69\n"
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:0_0_0"
+msgid "Take it easy!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:0_0_1"
+msgid "I've got nothing to do with those men.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:1_0_0"
+msgid "We've got to get you out of here.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:2_0_0"
+msgid "Here,{PA:10} I'll take the kid.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:3_0_0"
+msgid "[In Korean] Stay back!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:3_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:4_0_0"
+msgid "I won't let you take my baby!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:4_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:5_0_0"
+msgid "Stop!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:6_0_0"
+msgid "[In Korean] Let me go!{PA:20} Just let us die!{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:6_1_0"
+msgid "Locate(BottomCenter)"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:7_0_0"
+msgid "The kid's innocent.{PA:20}"
+msgstr ""
+
+msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:7_0_1"
+msgid "You can't just throw his life away.{PA:20}"
+msgstr ""
+
