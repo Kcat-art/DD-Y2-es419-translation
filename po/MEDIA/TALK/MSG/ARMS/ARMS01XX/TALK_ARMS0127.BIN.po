@@ -11,7 +11,15 @@ msgstr ""
 "X-Yakuza-Lang-ID: us\n"
 "X-Yakuza-ISO-ID: SLUS_217.69\n"
 
+#. y4:file_status=reviewed
+#. y4:reviewed_by=Kcat0
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
+
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS01XX/TALK_ARMS0127.BIN::line:0_0_0"
 msgid "x"
-msgstr ""
+msgstr "x"
 
