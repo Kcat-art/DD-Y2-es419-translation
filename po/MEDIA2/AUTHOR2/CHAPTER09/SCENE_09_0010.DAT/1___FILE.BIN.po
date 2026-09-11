@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Daigo!{PA:20} Are you all right?{PA:20}"
-msgstr ""
+msgstr "¡Daig{PA:20}o! ¡¿Estás bien?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Mr.{PA:20} Kashiwagi!{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "You're not hurt,{PA:10} are you?{PA:20}"
-msgstr ""
+msgstr "¿No te hir{PA:10}ieron?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Sorry,{PA:10} I.{PA:20}.{PA:20}.{PA:20} couldn't protect the Chairman.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "I heard.{PA:20}"
-msgstr ""
+msgstr "Lo sé.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Look,{PA:10} don't worry about it.{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:11_0_0"
 msgid "But they called themselves the \"Jingweon\".{PA:20}"
-msgstr ""
+msgstr "Pero... logré oír el nombre de \"facción Jingwon\".{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:12_0_0"
 msgid "The Jingweon mafia?{PA:20} .{PA:20}.{PA:20}.{PA:20}Are you sure?{PA:20}"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:15_0_0"
 msgid "But the Jingweon were wiped out.{PA:20}"
@@ -117,13 +117,13 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:20_0_0"
 msgid "The police are the ones who erased them.{PA:20}"
-msgstr ""
+msgstr "No. La policía eliminó todo indicio de su existencia.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:21_0_0"
 msgid "But why?{PA:20}"
-msgstr ""
+msgstr "Pero ¿por qué debe ser específicamente eso?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0010.DAT/1___FILE.BIN::line:22_0_0"
 msgid "It happened over 20 years ago.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Eso ocurrió... hace más de 20 año{PA:20}s{PA:20}.{PA:20}"
 

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Everything's going according to plan.{PA:20}"
-msgstr ""
+msgstr "Todo está yendo acorde al plan.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Don't get cocky before this thing's done.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:4_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Goodbye.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}.{PA:20} Adiós.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Come in.{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Excuse me,{PA:10} boss.{PA:20}"
-msgstr ""
+msgstr "Con perm{PA:10}iso.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:7_0_0"
 msgid "The Go-Ryu Clan have finally mobilized"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:8_0_0"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:9_0_0"
 msgid "If we wait,{PA:10} they'll beat us to the punch.{PA:20}"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:11_0_0"
 msgid "But,{PA:10} boss!{PA:20}"
-msgstr ""
+msgstr "Pero {PA:10}jefe...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:12_0_0"
 msgid "We don't need to make our move quite yet.{PA:20}"
@@ -77,5 +77,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0030.DAT/1___FILE.BIN::line:14_0_0"
 msgid "We've got an ace in the hole.{PA:20}"
-msgstr ""
+msgstr "que tenemos un as bajo la manga.{PA:20}"
 

@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_0_0"
 msgid "Enter"
-msgstr ""
+msgstr "Entrar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_1_0"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_2_0"
 msgid "Change Bet"
@@ -33,11 +33,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_5_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:0_6_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:1_0_0"
 msgid "Place your bets.{PA:20}"
@@ -137,11 +137,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:4_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:5_0_0"
 msgid "Time is up.{PA:20}"
@@ -149,15 +149,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_0_0"
 msgid "Continue?{PA:20}"
-msgstr ""
+msgstr "¿Continuar?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:6_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_0_0"
 msgid "Bet Amount"
@@ -165,11 +165,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_1_0"
 msgid "Payout"
-msgstr ""
+msgstr "Pago"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_2_0"
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_3_0"
 msgid "MIN"
@@ -177,7 +177,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:7_4_0"
 msgid "MAX"
-msgstr ""
+msgstr "Máx."
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_0_0"
 msgid "Leave the Roulette table?{PA:20}"
@@ -185,9 +185,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_ROULETTE.BIN::line:8_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 

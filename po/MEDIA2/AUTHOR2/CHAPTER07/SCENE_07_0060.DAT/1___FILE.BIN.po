@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Stop it!{PA:20}"
-msgstr ""
+msgstr "¡Ya basta!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Next one goes into your head.{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:6_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Jingweon mafia.{PA:20}"
-msgstr ""
+msgstr "[{PA:20}F{PA:20}a{PA:20}cción Jingwon].{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:6_1_0"
 msgid "Locate(BottomCenter)"
@@ -49,15 +49,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Is that so?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:8_0_0"
 msgid "What did he say?{PA:20}"
-msgstr ""
+msgstr "¿Qué dijo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:9_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}That was quick.{PA:20}"
-msgstr ""
+msgstr "T{PA:20}ch{PA:20}.{PA:20} Son como una bala...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0060.DAT/1___FILE.BIN::line:10_0_0"
 msgid "The police are on heightened alert.{PA:20}"

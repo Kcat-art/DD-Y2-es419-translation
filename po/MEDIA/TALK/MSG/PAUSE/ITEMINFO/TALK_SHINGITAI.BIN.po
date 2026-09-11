@@ -105,5 +105,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/ITEMINFO/TALK_SHINGITAI.BIN::line:0_2_7"
 msgid "               -The End-"
-msgstr ""
+msgstr "Fin"
 

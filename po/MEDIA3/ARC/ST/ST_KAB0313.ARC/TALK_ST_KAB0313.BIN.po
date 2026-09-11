@@ -13,39 +13,39 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:1"
 msgid "Man"
-msgstr ""
+msgstr "Hombre"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:2"
 msgid "Unknown Man"
-msgstr ""
+msgstr "Hombre misterioso"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:3"
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:4"
 msgid "Daigo"
-msgstr ""
+msgstr "Daigo"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:5"
 msgid "Kaoru"
-msgstr ""
+msgstr "Kaoru"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:6"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:7"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:8"
 msgid "Yakuza"
-msgstr ""
+msgstr "Yakuza"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:9"
 msgid "Kanamatsu"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:10"
 msgid "Hostess"
-msgstr ""
+msgstr "Hostess"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:11"
 msgid "Jun"
@@ -65,11 +65,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:13"
 msgid "Man in Black"
-msgstr ""
+msgstr "Hombre de Negro"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:14"
 msgid "Old Man"
-msgstr ""
+msgstr "Viejo"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::name:15"
 msgid "Kyubei"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:0_0_0"
 msgid "Man"
-msgstr ""
+msgstr "Hombre"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:0_1_1"
 msgid "What?{PA:20} I haven't taken out any loans.{PA:20}"
@@ -141,11 +141,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:1_0_0"
 msgid "Yuya"
-msgstr ""
+msgstr "Yuya"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:1_1_1"
 msgid "What's up?{PA:20}"
-msgstr ""
+msgstr "¿Qué ocurre, Date-san?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:1_1_3"
 msgid "401,{PA:10}000 yen?{PA:20}||Sounds like he and I are in the same boat.{PA:20}"
@@ -269,7 +269,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:5_1_1"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:5_2_0"
 msgid "It's me,{PA:10} Kagami.{PA:20}||A customer's here who wants to see you.{PA:20}"
@@ -313,7 +313,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:8_1_1"
 msgid "I'm sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Lo siento.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:8_1_3"
 msgid "I'll be right there.{PA:20}"
@@ -365,7 +365,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:12_0_0"
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:12_1_0"
 msgid "Kiryu here.{PA:20}"
@@ -373,7 +373,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:12_1_2"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:12_2_0"
 msgid "It's me.{PA:20}||I just finished up preparations here.{PA:20}"
@@ -405,7 +405,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:14_0_1"
 msgid "Is something wrong?{PA:20}"
-msgstr ""
+msgstr "¿Qué ocurre?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:14_0_3"
 msgid "I see.{PA:20} So it hasn't been renovated since||I was there?{PA:20}"
@@ -425,7 +425,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:14_0_13"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:14_0_14"
 msgid ".{PA:20}.{PA:20}.{PA:20}All right.{PA:20}||I'll try to scrape it together.{PA:20}"
@@ -433,7 +433,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:14_0_16"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:14_1_0"
 msgid "Mr.{PA:20} Kiryu?{PA:20}||This is Ms.{PA:20} Suenaga,{PA:10} from Sunflower.{PA:20}"
@@ -585,7 +585,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:17_0_0"
 msgid "Man"
-msgstr ""
+msgstr "Hombre"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:17_1_1"
 msgid "She'll pay for the work she contracted.{PA:20}||Your quote was for 250,{PA:10}000 yen.{PA:20}"
@@ -681,11 +681,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:19_0_7"
 msgid "Ah.{PA:20}"
-msgstr ""
+msgstr "Ah...{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:19_0_9"
 msgid "A what?!{PA:20}"
-msgstr ""
+msgstr "¿Una qué?...{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:19_0_12"
 msgid "I think building a park on one person's||savings is an awfully big dream.{PA:20}"
@@ -697,15 +697,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:19_0_17"
 msgid "Okay,{PA:10} I'll see what I can find.{PA:20}"
-msgstr ""
+msgstr "Entie{PA:10}ndo. Veré qué puedo averiguar{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:19_0_18"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:19_0_21"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:19_1_0"
 msgid "Hello,{PA:10} Mr.{PA:20} Kiryu?{PA:20}||This is Ms.{PA:20} Suenaga,{PA:10} from Sunflower.{PA:20}"
@@ -801,7 +801,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:20_1_4"
 msgid "It's Kiryu.{PA:20}"
-msgstr ""
+msgstr "Kiryu.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:20_1_5"
 msgid "M-Mr.{PA:20} Kiryu!{PA:20} Boss!{PA:20} Yes,{PA:10} sir!{PA:20}||H-How can we help you today?{PA:20}"
@@ -829,7 +829,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:20_2_4"
 msgid "Hello?{PA:20}"
-msgstr ""
+msgstr "¿Hola?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:20_2_5"
 msgid ".{PA:20}.{PA:20}.{PA:20}"
@@ -853,11 +853,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:20_2_13"
 msgid "*Click*"
-msgstr ""
+msgstr "Bip."
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:20_2_15"
 msgid "*Click*"
-msgstr ""
+msgstr "Bip."
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:20_2_16"
 msgid "He hung up on me.{PA:20}"
@@ -865,11 +865,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:28_0_0"
 msgid "Daigo"
-msgstr ""
+msgstr "Daigo"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:28_1_1"
 msgid "How are things on your end?{PA:20}"
-msgstr ""
+msgstr "¿Cómo van las cosas por ahí?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:28_1_3"
 msgid "Good.{PA:20}||Are you okay?{PA:20}"
@@ -901,11 +901,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:30_0_0"
 msgid "Tamiyo"
-msgstr ""
+msgstr "Tamiyo"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:30_1_0"
 msgid "This is Kiryu.{PA:20}"
-msgstr ""
+msgstr "Habla Kiryu.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:30_1_2"
 msgid "Oh,{PA:10} hello.{PA:20}||How is she doing?{PA:20}"
@@ -913,7 +913,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:30_1_4"
 msgid "That's good.{PA:20}"
-msgstr ""
+msgstr "Qué bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:30_1_6"
 msgid "Just the bandages?{PA:20}||I'll pick some up on my way there.{PA:20}"
@@ -921,7 +921,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:30_2_0"
 msgid "It's me.{PA:20}"
-msgstr ""
+msgstr "Soy yo.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:30_2_2"
 msgid "Calmed down,{PA:10} finally.{PA:20}||Medicine's set in,{PA:10} so she's fast asleep.{PA:20}"
@@ -953,11 +953,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:31_4_0"
 msgid "Hey,{PA:10} stay with me!{PA:20}"
-msgstr ""
+msgstr "¡Oy{PA:10}e, resiste!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:31_4_1"
 msgid "Sayama!{PA:20}"
-msgstr ""
+msgstr "¡Sayama!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:32_1_0"
 msgid "   Head to the clinic at the west end of|| Taihei Blvd.{PA:20} without alerting the police.{PA:20}"
@@ -985,7 +985,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:33_0_0"
 msgid "Rgh.{PA:20}.{PA:20}.{PA:20} Not here.{PA:20} Not like this.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "(No {PA:20}p{PA:20}u{PA:20}edo... res{PA:20}istir... más...{PA:20}){PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:34_0_0"
 msgid "(It looks like the arsonist got away.)"
@@ -1009,7 +1009,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:35_1_1"
 msgid "Okay,{PA:10} thanks.{PA:20}"
-msgstr ""
+msgstr "Gra{PA:10}cias.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:35_2_0"
 msgid "Mr.{PA:20} Kiryu,{PA:10} sir!{PA:20}||I've got the totals for tonight!{PA:20}"
@@ -1045,7 +1045,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_3_0"
 msgid "Daigo Dojima is waiting,{PA:10} isn't he?{PA:20}"
-msgstr ""
+msgstr "Daigo Dojima está esperando, ¿{PA:10}no es cierto?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_3_1"
 msgid "Let's go find that leader kid.{PA:20} Get the key||from him and get inside already.{PA:20}"
@@ -1053,7 +1053,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_4_0"
 msgid "This should get us in.{PA:20}"
-msgstr ""
+msgstr "Esto debería servirnos para entrar.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_4_1"
 msgid "Let's hurry to the Amano Building and get||Daigo back already!{PA:20}"
@@ -1089,7 +1089,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_8_1"
 msgid "Shouldn't we get a move on?{PA:20}"
-msgstr ""
+msgstr "Tenemos que darnos prisa.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_9_0"
 msgid "I'm not sure I really get what's happening.{PA:20}"
@@ -1105,7 +1105,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_11_0"
 msgid "Hold it!{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:37_12_0"
 msgid "Let's head to \"{CC:ffc8c8}Tsutenkaku Tower{CR:00}\".{PA:20}||We'll see what we can see.{PA:20}"
@@ -1153,7 +1153,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:38_2_0"
 msgid "Hey!{PA:20} That way's too crowded.{PA:20}||Let's take another route.{PA:20}"
-msgstr ""
+msgstr "Oye,{PA:20} hay mucha gente por allá. {PA:20}Mejor|| vayamos por otro lado.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:38_3_0"
 msgid "There are still cops all over the place.{PA:20}||Let's head to Bantam and lay low for now.{PA:20}"
@@ -1201,7 +1201,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:39_4_6"
 msgid ".{PA:20}.{PA:20}.{PA:20}Fine.{PA:20}"
-msgstr ""
+msgstr "A {PA:20}su{PA:20}s {PA:20}órdenes...{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:39_5_0"
 msgid "So now we know the players!{PA:20}||Her client,{PA:10} Katsumi,{PA:10} and Hikaru the host.{PA:20}"
@@ -1217,7 +1217,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:39_6_1"
 msgid "Okay!{PA:20}"
-msgstr ""
+msgstr "¡Está bien!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:39_7_1"
 msgid "See,{PA:10} Uncle Kaz?{PA:20} I told you it smelled like||a mystery!{PA:20}"
@@ -1521,7 +1521,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:40_7_2"
 msgid "Right.{PA:20}.{PA:20}.{PA:20} Sorry about that.{PA:20}"
-msgstr ""
+msgstr "Lo s{PA:20}é{PA:20}.{PA:20}.. Lo siento.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:40_8_0"
 msgid "Mr.{PA:20} Kiryu,{PA:10} let's just stop.{PA:20}"
@@ -1573,7 +1573,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:283_0_1"
 msgid "I'll knock yer teeth out!{PA:20}"
-msgstr ""
+msgstr "¡Voy a sacarte los dientes!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:283_1_0"
 msgid "You!{PA:20} Yeah,{PA:10} you!{PA:20}"
@@ -1625,7 +1625,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:283_9_0"
 msgid "Hey,{PA:10} there!{PA:20}"
-msgstr ""
+msgstr "Hol{PA:10}a...{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:283_10_0"
 msgid "You think you can get by without showin' me||proper respect?{PA:20} I'll teach ya some manners!{PA:20}"
@@ -1793,7 +1793,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_0_0"
 msgid "Huh?!{PA:20} Who the fuck are you?{PA:20}"
-msgstr ""
+msgstr "¡¿Eh?{PA:20}! ¡¿Quién carajos eres?!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_0_1"
 msgid "I'm here in Jongka's place.{PA:20}"
@@ -1813,11 +1813,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_0_6"
 msgid "Later!{PA:20}"
-msgstr ""
+msgstr "¡Adiós!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_0_8"
 msgid "Gaah ha ha!{PA:20}||What a joke.{PA:20}"
-msgstr ""
+msgstr "¡Jua, ja, ja! Tienes{PA:20}|| que estar bromeando.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_0_9"
 msgid "Ya ain't got 5 million!{PA:20}||Think ya can just feed me a line like that?{PA:20}"
@@ -1829,7 +1829,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_0_11"
 msgid "Gaah ha ha!{PA:20}||What a joke.{PA:20}"
-msgstr ""
+msgstr "¡Jua, ja, ja! Tienes{PA:20}|| que estar bromeando.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_0_12"
 msgid "Here's what I do to guys that fuck with me!{PA:20}"
@@ -1853,7 +1853,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_2_1"
 msgid "W-We're done,{PA:10} right?{PA:20} Can I please go now?{PA:20}"
-msgstr ""
+msgstr "¿Y-ya terminamos{PA:10}, verdad{PA:20}? ¿Me puedo ir, por favor?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_3_0"
 msgid "\"{CC:ffc8c8}Yukiko{CR:00}\"'s by the river,{PA:10} near the umbrella.{PA:20}||\"{CC:ffc8c8}Guy in a red coat{CR:00}\"'s got her.{PA:20}"
@@ -1861,7 +1861,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:286_3_1"
 msgid "Later!{PA:20}"
-msgstr ""
+msgstr "¡Adiós!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:287_0_1"
 msgid "Who are you?{PA:20}||How did you get this number?{PA:20}"
@@ -1881,7 +1881,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:287_1_0"
 msgid "You Kiryu?{PA:20}"
-msgstr ""
+msgstr "¿Hablo con Kiryu?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:287_1_2"
 msgid "That don't matter one lick,{PA:10} buddy.{PA:20}||Ya want Haruka back?{PA:20} Then listen up.{PA:20}"
@@ -1897,11 +1897,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:287_1_6"
 msgid "Alone.{PA:20}"
-msgstr ""
+msgstr "¡¿Usted solo?!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:287_1_8"
 msgid "*Click*"
-msgstr ""
+msgstr "Bip."
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:289_0_0"
 msgid "The food 'round this area's||the best you'll find!{PA:20}"
@@ -1953,7 +1953,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:293_0_2"
 msgid "I'm fine,{PA:10} thanks.{PA:20}"
-msgstr ""
+msgstr "Sí, estoy bie{PA:10}n, gracias.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:293_0_3"
 msgid "Yeah?{PA:20} That's a relief.{PA:20} Still,{PA:10} get yerself||checked out by a doctor,{PA:10} hear?{PA:20} Take this.{PA:20}"
@@ -1977,7 +1977,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:293_0_8"
 msgid "Kazuma Kiryu.{PA:20}"
-msgstr ""
+msgstr "Soy Kazuma Kiryu.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:293_0_9"
 msgid "Mr.{PA:20} Kiryu!{PA:20}"
@@ -2017,7 +2017,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:293_0_19"
 msgid "Kazuma Kiryu.{PA:20}"
-msgstr ""
+msgstr "Soy Kazuma Kiryu.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:293_0_20"
 msgid "Mr.{PA:20} Kiryu!{PA:20}||If that arm don't heal up,{PA:10} gimme a call.{PA:20}"
@@ -2041,7 +2041,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:299_0_2"
 msgid "Sure.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Clar{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:299_0_4"
 msgid "Ready to head in?{PA:20}"
@@ -2049,7 +2049,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:299_0_5"
 msgid "Sure.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Clar{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:299_0_6"
 msgid "Uh oh.{PA:20}.{PA:20}.{PA:20} Actually,{PA:10} I'm a little short on||cash right now.{PA:20}.{PA:20}.{PA:20}"
@@ -2081,7 +2081,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:299_1_2"
 msgid "Sorry about that.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Perdón por eso.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:299_1_3"
 msgid "Well,{PA:10} I should probably head on home.{PA:20}.{PA:20}.{PA:20}||See ya at the cabaret again soon?{PA:20}"
@@ -2117,7 +2117,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:300_0_9"
 msgid "I see.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Entiendo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:300_0_10"
 msgid "That's quite a shame.{PA:20}"
@@ -2205,7 +2205,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:300_3_4"
 msgid "Sure.{PA:20}"
-msgstr ""
+msgstr "Claro.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_0_3"
 msgid "Ah,{PA:10} there you are,{PA:10} Kazuma.{PA:20}"
@@ -2213,7 +2213,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_0_4"
 msgid "What's up?{PA:20}"
-msgstr ""
+msgstr "¿Qué ocurre, Date-san?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_0_5"
 msgid "Well,{PA:10} I.{PA:20}.{PA:20}.{PA:20} I wanted to speak with you.{PA:20}||About my fiancé.{PA:20}"
@@ -2241,11 +2241,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_7_2"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_7_3"
 msgid "Who the hell are you?{PA:20}"
-msgstr ""
+msgstr "¿Quién demonios eres tú?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_7_4"
 msgid "This doesn't concern you.{PA:20}||{MS:0}We're here for the young lady.{PA:20}"
@@ -2253,11 +2253,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_7_5"
 msgid "Aaaah!{PA:20}"
-msgstr ""
+msgstr "¡Aaaah!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_7_6"
 msgid "Let her go!{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:301_7_7"
 msgid "Resistance will bring you only pain,{PA:10} sir.{PA:20}"
@@ -2273,7 +2273,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_5"
 msgid "What's going on here?{PA:20}"
-msgstr ""
+msgstr "¿Qué está pasando aquí?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_6"
 msgid "It has long been my duty to see to the||young miss.{PA:20}"
@@ -2313,7 +2313,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_15"
 msgid "Kazuma?{PA:20}"
-msgstr ""
+msgstr "¡¿Kazuma?!{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_16"
 msgid "What could you possibly know about her?{PA:20}"
@@ -2337,7 +2337,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_21"
 msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_22"
 msgid ".{PA:20}.{PA:20}.{PA:20}"
@@ -2345,7 +2345,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_23"
 msgid "Very well.{PA:20}"
-msgstr ""
+msgstr "... De acuerdo.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:302_0_24"
 msgid "I will excuse myself.{PA:20} For today.{PA:20}"
@@ -2425,7 +2425,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:310_0_9"
 msgid "Sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Lo siento{PA:20}.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:310_0_10"
 msgid "Ugh,{PA:10} this isn't even funny!{PA:20}"
@@ -2445,7 +2445,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:310_1_2"
 msgid "Sorry about that.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Perdón por eso.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:310_1_3"
 msgid "Well,{PA:10} I'm tired.{PA:20} I'll head home now.{PA:20}"
@@ -2501,7 +2501,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:310_3_2"
 msgid "Yeah?{PA:20} Sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí... {PA:20}Lo siento{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:310_3_3"
 msgid "Well,{PA:10} we should probably head over to the||club soon.{PA:20} Ready?{PA:20}"
@@ -2509,7 +2509,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:310_3_4"
 msgid "Sure.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Clar{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:311_0_0"
 msgid "(This is where Ayano said she was.)"
@@ -2525,7 +2525,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_0_2"
 msgid "Okay.{PA:20}"
-msgstr ""
+msgstr "Okey.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_0_4"
 msgid "Ready to head in?{PA:20}"
@@ -2533,7 +2533,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_0_5"
 msgid "Okay.{PA:20}"
-msgstr ""
+msgstr "Okey.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_0_6"
 msgid "Uh oh.{PA:20}.{PA:20}.{PA:20} Actually,{PA:10} I'm a little short on||cash right now.{PA:20}.{PA:20}.{PA:20}"
@@ -2561,7 +2561,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_1_2"
 msgid "Sorry about that.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Perdón por eso.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_1_3"
 msgid "I'm about done for the night,{PA:10} I think.{PA:20}||See ya at the club before too long?{PA:20}"
@@ -2613,7 +2613,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_3_1"
 msgid "Sorry about that.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Perdón por eso.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_3_2"
 msgid "I just like a place to be a bit cheerier||than that,{PA:10} ya know?{PA:20} Someplace hoppin'!{PA:20}"
@@ -2625,7 +2625,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:313_3_4"
 msgid "Sure.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Clar{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:314_0_0"
 msgid "Let's hit one||more spot!{PA:20}"
@@ -2673,7 +2673,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:332_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:332_5_0"
 msgid "Experience points:"
@@ -2697,11 +2697,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:335_0_0"
 msgid "Bantam"
-msgstr ""
+msgstr "Bantam"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:342_0_0"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:342_1_0"
 msgid "I can't do that.{PA:20}"
@@ -2713,7 +2713,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:343_1_0"
 msgid "Don't help her.{PA:20}"
-msgstr ""
+msgstr "No ayudarla{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:344_0_0"
 msgid "出たらまずいテキスト"
@@ -2829,11 +2829,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:357_1_0"
 msgid "I don't think so.{PA:20}"
-msgstr ""
+msgstr "No es eso...{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:358_0_0"
 msgid "I'm fine.{PA:20}"
-msgstr ""
+msgstr "¡Solo quiero{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0313.ARC/TALK_ST_KAB0313.BIN::line:358_1_0"
 msgid "I hurt my arm.{PA:20}"

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::name:1"
 msgid "Chinatsu"
@@ -145,7 +145,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:1_2_0"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:1_3_0"
 msgid "Is this.{PA:20}.{PA:20}.{PA:20} for me?{PA:20}"
@@ -153,11 +153,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:1_3_1"
 msgid "Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:1_4_0"
 msgid "Huh.{PA:20}.{PA:20}.{PA:20} What's this?{PA:20}"
-msgstr ""
+msgstr "¿Eh? {PA:20}¿{PA:20}E{PA:20}sto es un libro?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:1_4_1"
 msgid "Are you hitting on me?{PA:20}"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:1_5_0"
 msgid "What's this?{PA:20}"
-msgstr ""
+msgstr "¿Un libro?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:1_5_1"
 msgid "I don't want it.{PA:20}"
@@ -205,7 +205,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:2_2_2"
 msgid ".{PA:20}.{PA:20}.{PA:20}I'm sorry.{PA:20}"
-msgstr ""
+msgstr "L{PA:20}o{PA:20} {PA:20}lamento...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:2_2_3"
 msgid "I guess maybe I've just been losing a||little focus.{PA:20}"
@@ -249,7 +249,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:3_1_1"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:3_1_2"
 msgid "It's so nice to hear that||from you!{PA:20}"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:4_1_1"
 msgid "This is great!{PA:20}"
-msgstr ""
+msgstr "¡Esto es genial!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:4_2_0"
 msgid "What?{PA:20} Really?!{PA:20}||Thank you.{PA:20}"
@@ -317,7 +317,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:4_3_0"
 msgid "Oh.{PA:20}.{PA:20}.{PA:20}.{PA:20}||Thank you.{PA:20}"
-msgstr ""
+msgstr "Ah{PA:20},{PA:20} {PA:20}{PA:20}gracias.||{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:4_3_1"
 msgid "(Isn't she happy?)"
@@ -329,11 +329,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:5_0_1"
 msgid "Excuse me.{PA:20}"
-msgstr ""
+msgstr "¡Mesero!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:5_0_2"
 msgid "Why not?{PA:20}"
-msgstr ""
+msgstr "¿Por qué, no?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:6_0_0"
 msgid "Chinatsu N/A"
@@ -401,9 +401,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:8_0_0"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA00_US.BIN::line:8_1_0"
 msgid "Not yet.{PA:20}"
-msgstr ""
+msgstr "Aún no.{PA:20}"
 

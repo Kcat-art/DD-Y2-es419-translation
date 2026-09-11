@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Please forgive me!{PA:20}"
-msgstr ""
+msgstr "Por favor, perdóname...,{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Nobody would come here after what happened"
@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:8_0_0"
 msgid "So he put a bounty on our heads.{PA:20}"
-msgstr ""
+msgstr "Entonces, nos puso una recompensa...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:9_0_0"
 msgid "That's right.{PA:20}"
-msgstr ""
+msgstr "Así es.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:10_0_0"
 msgid "I didn't want to do it!{PA:20}"
@@ -85,11 +85,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:14_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Last year was mostly my fault.{PA:20}"
-msgstr ""
+msgstr "Lo que pasó hace un año fue,||en gran parte, culpa mía.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:16_0_0"
 msgid "What?{PA:20} B-But.{PA:20}.{PA:20}.{PA:20}"
@@ -101,11 +101,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Just hold on a little longer.{PA:20}"
-msgstr ""
+msgstr "Solo resista un poco más.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Until then,{PA:10} I want you to stay put.{PA:20}"
-msgstr ""
+msgstr "Hasta entonces,||{PA:10}necesito que no se mueva de aquí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Keep serving your quality drinks.{PA:20}"
@@ -133,5 +133,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0080.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Yes,{PA:10} sir!{PA:20}"
-msgstr ""
+msgstr "¡Sí, {PA:10}señor!{PA:20}"
 

@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS12XX/TALK_ARMS1222.BIN::line:0_0_0"
 msgid "Signboard"
-msgstr ""
+msgstr "Letrero"
 

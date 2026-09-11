@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:0_0_0"
 msgid "What the hell is this?{PA:20}"
-msgstr ""
+msgstr "¡¿Qué es todo ese escándalo?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0050.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Go-Ryu lowlifes?!{PA:20}"

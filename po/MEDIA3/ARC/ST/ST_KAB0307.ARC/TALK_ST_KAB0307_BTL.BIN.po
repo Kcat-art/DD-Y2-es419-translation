@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:144_5_0"
 msgid "Experience points:"
@@ -53,23 +53,23 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:147_0_0"
 msgid "Shimoda"
-msgstr ""
+msgstr "Shimoda"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:148_0_0"
 msgid "Nakamura"
-msgstr ""
+msgstr "Nakamura"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:149_0_0"
 msgid "Maeda"
-msgstr ""
+msgstr "Maeda"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:150_0_0"
 msgid "Tezuka"
-msgstr ""
+msgstr "Tezuka"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:151_0_0"
 msgid "Kinoshita"
-msgstr ""
+msgstr "Kinoshita"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:152_0_0"
 msgid "Kimura"
@@ -121,19 +121,19 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:164_0_0"
 msgid "Shirai"
-msgstr ""
+msgstr "Shirai"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:165_0_0"
 msgid "Fukunaga"
-msgstr ""
+msgstr "Fukunaga"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:166_0_0"
 msgid "Shinohara"
-msgstr ""
+msgstr "Shinohara"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:167_0_0"
 msgid "Hosoda"
-msgstr ""
+msgstr "Hosoda"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:168_0_0"
 msgid "Shibakawa"
@@ -145,7 +145,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:170_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:171_0_0"
 msgid "Iida"
@@ -157,9 +157,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:173_0_0"
 msgid "Takada"
-msgstr ""
+msgstr "Takada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0307.ARC/TALK_ST_KAB0307_BTL.BIN::line:174_0_0"
 msgid "Kurokawa"
-msgstr ""
+msgstr "Kurokawa"
 

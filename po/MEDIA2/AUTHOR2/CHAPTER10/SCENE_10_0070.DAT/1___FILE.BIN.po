@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0070.DAT/1___FILE.BIN::line:0_0_0"
 msgid "What's going on here?{PA:20}"
-msgstr ""
+msgstr "¿Qué está pasando aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0070.DAT/1___FILE.BIN::line:0_1_0"
 msgid "Locate(BottomCenter)"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0070.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Hold it!{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0070.DAT/1___FILE.BIN::line:3_1_0"
 msgid "Locate(BottomCenter)"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0070.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Stop right there!{PA:20}"
-msgstr ""
+msgstr "¡Oye, detente ahí!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0070.DAT/1___FILE.BIN::line:4_1_0"
 msgid "Locate(BottomCenter)"

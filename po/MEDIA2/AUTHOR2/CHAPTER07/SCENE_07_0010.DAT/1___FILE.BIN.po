@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Hmm?{PA:20}"
-msgstr ""
+msgstr "¿Mmm?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "He's hurt bad.{PA:20} Doc,{PA:10} please.{PA:20}.{PA:20}.{PA:20}"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:3_0_0"
 msgid "And you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Y tú..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Sorry,{PA:10} but this is an emergency.{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What happened to your leg?{PA:20}"
-msgstr ""
+msgstr "¿Qué le pasó a tu pierna?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Forget about me.{PA:20} He's in a lot worse shape.{PA:20}"
@@ -41,15 +41,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "What happened?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasó?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:8_0_0"
 msgid "He's been shot.{PA:20}"
-msgstr ""
+msgstr "Le dispararon.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Hmm?{PA:20}"
-msgstr ""
+msgstr "¿Mmm?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:10_0_0"
 msgid "This.{PA:20}.{PA:20}.{PA:20} He's a big-time host here.{PA:20}.{PA:20}.{PA:20}"
@@ -81,5 +81,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0010.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Got it.{PA:20}"
-msgstr ""
+msgstr "Entiendo.{PA:20}"
 

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Now tell me where Chairman Goda is!{PA:20}"
-msgstr ""
+msgstr "¡Dime dónde está el presidente Goda ya!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Oh,{PA:10} God.{PA:20}.{PA:20}.{PA:20}"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:2_0_0"
 msgid "That's the Jingweon creed.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ese es el credo Jingwon.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:3_0_0"
 msgid "I.{PA:20}.{PA:20}.{PA:20} I should've followed it,{PA:10} too.{PA:20}"
@@ -45,19 +45,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:7_0_0"
 msgid "You can't beat fate.{PA:20}"
-msgstr ""
+msgstr "No se puede desafiar al destino...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:8_0_0"
 msgid "I should've died that night.{PA:20}"
-msgstr ""
+msgstr "Debí haber muerto esa noche.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:9_0_0"
 msgid "I'll be sure to.{PA:20}.{PA:20}.{PA:20} tell your mother.{PA:20}"
-msgstr ""
+msgstr "Me aseguraré de...{PA:20} {PA:20}d{PA:20}ecirle a tu madre...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Her little girl's grown up right.{PA:20}"
-msgstr ""
+msgstr "que su hija se ha convertido en alguien increíble...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0060.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Find your happiness,{PA:10} miss.{PA:20}"

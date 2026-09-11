@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0436.ARC/TALK_ST_KAB0436_BTL.BIN::line:140_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0436.ARC/TALK_ST_KAB0436_BTL.BIN::line:140_5_0"
 msgid "Experience points:"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0436.ARC/TALK_ST_KAB0436_BTL.BIN::line:142_0_0"
 msgid "Kunieda"
-msgstr ""
+msgstr "Kunieda"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0436.ARC/TALK_ST_KAB0436_BTL.BIN::line:143_0_0"
 msgid "Samurai Warrior"

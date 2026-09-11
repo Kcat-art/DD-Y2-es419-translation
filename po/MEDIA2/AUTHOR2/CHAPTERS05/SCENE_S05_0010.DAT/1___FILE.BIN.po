@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS05/SCENE_S05_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Hmm?{PA:20}"
-msgstr ""
+msgstr "¿{PA:20}{PA:20}M{PA:20}mm?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS05/SCENE_S05_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Hey,{PA:10} baby.{PA:20} I'm Machiko.{PA:20}"

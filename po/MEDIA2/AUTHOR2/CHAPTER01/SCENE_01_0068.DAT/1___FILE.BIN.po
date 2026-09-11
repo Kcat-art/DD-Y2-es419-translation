@@ -37,15 +37,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Stupid?{PA:20}"
-msgstr ""
+msgstr "¿Una estupidez?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:6_0_0"
 msgid "He made a move on Kansai.{PA:20}"
-msgstr ""
+msgstr "Se enfrentó a Kansai.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:7_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}And got busted for it.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}.{PA:20} Y acabó en prisión.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0068.DAT/1___FILE.BIN::line:8_0_0"
 msgid "He did time,{PA:10} then came back to Kamurocho.{PA:20}"

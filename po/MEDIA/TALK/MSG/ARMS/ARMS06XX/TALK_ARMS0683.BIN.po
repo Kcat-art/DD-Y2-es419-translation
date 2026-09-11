@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS06XX/TALK_ARMS0683.BIN::line:0_0_0"
 msgid "Beer Bottle"
-msgstr ""
+msgstr "Botella de cerveza"
 

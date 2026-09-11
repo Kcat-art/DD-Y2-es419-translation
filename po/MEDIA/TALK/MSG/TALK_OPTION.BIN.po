@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:0_7_0"
 msgid "Back"
-msgstr ""
+msgstr "Atrás"
 
 msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:1_0_0"
 msgid "Select settings to adjust.{PA:20}"
@@ -49,11 +49,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:1_1_0"
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:1_2_0"
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:2_0_0"
 msgid "Change screen size.{PA:20}"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:5_1_0"
 msgid "Stereo"
-msgstr ""
+msgstr "Estéreo"
 
 msgctxt "MEDIA/TALK/MSG/TALK_OPTION.BIN::line:5_2_0"
 msgid "Mono"

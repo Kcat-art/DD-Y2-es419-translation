@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0100.DAT/1___FILE.BIN::line:2_0_1"
 msgid "Gary Buster Holmes!{PA:20}"
-msgstr ""
+msgstr "Gary Buster Holmes{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0100.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Some coincidence,{PA:10} huh,{PA:10} Mr.{PA:20} Kiryu?{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0100.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0100.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Sudden death or youth in Asia.{PA:20}.{PA:20}.{PA:20}"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0100.DAT/1___FILE.BIN::line:6_0_0"
 msgid "I see your Japanese still sucks.{PA:20}"
-msgstr ""
+msgstr "Veo que no has mejorado mucho tu japonés.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0100.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Legendary yakuza versus fallen king!{PA:20}"

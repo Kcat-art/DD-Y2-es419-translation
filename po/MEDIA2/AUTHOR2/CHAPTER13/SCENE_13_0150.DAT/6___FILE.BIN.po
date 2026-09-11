@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:2_0_0"
 msgid "Jingweon men,{PA:10} sent in from the mainland.{PA:20}"
-msgstr ""
+msgstr "Hombres de los Ji{PA:10}ngwon... enviados desde su patria.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:3_0_0"
 msgid "That's when I set out to kill off all the"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:4_0_0"
 msgid "So that's why.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Así que esa era la razón{PA:20}.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:5_0_0"
 msgid "Those illegal aliens you shot were.{PA:20}.{PA:20}.{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:6_0_0"
 msgid "All Jingweon men.{PA:20}"
-msgstr ""
+msgstr "Todos ellos eran Jingwon.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:7_0_0"
 msgid "Revenge for Suyeon's murder?{PA:20}"
@@ -49,15 +49,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:8_0_0"
 msgid "Not just that.{PA:20}"
-msgstr ""
+msgstr "Y no solo eso:{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:9_0_0"
 msgid "I needed to erase Kaoru's past.{PA:20}"
-msgstr ""
+msgstr "quería borrar el pasado de Kaoru.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:10_0_0"
 msgid "My past?{PA:20}"
-msgstr ""
+msgstr "¿Mi pasado?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:11_0_0"
 msgid "Before she died,{PA:10} your ma came to me.{PA:20}"
@@ -73,11 +73,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:13_0_0"
 msgid "That was her dying wish?{PA:20}"
-msgstr ""
+msgstr "¿Esa fue su voluntad antes de morir?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:14_0_0"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:15_0_0"
 msgid "Then she gave ya to me,{PA:10} someone with"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:18_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0150.DAT/6___FILE.BIN::line:19_0_0"
 msgid "But it was because of those phone calls you"

@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0233.ARC/TALK_ST_KAB0233_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0233.ARC/TALK_ST_KAB0233_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -45,17 +45,17 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0233.ARC/TALK_ST_KAB0233_BTL.BIN::line:139_0_0"
 msgid "Yokobori Golf Center"
-msgstr ""
+msgstr "Centro de golf Yokobori"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0233.ARC/TALK_ST_KAB0233_BTL.BIN::line:140_0_0"
 msgid "Kajiwara"
-msgstr ""
+msgstr "Kajiwara"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0233.ARC/TALK_ST_KAB0233_BTL.BIN::line:141_0_0"
 msgid "Unknown Man"
-msgstr ""
+msgstr "Hombre misterioso"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0233.ARC/TALK_ST_KAB0233_BTL.BIN::line:142_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

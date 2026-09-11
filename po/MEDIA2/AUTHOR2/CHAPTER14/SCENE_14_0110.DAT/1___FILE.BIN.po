@@ -57,9 +57,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0110.DAT/1___FILE.BIN::line:8_0_0"
 msgid "The rest is up to you.{PA:20}"
-msgstr ""
+msgstr "El resto está en tus manos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0110.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Sure.{PA:20}"
-msgstr ""
+msgstr "Claro.{PA:20}"
 

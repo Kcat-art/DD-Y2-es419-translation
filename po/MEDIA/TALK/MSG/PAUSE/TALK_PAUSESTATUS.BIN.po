@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_10_0"
 msgid "Spirit"
-msgstr ""
+msgstr "Espíritu"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_11_0"
 msgid "Grappling"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_15_0"
 msgid "Ability"
-msgstr ""
+msgstr "Habilidad"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_16_0"
 msgid "Acquired at"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_19_0"
 msgid "Unknown"
-msgstr ""
+msgstr "Desconocida"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:0_20_0"
 msgid "Unacquired ability"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_7_0"
 msgid "Press {IC:02_02}➿╳1＞{IC:03_01}➿"
-msgstr ""
+msgstr "Pulsa{IC:02_02}➿ 1{IC:03_01}➿"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_8_0"
 msgid "A sharp right hook.{PA:20} It lacks power,{PA:10} but||can disrupt an opponent's defense.{PA:20}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_10_0"
 msgid "Press {IC:02_02}➿╳2＞{IC:03_01}➿"
-msgstr ""
+msgstr "Pulsa{IC:02_02}➿ 2{IC:03_01}➿"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_11_0"
 msgid "A devastating punch to the gut that||leaves opponents writhing in pain.{PA:20}"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_13_0"
 msgid "Press {IC:02_02}➿╳3＞{IC:03_01}➿"
-msgstr ""
+msgstr "Pulsa{IC:02_02}➿ 3{IC:03_01}➿"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_14_0"
 msgid "A powerful upward thrust that sends||your opponent flying.{PA:20}"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_16_0"
 msgid "Press {IC:02_02}➿╳4＞{IC:03_01}➿"
-msgstr ""
+msgstr "Pulsa{IC:02_02}➿ 4{IC:03_01}➿"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_17_0"
 msgid "A spinning kick with power that||exceeds almost any unarmed attack.{PA:20}"
@@ -329,7 +329,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_57_0"
 msgid "Taunt"
-msgstr ""
+msgstr "Burla"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_58_0"
 msgid "When facing opponent,{PA:10} press {IC:05_0b}➿ "
@@ -437,7 +437,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_84_0"
 msgid "Guard"
-msgstr ""
+msgstr "Guardia"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_85_0"
 msgid "Press {IC:07_0c}➿ "
@@ -449,7 +449,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_87_0"
 msgid "Quickstep"
-msgstr ""
+msgstr "Paso rápido"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_88_0"
 msgid "(In stance) left analog stick+{IC:00_03}➿"
@@ -461,7 +461,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_90_0"
 msgid "Escape"
-msgstr ""
+msgstr "Huida"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_91_0"
 msgid "When grabbed,{PA:10} press {IC:00_03}➿ repeatedly"
@@ -473,7 +473,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_93_0"
 msgid "Recovery"
-msgstr ""
+msgstr "Recuperación"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_94_0"
 msgid "Left analog stick and {IC:04_00}➿{IC:00_03}➿{IC:03_01}➿{IC:02_02}➿"
@@ -485,7 +485,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_96_0"
 msgid "Fighting Stance"
-msgstr ""
+msgstr "Postura de combate"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_97_0"
 msgid "Press {IC:08_0a}➿ "
@@ -521,7 +521,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_105_0"
 msgid "Reset Camera"
-msgstr ""
+msgstr "Reiniciar cámara"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_106_0"
 msgid "Press {IC:09_0d}➿  or R3 Button"
@@ -533,7 +533,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_108_0"
 msgid "Move Camera"
-msgstr ""
+msgstr "Mover cámara"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:1_109_0"
 msgid "Right analog stick"
@@ -597,7 +597,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:5_1_0"
 msgid "Press {IC:02_02}➿╳3＞{IC:03_01}➿＞{IC:03_01}➿"
-msgstr ""
+msgstr "Puls{IC:02_02}➿a {IC:03_01}➿3{IC:03_01}➿"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:5_2_0"
 msgid "A downward smash from an uppercut.{PA:20} It's||effective in breaking an opponent's guard.{PA:20}"
@@ -673,11 +673,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:10_0_0"
 msgid "Komaki Tiger Drop"
-msgstr ""
+msgstr "Komaki: Ocaso del tigre"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:11_0_0"
 msgid "Komaki Tiger Drop"
-msgstr ""
+msgstr "Komaki: Ocaso del tigre"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:11_1_0"
 msgid "Hold {IC:08_0a}➿ +meet enemy attack with {IC:03_01}➿"
@@ -725,7 +725,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:14_0_0"
 msgid "Tonfa"
-msgstr ""
+msgstr "Tonfa"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:14_1_0"
 msgid "With applicable weapon equipped,{PA:10} {IC:02_02}➿ or {IC:03_01}➿"
@@ -741,7 +741,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:15_0_0"
 msgid "Kali Sticks"
-msgstr ""
+msgstr "Palos kali"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:15_1_0"
 msgid "With applicable weapon equipped,{PA:10} {IC:02_02}➿ or {IC:03_01}➿"
@@ -969,7 +969,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:30_0_0"
 msgid "Finishing Hold"
-msgstr ""
+msgstr "Agarre rematador"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:30_1_0"
 msgid "Press {IC:02_02}➿╳(1-3)>{IC:03_01}➿>{IC:04_00}➿"
@@ -1001,11 +1001,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:32_0_0"
 msgid "Komaki Parry"
-msgstr ""
+msgstr "Komaki: Contraataque"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:33_0_0"
 msgid "Komaki Parry"
-msgstr ""
+msgstr "Komaki: Contraataque"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:33_1_0"
 msgid "Hold {IC:08_0a}➿ +meet enemy attack with {IC:04_00}➿"
@@ -1021,7 +1021,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:34_0_0"
 msgid "Essence of Finishing"
-msgstr ""
+msgstr "Esencia de remate"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:34_1_0"
 msgid "When near an enemy on the ground,{PA:10} {IC:03_01}➿"
@@ -1053,7 +1053,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:36_0_0"
 msgid "Essence of Batting"
-msgstr ""
+msgstr "Esencia de bateo"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:36_1_0"
 msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
@@ -1069,7 +1069,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:37_0_0"
 msgid "Essence of Golf"
-msgstr ""
+msgstr "Esencia de golf"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:37_1_0"
 msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
@@ -1085,7 +1085,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:38_0_0"
 msgid "Essence of Bowling"
-msgstr ""
+msgstr "Esencia de bolos"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:38_1_0"
 msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
@@ -1101,7 +1101,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:39_0_0"
 msgid "Essence of Tonfa"
-msgstr ""
+msgstr "Esencia de tonfa"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:39_1_0"
 msgid "With applicable weapon equipped,{PA:10} {IC:03_01}➿"
@@ -1169,7 +1169,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:44_0_0"
 msgid "Essence of Might"
-msgstr ""
+msgstr "Esencia de fuerza neta"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:44_1_0"
 msgid "Grab an enemy's leg,{PA:10} press {IC:03_01}➿"
@@ -1205,11 +1205,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:47_0_0"
 msgid "Komaki Fist Reversal"
-msgstr ""
+msgstr "Komaki: Evasor de puños"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:48_0_0"
 msgid "Komaki Fist Reversal"
-msgstr ""
+msgstr "Komaki: Evasor de puños"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:48_1_0"
 msgid "When an enemy attacks,{PA:10} press {IC:03_01}➿"
@@ -1245,7 +1245,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:51_0_0"
 msgid "Ultimate Essence"
-msgstr ""
+msgstr "Esencia definitiva"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:51_1_0"
 msgid "In front of a dazed enemy,{PA:10} {IC:03_01}➿"
@@ -1413,11 +1413,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:63_0_0"
 msgid "Komaki Knock Back"
-msgstr ""
+msgstr "Komaki: Bloqueo"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:64_0_0"
 msgid "Komaki Knock Back"
-msgstr ""
+msgstr "Komaki: Bloqueo"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:64_1_0"
 msgid "{IC:08_0a}➿ +{IC:07_0c}➿  at same time as enemy attack"
@@ -1433,7 +1433,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:65_0_0"
 msgid "Re-Guard"
-msgstr ""
+msgstr "Recobrar guardia"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSESTATUS.BIN::line:65_1_0"
 msgid "When guard is broken,{PA:10} press {IC:07_0c}➿ "

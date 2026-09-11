@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0030.ARC/TALK_ST_KAB0030_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0030.ARC/TALK_ST_KAB0030_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0030.ARC/TALK_ST_KAB0030_BTL.BIN::name:2"
 msgid "Rika"
-msgstr ""
+msgstr "Rika"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0030.ARC/TALK_ST_KAB0030_BTL.BIN::line:139_0_0"
 msgid "This is \"{CC:ffc8c8}Shine{CR:00}\".{PA:20}||Be careful in there.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0030.ARC/TALK_ST_KAB0030_BTL.BIN::line:152_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0030.ARC/TALK_ST_KAB0030_BTL.BIN::line:152_5_0"
 msgid "Experience points:"

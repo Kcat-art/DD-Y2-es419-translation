@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:0_0_0"
 msgid "This ain't a date spot,{PA:10} kids.{PA:20}"
-msgstr ""
+msgstr "Este no es un lugar apto para citas, j{PA:10}ovencitos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "This is Sugiura's work.{PA:20}"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Surprised ya got yer hands on one.{PA:20}"
-msgstr ""
+msgstr "Me sorprende que tengan una de estas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:3_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}So?{PA:20} Who you playin'?{PA:20}"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Murai.{PA:20}"
-msgstr ""
+msgstr "Con Murai.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Murai?{PA:20}"
-msgstr ""
+msgstr "Con Murai.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Yes,{PA:10} a man named Murai.{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Don't worry,{PA:10} I work under Chief Bessho.{PA:20}"
-msgstr ""
+msgstr "No se preoc{PA:10}upe, soy su subordinada.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:18_0_0"
 msgid "I want to ask you about the Jingweon mafia.{PA:20}"
@@ -121,7 +121,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:20_0_0"
 msgid "I think I may be one of the survivors.{PA:20}"
-msgstr ""
+msgstr "Es posible que yo también sea una sobreviviente.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Were there any children there young enough"
@@ -133,11 +133,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:22_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}There was one.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}{PA:20}. Había uno.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Please,{PA:10} I need details!{PA:20}"
-msgstr ""
+msgstr "¡Cuénteme {PA:10}lo que sepa, por favor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:24_0_0"
 msgid "If you can live without knowing,{PA:10} you'll be"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Please,{PA:10} tell me!{PA:20}"
-msgstr ""
+msgstr "¡Tiene que dec{PA:10}írmelo, por favor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:26_0_0"
 msgid "After losing that day,{PA:10} Yabuta quit shogi,{PA:10}"
@@ -181,7 +181,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:30_0_0"
 msgid "Life can be cruel.{PA:20}"
-msgstr ""
+msgstr "La vida a veces puede ser injusta.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:31_0_0"
 msgid "You made it this far without knowing,{PA:10} miss.{PA:20}"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:32_0_0"
 msgid "No reason to take on that burden now.{PA:20}"
-msgstr ""
+msgstr "No hay razón para asumir esa carga ahora.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:33_0_0"
 msgid "I'm prepared to handle it,{PA:10} whatever it is.{PA:20}"
@@ -197,7 +197,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:34_0_0"
 msgid "That's why I came here today.{PA:20}"
-msgstr ""
+msgstr "Por eso vine a este lugar.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:35_0_0"
 msgid "I'm begging you!{PA:20} Please,{PA:10} tell me!{PA:20}"
@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:37_0_0"
 msgid "Please!{PA:20}"
-msgstr ""
+msgstr "¡Por favor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:38_0_0"
 msgid "It was Christmas.{PA:20}"
@@ -233,11 +233,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:42_0_0"
 msgid "But you three managed to survive.{PA:20}"
-msgstr ""
+msgstr "Pero tres de ustedes tuvieron la suerte de sobrevivir.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:43_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:44_0_0"
 msgid "You managed to flee to Kansai with help from"
@@ -261,7 +261,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:47_0_0"
 msgid "How?{PA:20}"
-msgstr ""
+msgstr "¿Cómo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:48_0_0"
 msgid "I sold them out.{PA:20}"
@@ -269,15 +269,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:49_0_0"
 msgid "The other two survivors?{PA:20}"
-msgstr ""
+msgstr "¿A los otros dos sobrevivientes?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:50_0_0"
 msgid "No,{PA:10} not Daejin Kim and Yeongmin Ji.{PA:20}"
-msgstr ""
+msgstr "No, {PA:10}no hablo de Daejin Kim y Yeongmin Ji.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:51_0_0"
 msgid "Daejin Kim and.{PA:20}.{PA:20}.{PA:20}Yeongmin Ji ?{PA:20}"
-msgstr ""
+msgstr "¿Daejin Kim y {PA:20}Y{PA:20}e{PA:20}ongmin Ji?...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:52_0_0"
 msgid "They were only 16 at the time,{PA:10} but somehow"
@@ -301,11 +301,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:56_0_0"
 msgid "There were two more.{PA:20}"
-msgstr ""
+msgstr "había dos personas más.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:57_0_0"
 msgid "Two other survivors.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Otros dos sobrevivientes.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:58_0_0"
 msgid "The.{PA:20}.{PA:20}.{PA:20}"
@@ -313,13 +313,13 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:59_0_0"
 msgid "The boss's wife.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "la mujer del jefe.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:60_0_0"
 msgid "And her child.{PA:20}"
-msgstr ""
+msgstr "y su bebé.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0030.DAT/1___FILE.BIN::line:61_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Her child?{PA:20}"
-msgstr ""
+msgstr "¿{PA:20}{PA:20}S{PA:20}u bebé?{PA:20}"
 

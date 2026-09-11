@@ -13,31 +13,31 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:0_0_0"
 msgid "View controls?{PA:20}"
-msgstr ""
+msgstr "Ver controles{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:0_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:0_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_0_0"
 msgid "Swing bat"
-msgstr ""
+msgstr "Batear"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_1_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_2_0"
 msgid "Move"
-msgstr ""
+msgstr "Moverse"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:1_3_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:2_0_0"
 msgid "Little League Mode"
@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:3_0_0"
 msgid "Results"
-msgstr ""
+msgstr "Resultados"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:3_1_0"
 msgid "Home Runs"
-msgstr ""
+msgstr "Home runs"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:4_0_0"
 msgid "km/h"
@@ -69,15 +69,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:5_0_0"
 msgid "Play again?{PA:20}"
-msgstr ""
+msgstr "¿Jugar otra vez?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:5_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:5_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:6_0_0"
 msgid "You hit at least 10 runs.{PA:20} That's not bad.{PA:20}||This is the beginner's prize.{PA:20}||||||           Received \"Tissues\""
@@ -157,9 +157,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:7_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BATTING.BIN::line:7_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 

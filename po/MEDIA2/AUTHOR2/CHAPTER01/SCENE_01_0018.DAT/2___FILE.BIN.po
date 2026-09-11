@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0018.DAT/2___FILE.BIN::line:0_0_0"
 msgid "Damn.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Maldición{PA:20}.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0018.DAT/2___FILE.BIN::line:1_0_0"
 msgid "Has it really been more than 20 years?{PA:20}"

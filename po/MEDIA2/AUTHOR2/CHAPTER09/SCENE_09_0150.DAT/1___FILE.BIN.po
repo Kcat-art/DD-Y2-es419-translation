@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:7_0_0"
 msgid "It's not your fault.{PA:20}"
-msgstr ""
+msgstr "No es culpa tuya.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:8_0_0"
 msgid "You can see a threat coming from outside.{PA:20}"
@@ -81,5 +81,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0150.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Yes,{PA:10} ma'am!{PA:20}"
-msgstr ""
+msgstr "¡Sí,{PA:10} señora!{PA:20}"
 

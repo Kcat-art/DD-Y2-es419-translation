@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Yayoi!{PA:20}"
-msgstr ""
+msgstr "yayoi{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:3_0_0"
 msgid "I was busy while you were out.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:8_0_0"
 msgid "The sound of the Tojo Clan,{PA:10} changing.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Debe ser... cómo esta organizació{PA:10}n se desmoron{PA:20}a{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Right about now,{PA:10} the others are falling"
@@ -57,9 +57,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:10_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0100.DAT/1___FILE.BIN::line:11_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 

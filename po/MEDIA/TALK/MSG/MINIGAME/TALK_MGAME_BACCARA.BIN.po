@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_0_0"
 msgid "Enter"
-msgstr ""
+msgstr "Entrar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_1_0"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_2_0"
 msgid "Change Bet"
@@ -33,11 +33,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_5_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_6_0"
 msgid "Stop"
-msgstr ""
+msgstr "¡Detente!"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_7_0"
 msgid "Bet Amount"
@@ -45,11 +45,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:0_8_0"
 msgid "Payout"
-msgstr ""
+msgstr "Pago"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_0_0"
 msgid "Player"
-msgstr ""
+msgstr "Jugador"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:1_1_0"
 msgid "Banker"
@@ -81,11 +81,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:2_0_0"
 msgid "Continue"
-msgstr ""
+msgstr "CONTINUAR"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:2_1_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:3_0_0"
 msgid "Leave the Baccarat table?{PA:20}"
@@ -93,11 +93,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:3_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:3_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_0_0"
 msgid "Welcome to Baccarat.{PA:20}"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_12_0"
 msgid "The player wins.{PA:20}"
-msgstr ""
+msgstr "Gana el jugador.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:4_13_0"
 msgid "The banker wins.{PA:20}"
@@ -265,11 +265,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:6_1_0"
 msgid "L"
-msgstr ""
+msgstr "l# ?"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:6_2_0"
 msgid "Left:"
-msgstr ""
+msgstr "Izquierda"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:6_3_0"
 msgid " games"
@@ -277,9 +277,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:7_0_0"
 msgid "Play again"
-msgstr ""
+msgstr "Volver a jugar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BACCARA.BIN::line:7_1_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 

@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:2_0_0"
 msgid "It's like a different thug every week.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ja, todos los días mandan a un matón diferente.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Send all ya like.{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Huh?{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:5_0_0"
 msgid "You're here for protection money,{PA:10} right?{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Do you know a woman named Kaoru Sayama?{PA:20}"
-msgstr ""
+msgstr "Disculpe, pero ¿conoce a una mujer llamada Kaoru Sayama?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Kaoru?{PA:20} What about her?{PA:20}"
@@ -49,15 +49,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:8_0_0"
 msgid "She's hurt.{PA:20}"
-msgstr ""
+msgstr "Está herida.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Where is she?!{PA:20}"
-msgstr ""
+msgstr "¿No sabría decirme en dónde está ella?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:10_0_0"
 msgid "I left her in the car.{PA:20}"
-msgstr ""
+msgstr "Está en el auto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0040.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Well,{PA:10} get yer ass back and bring 'er"

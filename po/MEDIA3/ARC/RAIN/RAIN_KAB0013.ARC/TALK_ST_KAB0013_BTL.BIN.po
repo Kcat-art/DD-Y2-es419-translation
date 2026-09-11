@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:153_0_0"
 msgid "0123456789+-円万億¥,{PA:10}枚点"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:153_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:153_5_0"
 msgid "Experience points:"
@@ -53,15 +53,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:154_0_0"
 msgid "Nakamichi St.{PA:20}"
-msgstr ""
+msgstr "Calle Nakamichi{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:155_0_0"
 msgid "Miyoshi"
-msgstr ""
+msgstr "Miyoshi"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:156_0_0"
 msgid "Kamei"
-msgstr ""
+msgstr "Kamei"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:157_0_0"
 msgid "Motoki"
@@ -105,21 +105,21 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:167_0_0"
 msgid "Araki"
-msgstr ""
+msgstr "Araki"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:168_0_0"
 msgid "Kondo"
-msgstr ""
+msgstr "Kondo"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:169_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:170_0_0"
 msgid "Go"
-msgstr ""
+msgstr "¡¡Vete!!"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0013.ARC/TALK_ST_KAB0013_BTL.BIN::line:171_0_0"
 msgid "Nagasawa"
-msgstr ""
+msgstr "Nagasawa"
 

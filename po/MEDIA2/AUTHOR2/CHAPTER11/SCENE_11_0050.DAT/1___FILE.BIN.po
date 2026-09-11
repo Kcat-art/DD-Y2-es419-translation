@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Where did his wife and her child go then?{PA:20}"
-msgstr ""
+msgstr "¿Y qué sucedió después con su esposa y su bebé?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Here,{PA:10} Kansai.{PA:20} Kawara brought 'em down.{PA:20}"
@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Are you.{PA:20}.{PA:20}.{PA:20} You're really that poor kid?{PA:20}"
-msgstr ""
+msgstr "¿Enton{PA:20}{PA:20}c{PA:20}es, eras tú aquel...?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Who killed the father?{PA:20}"
-msgstr ""
+msgstr "¡¿Quién mató a mi padre?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:9_0_0"
 msgid "I don't know his name.{PA:20}"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:11_0_0"
 msgid "That.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "eso{PA:20}{PA:20}?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:12_0_0"
 msgid "That has to be Fuma.{PA:20}"
@@ -85,11 +85,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Who?{PA:20}"
-msgstr ""
+msgstr "¿Llamar a quién?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:14_0_0"
 msgid "The man who raised me.{PA:20}"
-msgstr ""
+msgstr "El hombre que me crio:{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Shintaro Fuma.{PA:20}"
@@ -97,11 +97,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:16_0_0"
 msgid "You're sure?{PA:20}"
-msgstr ""
+msgstr "¿Está seguro?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:18_0_0"
 msgid "I was there.{PA:20}"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Jingweon mafia,{PA:10} I presume?{PA:20}"
-msgstr ""
+msgstr "Deben ser los Jingwo{PA:10}n, ¿no es así?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Right you are.{PA:20}"
@@ -129,11 +129,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Absolutely.{PA:20} And we owe you our thanks.{PA:20}"
-msgstr ""
+msgstr "Correcto. {PA:20}Y te debemos las gracias.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:24_0_0"
 msgid "You tracked down the deserter for us.{PA:20}"
-msgstr ""
+msgstr "Rastreaste al traidor por nosotros.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Before I let you at him.{PA:20}.{PA:20}.{PA:20}"
@@ -149,11 +149,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Impossible.{PA:20}"
-msgstr ""
+msgstr "Imposibles{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:28_0_0"
 msgid "They're elites,{PA:10} straight from the mainland.{PA:20}"
-msgstr ""
+msgstr "Son unidades de é{PA:10}lite enviadas de la madre patria.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0050.DAT/1___FILE.BIN::line:29_0_0"
 msgid "No chance in hell they'll talk.{PA:20}"

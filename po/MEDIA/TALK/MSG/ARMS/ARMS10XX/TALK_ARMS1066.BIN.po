@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS10XX/TALK_ARMS1066.BIN::line:0_0_0"
 msgid "Soulful Folk Guitar"
-msgstr ""
+msgstr "Guitarra acústica"
 

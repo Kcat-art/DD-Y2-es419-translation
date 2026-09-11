@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Smoking doesn't suit a lady.{PA:20}"
-msgstr ""
+msgstr "Las mujeres no lucen muy bien fumando.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Mind your own business.{PA:20}"
@@ -29,15 +29,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:3_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Would it kill you to act like a lady?{PA:20}"
-msgstr ""
+msgstr "No actúas muy femenina, ¿sabes?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What do you mean by that?{PA:20}"
-msgstr ""
+msgstr "¿A qué te refieres?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:6_0_0"
 msgid "I hear you're lead detective at Osaka's"
@@ -53,11 +53,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:8_0_0"
 msgid "How.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿Có{PA:20}m{PA:20}o{PA:20}?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:9_0_0"
 msgid "I found it up on the roof.{PA:20}"
-msgstr ""
+msgstr "Lo dejaste tirado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Figured it'd be bad if it turned up at the"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Yeah?{PA:20}"
-msgstr ""
+msgstr "¿Sí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:17_0_0"
 msgid "I guess Tokyo police really do see a"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:18_0_0"
 msgid "It's not like that.{PA:20}"
-msgstr ""
+msgstr "No es para tanto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Tokyo,{PA:10} Osaka,{PA:10} it's all the same.{PA:20}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Sorry I'm late.{PA:20}"
-msgstr ""
+msgstr "Disculpen la tardanza.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:23_0_0"
 msgid "REALLY late.{PA:20}"
@@ -149,15 +149,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:24_0_0"
 msgid "Kawara.{PA:20}"
-msgstr ""
+msgstr "kawara{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Are you all right?{PA:20}"
-msgstr ""
+msgstr "¿Se encuentra bien?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Yeah,{PA:10} I'll pull through.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:10}., más o menos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:27_0_0"
 msgid "What's Kazuki's condition?{PA:20}"
@@ -169,11 +169,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Hey!{PA:20}"
-msgstr ""
+msgstr "¡Oye!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:30_0_0"
 msgid "Who the hell are you?!{PA:20}"
-msgstr ""
+msgstr "¿Quién demonios eres tú?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:31_0_0"
 msgid "[In Korean] Is this Kang?{PA:20}"
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:33_0_0"
 msgid "Who.{PA:20}.{PA:20}.{PA:20} are you people.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿Qui{PA:20}é{PA:20}n{PA:20}es... son usted{PA:20}e{PA:20}s{PA:20}?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:34_0_0"
 msgid "[In Korean] No.{PA:20}.{PA:20}.{PA:20} He's not Kang!{PA:20}"
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:40_0_0"
 msgid "So you do speak Japanese.{PA:20}"
-msgstr ""
+msgstr "Conque sabes hablar japonés...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:41_0_0"
 msgid "That makes it even worse.{PA:20}"
@@ -241,7 +241,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:44_0_0"
 msgid "Oh,{PA:10} yeah?{PA:20}"
-msgstr ""
+msgstr "¿Ah{PA:10}, sí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0050.DAT/1___FILE.BIN::line:45_0_0"
 msgid "I can't just watch some asshole punch out"

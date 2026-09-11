@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Date!{PA:20}"
-msgstr ""
+msgstr "Fecha{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Kazuma?!{PA:20}"
-msgstr ""
+msgstr "¡Kazuma!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Kazuma Kiryu?{PA:20}"
-msgstr ""
+msgstr "¿Kazuma Kiryu?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Kazuki!{PA:20}"
-msgstr ""
+msgstr "¡Kazuki!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Mr.{PA:20} Kiryu!{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What the hell is going on?{PA:20}"
-msgstr ""
+msgstr "(¿Qué demonios está pasando?).{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Don't ask me.{PA:20}"
@@ -65,15 +65,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Why are you here?{PA:20}"
-msgstr ""
+msgstr "¿Qué haces aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:11_0_0"
 msgid "I was told to be here at one o'clock.{PA:20}"
-msgstr ""
+msgstr "Me pidieron que viniera aquí a la una de la mañana.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:12_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Big surprise.{PA:20}"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:14_0_0"
 msgid "It was a trap.{PA:20}"
-msgstr ""
+msgstr "Era una trampa.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Sure looks like it.{PA:20}"
@@ -89,11 +89,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Wh-What are you doing?{PA:20}"
-msgstr ""
+msgstr "¿Qu-qué está haciendo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Kawara!{PA:20}"
-msgstr ""
+msgstr "¡Kawara!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:18_0_0"
 msgid "This fake's the one who led us up here.{PA:20}"
@@ -109,11 +109,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:20_0_0"
 msgid "You've got the wrong guy!{PA:20}"
-msgstr ""
+msgstr "Se equivocaron de persona.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Shut up!{PA:20}"
-msgstr ""
+msgstr "¡Cállate!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Never underestimate a cop.{PA:20}"
@@ -145,11 +145,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:26_0_0"
 msgid "I don't know what you're talking about!{PA:20}"
-msgstr ""
+msgstr "¡No sé de qué está hablando!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Drop the act!{PA:20}"
-msgstr ""
+msgstr "¡No te hagas el tonto!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:28_0_0"
 msgid "Who wrote this little scenario?{PA:20}"
@@ -157,7 +157,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Stop it!{PA:20}"
-msgstr ""
+msgstr "¡Ya basta!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:30_0_0"
 msgid "Are you planning to kill right in front of"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:31_0_0"
 msgid "Get it straight,{PA:10} Makoto.{PA:20}"
-msgstr ""
+msgstr "Usa la cabeza, {PA:10}Makoto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:32_0_0"
 msgid "This guy's not the Kazuki you know.{PA:20}"
@@ -181,7 +181,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:33_0_0"
 msgid "How can you say that without any proof?{PA:20}"
-msgstr ""
+msgstr "¡¿Cómo puedes estar tan seguro sin tener pruebas?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:34_0_0"
 msgid "I know it in my gut.{PA:20}"
@@ -217,35 +217,35 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:39_0_0"
 msgid "You're out of your damn mind.{PA:20}"
-msgstr ""
+msgstr "Estás demente...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:40_0_0"
 msgid "Stay back!{PA:20}"
-msgstr ""
+msgstr "¡No te acerques!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Kawara!{PA:20}"
-msgstr ""
+msgstr "¡Kawara!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:42_0_0"
 msgid "Kazuki!{PA:20}"
-msgstr ""
+msgstr "¡Kazuki!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:43_0_0"
 msgid "Kiryu.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kiryu..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:44_0_0"
 msgid "I'm the one who called you here yesterday.{PA:20}"
-msgstr ""
+msgstr "Fui yo quien te pidió que vinieras aquí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:45_0_0"
 msgid "You?{PA:20}"
-msgstr ""
+msgstr "Tú.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:46_0_0"
 msgid "Where's Daigo?{PA:20}"
-msgstr ""
+msgstr "¡¿Dónde está Daigo?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:47_0_0"
 msgid "No point in telling that to the dead.{PA:20}"
@@ -253,7 +253,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:48_0_0"
 msgid "So you brought us all up here to kill us?{PA:20}"
-msgstr ""
+msgstr "¿Acaso nos trajiste aquí para matarnos?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:49_0_0"
 msgid "Now you get it.{PA:20}"
@@ -273,11 +273,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:52_0_0"
 msgid "The four of us?{PA:20}"
-msgstr ""
+msgstr "¿Los cuatro?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:53_0_0"
 msgid "Why the hell would we kill each other?{PA:20}"
-msgstr ""
+msgstr "¿Por qué diablos nos mataríamos unos a otros?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:54_0_0"
 msgid "Given an ending,{PA:10} a story will write itself.{PA:20}"
@@ -297,7 +297,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:58_0_0"
 msgid "Shoot!{PA:20}"
-msgstr ""
+msgstr "¡Hazlo!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:59_0_0"
 msgid "[In Korean] You.{PA:20}.{PA:20}.{PA:20} bastard.{PA:20}.{PA:20}.{PA:20}"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:60_0_0"
 msgid "Die!{PA:20}"
-msgstr ""
+msgstr "¡Muere!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:60_1_0"
 msgid "Locate(BottomCenter)"
@@ -345,5 +345,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER06/SCENE_06_0030.DAT/1___FILE.BIN::line:66_0_0"
 msgid "Right!{PA:20}"
-msgstr ""
+msgstr "¡Sí!{PA:20}"
 

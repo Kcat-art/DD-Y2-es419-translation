@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0020.DAT/1___FILE.BIN::line:0_0_0"
 msgid "I'm back.{PA:20}"
-msgstr ""
+msgstr "Ya volví.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Welcome home,{PA:10} Master.{PA:20}"
-msgstr ""
+msgstr "Bienvenido a c{PA:10}asa, amo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0020.DAT/1___FILE.BIN::line:2_0_0"
 msgid "He's a guest.{PA:20}"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Put it someplace he won't find it.{PA:20}"
-msgstr ""
+msgstr "Ponlo en algún lugar donde no lo encuentre.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Y-Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "S-Sí, se{PA:10}ñor...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0020.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Don't just stand there.{PA:20} C'mon in.{PA:20}"
@@ -45,5 +45,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0020.DAT/1___FILE.BIN::line:8_0_0"
 msgid "R-Right.{PA:20}"
-msgstr ""
+msgstr "C-Claro...{PA:20}"
 

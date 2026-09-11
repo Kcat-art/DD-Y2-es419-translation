@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0130.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Up in the central tower.{PA:20}"
-msgstr ""
+msgstr "En la torre del castillo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0130.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Doubt you'll reach the top floor,{PA:10} though.{PA:20}"

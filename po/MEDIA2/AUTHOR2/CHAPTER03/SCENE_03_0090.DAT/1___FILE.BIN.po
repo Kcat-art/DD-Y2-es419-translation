@@ -17,15 +17,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0090.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yes,{PA:10} ma'am!{PA:20}"
-msgstr ""
+msgstr "¡Sí,{PA:10} señora!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0090.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Kazuma Kiryu?{PA:20}"
-msgstr ""
+msgstr "¿Kazuma Kiryu?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0090.DAT/1___FILE.BIN::line:3_0_0"
 msgid "That's me.{PA:20}"
-msgstr ""
+msgstr "Así es.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0090.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Kaoru Sayama,{PA:10} Osaka Prefectural Police.{PA:20}"
@@ -33,5 +33,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0090.DAT/1___FILE.BIN::line:5_0_0"
 msgid "You're under arrest for assault.{PA:20}"
-msgstr ""
+msgstr "Está bajo arresto por agresión física.{PA:20}"
 

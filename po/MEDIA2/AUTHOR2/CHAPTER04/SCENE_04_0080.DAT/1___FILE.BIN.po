@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0080.DAT/1___FILE.BIN::line:0_0_0"
 msgid "There's something else I want to know.{PA:20}"
-msgstr ""
+msgstr "Aún tengo algo más que preguntar.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0080.DAT/1___FILE.BIN::line:1_0_0"
 msgid "What's that?{PA:20}"
-msgstr ""
+msgstr "¿El qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0080.DAT/1___FILE.BIN::line:2_0_0"
 msgid "The rest of the story.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Es sobre de lo que hablábamos antes{PA:20}.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0080.DAT/1___FILE.BIN::line:3_0_0"
 msgid "What's Takashima really up to?{PA:20}"
-msgstr ""
+msgstr "Quiero saber los secretos de Takashima.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0080.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I've gotta charge ya again.{PA:20}"
@@ -37,9 +37,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0080.DAT/1___FILE.BIN::line:6_0_0"
 msgid "How much?{PA:20}"
-msgstr ""
+msgstr "¿Cuánto?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0080.DAT/1___FILE.BIN::line:7_0_0"
 msgid "300 grand.{PA:20}"
-msgstr ""
+msgstr "300 000 yenes.{PA:20}"
 

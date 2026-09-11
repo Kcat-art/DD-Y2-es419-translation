@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:0_0_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:0_1_0"
 msgid "Give"
@@ -21,15 +21,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:0_2_0"
 msgid "pts"
-msgstr ""
+msgstr " ptos."
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_0_0"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_1_0"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_2_0"
 msgid "Toughness Emperor"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_3_0"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_4_0"
 msgid "Recovery Medicine"
@@ -53,15 +53,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_7_0"
 msgid "Bento Lunch Set"
-msgstr ""
+msgstr "Bento makunouchi"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_8_0"
 msgid "Club Sandwich"
-msgstr ""
+msgstr "Sándwich club"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_9_0"
 msgid "Special Yakisoba"
-msgstr ""
+msgstr "Yakisoba especial"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_10_0"
 msgid "Steamed Bun"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_11_0"
 msgid "Milk"
-msgstr ""
+msgstr "Leche"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_12_0"
 msgid "Spaghetti With Meat Sauce"
-msgstr ""
+msgstr "Espaguetis a la boloñesa"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_13_0"
 msgid "Fried Chicken Lunch"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_14_0"
 msgid "Pudding"
-msgstr ""
+msgstr "Pudín"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_15_0"
 msgid "Seaweed Rice Ball"
@@ -93,11 +93,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_17_0"
 msgid "Frankfurter"
-msgstr ""
+msgstr "Frankfurter"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_18_0"
 msgid "Melon Bread"
-msgstr ""
+msgstr "Melonpan"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_19_0"
 msgid "Tonkatsu Sandwich"
@@ -125,11 +125,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_25_0"
 msgid "Haruka's Candy"
-msgstr ""
+msgstr "Dulce de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_26_0"
 msgid "Haruka's Chocolate"
-msgstr ""
+msgstr "Chocolate de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_27_0"
 msgid "Takoyaki (8)"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_36_0"
 msgid "C.{PA:20}C.{PA:20} Lemon"
-msgstr ""
+msgstr "C.{PA:20}C.{PA:20} Lemon"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_37_0"
 msgid "DAKARA"
@@ -181,7 +181,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_39_0"
 msgid "Sushi Set"
-msgstr ""
+msgstr "Menú de sushi"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0001.BIN::line:1_40_0"
 msgid "Old Lady's Candy"

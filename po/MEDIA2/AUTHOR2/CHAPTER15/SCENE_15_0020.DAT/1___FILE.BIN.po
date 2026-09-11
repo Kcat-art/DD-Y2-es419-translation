@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Theeen.{PA:20}.{PA:20}.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Y-Yes,{PA:10} sir!{PA:20}"
-msgstr ""
+msgstr "¡S-sí, {PA:10}señor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What?{PA:20} Ya got gas or somethin'?{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:6_0_0"
 msgid "N-No,{PA:10} sir.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "N-no, {PA:10}señor.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:7_0_0"
 msgid "I was just thinking about my mother,{PA:10} back"
@@ -61,11 +61,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:10_0_0"
 msgid "That's why we're stoppin' it,{PA:10} numbnuts!{PA:20}"
-msgstr ""
+msgstr "¡Por eso mismo hay que desactivar esta bomb{PA:10}a,||cabeza hueca!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:11_0_0"
 msgid "B-But,{PA:10} boss.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "P-pero{PA:10} jefe..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Does doing this really tell you how the"
@@ -97,7 +97,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Instincts?!{PA:20}"
-msgstr ""
+msgstr "¡¿Intuición?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:17_0_0"
 msgid "We're doing this on instinct?!{PA:20}"
@@ -109,7 +109,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:19_0_0"
 msgid "N-No.{PA:20}.{PA:20}.{PA:20} It's not that,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "N-no{PA:20}{PA:20}.{PA:20}.., ¡no es {PA:10}eso!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Then get back to work!{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Hey,{PA:10} boss.{PA:20}.{PA:20}.{PA:20}"
@@ -129,11 +129,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:24_0_0"
 msgid "Huh?{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Aww,{PA:10} fuck this!{PA:20}"
-msgstr ""
+msgstr "¡Bah,{PA:10} a la mierda!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Which-One-Should-I-Pick-I-Know-Let's-"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Boss!{PA:20}"
-msgstr ""
+msgstr "... ¡Jefe!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:30_0_0"
 msgid "This is a life-or-death decision here!{PA:20}"
@@ -173,5 +173,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0020.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Gimme those!{PA:20}"
-msgstr ""
+msgstr "¡Dame eso!{PA:20}"
 

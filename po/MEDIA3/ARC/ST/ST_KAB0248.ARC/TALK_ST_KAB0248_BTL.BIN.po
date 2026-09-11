@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::name:0"
 msgid "Tamiyo"
-msgstr ""
+msgstr "Tamiyo"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::name:1"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:138_1_0"
 msgid "     You now have access to a hideout.{PA:20}"
-msgstr ""
+msgstr "Ahora tienes acceso al escondite.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:138_1_1"
 msgid "Your health will recover while inside the"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:139_3_0"
 msgid "Here you go.{PA:20}"
-msgstr ""
+msgstr "Aquí tiene.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:139_3_1"
 msgid "       You handed over the bandages.{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:139_5_1"
 msgid "Where is she?{PA:20}"
-msgstr ""
+msgstr "¿No sabría decirme en dónde está ella?{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:139_5_2"
 msgid "Dunno what's happened,{PA:10} but.{PA:20}.{PA:20}.{PA:20}||Probably that bar on Sotenbori?{PA:20}"
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:139_11_2"
 msgid "I will.{PA:20}"
-msgstr ""
+msgstr "Lo haré.{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:139_12_0"
 msgid "Don't go forgettin' you're still wounded.{PA:20}||You be careful out there.{PA:20}"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:140_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:140_5_0"
 msgid "Experience points:"
@@ -205,5 +205,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0248.ARC/TALK_ST_KAB0248_BTL.BIN::line:141_0_0"
 msgid "Aoi"
-msgstr ""
+msgstr "Aoi"
 

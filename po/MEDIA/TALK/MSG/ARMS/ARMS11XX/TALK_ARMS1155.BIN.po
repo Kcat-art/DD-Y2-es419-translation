@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS11XX/TALK_ARMS1155.BIN::line:0_0_0"
 msgid "Table"
-msgstr ""
+msgstr "Mesa"
 

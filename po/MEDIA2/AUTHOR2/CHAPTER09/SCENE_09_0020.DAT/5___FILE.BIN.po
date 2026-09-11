@@ -45,11 +45,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:4_0_0"
 msgid "So.{PA:20}.{PA:20}.{PA:20} We doin' this,{PA:10} boss?{PA:20}"
-msgstr ""
+msgstr "¿Y{PA:20}a{PA:20} {PA:20}es hora..., {PA:10}jefe?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:5_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:6_0_0"
 msgid "Kill 'em all.{PA:20}"
@@ -57,19 +57,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:7_0_0"
 msgid "All of them?!{PA:20}"
-msgstr ""
+msgstr "¡¿A todos?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:8_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:9_0_0"
 msgid "You got a problem with that?{PA:20}"
-msgstr ""
+msgstr "¿Tienes alguna queja?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:10_0_0"
 msgid "No,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "... ¡N{PA:10}o, señor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:11_0_0"
 msgid "What,{PA:10} Fuma?{PA:20}"
@@ -85,11 +85,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:13_0_0"
 msgid "It's not like that.{PA:20}"
-msgstr ""
+msgstr "No es para tanto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:14_0_0"
 msgid "Boss.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¿Jefe?{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:14_0_1"
 msgid "Is there any way past this other than war?{PA:20}"
@@ -121,7 +121,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:20_0_0"
 msgid "Boss!{PA:20}"
-msgstr ""
+msgstr "... ¡Jefe!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:21_0_0"
 msgid "Cool it a minute.{PA:20}"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:30_0_0"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:30_0_1"
 msgid ".{PA:20}.{PA:20}.{PA:20}But do we really need to kill them all?{PA:20}"
@@ -197,11 +197,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:35_0_0"
 msgid "Tonight's our only chance.{PA:20}"
-msgstr ""
+msgstr "Esta noche es nuestra oportunidad de atacar.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:36_0_0"
 msgid "Leave it to me!{PA:20}"
-msgstr ""
+msgstr "Déjamelo a mí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0020.DAT/5___FILE.BIN::line:37_0_0"
 msgid "I understand.{PA:20}"

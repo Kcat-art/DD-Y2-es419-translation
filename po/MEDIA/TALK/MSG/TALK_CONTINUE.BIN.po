@@ -17,11 +17,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:0_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:0_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:1_0_0"
 msgid "Set the difficulty level to Easy?{PA:20}"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:1_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:1_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:2_0_0"
 msgid "Set the difficulty level to Easy?{PA:20}"
@@ -41,11 +41,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:2_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:2_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:3_0_0"
 msgid "Set the difficulty level to Easy?{PA:20}"
@@ -53,11 +53,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:3_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:3_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:4_0_0"
 msgid "Retry"
@@ -81,11 +81,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:5_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:5_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_CONTINUE.BIN::line:6_0_0"
 msgid "Retry (need 100 yen)"

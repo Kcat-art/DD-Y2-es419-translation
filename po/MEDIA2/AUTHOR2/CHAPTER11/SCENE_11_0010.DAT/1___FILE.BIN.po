@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "What's wrong?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasa?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Thinking through everything last night,{PA:10}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:3_0_0"
 msgid "What's that?{PA:20}"
-msgstr ""
+msgstr "¿El qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:4_0_0"
 msgid "What if.{PA:20}.{PA:20}.{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What if I'm one of the Jingweon survivors?{PA:20}"
-msgstr ""
+msgstr "¿Y si soy también una sobreviviente Jingwon?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:6_0_0"
 msgid "How do you figure that?{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:11_0_0"
 msgid "You?{PA:20} Another Jingweon survivor?{PA:20}"
-msgstr ""
+msgstr "¿Dices {PA:20}que podrías ser otra sobreviviente\\r||de los Jingwon?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:12_0_0"
 msgid "It would all add up.{PA:20}"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Want to call off the meeting with Murai?{PA:20}"
-msgstr ""
+msgstr "¿Quieres cancelar la reunión con Murai?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER11/SCENE_11_0010.DAT/1___FILE.BIN::line:14_0_0"
 msgid "I don't want to run away from my past.{PA:20}"

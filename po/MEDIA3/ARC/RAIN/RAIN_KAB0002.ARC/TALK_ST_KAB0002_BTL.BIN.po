@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:140_0_0"
 msgid "0123456789+-円万億¥,{PA:10}枚点"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:140_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:140_5_0"
 msgid "Experience points:"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:141_0_0"
 msgid "Tenkaichi St.{PA:20}"
-msgstr ""
+msgstr "Calle Tenkaichi{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:142_0_0"
 msgid "Shimohira"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:143_0_0"
 msgid "Koizumi"
-msgstr ""
+msgstr "Koizumi"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:144_0_0"
 msgid "Generic 1"
@@ -97,11 +97,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:152_0_0"
 msgid "Shinoda"
-msgstr ""
+msgstr "Shinoda"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:153_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0002.ARC/TALK_ST_KAB0002_BTL.BIN::line:154_0_0"
 msgid "Kanamura"

@@ -109,11 +109,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:17_0_0"
 msgid "You're under arrest.{PA:20}"
-msgstr ""
+msgstr "quedas bajo arresto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Extortion,{PA:10} assault,{PA:10} tax evasion.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Extorsión, {PA:10}agresión, {PA:10}fraude fiscal.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0010.DAT/1___FILE.BIN::line:19_0_0"
 msgid "We'll hear all about it down at the station.{PA:20}"

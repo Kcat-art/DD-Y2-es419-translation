@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0308.ARC/TALK_ST_KAB0308_BTL.BIN::name:0"
 msgid "Man"
-msgstr ""
+msgstr "Hombre"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0308.ARC/TALK_ST_KAB0308_BTL.BIN::name:1"
 msgid "Man's Friend"
-msgstr ""
+msgstr "Amigo del hombre"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0308.ARC/TALK_ST_KAB0308_BTL.BIN::line:139_1_0"
 msgid "I heard somethin' happened in Kamurocho!{PA:20}"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0308.ARC/TALK_ST_KAB0308_BTL.BIN::line:144_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0308.ARC/TALK_ST_KAB0308_BTL.BIN::line:144_5_0"
 msgid "Experience points:"
@@ -65,5 +65,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0308.ARC/TALK_ST_KAB0308_BTL.BIN::line:145_0_0"
 msgid "Bishamon Bridge"
-msgstr ""
+msgstr "Puente Bishamon"
 

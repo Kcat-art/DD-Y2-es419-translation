@@ -17,11 +17,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:1_0_0"
 msgid "It's been a while.{PA:20}"
-msgstr ""
+msgstr "Cuánto tiempo sin verlo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:2_0_0"
 msgid "What brings you out here?{PA:20}"
-msgstr ""
+msgstr "¿Qué le trae por aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Ahh,{PA:10} well.{PA:20}.{PA:20}.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Haruka.{PA:20}"
-msgstr ""
+msgstr "Haruka{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Kazuma and I need to have a little talk.{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Okay,{PA:10} sure.{PA:20}"
-msgstr ""
+msgstr "Sí, no ha{PA:10}y problema.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Take a look at this.{PA:20}"
@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:10_0_0"
 msgid "These are.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Estos son.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Sayama and Ryuji Goda's records.{PA:20}"
-msgstr ""
+msgstr "Los registros de Sayama y Ryuji Goda.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Look at Ryuji's parents,{PA:10} Kazuma.{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Suyeon Jung.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Suyeon Jung.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:14_0_0"
 msgid "But that's.{PA:20}.{PA:20}.{PA:20}"
@@ -85,15 +85,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Which means.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Eso significa.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:17_0_0"
 msgid "I'm back.{PA:20}"
-msgstr ""
+msgstr "Ya volví.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:18_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}What is it?{PA:20}"
-msgstr ""
+msgstr "¿{PA:20}{PA:20}D{PA:20}e qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:18_0_1"
 msgid "Why's everybody look so serious?{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:20_0_0"
 msgid "You haven't met,{PA:10} have you?{PA:20}"
-msgstr ""
+msgstr "No se conocen,{PA:10} ¿verdad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:21_0_0"
 msgid "This is Superintendent Sudo,{PA:10} Chief of"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Nice to meet you.{PA:20}"
-msgstr ""
+msgstr "Mucho gusto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:23_0_0"
 msgid "A pleasure.{PA:20}"
@@ -137,11 +137,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:25_0_1"
 msgid "If you'll excuse me.{PA:20}"
-msgstr ""
+msgstr "Con su permiso.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Sure.{PA:20}"
-msgstr ""
+msgstr "Claro.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Why was the Tokyo Division 4 chief here?{PA:20}"
@@ -149,15 +149,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:28_0_0"
 msgid "He came by to ask me about the bomb scare.{PA:20}"
-msgstr ""
+msgstr "Vino a preguntarme sobre el incidente de las bombas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:29_0_0"
 msgid "What happened with the bombs?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasó con ellas?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:30_0_0"
 msgid "We dismantled all of them.{PA:20}"
-msgstr ""
+msgstr "Las desactivamos todas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:31_0_0"
 msgid "Oh.{PA:20}.{PA:20}.{PA:20} Oh,{PA:10} that's wonderful.{PA:20}"
@@ -173,7 +173,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:34_0_0"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:35_0_0"
 msgid "What about the Go-Ryu Clan?{PA:20}"
@@ -181,7 +181,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:36_0_0"
 msgid "I managed to beat them back.{PA:20}"
-msgstr ""
+msgstr "Pude encargarme de ellos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:37_0_0"
 msgid "Now Ryuji's all that's left.{PA:20}"
@@ -189,11 +189,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Just him?{PA:20}"
-msgstr ""
+msgstr "¿Solo él?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:39_0_0"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:40_0_0"
 msgid "He wants to settle things with me.{PA:20}"
@@ -205,7 +205,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Where is he?{PA:20}"
-msgstr ""
+msgstr "¿Y adónde fue?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:42_0_0"
 msgid "The tip top of Kamurocho.{PA:20}.{PA:20}.{PA:20}"
@@ -217,23 +217,23 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:44_0_0"
 msgid "Kamurocho Hills,{PA:10} I guess?{PA:20}"
-msgstr ""
+msgstr "¿Será en Kamuroc{PA:10}ho Hills?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:45_0_0"
 msgid "Most likely.{PA:20}"
-msgstr ""
+msgstr "Es probable...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:46_0_0"
 msgid "And you're going?{PA:20}"
-msgstr ""
+msgstr "¿Vas... a ir?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:47_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:48_0_0"
 msgid "I don't see any way around this fight.{PA:20}"
-msgstr ""
+msgstr "No veo forma de evitar esta pelea.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:49_0_0"
 msgid "I won't let you.{PA:20}"
@@ -241,7 +241,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:50_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:51_0_0"
 msgid "I'm lead detective at Osaka's Division 4.{PA:20}"
@@ -257,7 +257,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:53_0_0"
 msgid "How can you say that now?!{PA:20}"
-msgstr ""
+msgstr "¡¿Por qué estás diciendo eso ahora?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:54_0_0"
 msgid "I'm saying it as a police officer.{PA:20}"
@@ -265,15 +265,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:55_0_0"
 msgid "Fine.{PA:20}"
-msgstr ""
+msgstr "Bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:56_0_0"
 msgid "But I'm still going.{PA:20}"
-msgstr ""
+msgstr "pero iré de todas maneras.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:57_0_0"
 msgid "Excuse me?{PA:20}"
-msgstr ""
+msgstr "¿Perdón?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:58_0_0"
 msgid "You're still under my watch.{PA:20}"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:59_0_0"
 msgid "Then do it.{PA:20}"
-msgstr ""
+msgstr "Pues hazlo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:60_0_0"
 msgid "I can't change your mind?{PA:20}"
@@ -293,7 +293,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:61_0_0"
 msgid "Sorry.{PA:20}"
-msgstr ""
+msgstr "Perdón.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:62_0_0"
 msgid "Fine.{PA:20} Then there's somewhere I'd like you to"
@@ -305,7 +305,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:63_0_0"
 msgid "Where?{PA:20}"
-msgstr ""
+msgstr "¿Adónde?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:64_0_0"
 msgid "My chief is in town now,{PA:10} at Tokyo Police HQ.{PA:20}"
@@ -321,7 +321,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:67_0_0"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0060.DAT/1___FILE.BIN::line:68_0_0"
 msgid "Omi's Takashima Clan is acting strange.{PA:20}"

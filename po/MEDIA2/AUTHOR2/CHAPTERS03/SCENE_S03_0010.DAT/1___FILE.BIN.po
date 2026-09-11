@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Hey,{PA:10} Uncle Kaz,{PA:10} look!{PA:20}"
-msgstr ""
+msgstr "¡Oye,{PA:10} tío Kaz, mir{PA:10}a esto!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Over there,{PA:10} it's Sakura!{PA:20}"
@@ -53,5 +53,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Hmm.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿Mmm?{PA:20}.{PA:20}.{PA:20}.{PA:20}"
 

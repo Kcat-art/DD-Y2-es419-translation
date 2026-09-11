@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Will you hear me out?{PA:20}"
-msgstr ""
+msgstr "¿Escucharás... lo que tengo que decir?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "That Christmas,{PA:10} I headed over to the Dojima"

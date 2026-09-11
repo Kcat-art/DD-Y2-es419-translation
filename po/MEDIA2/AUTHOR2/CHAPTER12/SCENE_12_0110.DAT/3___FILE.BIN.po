@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:3_0_0"
 msgid "What about her?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasa con ella?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:4_0_0"
 msgid "Oh,{PA:10} ya know.{PA:20}.{PA:20}.{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:6_0_0"
 msgid "What's this?{PA:20}"
-msgstr ""
+msgstr "¿Un libro?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:7_0_0"
 msgid "Don't ask me.{PA:20}"
@@ -53,15 +53,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:8_0_0"
 msgid "When did this.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿En qué momento.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:9_0_0"
 msgid "That guy.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ese hombre.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:10_0_0"
 msgid "No!{PA:20}"
-msgstr ""
+msgstr "¡No!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0110.DAT/3___FILE.BIN::line:11_0_0"
 msgid "We have your little girl.{PA:20} -Sengoku"

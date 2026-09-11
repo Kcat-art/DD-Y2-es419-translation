@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0020.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Scared now?{PA:20} Of course you are.{PA:20}.{PA:20}.{PA:20}"

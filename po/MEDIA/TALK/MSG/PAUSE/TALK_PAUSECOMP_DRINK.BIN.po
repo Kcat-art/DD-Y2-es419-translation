@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:1_0_0"
 msgid "Yamazaki 25 Years"
-msgstr ""
+msgstr "Yamazaki de 25 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:1_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:2_0_0"
 msgid "Yamazaki 12 Years"
-msgstr ""
+msgstr "Yamazaki de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:2_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:3_0_0"
 msgid "Hakushu 18 Years"
-msgstr ""
+msgstr "Hakushu de 18 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:3_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:5_0_0"
 msgid "The Macallan 25 Years"
-msgstr ""
+msgstr "The Macallan de 25 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:5_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:6_0_0"
 msgid "The Macallan 12 Years"
-msgstr ""
+msgstr "The Macallan de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:6_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:8_0_0"
 msgid "Laphroaig 10 Years"
-msgstr ""
+msgstr "Laphroaig de 10 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:8_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:9_0_0"
 msgid "Bowmore 12 Years"
-msgstr ""
+msgstr "Bowmore de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:9_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:11_0_0"
 msgid "Glenfiddich 12 Years"
-msgstr ""
+msgstr "Glenfiddich de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:11_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -109,7 +109,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:12_0_0"
 msgid "Hibiki 30 Years Old"
-msgstr ""
+msgstr "Hibiki de 30 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:12_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:15_0_0"
 msgid "Kakubin"
-msgstr ""
+msgstr "Kakubin"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:15_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:16_0_0"
 msgid "Ballantine's 30 Years Old"
-msgstr ""
+msgstr "Ballantine's de 30 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:16_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:17_0_0"
 msgid "Ballantine's 17 Years Old"
-msgstr ""
+msgstr "Ballantine's de 17 años"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:17_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:22_0_0"
 msgid "Suntory Brandy V.S.O.P"
-msgstr ""
+msgstr "Brandy V.S.O.P. Suntory"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:22_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -213,7 +213,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:25_0_0"
 msgid "The Premium Malt's"
-msgstr ""
+msgstr "Cerveza The Premium Malt's"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:25_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -229,7 +229,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:27_0_0"
 msgid "Carlsberg"
-msgstr ""
+msgstr "Carlsberg"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:27_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -237,7 +237,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:28_0_0"
 msgid "Kyogetsu GREEN"
-msgstr ""
+msgstr "Kyogetsu Green"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:28_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"
@@ -245,7 +245,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:29_0_0"
 msgid "Beefeater"
-msgstr ""
+msgstr "Beefeater"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_DRINK.BIN::line:29_1_0"
 msgid "A list of drinks you had in the game.{PA:20}"

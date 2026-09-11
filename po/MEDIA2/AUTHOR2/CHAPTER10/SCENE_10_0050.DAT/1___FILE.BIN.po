@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:8_0_0"
 msgid "It looks like the Jingweon are involved.{PA:20}"
-msgstr ""
+msgstr "Todo apunta a que los Jingwon están involucrados.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:9_0_0"
 msgid "I'll put this to you bluntly.{PA:20}.{PA:20}.{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:10_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}No.{PA:20}"
-msgstr ""
+msgstr "Nada {PA:20}que l{PA:20}a hay{PA:20}a puesto así...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:11_0_0"
 msgid "But that's.{PA:20}.{PA:20}.{PA:20}"
@@ -105,15 +105,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:17_0_0"
 msgid "A bad lead's worse than no lead.{PA:20}"
-msgstr ""
+msgstr "Solo traería más problemas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:18_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}That's your only reason?{PA:20}"
-msgstr ""
+msgstr "¿{PA:20}{PA:20}L{PA:20}o dice en serio?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:20_0_0"
 msgid "All right.{PA:20} Tell us what you know about what"
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:23_0_0"
 msgid "I know.{PA:20}"
-msgstr ""
+msgstr "Lo sé.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:24_0_0"
 msgid "And you made the Dojima do your work.{PA:20}"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Cops couldn't do a damn thing.{PA:20}"
-msgstr ""
+msgstr "No había nada que la policía pudiera hacer.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:28_0_0"
 msgid "We couldn't find out shit about 'em.{PA:20} Daily"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:32_0_0"
 msgid "There was no other way at the time.{PA:20}"
-msgstr ""
+msgstr "No tuvimos de otra.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:33_0_0"
 msgid "Let me ask a different question.{PA:20}"
@@ -205,7 +205,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:35_0_0"
 msgid "You know something,{PA:10} don't you?{PA:20}"
-msgstr ""
+msgstr "Sabe algo, ¿{PA:10}verdad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:36_0_0"
 msgid "The Jingweon mafia was a 36-man outfit at"
@@ -217,27 +217,27 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:37_0_0"
 msgid "Of that,{PA:10} we only found 33 bodies.{PA:20}"
-msgstr ""
+msgstr "De ellos,{PA:10} solo encontramos 33 cuerpos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Meaning three survivors.{PA:20}"
-msgstr ""
+msgstr "Lo que significa que tres sobrevivieron.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:39_0_0"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:40_0_0"
 msgid "I know about one of 'em.{PA:20}"
-msgstr ""
+msgstr "Y conozco a uno de ellos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Who is it?{PA:20}"
-msgstr ""
+msgstr "¿Quién es?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:42_0_0"
 msgid "Please,{PA:10} tell me,{PA:10} Chief!{PA:20}"
-msgstr ""
+msgstr "¡Por fav{PA:10}or, jefe,{PA:10} dígame!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:43_0_0"
 msgid "Near Tsutenkaku Tower,{PA:10} there's a place"
@@ -257,11 +257,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:46_0_0"
 msgid "Murai,{PA:10} you said?{PA:20}"
-msgstr ""
+msgstr "¿Mu{PA:10}rai?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:47_0_0"
 msgid "Sayama.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sayama..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:48_0_0"
 msgid "I'm the one who brought 'im to Osaka.{PA:20}"
@@ -269,15 +269,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:49_0_0"
 msgid "I gave 'im the name Murai.{PA:20}"
-msgstr ""
+msgstr "Y también le di ese nombre.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:50_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:51_0_0"
 msgid "It's a miracle he survived.{PA:20}"
-msgstr ""
+msgstr "Solo ha sobrevivido de milagro.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:52_0_0"
 msgid "The Jingweon creed is \"death"
@@ -297,7 +297,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:55_0_0"
 msgid "So I helped 'im get outta Kamurocho.{PA:20}"
-msgstr ""
+msgstr "Por eso lo ayudé a escapar de Kamurocho.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:56_0_0"
 msgid "To shield him from retribution from other"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:57_0_0"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:58_0_0"
 msgid "Kawara and I brought 'im with us when we"
@@ -325,23 +325,23 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:60_0_0"
 msgid "Sayama.{PA:20}"
-msgstr ""
+msgstr "sayama{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:61_0_0"
 msgid "Yes?{PA:20}"
-msgstr ""
+msgstr "¿Sí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:62_0_0"
 msgid "Yer protective custody job ends today.{PA:20}"
-msgstr ""
+msgstr "Doy por finalizada tu misión de custodia.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:63_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:64_0_0"
 msgid "That's an order.{PA:20}"
-msgstr ""
+msgstr "Es una orden.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:65_0_0"
 msgid "For what reason?!{PA:20}"
@@ -361,7 +361,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:68_0_0"
 msgid "Hell no.{PA:20} It ain't like that.{PA:20}"
-msgstr ""
+msgstr "¡No! ¡No{PA:20} estoy diciendo eso!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:69_0_0"
 msgid "It's just outside Division 4 jurisdiction.{PA:20}"
@@ -381,7 +381,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:72_0_0"
 msgid "They're still just people!{PA:20}"
-msgstr ""
+msgstr "¡Son seres humanos como cualquier otro!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:73_0_0"
 msgid "You only say that 'cause you don't know how"
@@ -397,19 +397,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:75_0_0"
 msgid "But I.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Pero yo.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:76_0_0"
 msgid "I said that's an order,{PA:10} goddammit!{PA:20}"
-msgstr ""
+msgstr "¡Es una orden, mal{PA:10}dita sea!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:77_0_0"
 msgid "Stubborn as hell,{PA:10} that one.{PA:20}"
-msgstr ""
+msgstr "Es terca como {PA:10}una mula.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:78_0_0"
 msgid "Look out for her,{PA:10} would ya?{PA:20}"
-msgstr ""
+msgstr "Cuídala,{PA:10} ¿sí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:79_0_0"
 msgid "You're about the only one who can.{PA:20}"
@@ -421,11 +421,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:81_0_0"
 msgid "I had a question for you,{PA:10} too.{PA:20}"
-msgstr ""
+msgstr "Yo también le tengo una preg{PA:10}unta.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:82_0_0"
 msgid "Oh yeah?{PA:20}"
-msgstr ""
+msgstr "¿Ah, sí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:83_0_0"
 msgid "You know about Kawara's shootings.{PA:20}"
@@ -449,5 +449,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0050.DAT/1___FILE.BIN::line:87_0_0"
 msgid "Just take good care of Sayama,{PA:10} would ya?{PA:20}"
-msgstr ""
+msgstr "Solo... asegúrate de proteger{PA:10}la, ¿bien?{PA:20}"
 

@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0057.ARC/TALK_ST_KAB0057_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0057.ARC/TALK_ST_KAB0057_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -45,5 +45,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0057.ARC/TALK_ST_KAB0057_BTL.BIN::line:139_0_0"
 msgid "Kyushu No.{PA:20} 1 Star"
-msgstr ""
+msgstr "Kyushu No.{PA:20} 1 Star"
 

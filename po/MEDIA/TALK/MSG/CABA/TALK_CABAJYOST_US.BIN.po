@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:0_1_0"
 msgid "Shine"
-msgstr ""
+msgstr "SHINE"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:0_2_0"
 msgid "A half-Hawaiian model!{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:1_1_0"
 msgid "Shine"
-msgstr ""
+msgstr "SHINE"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:1_2_0"
 msgid "Cool and sexy!{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:2_1_0"
 msgid "Shine"
-msgstr ""
+msgstr "SHINE"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:2_2_0"
 msgid "Cute and sweet!{PA:20}"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:6_1_0"
 msgid "Prime"
-msgstr ""
+msgstr "PRIME"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:6_2_0"
 msgid "Quick-witted and sweet!{PA:20}"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:7_1_0"
 msgid "Prime"
-msgstr ""
+msgstr "PRIME"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:7_2_0"
 msgid "A proper girl from Kyoto!{PA:20}"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:8_1_0"
 msgid "Prime"
-msgstr ""
+msgstr "PRIME"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:8_2_0"
 msgid "A former television star!{PA:20}"
@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:9_1_0"
 msgid "Prime"
-msgstr ""
+msgstr "PRIME"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:9_2_0"
 msgid "A legendary cabaret girl!{PA:20}"
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:15_0_0"
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_CABAJYOST_US.BIN::line:15_1_0"
 msgid "n"

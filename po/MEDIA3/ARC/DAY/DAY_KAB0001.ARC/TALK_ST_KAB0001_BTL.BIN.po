@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -45,19 +45,19 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:139_0_0"
 msgid "Tenkaichi St.{PA:20}"
-msgstr ""
+msgstr "Calle Tenkaichi{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:140_0_0"
 msgid "Kamei"
-msgstr ""
+msgstr "Kamei"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:141_0_0"
 msgid "Furuta"
-msgstr ""
+msgstr "Furuta"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:142_0_0"
 msgid "Hidaka"
-msgstr ""
+msgstr "Hidaka"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:143_0_0"
 msgid "Generic 1"
@@ -93,11 +93,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:151_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:152_0_0"
 msgid "Nagasawa"
-msgstr ""
+msgstr "Nagasawa"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0001.ARC/TALK_ST_KAB0001_BTL.BIN::line:153_0_0"
 msgid "Takanashi"

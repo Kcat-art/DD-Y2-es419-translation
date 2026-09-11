@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Move and I'll shoot!{PA:20}"
-msgstr ""
+msgstr "¡Quieto, o disparo!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Die!{PA:20}"
-msgstr ""
+msgstr "¡Muere!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Kawara!{PA:20}"
-msgstr ""
+msgstr "¡Kawara!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:4_0_0"
 msgid "for saving me.{PA:20}"
@@ -37,11 +37,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:6_0_0"
 msgid "I got to act like a father.{PA:20}"
-msgstr ""
+msgstr "en la que actúo como un padre.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Why didn't you ever tell me?{PA:20}"
-msgstr ""
+msgstr "¿Por qué no me lo dijo antes?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:8_0_0"
 msgid "I wanted to.{PA:20}.{PA:20}.{PA:20}"
@@ -53,13 +53,13 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Her wishes?{PA:20}"
-msgstr ""
+msgstr "¿Su voluntad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:10_0_0"
 msgid "I first met her that night.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "La conocí por primera vez esa noche.{PA:20}..{PA:20}:{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0100.DAT/1___FILE.BIN::line:11_0_0"
 msgid "The night of the raid.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "cuando ocurrió el incidente.{PA:20}.{PA:20}.{PA:20}"
 

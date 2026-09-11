@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:144_0_0"
 msgid "Cyclops Oba"
-msgstr ""
+msgstr "Oba el Cíclope"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:145_0_0"
 msgid "D.{PA:20} Carpaccio"
@@ -121,7 +121,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:159_0_0"
 msgid "El Diablo"
-msgstr ""
+msgstr "El Diablo"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:160_0_0"
 msgid "Suekichi"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:162_0_0"
 msgid "Di Sciuva"
-msgstr ""
+msgstr "Da Silva"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:163_0_0"
 msgid "Terry Sakata"
@@ -153,11 +153,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:167_0_0"
 msgid "Home-Run Ken"
-msgstr ""
+msgstr "Ken el Jonronero"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:168_0_0"
 msgid "Max Yonamine"
-msgstr ""
+msgstr "Max Yonamine"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:169_0_0"
 msgid "Mach Otani"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:170_0_0"
 msgid "Mammoth Tatsu"
-msgstr ""
+msgstr "Tatsu el Mamut"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:171_0_0"
 msgid "Marcus"
@@ -181,7 +181,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:174_0_0"
 msgid "Renji Kamiyama"
-msgstr ""
+msgstr "Renji Kamiyama"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:175_0_0"
 msgid "Seafire"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:176_0_0"
 msgid "Sho Imaizumi"
-msgstr ""
+msgstr "Sho Imaizumi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:177_0_0"
 msgid "Kozo Karita"
@@ -205,11 +205,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:180_0_0"
 msgid "Sotaro Komaki"
-msgstr ""
+msgstr "Sotaro Komaki"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:181_0_0"
 msgid "Kiyoshi Muroi"
-msgstr ""
+msgstr "Kiyoshi Muroi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:182_0_0"
 msgid "Kojiro Toyama"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:183_0_0"
 msgid "Akira Yamaoka"
-msgstr ""
+msgstr "Akira Yamaoka"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:184_0_0"
 msgid "Moonbeam"
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:185_0_0"
 msgid "Masao Yanagi"
-msgstr ""
+msgstr "Masao Yanagi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:186_0_0"
 msgid "Gensho Kawachi"
@@ -233,7 +233,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:187_0_0"
 msgid "Goro Majima"
-msgstr ""
+msgstr "Goro Majima"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0407.ARC/TALK_ST_KAB0407_BTL.BIN::line:188_0_0"
 msgid "Yukio Masaki"

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Wh-Who the hell're you?{PA:20}"
-msgstr ""
+msgstr "¿Qu-quién eres tú?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "What're ya trying to pull?{PA:20}"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Wh-What?{PA:20}"
-msgstr ""
+msgstr "¿Cómo?...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:4_0_0"
 msgid "It's a tattoo design.{PA:20}.{PA:20}.{PA:20} right?{PA:20}"
-msgstr ""
+msgstr "Es el diseño de un tatuaj{PA:20}e{PA:20}, {PA:20}¿verdad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "And not just your average design,{PA:10} either.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Something like that.{PA:20}"
-msgstr ""
+msgstr "Algo así.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:8_0_0"
 msgid "C'mon,{PA:10} son.{PA:20}"
@@ -57,5 +57,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0010.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Follow me.{PA:20}"
-msgstr ""
+msgstr "Sígueme.{PA:20}"
 

@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:143_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:143_5_0"
 msgid "Experience points:"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:144_0_0"
 msgid "Iwao Bridge"
-msgstr ""
+msgstr "Puente Iwao"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:145_0_0"
 msgid "Punk"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:158_0_0"
 msgid "Numata"
-msgstr ""
+msgstr "Numata"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:159_0_0"
 msgid "Tamada"
@@ -109,7 +109,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:160_0_0"
 msgid "Shinohara"
-msgstr ""
+msgstr "Shinohara"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:161_0_0"
 msgid "Shibakawa"
@@ -117,11 +117,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:162_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:163_0_0"
 msgid "Nonaka"
-msgstr ""
+msgstr "Nonaka"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:164_0_0"
 msgid "Iiyama"
@@ -133,9 +133,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:166_0_0"
 msgid "Takagi"
-msgstr ""
+msgstr "Takagi"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0305.ARC/TALK_ST_KAB0305_BTL.BIN::line:167_0_0"
 msgid "Takada"
-msgstr ""
+msgstr "Takada"
 

@@ -17,27 +17,27 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:0_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:0_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:1_0_0"
 msgid "East"
-msgstr ""
+msgstr "Este"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:1_1_0"
 msgid "South"
-msgstr ""
+msgstr "Sur"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:1_2_0"
 msgid "West"
-msgstr ""
+msgstr "Oeste"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:1_3_0"
 msgid "North"
-msgstr ""
+msgstr "Norte"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_0_0"
 msgid "Pinfu"
@@ -45,35 +45,35 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_1_0"
 msgid "East"
-msgstr ""
+msgstr "Este"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_2_0"
 msgid "Double East"
-msgstr ""
+msgstr "Doble este"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_3_0"
 msgid "South"
-msgstr ""
+msgstr "Sur"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_4_0"
 msgid "Double South"
-msgstr ""
+msgstr "Doble sur"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_5_0"
 msgid "West"
-msgstr ""
+msgstr "Oeste"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_6_0"
 msgid "Double West"
-msgstr ""
+msgstr "Doble oeste"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_7_0"
 msgid "North"
-msgstr ""
+msgstr "Norte"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_8_0"
 msgid "Double North"
-msgstr ""
+msgstr "Doble norte"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_9_0"
 msgid "White"
@@ -85,11 +85,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_11_0"
 msgid "Red"
-msgstr ""
+msgstr "Rojo"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_12_0"
 msgid "All Simples"
-msgstr ""
+msgstr "Todos simples"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_13_0"
 msgid "Pure Double Chow"
@@ -97,15 +97,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_14_0"
 msgid "Riichi"
-msgstr ""
+msgstr "Riichi"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_15_0"
 msgid "Ippatsu"
-msgstr ""
+msgstr "Ippatsu"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_16_0"
 msgid "Fully Concealed Hand"
-msgstr ""
+msgstr "Mano totalmente oculta"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_17_0"
 msgid "After a Kong"
@@ -121,11 +121,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_20_0"
 msgid "Mixed Outside Hand"
-msgstr ""
+msgstr "Mano exterior mezclada"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_21_0"
 msgid "All Terminals and Honors"
-msgstr ""
+msgstr "Todo terminales y honores"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_22_0"
 msgid "Pure Straight"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_27_0"
 msgid "Seven Pairs"
-msgstr ""
+msgstr "Siete pares"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_28_0"
 msgid "Mixed Triple Chow"
@@ -161,19 +161,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_30_0"
 msgid "Little Three Dragons"
-msgstr ""
+msgstr "Tres dragones pequeños"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_31_0"
 msgid "Double Riichi"
-msgstr ""
+msgstr "Doble riichi"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_32_0"
 msgid "Pure Outside Hand"
-msgstr ""
+msgstr "Mano exterior pura"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_33_0"
 msgid "Half Flush"
-msgstr ""
+msgstr "Medio color"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_34_0"
 msgid "Twice Pure Double Chow"
@@ -181,23 +181,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_35_0"
 msgid "Full Flush"
-msgstr ""
+msgstr "Color puro"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_36_0"
 msgid "All Honors"
-msgstr ""
+msgstr "Todo honores"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_37_0"
 msgid "All Green"
-msgstr ""
+msgstr "Todo verde"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_38_0"
 msgid "Nine Gates"
-msgstr ""
+msgstr "Nueve puertas"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_39_0"
 msgid "Nine Gates"
-msgstr ""
+msgstr "Nueve puertas"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_40_0"
 msgid "Four Concealed Pungs"
@@ -213,11 +213,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_43_0"
 msgid "Big Three Dragons"
-msgstr ""
+msgstr "Tres dragones grandes"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_44_0"
 msgid "Big Four Winds"
-msgstr ""
+msgstr "Cuatro grandes vientos"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_45_0"
 msgid "Small Four Winds"
@@ -225,27 +225,27 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_46_0"
 msgid "All Terminals"
-msgstr ""
+msgstr "Todo terminales"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_47_0"
 msgid "Heavenly Hand"
-msgstr ""
+msgstr "Mano celestial"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_48_0"
 msgid "Earthly Hand"
-msgstr ""
+msgstr "Mano terrestre"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_49_0"
 msgid "Thirteen Orphans"
-msgstr ""
+msgstr "Trece huérfanos"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_50_0"
 msgid "Thirteen Orphans"
-msgstr ""
+msgstr "Trece huérfanos"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_51_0"
 msgid "Broken Thirteen"
-msgstr ""
+msgstr "Trece rotos"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_52_0"
 msgid "Dora (bonus tile)"
@@ -253,7 +253,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_53_0"
 msgid "Blessing of Man"
-msgstr ""
+msgstr "Bendición del hombre"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_54_0"
 msgid "Robbing the Kong"
@@ -261,7 +261,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_55_0"
 msgid "Big Wheel"
-msgstr ""
+msgstr "Gran rueda"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:2_56_0"
 msgid "Terminal and Honor Discard"
@@ -269,23 +269,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_0_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_1_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_2_0"
 msgid "Sacred Discard"
-msgstr ""
+msgstr "Descarte sagrado"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_3_0"
 msgid "Foul"
-msgstr ""
+msgstr "Falta"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_4_0"
 msgid "Illegal Riichi"
-msgstr ""
+msgstr "Riichi ilegal"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_5_0"
 msgid "Four Kong Draw"
@@ -293,15 +293,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_6_0"
 msgid "Four Riichi Draw"
-msgstr ""
+msgstr "Empate de Cuatro riichis"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_7_0"
 msgid "Triple Ron"
-msgstr ""
+msgstr "Triple ron"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_8_0"
 msgid "Wind Discard Draw"
-msgstr ""
+msgstr "Empate de Descartes de viento"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:3_9_0"
 msgid "Nine Terminal/Honor Draw"
@@ -309,23 +309,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_0_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_1_0"
 msgid "Mangan"
-msgstr ""
+msgstr "Mangan"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_2_0"
 msgid "Haneman"
-msgstr ""
+msgstr "Haneman"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_3_0"
 msgid "Baiman"
-msgstr ""
+msgstr "Baiman"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_4_0"
 msgid "Sanbaiman"
-msgstr ""
+msgstr "Sanbaiman"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_5_0"
 msgid "Natural Yakuman"
@@ -333,43 +333,43 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_6_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_7_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_8_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_9_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_10_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_11_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:4_12_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:5_0_0"
 msgid "Yakuman"
-msgstr ""
+msgstr "Yakuman"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:5_1_0"
 msgid "Double Yakuman"
-msgstr ""
+msgstr "Doble yakuman"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:5_2_0"
 msgid "Triple Yakuman"
-msgstr ""
+msgstr "Triple yakuman"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:5_3_0"
 msgid "4x Yakuman"
@@ -389,7 +389,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:6_0_0"
 msgid " Fan"
-msgstr ""
+msgstr "Fan"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:7_0_0"
 msgid " Minipoints"
@@ -397,19 +397,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:8_0_0"
 msgid " Points"
-msgstr ""
+msgstr "Puntos"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:9_0_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:9_1_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:10_0_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:10_1_0"
 msgid "Pung"
@@ -421,23 +421,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:10_3_0"
 msgid "Kong"
-msgstr ""
+msgstr "Kong"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:10_4_0"
 msgid "Tsumo"
-msgstr ""
+msgstr "Tsumo"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:10_5_0"
 msgid "Ron"
-msgstr ""
+msgstr "Ron"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:10_6_0"
 msgid "Riichi"
-msgstr ""
+msgstr "Riichi"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:11_0_0"
 msgid "Ready"
-msgstr ""
+msgstr "Listos..."
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:11_1_0"
 msgid "Not ready"
@@ -445,11 +445,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:12_0_0"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:13_0_0"
 msgid "Dora"
-msgstr ""
+msgstr "Dora"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:13_1_0"
 msgid "Underside Dora"
@@ -461,7 +461,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:14_1_0"
 msgid "Quit game?{PA:20}"
-msgstr ""
+msgstr "Salir del juego{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:15_0_0"
 msgid "Begin Game"
@@ -473,7 +473,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:15_2_0"
 msgid "Change Rules"
-msgstr ""
+msgstr "Cambiar reglas"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:15_3_0"
 msgid "Change Opponent Level"
@@ -485,7 +485,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:15_5_0"
 msgid "test"
-msgstr ""
+msgstr "test"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:16_0_0"
 msgid "1st"
@@ -569,35 +569,35 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_0_0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_1_0"
 msgid "Miyoshi"
-msgstr ""
+msgstr "Miyoshi"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_2_0"
 msgid "Morikawa"
-msgstr ""
+msgstr "Morikawa"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_3_0"
 msgid "Miyashita"
-msgstr ""
+msgstr "Miyashita"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_4_0"
 msgid "Ogata"
-msgstr ""
+msgstr "Ogata"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_5_0"
 msgid "Goda"
-msgstr ""
+msgstr "Goda..."
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_6_0"
 msgid "Yajima"
-msgstr ""
+msgstr "Yajima"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_7_0"
 msgid "Ozaki"
-msgstr ""
+msgstr "Ozaki"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_8_0"
 msgid "Tanaka"
@@ -605,31 +605,31 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_9_0"
 msgid "Matsumoto"
-msgstr ""
+msgstr "Matsumoto"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_10_0"
 msgid "Tsuruta"
-msgstr ""
+msgstr "Tsuruta"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_11_0"
 msgid "Yoshida"
-msgstr ""
+msgstr "Yoshida"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_12_0"
 msgid "Goto"
-msgstr ""
+msgstr "Goto"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_13_0"
 msgid "Sekine"
-msgstr ""
+msgstr "Sekine"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_14_0"
 msgid "Oki"
-msgstr ""
+msgstr "Oki"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_15_0"
 msgid "Baba"
-msgstr ""
+msgstr "Baba"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:18_16_0"
 msgid "Ihara"
@@ -697,11 +697,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:19_16_0"
 msgid "\"Legend\""
-msgstr ""
+msgstr "Leyenda"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:20_0_0"
 msgid "Game Style"
-msgstr ""
+msgstr "Estilo de juego"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:20_1_0"
 msgid "Half Game"
@@ -713,15 +713,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:21_0_0"
 msgid "Kuitan"
-msgstr ""
+msgstr "Kuitan"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:21_1_0"
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:21_2_0"
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:22_0_0"
 msgid "Two Fan Minimum"
@@ -729,23 +729,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:22_1_0"
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:22_2_0"
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:23_0_0"
 msgid "Red Dora"
-msgstr ""
+msgstr "Dora rojo"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:23_1_0"
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:23_2_0"
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:24_0_0"
 msgid "Opponent Skill"
@@ -753,15 +753,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:24_1_0"
 msgid "Easy"
-msgstr ""
+msgstr "Fácil"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:24_2_0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:24_3_0"
 msgid "Hard"
-msgstr ""
+msgstr "Difícil"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:25_0_0"
 msgid "Heh.{PA:20}.{PA:20}.{PA:20} There it is.{PA:20}"
@@ -829,7 +829,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:26_9_0"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:26_10_0"
 msgid "Woohoo!{PA:20}"
@@ -837,11 +837,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:27_0_0"
 msgid "Aw.{PA:20}.{PA:20}.{PA:20} man.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Va{PA:20}{PA:20}y{PA:20}a..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:27_1_0"
 msgid "What to do.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "(¿Qué podría hacer?{PA:20}..{PA:20}.{PA:20}).{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:27_2_0"
 msgid "My number's up.{PA:20}.{PA:20}.{PA:20}"
@@ -853,7 +853,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:27_4_0"
 msgid "Let's do this.{PA:20}"
-msgstr ""
+msgstr "Bien.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:27_5_0"
 msgid "Ah,{PA:10} well.{PA:20}.{PA:20}.{PA:20}"
@@ -881,11 +881,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:28_0_0"
 msgid "Oh?{PA:20}"
-msgstr ""
+msgstr "¿Oh?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:28_1_0"
 msgid "Ooh.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¡Guau!{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:28_2_0"
 msgid "How nice!{PA:20}"
@@ -897,11 +897,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:28_4_0"
 msgid "I won't lose.{PA:20}"
-msgstr ""
+msgstr "¡No voy a perder!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:28_5_0"
 msgid "Man!{PA:20}"
-msgstr ""
+msgstr "Hombre{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:28_6_0"
 msgid "You're kidding!{PA:20}"
@@ -913,19 +913,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:28_8_0"
 msgid "Great!{PA:20}"
-msgstr ""
+msgstr "Excelente.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_0_0"
 msgid "C'mon.{PA:20}"
-msgstr ""
+msgstr "¡Vamos!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_1_0"
 msgid "Yes!{PA:20}"
-msgstr ""
+msgstr "¡Sí!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_2_0"
 msgid "Really?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_3_0"
 msgid "Hurry up!{PA:20}"
@@ -933,15 +933,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_4_0"
 msgid "Let's go!{PA:20}"
-msgstr ""
+msgstr "¡Vamos!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_5_0"
 msgid "Oh my god!{PA:20}"
-msgstr ""
+msgstr "¡Dios mío...!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_6_0"
 msgid "No.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Nada que la haya p{PA:20}uesto {PA:20}así...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_7_0"
 msgid "Aw yeah!{PA:20}"
@@ -949,11 +949,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_8_0"
 msgid "Okay!{PA:20}"
-msgstr ""
+msgstr "¡Está bien!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_9_0"
 msgid "Oh no.{PA:20}"
-msgstr ""
+msgstr "Oh, no...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:29_10_0"
 msgid "Woohoo!{PA:20}"
@@ -961,15 +961,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:30_0_0"
 msgid "C'mon!{PA:20}"
-msgstr ""
+msgstr "¡Vamos!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:30_1_0"
 msgid "There we go!{PA:20}"
-msgstr ""
+msgstr "Ahí está.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:30_2_0"
 msgid "Whoa!{PA:20}"
-msgstr ""
+msgstr "¡Oh!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:30_3_0"
 msgid "You gonna go or what?{PA:20}"
@@ -981,7 +981,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:30_5_0"
 msgid "What the!?{PA:20}"
-msgstr ""
+msgstr "Pero ¡¿qué...?!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:30_6_0"
 msgid "Ya did it!{PA:20}"
@@ -1025,7 +1025,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:31_6_0"
 msgid "What!?{PA:20}"
-msgstr ""
+msgstr "¡¿Qué?!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:31_7_0"
 msgid "Things are looking up.{PA:20}"
@@ -1033,7 +1033,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:31_8_0"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:31_9_0"
 msgid "So that's how it's going to be.{PA:20}.{PA:20}.{PA:20}"
@@ -1045,7 +1045,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:32_0_0"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:32_1_0"
 msgid "Hee hee hee!{PA:20}"
@@ -1077,11 +1077,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:32_8_0"
 msgid "Well!{PA:20}"
-msgstr ""
+msgstr "¡Más te vale darme una buena explicación!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:33_0_0"
 msgid "Hm!{PA:20}"
-msgstr ""
+msgstr "¡¿Eh?!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:33_1_0"
 msgid "Ooooh!{PA:20}"
@@ -1093,11 +1093,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:33_3_0"
 msgid "Let's go.{PA:20}"
-msgstr ""
+msgstr "Empecemos.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:33_4_0"
 msgid "Let's do it.{PA:20}"
-msgstr ""
+msgstr "Hagámoslo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:33_5_0"
 msgid "Raaaa!{PA:20}"
@@ -1113,11 +1113,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:34_0_0"
 msgid "What the hell?{PA:20}"
-msgstr ""
+msgstr "¿Qué dijiste?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:34_1_0"
 msgid "Oh!{PA:20}"
-msgstr ""
+msgstr "¡Ah!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:34_2_0"
 msgid "Hey hey hey!{PA:20}"
@@ -1129,7 +1129,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:34_4_0"
 msgid "Hello!{PA:20}"
-msgstr ""
+msgstr "¿Hola?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:34_5_0"
 msgid "Hey now!{PA:20}"
@@ -1145,7 +1145,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:34_8_0"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:34_9_0"
 msgid "There it is!{PA:20}"
@@ -1161,7 +1161,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_2_0"
 msgid "I can't lose.{PA:20}"
-msgstr ""
+msgstr "No puedo perder.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_3_0"
 msgid "What're you waiting for?{PA:20}"
@@ -1169,11 +1169,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_4_0"
 msgid "Hello.{PA:20}"
-msgstr ""
+msgstr "¿Hola?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_5_0"
 msgid "Wow!{PA:20}"
-msgstr ""
+msgstr "¡Guau!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_6_0"
 msgid "I was too lenient.{PA:20}.{PA:20}.{PA:20}"
@@ -1185,11 +1185,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_8_0"
 msgid "Let's go.{PA:20}"
-msgstr ""
+msgstr "Empecemos.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_9_0"
 msgid "Nice!{PA:20}"
-msgstr ""
+msgstr "Genial.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:35_10_0"
 msgid "How was that?{PA:20}"
@@ -1205,7 +1205,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:36_2_0"
 msgid "What!?{PA:20}"
-msgstr ""
+msgstr "¡¿Qué?!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:36_3_0"
 msgid "Quickly.{PA:20}"
@@ -1213,11 +1213,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:36_4_0"
 msgid "Let's go.{PA:20}"
-msgstr ""
+msgstr "Empecemos.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:36_5_0"
 msgid "Damn it.{PA:20}"
-msgstr ""
+msgstr "Maldita sea.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:36_6_0"
 msgid "This is what you were waiting for.{PA:20}.{PA:20}.{PA:20}"
@@ -1225,7 +1225,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:36_7_0"
 msgid "Wonderful.{PA:20}"
-msgstr ""
+msgstr "WONDERFUL{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:36_8_0"
 msgid "So sorry.{PA:20}"
@@ -1253,7 +1253,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:37_4_0"
 msgid "Let's do this.{PA:20}"
-msgstr ""
+msgstr "Bien.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:37_5_0"
 msgid "You're taking it!?{PA:20}"
@@ -1277,15 +1277,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_0_0"
 msgid "Ha!{PA:20}"
-msgstr ""
+msgstr "Ha{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_1_0"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_2_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_3_0"
 msgid "Hurry up.{PA:20}"
@@ -1293,7 +1293,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_4_0"
 msgid "Let's start.{PA:20}"
-msgstr ""
+msgstr "Puedes empezar{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_5_0"
 msgid "How lucky!{PA:20}"
@@ -1313,19 +1313,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_9_0"
 msgid "Man!{PA:20}"
-msgstr ""
+msgstr "Hombre{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:38_10_0"
 msgid "Yay!{PA:20}"
-msgstr ""
+msgstr "¡Sí!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:39_0_0"
 msgid "*sigh*"
-msgstr ""
+msgstr "Ay..."
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:39_1_0"
 msgid "There we go!{PA:20}"
-msgstr ""
+msgstr "Ahí está.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:39_2_0"
 msgid "You gotta be joking!{PA:20}"
@@ -1353,7 +1353,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:39_8_0"
 msgid "Really?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:39_9_0"
 msgid "Me first!{PA:20}"
@@ -1369,7 +1369,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:40_2_0"
 msgid "No way!{PA:20}"
-msgstr ""
+msgstr "¡No puede ser!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:40_3_0"
 msgid "Hurry up.{PA:20}"
@@ -1381,7 +1381,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:40_5_0"
 msgid "What!?{PA:20} No way!{PA:20}"
-msgstr ""
+msgstr "¿Qué? ¡N{PA:20}o te creo!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:40_6_0"
 msgid "You just had to.{PA:20}"
@@ -1413,11 +1413,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:41_3_0"
 msgid "What're you doing?{PA:20}"
-msgstr ""
+msgstr "¡¿Qué están haciendo?!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:41_4_0"
 msgid "Here we go.{PA:20}"
-msgstr ""
+msgstr "Aquí está.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:41_5_0"
 msgid "Nice one there.{PA:20}"
@@ -1425,7 +1425,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:41_6_0"
 msgid "Whaaat!?{PA:20}"
-msgstr ""
+msgstr "¡¿Quééééé?!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:41_7_0"
 msgid "You're still green.{PA:20}"
@@ -1433,7 +1433,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:41_8_0"
 msgid "Hmph.{PA:20}"
-msgstr ""
+msgstr "¡Jum!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:41_9_0"
 msgid "Well,{PA:10} shoot!{PA:20}"
@@ -1445,5 +1445,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_MAHJONG.BIN::line:43_0_0"
 msgid "Continue"
-msgstr ""
+msgstr "CONTINUAR"
 

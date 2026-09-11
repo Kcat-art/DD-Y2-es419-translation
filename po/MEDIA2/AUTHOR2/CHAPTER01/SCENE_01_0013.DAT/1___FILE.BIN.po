@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0013.DAT/1___FILE.BIN::line:2_0_0"
 msgid "My child.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mi bebé.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0013.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Please,{PA:10} save my.{PA:20}.{PA:20}.{PA:20}"

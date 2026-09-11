@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Where'd they go?{PA:20}"
-msgstr ""
+msgstr "¿Adónde fueron?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:1_0_0"
 msgid "S-Sorry.{PA:20}"
-msgstr ""
+msgstr "L-Lo siento.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:2_0_0"
 msgid "It's fine.{PA:20}"
-msgstr ""
+msgstr "No es nada.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:3_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:4_0_0"
 msgid "No,{PA:10} just the two of us.{PA:20}.{PA:20}.{PA:20} It's so funny.{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Hmm?{PA:20}"
-msgstr ""
+msgstr "¿Mmm?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20} Are you free tonight?{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Huh?{PA:20} Yeah.{PA:20}"
-msgstr ""
+msgstr "¿Eh? P{PA:20}-pues sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:8_0_0"
 msgid "I feel like going out.{PA:20}"
@@ -49,5 +49,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0080.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Care to join me?{PA:20}"
-msgstr ""
+msgstr "¿Me acompañas?{PA:20}"
 

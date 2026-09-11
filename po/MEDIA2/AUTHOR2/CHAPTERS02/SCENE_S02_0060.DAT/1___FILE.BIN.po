@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0060.DAT/1___FILE.BIN::line:3_0_0"
 msgid "It was too soon for you two.{PA:20}"
-msgstr ""
+msgstr "Ustedes dos no están listos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0060.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Look.{PA:20}.{PA:20}.{PA:20} Why don't you call it off?{PA:20}"
@@ -45,11 +45,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0060.DAT/1___FILE.BIN::line:7_0_0"
 msgid "But I.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Pero yo.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0060.DAT/1___FILE.BIN::line:8_0_0"
 msgid "I believe in Takashi.{PA:20}"
-msgstr ""
+msgstr "Yo creo en Takashi.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0060.DAT/1___FILE.BIN::line:9_0_0"
 msgid "He's not quite sure of himself yet,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"

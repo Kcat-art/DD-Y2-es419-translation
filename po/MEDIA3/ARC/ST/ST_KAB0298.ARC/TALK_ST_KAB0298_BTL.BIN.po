@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0298.ARC/TALK_ST_KAB0298_BTL.BIN::line:140_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0298.ARC/TALK_ST_KAB0298_BTL.BIN::line:140_5_0"
 msgid "Experience points:"
@@ -49,9 +49,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0298.ARC/TALK_ST_KAB0298_BTL.BIN::line:141_0_0"
 msgid "Amano Building 6F"
-msgstr ""
+msgstr "Edificio Amano, 6.° piso"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0298.ARC/TALK_ST_KAB0298_BTL.BIN::line:142_0_0"
 msgid "Man in Black"
-msgstr ""
+msgstr "Hombre de Negro"
 

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0040.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Are you okay?{PA:20}"
-msgstr ""
+msgstr "¿Se encuentra bien?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0040.DAT/1___FILE.BIN::line:1_0_0"
 msgid "It's just a scratch.{PA:20}"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0040.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Terada!{PA:20}"
-msgstr ""
+msgstr "¡Terada!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0040.DAT/1___FILE.BIN::line:3_0_0"
 msgid "T-Take this.{PA:20}"
@@ -49,5 +49,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0040.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Terada!{PA:20}"
-msgstr ""
+msgstr "¡Terada!{PA:20}"
 

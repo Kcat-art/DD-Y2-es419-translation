@@ -25,11 +25,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_3_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_4_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:0_5_0"
 msgid "You sent the item to the item box.{PA:20}"
@@ -57,19 +57,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_3_0"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_4_0"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_5_0"
 msgid "Women's Underwear"
-msgstr ""
+msgstr "Ropa interior de mujer"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_6_0"
 msgid "100lb Bowling Ball"
-msgstr ""
+msgstr "Bola de boliche de 45 kg"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_7_0"
 msgid "Toughness Emperor"
@@ -89,19 +89,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_11_0"
 msgid "Wooden Katana"
-msgstr ""
+msgstr "Katana de madera"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_12_0"
 msgid "Suspicious Video"
-msgstr ""
+msgstr "Video sospechoso"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_13_0"
 msgid "Green Box"
-msgstr ""
+msgstr "Caja verde"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_14_0"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_15_0"
 msgid "White Miracle Tonic"
@@ -133,11 +133,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_22_0"
 msgid "Saw"
-msgstr ""
+msgstr "Sierra"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_23_0"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_24_0"
 msgid "Toughness Emperor"
@@ -161,11 +161,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_29_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_30_0"
 msgid "Patriarch's Bat"
-msgstr ""
+msgstr "Bate del patriarca"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_31_0"
 msgid "Patriarch's Ball"
@@ -197,7 +197,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_38_0"
 msgid "Staminan Spark"
-msgstr ""
+msgstr "Staminan Spark"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_39_0"
 msgid "Extendable Staff"
@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_41_0"
 msgid "Western Shield"
-msgstr ""
+msgstr "Escudo occidental"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_42_0"
 msgid "Charisma Ring"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_43_0"
 msgid "Insulated Shirt"
-msgstr ""
+msgstr "Camisa aislante"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_44_0"
 msgid "Water Pot"
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_45_0"
 msgid "Ashtray"
-msgstr ""
+msgstr "Cenicero"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_46_0"
 msgid "Hercules Knuckles"
@@ -241,11 +241,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_49_0"
 msgid "Mifune's Kodachi"
-msgstr ""
+msgstr "Kodachi de Mifune"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_50_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_51_0"
 msgid "Tortoiseshell Plate"
@@ -277,7 +277,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_58_0"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_59_0"
 msgid "Lifestone"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_60_0"
 msgid "Pliers"
-msgstr ""
+msgstr "Alicates"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_61_0"
 msgid "Turmeric Pills"
@@ -293,7 +293,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_62_0"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_63_0"
 msgid "Steel Shin Guards"
@@ -309,11 +309,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_66_0"
 msgid "Wooden Katana"
-msgstr ""
+msgstr "Katana de madera"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_67_0"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_68_0"
 msgid "Motomiya's Dagger"
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_73_0"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_74_0"
 msgid "Flash Grenade"
@@ -361,7 +361,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_79_0"
 msgid "Staminan Spark"
-msgstr ""
+msgstr "Staminan Spark"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_80_0"
 msgid "Bug Spray"
@@ -373,7 +373,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_82_0"
 msgid "Special Police Baton"
-msgstr ""
+msgstr "Porra de policía especial"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_83_0"
 msgid "White Miracle Tonic"
@@ -381,7 +381,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_84_0"
 msgid "Fighter's Binding"
-msgstr ""
+msgstr "Muñequeras del peleador"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_85_0"
 msgid "Black Jewel"
@@ -397,7 +397,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_88_0"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_89_0"
 msgid "Southpaw Bracelet"
@@ -405,7 +405,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_90_0"
 msgid "Police Baton"
-msgstr ""
+msgstr "Tonfa de policía"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_91_0"
 msgid "Extendable Staff"
@@ -417,11 +417,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_93_0"
 msgid "Black Belt"
-msgstr ""
+msgstr "Cinturón negro"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_94_0"
 msgid "Fighter's Binding"
-msgstr ""
+msgstr "Muñequeras del peleador"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_95_0"
 msgid "Banker's Game Piece"
@@ -433,7 +433,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_97_0"
 msgid "Patriarch's Bat"
-msgstr ""
+msgstr "Bate del patriarca"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COINLOCKERITEM.BIN::line:1_98_0"
 msgid "Calming Towel"

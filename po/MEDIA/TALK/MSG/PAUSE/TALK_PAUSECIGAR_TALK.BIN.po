@@ -681,7 +681,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_4_0"
 msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Terada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:8_5_0"
 msgid "There's a commotion at the front entrance.{PA:20}||What's going on?{PA:20}"
@@ -1181,7 +1181,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_39_0"
 msgid "I should be getting back to Aoi.{PA:20}"
-msgstr ""
+msgstr "(Debería volver al Aoi).{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:12_40_0"
 msgid "It's been a long time since I could take||Haruka out.{PA:20} I should show her around.{PA:20}"
@@ -1369,9 +1369,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_16_0"
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECIGAR_TALK.BIN::line:15_17_0"
 msgid "End"
-msgstr ""
+msgstr "Fin"
 

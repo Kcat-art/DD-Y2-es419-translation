@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:0_0_0"
 msgid "I'm back.{PA:20}"
-msgstr ""
+msgstr "Ya volví.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:1_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20} Where are you?{PA:20}"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:2_0_0"
 msgid "Where'd she go?{PA:20}"
-msgstr ""
+msgstr "¿Acaso se fue?...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:3_0_0"
 msgid "God,{PA:10} that felt good.{PA:20}.{PA:20}.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:6_0_0"
 msgid "Oh.{PA:20}"
-msgstr ""
+msgstr "Vaya...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:7_0_0"
 msgid "It used to be a brothel,{PA:10} didn't it?{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:10_0_0"
 msgid "Are you feeling better?{PA:20}"
-msgstr ""
+msgstr "¿Ya te sientes mejor?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:11_0_0"
 msgid "Yeah,{PA:10} my fever's finally down.{PA:20}"
@@ -93,11 +93,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:16_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Oye.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:17_0_0"
 msgid "Hmm?{PA:20}"
-msgstr ""
+msgstr "¿Mmm?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:18_0_0"
 msgid "You said you were following me to learn"
@@ -145,7 +145,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:25_0_0"
 msgid "A little.{PA:20}"
-msgstr ""
+msgstr "Quizá...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:26_0_0"
 msgid "Tell me what happened.{PA:20}"
@@ -221,7 +221,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:39_0_0"
 msgid "You're sure it's not a misunderstanding?{PA:20}"
-msgstr ""
+msgstr "¿No habrá sido algún tipo de malentendido?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:40_0_0"
 msgid "Judging from her reaction?{PA:20}"
@@ -233,7 +233,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:41_0_0"
 msgid "But it was killing me to keep hounding her.{PA:20}"
-msgstr ""
+msgstr "Pero me di cuenta de que la perseguía demasiado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:42_0_0"
 msgid "So I joined the police so I could find out"
@@ -245,7 +245,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:43_0_0"
 msgid "You think the Tojo Clan killed your parents?{PA:20}"
-msgstr ""
+msgstr "¿Crees que el Clan Tojo mató a tus padres?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:44_0_0"
 msgid "After that much secrecy,{PA:10} isn't that the"
@@ -273,7 +273,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:49_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:50_0_0"
 msgid "I had one,{PA:10} too.{PA:20}.{PA:20}.{PA:20} A secret in my past.{PA:20}"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:52_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:53_0_0"
 msgid "But when I learned the truth,{PA:10} it only"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:56_0_0"
 msgid "Spoken like a man who knows his past.{PA:20}"
-msgstr ""
+msgstr "Por cómo lo dices, supongo que||sabes de lo que hablas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0040.DAT/3___FILE.BIN::line:57_0_0"
 msgid "You may be right.{PA:20}"

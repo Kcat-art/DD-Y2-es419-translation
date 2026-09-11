@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0120.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Come back to the Tojo.{PA:20}"
-msgstr ""
+msgstr "Vuelve al Clan Tojo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0120.DAT/1___FILE.BIN::line:4_0_0"
 msgid "C'mon,{PA:10} let's discuss this over a drink.{PA:20}"

@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Just a light wound like you asked,{PA:10} boss.{PA:20}"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:3_0_0"
 msgid "And the bullet?{PA:20}"
-msgstr ""
+msgstr "¿Qué hay de la bala?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Just like you said,{PA:10} boss.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:7_0_0"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:8_0_0"
 msgid "So,{PA:10} why'd you want me to do that?{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:12_0_0"
 msgid "So.{PA:20}.{PA:20}.{PA:20} What do we do next?{PA:20}"
-msgstr ""
+msgstr "¿Cuá{PA:20}l{PA:20} s{PA:20}erá nuestro siguiente paso?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Stand by for now.{PA:20}"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:14_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}We have plenty of time.{PA:20}"
-msgstr ""
+msgstr "H{PA:20}a{PA:20}{PA:20}y tiempo de sobra.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Understood.{PA:20} Goodbye.{PA:20}"
@@ -93,11 +93,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:18_0_0"
 msgid "It was just a business call.{PA:20}"
-msgstr ""
+msgstr "Solo era una llamada del trabajo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:19_0_0"
 msgid "I'm a busy man.{PA:20}"
-msgstr ""
+msgstr "Soy alguien ocupado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Yeah,{PA:10} you're real big.{PA:20} Yakuza scum.{PA:20}.{PA:20}.{PA:20}"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Maybe.{PA:20}"
-msgstr ""
+msgstr "Quizá.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:26_0_0"
 msgid "We are the victims here.{PA:20}"
@@ -201,7 +201,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:39_0_0"
 msgid "Told me to send ya on yer merry way.{PA:20}"
-msgstr ""
+msgstr "Me pidió que te liberara del cautiverio.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:40_0_0"
 msgid "You can go.{PA:20} You've been released.{PA:20}"
@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Is that so?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:42_0_0"
 msgid "Well,{PA:10} in that case.{PA:20}.{PA:20}.{PA:20}"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:43_0_0"
 msgid "Takashima.{PA:20}"
-msgstr ""
+msgstr "takashima{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0070.DAT/1___FILE.BIN::line:44_0_0"
 msgid "I dunno what you're playing at.{PA:20}.{PA:20}.{PA:20}"

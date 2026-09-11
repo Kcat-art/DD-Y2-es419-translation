@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:0_5_0"
 msgid "Payout"
-msgstr ""
+msgstr "Pago"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:0_6_0"
 msgid "Current Chips"
@@ -61,19 +61,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:2_1_0"
 msgid "Stand"
-msgstr ""
+msgstr "Plantarse"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:2_2_0"
 msgid "Hit"
-msgstr ""
+msgstr "Golpe"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:2_3_0"
 msgid "Split"
-msgstr ""
+msgstr "Dividir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:2_4_0"
 msgid "Double down"
-msgstr ""
+msgstr "Duplicar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:2_5_0"
 msgid "Insurance"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:2_7_0"
 msgid "Surrender"
-msgstr ""
+msgstr "Rendirse"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:2_8_0"
 msgid "Six under"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:4_1_0"
 msgid "Let's start.{PA:20}"
-msgstr ""
+msgstr "Puedes empezar{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:4_2_0"
 msgid "Place your bets.{PA:20}"
@@ -161,19 +161,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:5_1_0"
 msgid "Continue"
-msgstr ""
+msgstr "CONTINUAR"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:5_2_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:6_0_0"
 msgid "Enter"
-msgstr ""
+msgstr "Entrar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:6_1_0"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:6_2_0"
 msgid "Change Bet"
@@ -181,7 +181,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:6_3_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:6_4_0"
 msgid "L1: Move Camera"
@@ -193,19 +193,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:6_6_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:7_0_0"
 msgid "View controls?{PA:20}"
-msgstr ""
+msgstr "Ver controles{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:7_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:7_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:8_0_0"
 msgid "It's your turn.{PA:20}"
@@ -301,11 +301,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:10_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:10_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:11_0_0"
 msgid "Select the number of games.{PA:20}"
@@ -349,11 +349,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:13_1_0"
 msgid "L"
-msgstr ""
+msgstr "l# ?"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:13_2_0"
 msgid "Left:"
-msgstr ""
+msgstr "Izquierda"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:13_3_0"
 msgid " games"
@@ -365,11 +365,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:14_1_0"
 msgid "Play again"
-msgstr ""
+msgstr "Volver a jugar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:14_2_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BLACKJACKM31.BIN::line:15_0_0"
 msgid "I-I can't believe it.{PA:20}.{PA:20}.{PA:20}"

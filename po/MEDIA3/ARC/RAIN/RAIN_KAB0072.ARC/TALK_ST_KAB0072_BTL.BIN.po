@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -49,15 +49,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:141_0_0"
 msgid "Imai"
-msgstr ""
+msgstr "Imai"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:142_0_0"
 msgid "Uchida"
-msgstr ""
+msgstr "Uchida"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:143_0_0"
 msgid "Tsuchida"
-msgstr ""
+msgstr "Tsuchida"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:144_0_0"
 msgid "Generic 1"
@@ -93,15 +93,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:152_0_0"
 msgid "Shirai"
-msgstr ""
+msgstr "Shirai"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:153_0_0"
 msgid "Kasai"
-msgstr ""
+msgstr "Kasai"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:154_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:155_0_0"
 msgid "Nonomura"
@@ -113,5 +113,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:157_0_0"
 msgid "Man in Black"
-msgstr ""
+msgstr "Hombre de Negro"
 

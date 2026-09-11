@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS05XX/TALK_ARMS0507.BIN::line:0_0_0"
 msgid "Golf Club"
-msgstr ""
+msgstr "Palo de golf"
 

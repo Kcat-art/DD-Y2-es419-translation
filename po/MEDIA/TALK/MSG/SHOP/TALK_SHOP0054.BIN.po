@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:0_0_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:0_1_0"
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:0_2_0"
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:0_3_0"
 msgid "/"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:0_7_0"
 msgid "Need anything else?{PA:20}"
-msgstr ""
+msgstr "¿Debo hacer algo más?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:0_8_0"
 msgid "What's all that you've got there?{PA:20}||Come back when you have more room.{PA:20}.{PA:20}.{PA:20}"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:0_10_0"
 msgid "pts"
-msgstr ""
+msgstr " ptos."
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:1_0_0"
 msgid "White Tonfa"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:1_4_0"
 msgid "Skull Tonfa"
-msgstr ""
+msgstr "Tonfa mortal"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0054.BIN::line:1_5_0"
 msgid "Phantom Tonfa"

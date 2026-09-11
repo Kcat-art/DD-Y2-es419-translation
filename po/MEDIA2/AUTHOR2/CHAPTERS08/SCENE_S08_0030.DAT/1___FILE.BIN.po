@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Th-That's.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "E-ella es.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "It's.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Es..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:2_0_0"
 msgid "It's Utabori's.{PA:20}.{PA:20}.{PA:20} dragon.{PA:20}.{PA:20}.{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:5_0_0"
 msgid "I believe it's all fate.{PA:20}"
-msgstr ""
+msgstr "Me gusta creer que es obra del destino.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "You weren't wrong to have given Ryuji Goda"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:10_0_0"
 msgid "But setting them straight isn't your job.{PA:20}"
-msgstr ""
+msgstr "Pero... guiarlos no es el trabajo de un tatuador.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:11_0_0"
 msgid "All an artist can do is stand by and watch"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Akina.{PA:20}"
-msgstr ""
+msgstr "Akina{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:13_0_0"
 msgid "If you feel responsible as an artist.{PA:20}.{PA:20}.{PA:20}.{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:18_0_0"
 msgid "I won't run anymore.{PA:20}"
-msgstr ""
+msgstr "¡No pienso volver a huir otra vez!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0030.DAT/1___FILE.BIN::line:19_0_0"
 msgid "I'll become the Fifth Kazahori.{PA:20}"

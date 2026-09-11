@@ -17,15 +17,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Hello?{PA:20} It's me.{PA:20}"
-msgstr ""
+msgstr "¿Hola?{PA:20} Soy yo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0020.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Uh huh.{PA:20}.{PA:20}.{PA:20} Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí, a{PA:20}s{PA:20}í{PA:20} es.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0020.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Then you'll meet me?{PA:20}"
-msgstr ""
+msgstr "¿Nos juntamos, entonces?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Okay,{PA:10} I got it.{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0020.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Dammit.{PA:20}.{PA:20}.{PA:20} Kyoka!{PA:20}"
-msgstr ""
+msgstr "Maldita se{PA:20}a{PA:20}.{PA:20}.. ¡Kyoka!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0020.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Hi,{PA:10} over here!{PA:20}"
@@ -61,5 +61,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0020.DAT/1___FILE.BIN::line:11_0_0"
 msgid "That's.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "E-eso.{PA:20}.{PA:20}.{PA:20}"
 

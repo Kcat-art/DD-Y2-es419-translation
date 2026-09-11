@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Ryuji!{PA:20}"
-msgstr ""
+msgstr "¡Ryuji!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Tojo and Omi in a 50-50 truce?{PA:20}"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Nope.{PA:20}"
-msgstr ""
+msgstr "No.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:9_0_0"
 msgid "You set me up five years ago.{PA:20}"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Take a nap or somethin'.{PA:20}"
-msgstr ""
+msgstr "Y no te levantes.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:15_0_0"
 msgid "What're you trying to pull here?{PA:20}"
@@ -93,19 +93,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Do it!{PA:20}"
-msgstr ""
+msgstr "¡Ahora!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:17_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:18_0_0"
 msgid "What's the meaning of this?{PA:20}"
-msgstr ""
+msgstr "¡¿Qué demonios significa esto?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Ryuji.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ryuji.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Where the hell d'you think you are?{PA:20}"
@@ -117,11 +117,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:22_0_0"
 msgid "This is Omi Alliance Headquarters!{PA:20}"
-msgstr ""
+msgstr "¡Esta es la sede de la Alianza Omi!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Ya think I don't know that?{PA:20}"
-msgstr ""
+msgstr "No digas obviedades.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:24_0_0"
 msgid "We're here to stage a little coup.{PA:20}"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:25_0_0"
 msgid "What.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿Qué? ¿El padre {PA:20}de H{PA:20}ika{PA:20}ru?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Can't go havin' my old man talking peace"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:28_0_0"
 msgid "Is that what you're after.{PA:20}.{PA:20}.{PA:20} A war?{PA:20}"
-msgstr ""
+msgstr "¿Acaso lo que quieres... es u{PA:20}n{PA:20}a{PA:20} guerra?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Yeah.{PA:20} A big one between east and west.{PA:20}"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:31_0_0"
 msgid "Me?{PA:20}"
-msgstr ""
+msgstr "¿Yo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0050.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Bingo.{PA:20} Yer head on a platter.{PA:20}"

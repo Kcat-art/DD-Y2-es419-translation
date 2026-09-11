@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:1_0_0"
 msgid "Takashima?{PA:20}"
-msgstr ""
+msgstr "takashima{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:2_0_0"
 msgid "Yes,{PA:10} Terada was.{PA:20}.{PA:20}.{PA:20} The Tojo Clan's Fifth"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:3_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:4_0_0"
 msgid "This bullet's special.{PA:20} The only guns that"
@@ -49,11 +49,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:6_0_0"
 msgid "Any chance Takashima is reselling them?{PA:20}"
-msgstr ""
+msgstr "¿No es posible que Takashima las esté distribuyendo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:7_0_0"
 msgid "Nope.{PA:20}"
-msgstr ""
+msgstr "No.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:8_0_0"
 msgid "Clever kid like Takashima'd never do"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:9_0_1"
 msgid "for sure.{PA:20}"
-msgstr ""
+msgstr "¡Claro que sí!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:10_0_0"
 msgid "Smuggling's just for gettin' good guns cheap.{PA:20}"
@@ -89,11 +89,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:13_0_0"
 msgid "But.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Pero.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:14_0_0"
 msgid "But.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿Pero {PA:20}q{PA:20}ué{PA:20}?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:15_0_0"
 msgid "Wuh-oh,{PA:10} no can do.{PA:20}"
@@ -109,5 +109,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0060.DAT/3___FILE.BIN::line:17_0_0"
 msgid "Why would Takashima.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "Pero ¿por qué Takashima{PA:20}..{PA:20}.{PA:20}?{PA:20}"
 

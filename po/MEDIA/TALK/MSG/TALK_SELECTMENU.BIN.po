@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_1_0"
 msgid "Quit game"
-msgstr ""
+msgstr "Salir del juego"
 
 msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_2_0"
 msgid "Do you want to quit?{PA:20}"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_3_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_4_0"
 msgid "/"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_5_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_SELECTMENU.BIN::line:0_6_0"
 msgid "Resume Mission"

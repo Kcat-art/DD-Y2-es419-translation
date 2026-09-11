@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -45,15 +45,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:140_0_0"
 msgid "Stardust"
-msgstr ""
+msgstr "Stardust"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:141_0_0"
 msgid "Miki"
-msgstr ""
+msgstr "Miki"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:142_0_0"
 msgid "Daigo Dojima"
-msgstr ""
+msgstr "Daigo Dojima"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:143_0_0"
 msgid "Shioya"
@@ -61,31 +61,31 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:144_0_0"
 msgid "Ota"
-msgstr ""
+msgstr "Ota"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:145_0_0"
 msgid "Okada"
-msgstr ""
+msgstr "Okada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:146_0_0"
 msgid "Hirota"
-msgstr ""
+msgstr "Hirota"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:147_0_0"
 msgid "Matsushima"
-msgstr ""
+msgstr "Matsushima"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:148_0_0"
 msgid "Emoto"
-msgstr ""
+msgstr "Emoto"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:149_0_0"
 msgid "Suzuki"
-msgstr ""
+msgstr "Suzuki"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:150_0_0"
 msgid "Baba"
-msgstr ""
+msgstr "Baba"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0280.ARC/TALK_ST_KAB0280_BTL.BIN::line:151_0_0"
 msgid "Takahashi"

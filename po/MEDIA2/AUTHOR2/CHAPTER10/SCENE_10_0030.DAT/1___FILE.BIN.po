@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Took you long enough.{PA:20}"
-msgstr ""
+msgstr "Te tardaste un buen.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "What's the matter?{PA:20} Planning on using that?{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I trusted him this whole time.{PA:20}"
-msgstr ""
+msgstr "Siempre confié en él...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:5_0_0"
 msgid "That hardly constitutes a betrayal.{PA:20}"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Don't get the wrong idea.{PA:20}"
-msgstr ""
+msgstr "No es lo que parece.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:14_0_0"
 msgid "You're still in my custody.{PA:20}"
@@ -105,5 +105,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0030.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Got it.{PA:20}"
-msgstr ""
+msgstr "Entiendo.{PA:20}"
 

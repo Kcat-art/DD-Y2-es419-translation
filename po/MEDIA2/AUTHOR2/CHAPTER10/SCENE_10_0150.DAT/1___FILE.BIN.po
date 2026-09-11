@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Those other guys just don't see it.{PA:20}"
-msgstr ""
+msgstr "Ellos no tienen ni idea.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:27_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}See what?{PA:20}"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:35_0_0"
 msgid "What's up?{PA:20}"
-msgstr ""
+msgstr "¿Qué ocurre, Date-san?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:36_0_0"
 msgid "Let's go.{PA:20} I think I'm a little drunk.{PA:20}"
@@ -221,7 +221,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Nobody but me.{PA:20}"
-msgstr ""
+msgstr "Nadie más que yo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:42_0_0"
 msgid "You're probably right.{PA:20}"
@@ -229,7 +229,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:43_0_0"
 msgid "Huh?{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:44_0_0"
 msgid "I don't know everything about your past.{PA:20}"
@@ -281,11 +281,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:52_0_0"
 msgid "Huh?{PA:20} Oh.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20} Oh.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:53_0_0"
 msgid "Um.{PA:20}.{PA:20}.{PA:20} Sure,{PA:10} let's.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}.{PA:20}{PA:20}., cre{PA:10}o que.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:54_0_0"
 msgid "I'm going to watch the stars up here a bit.{PA:20}"
@@ -301,7 +301,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:57_0_0"
 msgid "Better get some rest.{PA:20}"
-msgstr ""
+msgstr "Asegúrate de descansar bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:58_0_0"
 msgid "Don't worry.{PA:20}.{PA:20}.{PA:20} I'm not running off anywhere.{PA:20}"
@@ -309,11 +309,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:59_0_0"
 msgid "N-no,{PA:10} I didn't think.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "N-no{PA:10} pensé en eso.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:60_0_0"
 msgid "You said you owed me for tonight,{PA:10} right?{PA:20}"
-msgstr ""
+msgstr "Habías dicho que era mi recompens{PA:10}a, ¿no?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:61_0_0"
 msgid "Then listen to me.{PA:20}"
@@ -325,29 +325,29 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:63_0_0"
 msgid "I'll crash at Mama's place tonight.{PA:20}"
-msgstr ""
+msgstr "Entonces, me voy a quedar en casa de mamá.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:64_0_0"
 msgid "At Aoi?{PA:20}"
-msgstr ""
+msgstr "¿En Aoi?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:65_0_0"
 msgid "Yup.{PA:20}"
-msgstr ""
+msgstr "Ajá.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:66_0_0"
 msgid "I'll be waitin' on the bridge at 10 a.{PA:20}m.{PA:20}"
-msgstr ""
+msgstr "Te espero en el puente a las 10 a. {PA:20}m.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:67_0_0"
 msgid "Got it.{PA:20}"
-msgstr ""
+msgstr "Entiendo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:68_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Oye.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0150.DAT/1___FILE.BIN::line:69_0_0"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 

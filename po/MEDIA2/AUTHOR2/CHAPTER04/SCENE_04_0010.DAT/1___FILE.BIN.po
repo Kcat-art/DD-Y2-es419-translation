@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Oh.{PA:20}.{PA:20}.{PA:20} Sorry about that!{PA:20}"
-msgstr ""
+msgstr "Oh{PA:20}.{PA:20}.{PA:20}., discúlpeme.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Excuse me if I'm wrong,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I'm a huge fan of yours!{PA:20}"
-msgstr ""
+msgstr "¡Soy una gran admiradora suya!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Fan?{PA:20} What are you.{PA:20}.{PA:20}.{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:10_0_0"
 msgid "I wasn't the one who solved that case.{PA:20}"
-msgstr ""
+msgstr "yo no resolví nada.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:11_0_0"
 msgid "And I'm not even a detective anymore!{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:12_0_0"
 msgid "I know!{PA:20}"
-msgstr ""
+msgstr "¡Lo sé!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:13_0_0"
 msgid "After the incident,{PA:10} you left your position.{PA:20}"
@@ -97,11 +97,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Huh?{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:18_0_0"
 msgid "A cop buddied up with a Kamurocho yakuza.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Un detective trabajando con un yakuza.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Sounds like a bad buddy movie.{PA:20}"
@@ -129,11 +129,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Killer Kawara.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kawara el Demonio.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:24_0_0"
 msgid "Why are you here?{PA:20}"
-msgstr ""
+msgstr "¿Qué haces aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Haven't you heard?{PA:20}"
@@ -157,11 +157,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:28_0_0"
 msgid "You make me sound like a monster.{PA:20}"
-msgstr ""
+msgstr "Me haces quedar mal, Date.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Besides,{PA:10} it's been years.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Todo eso{PA:10} quedó en el pasad{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:30_0_0"
 msgid "I still remember it like it was yesterday.{PA:20}"
@@ -177,7 +177,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Yes,{PA:10} actually.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:10} Bueno.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:33_0_0"
 msgid "But I guess it doesn't matter now.{PA:20}"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:35_0_0"
 msgid "Hold it.{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:36_0_0"
 msgid "I hate to disappoint you,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
@@ -197,7 +197,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:37_0_0"
 msgid "Huh?{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Sudo called you here,{PA:10} didn't he?{PA:20}"
@@ -205,9 +205,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:39_0_0"
 msgid "He's waiting for us.{PA:20}"
-msgstr ""
+msgstr "Está esperándote.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0010.DAT/1___FILE.BIN::line:40_0_0"
 msgid "Follow me.{PA:20}"
-msgstr ""
+msgstr "Sígueme.{PA:20}"
 

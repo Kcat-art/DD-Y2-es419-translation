@@ -17,11 +17,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Now,{PA:10} now.{PA:20} Calm down and listen.{PA:20}"
-msgstr ""
+msgstr "No se{PA:10} alter{PA:20}e tanto; primero escúcheme.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Who is this?{PA:20}"
-msgstr ""
+msgstr "¿Con quién hablo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Wataru Kurahashi.{PA:20} Tokyo Metropolitan Police,{PA:10}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:6_0_0"
 msgid "So you're another Jingweon survivor.{PA:20}"
-msgstr ""
+msgstr "Eres otro sobreviviente Jingwon.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Oh,{PA:10} yes.{PA:20}"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Who are you after?{PA:20}"
-msgstr ""
+msgstr "¿A quiénes?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:16_0_0"
 msgid "The people who ruined our lives that night.{PA:20}"
@@ -109,15 +109,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Where?{PA:20}"
-msgstr ""
+msgstr "¿Adónde?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:19_0_0"
 msgid "The heart of Kamurocho.{PA:20}"
-msgstr ""
+msgstr "Al corazón de Kamurocho:{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Millennium Tower.{PA:20}"
-msgstr ""
+msgstr "Torre Millennium{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Please be here by dawn.{PA:20}"
@@ -145,7 +145,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Why?{PA:20}"
-msgstr ""
+msgstr "¿Por qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Oh,{PA:10} you'll see when you get here.{PA:20}"
@@ -181,7 +181,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Us,{PA:10} at the Millennium Tower by dawn.{PA:20}"
-msgstr ""
+msgstr "Nos q{PA:10}uiere a ambos... en la Torre Millennium,||al amanecer.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0018.DAT/1___FILE.BIN::line:33_0_0"
 msgid "The trains aren't running this late.{PA:20}"

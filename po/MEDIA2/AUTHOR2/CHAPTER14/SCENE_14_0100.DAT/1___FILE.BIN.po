@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:0_0_0"
 msgid "What happened?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasó?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:1_0_0"
 msgid "HQ says they're not helping on this one.{PA:20}"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:2_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Date is still a wanted man.{PA:20}"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:11_0_0"
 msgid "What about the Go-Ryu?{PA:20}"
-msgstr ""
+msgstr "¿Y qué hay del Go-Ryu?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:12_0_0"
 msgid "I'll handle them.{PA:20}"
-msgstr ""
+msgstr "Me las arreglaré con ellos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:13_0_0"
 msgid "What,{PA:10} by yourself?{PA:20}"
@@ -105,11 +105,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:17_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}All right.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}.{PA:20} De acuerdo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Still,{PA:10} 31 of them.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Aun así,{PA:10} son 31 bombas{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:19_0_0"
 msgid "If we at least knew where to look.{PA:20}.{PA:20}.{PA:20}"
@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Majima.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Majima.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Hey,{PA:10} Kazzy!{PA:20}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:26_0_0"
 msgid "What.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿Qué? ¿El padre {PA:20}de H{PA:20}ika{PA:20}ru?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Ya said ya needed this system,{PA:10} right?!{PA:20}"
@@ -153,15 +153,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20} are you okay?{PA:20}"
-msgstr ""
+msgstr "¿Se {PA:20}e{PA:20}n{PA:20}cuentra bien?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:30_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Should we stop him?{PA:20}"
-msgstr ""
+msgstr "Q{PA:20}ui{PA:20}z{PA:20}ás deberíamos detenerlo...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:31_0_0"
 msgid "Y-Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "S-sí.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Move,{PA:10} dammit!{PA:20} Fuckin' move!{PA:20}"
@@ -173,5 +173,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0100.DAT/1___FILE.BIN::line:34_0_0"
 msgid "What's going on?!{PA:20}"
-msgstr ""
+msgstr "¿Qué está pasando aquí?{PA:20}"
 

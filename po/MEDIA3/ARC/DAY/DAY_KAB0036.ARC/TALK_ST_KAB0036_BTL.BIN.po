@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0036.ARC/TALK_ST_KAB0036_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0036.ARC/TALK_ST_KAB0036_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0036.ARC/TALK_ST_KAB0036_BTL.BIN::line:139_0_0"
 msgid "0123456789+-円万億¥,{PA:10}枚点"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0036.ARC/TALK_ST_KAB0036_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0036.ARC/TALK_ST_KAB0036_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -53,5 +53,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0036.ARC/TALK_ST_KAB0036_BTL.BIN::line:140_0_0"
 msgid "Showa St.{PA:20}"
-msgstr ""
+msgstr "Calle Showa{PA:20}"
 

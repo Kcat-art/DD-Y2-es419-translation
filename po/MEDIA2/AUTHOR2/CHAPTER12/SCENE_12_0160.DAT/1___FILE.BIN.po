@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:0_0_0"
 msgid "R-Ryuji?{PA:20}"
-msgstr ""
+msgstr "¡¿R-Ryuji?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:1_0_0"
 msgid "What the fuck are ya doing in here?!{PA:20}"
@@ -73,15 +73,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:13_0_0"
 msgid "You ready?{PA:20}"
-msgstr ""
+msgstr "¿Estás listo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:14_0_0"
 msgid "I'm ready.{PA:20}"
-msgstr ""
+msgstr "Estoy listo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Later,{PA:10} then.{PA:20}"
-msgstr ""
+msgstr "Nos v{PA:10}emos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:16_0_0"
 msgid "You must have been so scared.{PA:20}"
@@ -97,15 +97,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Are you okay?!{PA:20}"
-msgstr ""
+msgstr "¿Se encuentra bien?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:19_0_0"
 msgid "I'll be fine.{PA:20}"
-msgstr ""
+msgstr "No subestimes{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Uncle Kaz!{PA:20}"
-msgstr ""
+msgstr "¡Tío Kaz!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Looks like that wound reopened a bit.{PA:20}"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:22_0_0"
 msgid "What?{PA:20} He's hurt?{PA:20}"
-msgstr ""
+msgstr "¿Qué? {PA:20}¿Está herido?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:23_0_0"
 msgid "He'll be good as new in no time.{PA:20} I promise.{PA:20}"
@@ -121,23 +121,23 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:24_0_0"
 msgid "Thank goodness.{PA:20}"
-msgstr ""
+msgstr "Gracias a Dios.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Why are you.{PA:20}.{PA:20}.{PA:20} here?{PA:20}"
-msgstr ""
+msgstr "¿Qué haces{PA:20}{PA:20} {PA:20}aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Mama told me about the note you got.{PA:20}"
-msgstr ""
+msgstr "Mamá me contó sobre la nota.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Ah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ah.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:28_0_0"
 msgid "I'm glad you're all right.{PA:20}"
-msgstr ""
+msgstr "Me alegra que estés bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0160.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Always gotta be the tough guy,{PA:10} don't ya?{PA:20}"

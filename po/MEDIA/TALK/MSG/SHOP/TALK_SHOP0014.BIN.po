@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:0_0_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:0_1_0"
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:0_2_0"
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:0_3_0"
 msgid "/"
@@ -57,35 +57,35 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:0_10_0"
 msgid "pts"
-msgstr ""
+msgstr " ptos."
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_0_0"
 msgid "Women's Underwear"
-msgstr ""
+msgstr "Ropa interior de mujer"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_1_0"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_2_0"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_3_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_4_0"
 msgid "Tauriner"
-msgstr ""
+msgstr "Tauriner"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_5_0"
 msgid "Tauriner +"
-msgstr ""
+msgstr "Tauriner+"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_6_0"
 msgid "Tauriner ++"
-msgstr ""
+msgstr "Tauriner ++"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_7_0"
 msgid "Dog Food"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_22_0"
 msgid "C.{PA:20}C.{PA:20} Lemon"
-msgstr ""
+msgstr "C.{PA:20}C.{PA:20} Lemon"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0014.BIN::line:1_23_0"
 msgid "DAKARA"

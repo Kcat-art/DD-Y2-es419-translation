@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:140_0_0"
 msgid "Be My Baby"
-msgstr ""
+msgstr "Be My Baby"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:141_0_0"
 msgid "Hirata"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:142_0_0"
 msgid "Gondawara"
-msgstr ""
+msgstr "Gondawara"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:143_0_0"
 msgid "Yokota"
@@ -61,9 +61,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:144_0_0"
 msgid "Nishihara"
-msgstr ""
+msgstr "Nishihara"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0279.ARC/TALK_ST_KAB0279_BTL.BIN::line:145_0_0"
 msgid "Go"
-msgstr ""
+msgstr "¡¡Vete!!"
 

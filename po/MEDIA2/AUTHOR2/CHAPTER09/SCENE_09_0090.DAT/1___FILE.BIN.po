@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Majima!{PA:20}"
-msgstr ""
+msgstr "¡Majima!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Y-You're late,{PA:10} Kazzy.{PA:20}.{PA:20}.{PA:20}"
@@ -21,11 +21,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:2_0_0"
 msgid "I already smeared all o' Sengoku's girls.{PA:20}"
-msgstr ""
+msgstr "Ya hice mierda a todos los de Sengoku...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Majima!{PA:20}"
-msgstr ""
+msgstr "¡Majima!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Promise is a promise,{PA:10} right?{PA:20}"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:7_0_0"
 msgid "What?{PA:20} Why?{PA:20}"
-msgstr ""
+msgstr "¿Eh? ¿Y {PA:20}por qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:8_0_0"
 msgid "The 'copters and troops marchin' around.{PA:20}.{PA:20}.{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:13_0_0"
 msgid "There was a rat helpin' Sengoku.{PA:20}.{PA:20}.{PA:20} Shindo.{PA:20}"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Shindo?!{PA:20}"
-msgstr ""
+msgstr "¡Shindo!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:15_0_0"
 msgid "That dumb bitch.{PA:20}.{PA:20}.{PA:20} He sold out.{PA:20}"
@@ -109,9 +109,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:21_0_0"
 msgid "He's in your hands.{PA:20}"
-msgstr ""
+msgstr "Bien, te lo encargo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0090.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Okay.{PA:20}"
-msgstr ""
+msgstr "Okey.{PA:20}"
 

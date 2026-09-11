@@ -17,11 +17,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_1_0"
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_2_0"
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_3_0"
 msgid "Mail"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_5_0"
 msgid "Missions"
-msgstr ""
+msgstr "Misiones"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_6_0"
 msgid "Completion"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:0_7_0"
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:1_0_0"
 msgid "Use and equip items currently in||your possession.{PA:20}"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:2_1_0"
 msgid "Money"
-msgstr ""
+msgstr "Dinero"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:2_2_0"
 msgid "Learn the turn kick.{PA:20} {IC:00_03}➿"
@@ -125,9 +125,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:6_0_0"
 msgid "Open"
-msgstr ""
+msgstr "Abiertas"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMENU.BIN::line:6_1_0"
 msgid "Back"
-msgstr ""
+msgstr "Atrás"
 

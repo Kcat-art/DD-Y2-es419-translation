@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:0_0_0"
 msgid "No,{PA:10} I'm happier knowing.{PA:20}"
-msgstr ""
+msgstr "Es{PA:10}tá bien así.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:1_0_0"
 msgid "There's nothing scarier than not knowing"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:2_0_0"
 msgid "I'm sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Lo siento.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:3_0_0"
 msgid "After the raid.{PA:20}.{PA:20}.{PA:20}"
@@ -37,11 +37,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I'm afraid.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Me temo que.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:5_0_0"
 msgid "It's not my place to say.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "no me corresponde a mí decírtelo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:6_0_0"
 msgid "But just.{PA:20}.{PA:20}.{PA:20} remember this,{PA:10} Kaoru.{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:10_0_0"
 msgid "It's your blood too,{PA:10} Dad.{PA:20}"
-msgstr ""
+msgstr "Es su sangre también, {PA:10}papá.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:11_0_0"
 msgid "God,{PA:10} I missed you.{PA:20}.{PA:20}.{PA:20}"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Your hands were so tiny.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Tenías unas manos tan pequeñitas{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:15_0_0"
 msgid "You live a happy life,{PA:10} Kaoru.{PA:20}"
@@ -97,9 +97,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Dad.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Papá.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0170.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}.{PA:20}.{PA:20}"
 

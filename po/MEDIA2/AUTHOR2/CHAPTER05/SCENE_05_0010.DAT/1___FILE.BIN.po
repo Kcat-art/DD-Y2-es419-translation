@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "What's wrong?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasa?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "I'm fine.{PA:20} Just a little light-headed.{PA:20}.{PA:20}.{PA:20}"

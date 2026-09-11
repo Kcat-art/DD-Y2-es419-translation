@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::name:0"
 msgid "𝐒𝐭𝐚𝐟𝐟"
-msgstr ""
+msgstr "Empleado"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::name:2"
 msgid "𝐆𝐢𝐫𝐥"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::name:3"
 msgid "𝐊𝐢𝐫𝐲𝐮"
-msgstr ""
+msgstr "kiryu"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_0_0"
 msgid "𝐖𝐞𝐥𝐜{MS:0}𝐨𝐦𝐞﹒{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_0_2"
 msgid "𝐖𝐡𝐢𝐜𝐡 𝐜𝐨𝐮𝐫𝐬𝐞 𝐰𝐨𝐮𝐥𝐝 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞﹖{PA:20}"
-msgstr ""
+msgstr "¿Qué plan de masajes le interesa?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_0_3"
 msgid "𝐓𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝐛𝐞 𝟱𝟬𝟬𝟬 𝐲𝐞𝐧﹒{PA:20}"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_3_1"
 msgid "𝐍𝐨﹒{PA:20}"
-msgstr ""
+msgstr "No{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_3_2"
 msgid "𝐘𝐨𝐮 𝐥𝐨𝐨𝐤 𝐯𝐞𝐫𝐲 𝐡𝐞𝐚𝐥𝐭𝐡𝐲﹒{PA:20}||𝐏𝐥𝐞𝐚𝐬𝐞 𝐥𝐢𝐞 𝐝𝐨𝐰𝐧﹒{PA:20}"
@@ -117,11 +117,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_7_0"
 msgid "𝐏𝐥𝐞𝐚𝐬𝐞 𝐜𝐨𝐦𝐞 𝐚𝐠𝐚𝐢𝐧﹒{PA:20}"
-msgstr ""
+msgstr "Por favor, vuelva pronto.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_7_1"
 msgid "𝐎𝐤𝐚𝐲﹒{PA:20} 𝐓𝐡𝐚𝐧𝐤𝐬﹒{PA:20}"
-msgstr ""
+msgstr "Gra{PA:20}cias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_8_0"
 msgid "𝐖𝐞𝐥{MS:0}𝐜𝐨𝐦𝐞﹒{PA:20}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_8_4"
 msgid "𝐖𝐡𝐢𝐜𝐡 𝐜𝐨𝐮𝐫𝐬𝐞 𝐰𝐨𝐮𝐥𝐝 𝐲𝐨𝐮 𝐥𝐢𝐤𝐞﹖{PA:20}"
-msgstr ""
+msgstr "¿Qué plan de masajes le interesa?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:0_8_5"
 msgid "𝐓𝐡𝐚𝐭 𝐰𝐢𝐥𝐥 𝐛𝐞 𝟰𝟬𝟬𝟬 𝐲𝐞𝐧﹒{PA:20}"
@@ -173,7 +173,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:1_1_0"
 msgid "𝐍𝐨﹐{PA:10} 𝐭𝐡𝐚𝐧𝐤𝐬﹒{PA:20}"
-msgstr ""
+msgstr "No,{PA:10} gracias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:2_0_0"
 msgid "𝐍𝐨𝐫𝐦𝐚𝐥 𝐒𝐡𝐢𝐚𝐭𝐬𝐮    𝟱𝟬𝟬𝟬"
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:3_1_0"
 msgid "𝐍𝐨﹐{PA:10} 𝐭𝐡𝐚𝐧𝐤𝐬﹒{PA:20}"
-msgstr ""
+msgstr "No,{PA:10} gracias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HEALTH_CMN_US.BIN::line:4_0_0"
 msgid "𝐍𝐨𝐫𝐦𝐚𝐥 𝐒𝐡𝐢𝐚𝐭𝐬𝐮    𝟰𝟬𝟬𝟬"

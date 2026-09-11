@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0030.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Yuya!{PA:20}"
-msgstr ""
+msgstr "¡Yuya!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "This is dangerous,{PA:10} stay out of this!{PA:20}"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0030.DAT/1___FILE.BIN::line:3_0_0"
 msgid "That's.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "E-eso.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0030.DAT/1___FILE.BIN::line:4_0_0"
 msgid "You gave it to me,{PA:10} hon!{PA:20}"

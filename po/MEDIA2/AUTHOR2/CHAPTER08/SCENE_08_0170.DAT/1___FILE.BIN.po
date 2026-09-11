@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0170.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Thanks.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0170.DAT/1___FILE.BIN::line:1_0_0"
 msgid "They took Chairman Goda someplace else.{PA:20}"
-msgstr ""
+msgstr "Al presidente Goda se lo llevaron a otro lugar.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0170.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Sorry.{PA:20}"
-msgstr ""
+msgstr "Perdón.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0170.DAT/1___FILE.BIN::line:3_0_0"
 msgid "No,{PA:10} I'm sorry I took so long getting here.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0170.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Are you all right?{PA:20}"
-msgstr ""
+msgstr "¿Se encuentra bien?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0170.DAT/1___FILE.BIN::line:5_0_0"
 msgid "No,{PA:10} I'm not all right.{PA:20}.{PA:20}.{PA:20} I'm dying.{PA:20}"

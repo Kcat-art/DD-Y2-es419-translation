@@ -37,5 +37,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0090.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Get him!{PA:20}"
-msgstr ""
+msgstr "¡A él!{PA:20}"
 

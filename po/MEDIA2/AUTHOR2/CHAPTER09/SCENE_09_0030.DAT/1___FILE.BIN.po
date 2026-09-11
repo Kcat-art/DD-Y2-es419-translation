@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "They were.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ellos eran.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:6_0_1"
 msgid "The Jingweon mafia was wiped out.{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Survivors of the raid?{PA:20}"
-msgstr ""
+msgstr "¿Hay quienes sobrevivieron?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:9_0_0"
 msgid "That would mean those survivors joined"
@@ -77,11 +77,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Wait.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Un moment{PA:20}o.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Where were the police while all"
@@ -109,7 +109,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:16_0_0"
 msgid "That's about the size of it.{PA:20}"
-msgstr ""
+msgstr "Algo así...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:17_0_0"
 msgid "You'd have to ask the detective on the case"
@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:19_0_0"
 msgid "I don't remember his name.{PA:20}"
-msgstr ""
+msgstr "No lo recuerdo...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:20_0_0"
 msgid "It was all so long ago.{PA:20}"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:21_0_0"
 msgid "I see.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Entiendo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Some mess this has all turned into.{PA:20}.{PA:20}.{PA:20}"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:24_0_0"
 msgid "The Go-Ryu have their sights on Kamurocho.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "el clan Go-Ryu tiene a Kamurocho en la mira..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Now the ghost of the Jingweon mafia.{PA:20}.{PA:20}.{PA:20}"
@@ -157,7 +157,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Plus the rat that set up Date.{PA:20}"
-msgstr ""
+msgstr "Y no nos olvidemos del desgraciado que engañó a Date-san.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:27_0_0"
 msgid "I can't tell who's going to do what next.{PA:20}"
@@ -173,5 +173,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0030.DAT/1___FILE.BIN::line:29_0_0"
 msgid "We've got to beat it.{PA:20}"
-msgstr ""
+msgstr "Tenemos que actuar ya.{PA:20}"
 

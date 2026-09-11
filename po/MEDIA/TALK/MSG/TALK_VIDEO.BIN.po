@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_4_0"
 msgid "Suspicious Video"
-msgstr ""
+msgstr "Video sospechoso"
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_5_0"
 msgid "Escalator to Heaven"
-msgstr ""
+msgstr "Escalera al Cielo"
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_6_0"
 msgid "Stained Video"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_9_0"
 msgid "Super Kung Fu Man"
-msgstr ""
+msgstr "Super Kung Fu Man"
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_10_0"
 msgid "Space Ninja 3"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:0_26_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:1_0_0"
 msgid "Watch one more time?{PA:20}"
@@ -125,9 +125,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:1_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_VIDEO.BIN::line:1_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 

@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS09XX/TALK_ARMS0919.BIN::line:0_0_0"
 msgid "Decorative Spear"
-msgstr ""
+msgstr "Lanza decorativa"
 

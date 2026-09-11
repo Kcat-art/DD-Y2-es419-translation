@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:3_0_0"
 msgid "The Dragon of Kansai"
-msgstr ""
+msgstr "El Dragón de Kansai."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:4_0_0"
 msgid "First time in Osaka.{PA:20}.{PA:20}.{PA:20} This is Sotenbori.{PA:20}||I should walk around and get a feel for it.{PA:20}"
@@ -725,7 +725,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:18_4_0"
 msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Terada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:18_5_0"
 msgid "There's a commotion at the front entrance.{PA:20}||What's going on?{PA:20}"
@@ -1245,7 +1245,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:26_39_0"
 msgid "I should be getting back to Aoi.{PA:20}"
-msgstr ""
+msgstr "(Debería volver al Aoi).{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:26_40_0"
 msgid "It's been a long time since I could take||Haruka out.{PA:20} I should show her around.{PA:20}"
@@ -1437,15 +1437,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:32_16_0"
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:32_17_0"
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:33_0_0"
 msgid "Black Thunder"
-msgstr ""
+msgstr "BLACK THUNDER||"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:34_0_0"
 msgid "Looks like Yuya is working hard as||a manager.{PA:20}"
@@ -1493,7 +1493,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:35_0_0"
 msgid "Be My Baby"
-msgstr ""
+msgstr "Be My Baby"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:36_0_0"
 msgid "They really shouldn't block the street||like that.{PA:20}"
@@ -2693,7 +2693,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:105_0_0"
 msgid "Tatsu"
-msgstr ""
+msgstr "Tatsu"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:106_0_0"
 msgid "I was asked about a man named Tatsu.{PA:20}||Who is that?{PA:20} Maybe I'll ask Kurokawa.{PA:20}"
@@ -2773,7 +2773,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:109_0_0"
 msgid "Albatross Akagi's Club"
-msgstr ""
+msgstr "Palo de golf de Akagi el Albatros"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:110_0_0"
 msgid "I have to get 800 points on the||Alien Course.{PA:20} That's going to be tough.{PA:20}"
@@ -3069,7 +3069,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:126_6_0"
 msgid "That's it?{PA:20}"
-msgstr ""
+msgstr "¡Eso es!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:126_7_0"
 msgid "I'll take the challenge.{PA:20}"
@@ -3497,7 +3497,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:155_0_0"
 msgid "The Florist"
-msgstr ""
+msgstr "¿Al Florista?"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:156_0_0"
 msgid "He says he's looking for Kage.{PA:20}.{PA:20}.{PA:20}||Who is he?{PA:20}"
@@ -3861,7 +3861,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:185_0_0"
 msgid "Kazuya Amon"
-msgstr ""
+msgstr "Kazuya Amon"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:186_0_0"
 msgid "Who is this?{PA:20} He means business.{PA:20}.{PA:20}.{PA:20}"
@@ -3877,7 +3877,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:187_0_0"
 msgid "Jiro Amon"
-msgstr ""
+msgstr "Jiro Amon"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:188_0_0"
 msgid "Who is this guy?{PA:20}||He seems determined.{PA:20}"
@@ -3893,7 +3893,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:189_0_0"
 msgid "Sango Amon"
-msgstr ""
+msgstr "Sango Amon"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:190_0_0"
 msgid "Who is this?{PA:20} He means business.{PA:20}.{PA:20}.{PA:20}"
@@ -3909,7 +3909,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:191_0_0"
 msgid "Amon"
-msgstr ""
+msgstr "Amon"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:192_0_0"
 msgid "He said he's waiting at the pier?{PA:20}||Who could take down Komaki?{PA:20}"
@@ -4157,7 +4157,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:211_0_0"
 msgid "Mahjong"
-msgstr ""
+msgstr "Mahjong"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:212_0_0"
 msgid "Sounds like he's on a losing streak in||mahjong.{PA:20} I'll see what he's got to say.{PA:20}"
@@ -4173,7 +4173,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:212_4_0"
 msgid "No problem.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSEMISSION.BIN::line:212_5_0"
 msgid "I lost.{PA:20}.{PA:20}.{PA:20} I want a rematch.{PA:20}"

@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0060.DAT/1___FILE.BIN::line:7_0_0"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0060.DAT/1___FILE.BIN::line:8_0_0"
 msgid "You've got more pep than I thought.{PA:20}"

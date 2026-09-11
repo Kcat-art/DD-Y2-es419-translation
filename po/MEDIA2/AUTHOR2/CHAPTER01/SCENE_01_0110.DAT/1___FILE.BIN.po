@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0110.DAT/1___FILE.BIN::line:0_0_0"
 msgid "The Tojo Clan's entire future rests on this.{PA:20}"
-msgstr ""
+msgstr "El futuro del Clan Tojo depende de esto.{PA:20}"
 

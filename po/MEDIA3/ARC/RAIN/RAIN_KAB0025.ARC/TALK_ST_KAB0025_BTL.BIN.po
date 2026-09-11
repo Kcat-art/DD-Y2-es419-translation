@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:142_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:142_5_0"
 msgid "Experience points:"
@@ -61,11 +61,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:147_0_0"
 msgid "Oshima"
-msgstr ""
+msgstr "Oshima"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:148_0_0"
 msgid "Kiuchi"
-msgstr ""
+msgstr "Kiuchi"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:149_0_0"
 msgid "Generic 1"
@@ -101,17 +101,17 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:157_0_0"
 msgid "Ishizaki"
-msgstr ""
+msgstr "Ishizaki"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:158_0_0"
 msgid "Fukushima"
-msgstr ""
+msgstr "Fukushima"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:159_0_0"
 msgid "Fujioka"
-msgstr ""
+msgstr "Fujioka"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0025.ARC/TALK_ST_KAB0025_BTL.BIN::line:160_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

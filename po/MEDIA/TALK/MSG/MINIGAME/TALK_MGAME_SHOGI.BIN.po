@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:0_0_0"
 msgid "Play again"
-msgstr ""
+msgstr "Volver a jugar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:0_1_0"
 msgid "Give up"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:1_0_0"
 msgid "Move Crane"
-msgstr ""
+msgstr "Mover garra"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:1_1_0"
 msgid "Move View"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:1_2_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:1_3_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:2_0_0"
 msgid "Leave the game?{PA:20}"
@@ -41,11 +41,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:2_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:2_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:3_0_0"
 msgid "K.{PA:20} Kiryu"
@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_0_0"
 msgid "Shogi King"
-msgstr ""
+msgstr "Rey del shogi"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_1_0"
 msgid "Matsuda"
-msgstr ""
+msgstr "Matsuda"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_2_0"
 msgid "Teshigawara"
@@ -105,15 +105,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_12_0"
 msgid "Sawada"
-msgstr ""
+msgstr "Sawada"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_13_0"
 msgid "Furuta"
-msgstr ""
+msgstr "Furuta"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_14_0"
 msgid "Yamagata"
-msgstr ""
+msgstr "Yamagata"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_15_0"
 msgid "Hachinohe"
@@ -121,7 +121,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_16_0"
 msgid "Sakura"
-msgstr ""
+msgstr "Sakura"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_17_0"
 msgid "Ebisawa"
@@ -137,15 +137,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_20_0"
 msgid "Iwata"
-msgstr ""
+msgstr "Iwata"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_21_0"
 msgid "Oki"
-msgstr ""
+msgstr "Oki"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_22_0"
 msgid "Yamaguchi"
-msgstr ""
+msgstr "Yamaguchi"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_23_0"
 msgid "Hiranaka"
@@ -157,23 +157,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_25_0"
 msgid "Koyama"
-msgstr ""
+msgstr "Koyama"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_26_0"
 msgid "Kawakami"
-msgstr ""
+msgstr "Kawakami"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_27_0"
 msgid "Lee"
-msgstr ""
+msgstr "Kim"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_28_0"
 msgid "Kaneda"
-msgstr ""
+msgstr "Kaneda"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_29_0"
 msgid "Eric"
-msgstr ""
+msgstr "Eric"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_30_0"
 msgid "Yoneda"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:4_33_0"
 msgid "Sakai"
-msgstr ""
+msgstr "Sakai"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:5_0_0"
 msgid "mv"
@@ -201,11 +201,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:6_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:6_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:7_0_0"
 msgid "Deciding order.{PA:20}.{PA:20}.{PA:20}"
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:10_0_0"
 msgid "Check.{PA:20}"
-msgstr ""
+msgstr "Cobrar{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:11_0_0"
 msgid "You win.{PA:20}"
@@ -241,15 +241,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:13_1_0"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:13_2_0"
 msgid "Oh.{PA:20}.{PA:20}.{PA:20} I see.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Oh.{PA:20}.{PA:20}.{PA:20} Ya ve{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:13_3_0"
 msgid "Heh.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Je.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:13_4_0"
 msgid "That's a mistake!{PA:20}"
@@ -265,15 +265,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:14_0_0"
 msgid "Ouch.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Uy..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:14_1_0"
 msgid "Ugh.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Uy.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:14_2_0"
 msgid "Hmph.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¡Jum{PA:20}{PA:20}!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:14_3_0"
 msgid "Oops!{PA:20}"
@@ -301,7 +301,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:15_2_0"
 msgid "I see.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Entiendo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:15_3_0"
 msgid "Aw.{PA:20}.{PA:20}.{PA:20}"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:15_4_0"
 msgid "Really.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿De verdad{PA:20}?{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:15_5_0"
 msgid "I've lost!{PA:20}"
@@ -329,15 +329,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:16_2_0"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:16_3_0"
 msgid "Hmph.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¡Jum{PA:20}{PA:20}!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:16_4_0"
 msgid "Are you sure?{PA:20}"
-msgstr ""
+msgstr "¿Estás seguro?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:16_5_0"
 msgid "I lose!{PA:20} I give!{PA:20}"
@@ -353,15 +353,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:17_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:17_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:18_0_0"
 msgid "Time limit"
-msgstr ""
+msgstr "Tiempo límite"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_SHOGI.BIN::line:19_0_0"
 msgid ":"

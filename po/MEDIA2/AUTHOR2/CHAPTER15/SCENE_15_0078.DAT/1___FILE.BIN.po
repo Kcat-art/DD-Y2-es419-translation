@@ -21,15 +21,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:2_0_0"
 msgid "What is it?{PA:20}"
-msgstr ""
+msgstr "¿De qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:3_0_0"
 msgid "This is.{PA:20}.{PA:20}.{PA:20} Sayama?!{PA:20}"
-msgstr ""
+msgstr "Habla {PA:20}S{PA:20}a{PA:20}yama...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Okay.{PA:20}.{PA:20}.{PA:20} That should do it.{PA:20}"
-msgstr ""
+msgstr "(Creo q{PA:20}u{PA:20}e{PA:20} con eso debería bastar).{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Umm,{PA:10} hi.{PA:20} Sorry for the wild goose chase.{PA:20}"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Ryuji Goda and I are.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ryuji Goda y yo somos.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:12_0_0"
 msgid "We're half-siblings by blood.{PA:20}"
-msgstr ""
+msgstr "mediohermanos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:13_0_0"
 msgid "The child that Kawara.{PA:20}.{PA:20}.{PA:20}"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:15_0_1"
 msgid "Ryuji Goda.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ryuji Goda..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Talk about irony!{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:19_0_0"
 msgid "As his only blood relative.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Como su único pariente consanguíneo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:20_0_0"
 msgid "And as a Division 4 detective.{PA:20}"
@@ -125,11 +125,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Everything we talked about.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Todo lo que hablamos..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:22_0_0"
 msgid "The time we spent in Osaka.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "el tiempo que pasamos juntos en Osaka.{PA:20}..{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:23_0_0"
 msgid "I'll never forget it,{PA:10} Kazuma.{PA:20}"
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:24_0_0"
 msgid "I'll keep it in my heart always.{PA:20}"
-msgstr ""
+msgstr "Estarán en mi corazón por siempre.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:25_0_0"
 msgid "I'm afraid we won't be making any more"
@@ -153,11 +153,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:27_0_0"
 msgid "We're just.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Nosotros.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:28_0_0"
 msgid "The worlds we live in are so different.{PA:20}"
-msgstr ""
+msgstr "vivimos en realidades muy diferentes.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:29_0_0"
 msgid "I shouldn't have let you in"
@@ -173,7 +173,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:31_0_0"
 msgid "I'm so sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Cuánto lo siento{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:31_0_1"
 msgid "I wanted to say goodbye with a smile.{PA:20}"
@@ -189,9 +189,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:34_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Goodbye.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}.{PA:20} Adiós.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0078.DAT/1___FILE.BIN::line:35_0_0"
 msgid "Sayama.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sayama..{PA:20}.{PA:20},{PA:20}"
 

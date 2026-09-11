@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:140_0_0"
 msgid "Nakamura"
-msgstr ""
+msgstr "Nakamura"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:141_0_0"
 msgid "Uno"
@@ -57,15 +57,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:142_0_0"
 msgid "Morishita"
-msgstr ""
+msgstr "Morishita"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:143_0_0"
 msgid "Esaki"
-msgstr ""
+msgstr "Esaki"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:144_0_0"
 msgid "Makino"
-msgstr ""
+msgstr "Makino"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0247.ARC/TALK_ST_KAB0247_BTL.BIN::line:145_0_0"
 msgid "Fujishima"

@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "This is.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¡Esto es..{PA:20}.{PA:20}!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS07/SCENE_S07_0030.DAT/1___FILE.BIN::line:7_0_0"
 msgid "You live here,{PA:10} kid?{PA:20}"

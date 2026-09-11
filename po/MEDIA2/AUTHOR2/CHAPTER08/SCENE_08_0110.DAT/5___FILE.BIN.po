@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:2_0_0"
 msgid "You're.{PA:20}.{PA:20}.{PA:20}!{PA:20}"
-msgstr ""
+msgstr "¿Estás.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:3_0_0"
 msgid "Mr.{PA:20} Kiryu.{PA:20} Hand the girl over!{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:6_0_0"
 msgid "You know him?{PA:20}"
-msgstr ""
+msgstr "¿Lo conoce?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:7_0_0"
 msgid "His name's Hayashi.{PA:20} He's Omi.{PA:20}"
@@ -49,11 +49,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:8_0_0"
 msgid "Omi?!{PA:20}"
-msgstr ""
+msgstr "¡¿Omi?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:9_0_0"
 msgid "Why are you doing this?{PA:20}"
-msgstr ""
+msgstr "¿Qué se supone que haces aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:10_0_0"
 msgid "I work for Mr.{PA:20} Ryuji now.{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:11_0_1"
 msgid "anymore.{PA:20}"
-msgstr ""
+msgstr "resistir!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:12_0_0"
 msgid "What?{PA:20} So he sent you here to slow us down?{PA:20}"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:26_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0110.DAT/5___FILE.BIN::line:27_0_0"
 msgid "Hayashi of the Omi Alliance is"

@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:0_0_0"
 msgid "No dice.{PA:20}"
-msgstr ""
+msgstr "No hay manera.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:1_0_0"
 msgid "No dice?{PA:20}"
-msgstr ""
+msgstr "¿No?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:3_0_0"
 msgid "I can't crack it on this terminal.{PA:20}"
@@ -37,15 +37,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Oh.{PA:20}"
-msgstr ""
+msgstr "Vaya...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Sorry about that.{PA:20}"
-msgstr ""
+msgstr "Perdón por eso...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Oye.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Does that mean.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:9_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Could you read it using the system downtown?{PA:20}"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:15_0_0"
 msgid "That's the tricky part.{PA:20}"
-msgstr ""
+msgstr "Esa es la parte complicada.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Me calling in a favor won't get us too far.{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:20_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Hey,{PA:10} that's right!{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:23_0_0"
 msgid "I.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Yo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0040.DAT/1___FILE.BIN::line:24_0_0"
 msgid "I'm headed back home with Mama for now.{PA:20}"

@@ -17,11 +17,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:0_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:0_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:0_3_0"
 msgid "/"
@@ -41,43 +41,43 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_1"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_2"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_3"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_4"
 msgid "Staminan Spark"
-msgstr ""
+msgstr "Staminan Spark"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_5"
 msgid "Tauriner"
-msgstr ""
+msgstr "Tauriner"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_6"
 msgid "Tauriner +"
-msgstr ""
+msgstr "Tauriner+"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_7"
 msgid "Tauriner ++"
-msgstr ""
+msgstr "Tauriner ++"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_8"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_9"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_10"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_11"
 msgid "Toughness Emperor"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_12"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_13"
 msgid "Dragon Fang Needle"
@@ -125,15 +125,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_22"
 msgid "Bento Lunch Set"
-msgstr ""
+msgstr "Bento makunouchi"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_23"
 msgid "Club Sandwich"
-msgstr ""
+msgstr "Sándwich club"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_24"
 msgid "Special Yakisoba"
-msgstr ""
+msgstr "Yakisoba especial"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_25"
 msgid "Steamed Bun"
@@ -141,11 +141,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_26"
 msgid "Milk"
-msgstr ""
+msgstr "Leche"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_27"
 msgid "Spaghetti With Meat Sauce"
-msgstr ""
+msgstr "Espaguetis a la boloñesa"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_28"
 msgid "Fried Chicken Lunch"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_29"
 msgid "Pudding"
-msgstr ""
+msgstr "Pudín"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_30"
 msgid "Seaweed Rice Ball"
@@ -165,11 +165,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_32"
 msgid "Frankfurter"
-msgstr ""
+msgstr "Frankfurter"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_33"
 msgid "Melon Bread"
-msgstr ""
+msgstr "Melonpan"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_34"
 msgid "Tonkatsu Sandwich"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_45"
 msgid "Beef Bowl (Large)"
-msgstr ""
+msgstr "Bol de carne (grande)"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_0_46"
 msgid "Beef Bowl (Special)"
@@ -317,15 +317,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_6"
 msgid "Yamazaki 25 Years"
-msgstr ""
+msgstr "Yamazaki de 25 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_7"
 msgid "Yamazaki 12 Years"
-msgstr ""
+msgstr "Yamazaki de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_8"
 msgid "Hakushu 18 Years"
-msgstr ""
+msgstr "Hakushu de 18 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_9"
 msgid "Hakushu 10 Years"
@@ -333,11 +333,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_10"
 msgid "The Macallan 25 Years"
-msgstr ""
+msgstr "The Macallan de 25 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_11"
 msgid "The Macallan 12 Years"
-msgstr ""
+msgstr "The Macallan de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_12"
 msgid "Laphroaig 30 Years"
@@ -345,11 +345,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_13"
 msgid "Laphroaig 10 Years"
-msgstr ""
+msgstr "Laphroaig de 10 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_14"
 msgid "Bowmore 12 Years"
-msgstr ""
+msgstr "Bowmore de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_15"
 msgid "Glenfiddich 30 Years"
@@ -357,11 +357,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_16"
 msgid "Glenfiddich 12 Years"
-msgstr ""
+msgstr "Glenfiddich de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_17"
 msgid "Hibiki 30 Years Old"
-msgstr ""
+msgstr "Hibiki de 30 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_18"
 msgid "Hibiki"
@@ -373,15 +373,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_20"
 msgid "Kakubin"
-msgstr ""
+msgstr "Kakubin"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_21"
 msgid "Ballantine's 30 Years Old"
-msgstr ""
+msgstr "Ballantine's de 30 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_22"
 msgid "Ballantine's 17 Years Old"
-msgstr ""
+msgstr "Ballantine's de 17 años"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_23"
 msgid "Ballantine's Finest"
@@ -401,7 +401,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_27"
 msgid "Suntory Brandy V.S.O.P"
-msgstr ""
+msgstr "Brandy V.S.O.P. Suntory"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_28"
 msgid "Suntory Brandy V.O"
@@ -413,7 +413,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_30"
 msgid "The Premium Malt's"
-msgstr ""
+msgstr "Cerveza The Premium Malt's"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_31"
 msgid "Suntory Malt's Beer"
@@ -421,15 +421,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_32"
 msgid "Carlsberg"
-msgstr ""
+msgstr "Carlsberg"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_33"
 msgid "Kyogetsu GREEN"
-msgstr ""
+msgstr "Kyogetsu Green"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_34"
 msgid "Beefeater"
-msgstr ""
+msgstr "Beefeater"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_35"
 msgid "Lemon Hart Demerara"
@@ -501,15 +501,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_52"
 msgid "Smile Shake"
-msgstr ""
+msgstr "Malteada Smile"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_53"
 msgid "Smile Fries"
-msgstr ""
+msgstr "Papas fritas Smile"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_54"
 msgid "Blended Coffee"
-msgstr ""
+msgstr "Batido de café"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_55"
 msgid "Premium Coffee"
@@ -517,15 +517,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_56"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Capuchino"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_57"
 msgid "Espresso"
-msgstr ""
+msgstr "Café expreso"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_58"
 msgid "Milk Tea"
-msgstr ""
+msgstr "Té con leche"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_59"
 msgid "Lemon Tea"
@@ -533,7 +533,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_60"
 msgid "Orange Juice"
-msgstr ""
+msgstr "Jugo de naranja"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_1_61"
 msgid "Apple Juice"
@@ -549,7 +549,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_0"
 msgid "Earl Grey Tea"
-msgstr ""
+msgstr "Té Earl Grey"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_1"
 msgid "Tomato Juice"
@@ -561,7 +561,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_3"
 msgid "Sandwich"
-msgstr ""
+msgstr "Sándwich"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_4"
 msgid "Pasta Set"
@@ -569,7 +569,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_5"
 msgid "Original Beef Curry"
-msgstr ""
+msgstr "Curri de carne de la casa"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_6"
 msgid "Today's Coffee"
@@ -581,7 +581,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_8"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Capuchino"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_9"
 msgid "Caramel Cappuccino"
@@ -605,7 +605,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_14"
 msgid "Espresso"
-msgstr ""
+msgstr "Café expreso"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_15"
 msgid "Central Latte"
@@ -617,7 +617,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_17"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Capuchino"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_18"
 msgid "Soy Latte"
@@ -633,11 +633,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_21"
 msgid "Chain Mail"
-msgstr ""
+msgstr "Cota de malla"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_22"
 msgid "Bulletproof Vest"
-msgstr ""
+msgstr "Chaleco antibalas"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_23"
 msgid "Binding"
@@ -645,23 +645,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_24"
 msgid "Fighter's Binding"
-msgstr ""
+msgstr "Muñequeras del peleador"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_25"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_26"
 msgid "Bulletproof Shield"
-msgstr ""
+msgstr "Escudo antibalas"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_27"
 msgid "Fearless Binding"
-msgstr ""
+msgstr "Muñequeras del valiente"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_28"
 msgid "Western Shield"
-msgstr ""
+msgstr "Escudo occidental"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_29"
 msgid "Lifestone"
@@ -677,7 +677,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_32"
 msgid "Sake"
-msgstr ""
+msgstr "Sake"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_33"
 msgid "Monogrammed Bag"
@@ -725,7 +725,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_44"
 msgid "Swiss Watch"
-msgstr ""
+msgstr "Reloj suizo"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_45"
 msgid "Asian Digital Watch"
@@ -733,7 +733,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_46"
 msgid "Japanese Diver's Watch"
-msgstr ""
+msgstr "Reloj de buceo japonés"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_47"
 msgid "French Haute Couture Dress"
@@ -761,7 +761,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_53"
 msgid "Italian Ring"
-msgstr ""
+msgstr "Anillo italiano"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_54"
 msgid "Italian Men's Necklace"
@@ -785,7 +785,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_59"
 msgid "Pocket Tissues"
-msgstr ""
+msgstr "Pañuelos"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_2_60"
 msgid "Cat Food"
@@ -833,11 +833,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_7"
 msgid "Sledgehammer"
-msgstr ""
+msgstr "Mazo"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_8"
 msgid "Beer Bottle"
-msgstr ""
+msgstr "Botella de cerveza"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_9"
 msgid "Rope"
@@ -849,7 +849,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_11"
 msgid "Crowbar"
-msgstr ""
+msgstr "Palanca"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_12"
 msgid "Old Chinese Broadswd"
@@ -857,7 +857,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_13"
 msgid "Bat"
-msgstr ""
+msgstr "Bate"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_14"
 msgid "Lamp"
@@ -865,7 +865,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_15"
 msgid "Golf Club"
-msgstr ""
+msgstr "Palo de golf"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_16"
 msgid "Water Pot"
@@ -877,7 +877,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_18"
 msgid "Patriarch's Bat"
-msgstr ""
+msgstr "Bate del patriarca"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_19"
 msgid "Lightning Bomb"
@@ -905,11 +905,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_25"
 msgid "Wooden Katana"
-msgstr ""
+msgstr "Katana de madera"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_26"
 msgid "Long Dagger"
-msgstr ""
+msgstr "Daga larga"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_27"
 msgid "Survival Knife"
@@ -917,19 +917,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_28"
 msgid "Stun Gun"
-msgstr ""
+msgstr "Arma de electrochoque"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_29"
 msgid "Blackjack"
-msgstr ""
+msgstr "Blackjack"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_30"
 msgid "Tonfa"
-msgstr ""
+msgstr "Tonfa"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_31"
 msgid "Police Baton"
-msgstr ""
+msgstr "Tonfa de policía"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_32"
 msgid "Chinese Broadsword"
@@ -941,7 +941,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_34"
 msgid "Nameless Katana"
-msgstr ""
+msgstr "Katana sin nombre"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_35"
 msgid "Handmade Pistol"
@@ -973,7 +973,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_42"
 msgid "Saw"
-msgstr ""
+msgstr "Sierra"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_43"
 msgid "Old Semi-Auto Pistol"
@@ -993,7 +993,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_47"
 msgid "Mifune's Kodachi"
-msgstr ""
+msgstr "Kodachi de Mifune"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_48"
 msgid "Tear Gas Grenade"
@@ -1021,11 +1021,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_54"
 msgid "Special Police Baton"
-msgstr ""
+msgstr "Porra de policía especial"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_55"
 msgid "Ninja Dagger"
-msgstr ""
+msgstr "Daga ninja"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_56"
 msgid "Tesshusai Katana"
@@ -1037,7 +1037,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_58"
 msgid "Shotgun"
-msgstr ""
+msgstr "Escopeta"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_3_59"
 msgid "Flash Grenade"
@@ -1069,11 +1069,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_2"
 msgid "Charismatic Photo"
-msgstr ""
+msgstr "Foto cautivadora"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_3"
 msgid "Champion's Ring"
-msgstr ""
+msgstr "Anillo del campeón"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_4"
 msgid "Masculine Cologne"
@@ -1093,11 +1093,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_8"
 msgid "Haruka's Candy"
-msgstr ""
+msgstr "Dulce de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_9"
 msgid "Haruka's Chocolate"
-msgstr ""
+msgstr "Chocolate de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_10"
 msgid "777 Charm"
@@ -1105,15 +1105,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_11"
 msgid "Haruka's First-Aid Kit"
-msgstr ""
+msgstr "Botiquín de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_12"
 msgid "Haruka's Marble"
-msgstr ""
+msgstr "Canica de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_13"
 msgid "Haruka's Necklace"
-msgstr ""
+msgstr "Collar de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_14"
 msgid "Banker's Game Piece"
@@ -1153,7 +1153,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_23"
 msgid "Iron Pipe"
-msgstr ""
+msgstr "Tubo de hierro"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_24"
 msgid "Modified Iron"
@@ -1201,7 +1201,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_35"
 msgid "Ashtray"
-msgstr ""
+msgstr "Cenicero"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_36"
 msgid "Table Salt"
@@ -1209,7 +1209,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_37"
 msgid "Pliers"
-msgstr ""
+msgstr "Alicates"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_38"
 msgid "Iai Katana"
@@ -1237,7 +1237,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_44"
 msgid "100lb Bowling Ball"
-msgstr ""
+msgstr "Bola de boliche de 45 kg"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_4_45"
 msgid "Double Sticks"
@@ -1329,11 +1329,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_3"
 msgid "Bat"
-msgstr ""
+msgstr "Bate"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_4"
 msgid "Gold Plate"
-msgstr ""
+msgstr "Plato de oro"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_5"
 msgid "Tortoiseshell Plate"
@@ -1341,7 +1341,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_6"
 msgid "Silver Plate"
-msgstr ""
+msgstr "Plato de plata"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_7"
 msgid "Marble Plate"
@@ -1409,11 +1409,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_23"
 msgid "Women's Underwear"
-msgstr ""
+msgstr "Ropa interior de mujer"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_24"
 msgid "Bandage"
-msgstr ""
+msgstr "Vendaje"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_25"
 msgid "Black Boss"
@@ -1445,7 +1445,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_32"
 msgid "C.{PA:20}C.{PA:20} Lemon"
-msgstr ""
+msgstr "C.{PA:20}C.{PA:20} Lemon"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_33"
 msgid "DAKARA"
@@ -1477,7 +1477,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_40"
 msgid "Tessa"
-msgstr ""
+msgstr "Tessa"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_5_41"
 msgid "Milt"
@@ -1633,11 +1633,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_15"
 msgid "Salted Tongue"
-msgstr ""
+msgstr "Lengua encurtida"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_16"
 msgid "Sirloin"
-msgstr ""
+msgstr "Solomillo"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_17"
 msgid "Rib Meat"
@@ -1649,7 +1649,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_19"
 msgid "Harami"
-msgstr ""
+msgstr "Harami"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_20"
 msgid "Yuk Hwe"
@@ -1757,7 +1757,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_46"
 msgid "Hirame"
-msgstr ""
+msgstr "Hirame"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_47"
 msgid "Shima-aji"
@@ -1793,7 +1793,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_55"
 msgid "Sushi Set"
-msgstr ""
+msgstr "Menú de sushi"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_6_56"
 msgid "Kimchi"
@@ -1889,7 +1889,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_15"
 msgid "Snow Crab Course"
-msgstr ""
+msgstr "Menú de cangrejo de las nieves"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_16"
 msgid "Tissue w/ Flier"
@@ -1925,15 +1925,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_24"
 msgid "Kitty Kat (Red)"
-msgstr ""
+msgstr "Kitty Kat (rojo)"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_25"
 msgid "Kitty Kat (Tiger)"
-msgstr ""
+msgstr "Kitty Kat (tigre)"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_26"
 msgid "Kitty Kat (Blue)"
-msgstr ""
+msgstr "Kitty Kat (azul)"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_27"
 msgid "Kitty Kat (Short Hair)"
@@ -1941,7 +1941,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_28"
 msgid "Kitty Kat (Calico)"
-msgstr ""
+msgstr "Kitty Kat (calicó)"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_29"
 msgid "Beary Bear (Big)"
@@ -2017,23 +2017,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_47"
 msgid "Black Belt"
-msgstr ""
+msgstr "Cinturón negro"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_48"
 msgid "Payback Ring"
-msgstr ""
+msgstr "Anillo de venganza"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_49"
 msgid "Bloody Binding"
-msgstr ""
+msgstr "Muñequeras sangrientas"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_50"
 msgid "Insulated Shirt"
-msgstr ""
+msgstr "Camisa aislante"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_51"
 msgid "Yakuza Training Gear"
-msgstr ""
+msgstr "Pesos para yakuzas"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_52"
 msgid "Sacred Tree Armor Replica"
@@ -2057,7 +2057,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_57"
 msgid "Iron Breastplate"
-msgstr ""
+msgstr "Pechera de hierro"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_7_58"
 msgid "Bulletproof Breastplate"
@@ -2101,7 +2101,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_8_4"
 msgid "Skull Tonfa"
-msgstr ""
+msgstr "Tonfa mortal"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_8_5"
 msgid "Double Spiked Sticks"
@@ -2125,11 +2125,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_8_10"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_8_11"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:1_8_12"
 msgid "Chinese Dragon Tonfa"
@@ -2633,11 +2633,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:2_120_0"
 msgid "Cappuccino.{PA:20}"
-msgstr ""
+msgstr "Capuchino{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:2_121_0"
 msgid "Espresso.{PA:20}"
-msgstr ""
+msgstr "Café expreso{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:2_122_0"
 msgid "We take special Assam tea from our private||farms and add milk from Hokkaido.{PA:20}"
@@ -2697,7 +2697,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:3_8_0"
 msgid "Cappuccino.{PA:20}"
-msgstr ""
+msgstr "Capuchino{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/SALE/TALK_SALE0001.BIN::line:3_9_0"
 msgid "A cappuccino with caramel flavoring.{PA:20}"

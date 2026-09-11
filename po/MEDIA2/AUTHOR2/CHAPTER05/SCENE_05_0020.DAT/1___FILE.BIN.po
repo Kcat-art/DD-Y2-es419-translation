@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0020.DAT/1___FILE.BIN::line:0_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Where are we?{PA:20}"
-msgstr ""
+msgstr "¿{PA:20}E{PA:20}n{PA:20} dónde estamos?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid "A bar I used to drink at.{PA:20}"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0020.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Oh.{PA:20}"
-msgstr ""
+msgstr "Vaya...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0020.DAT/1___FILE.BIN::line:3_0_0"
 msgid "You shouldn't be pushing yourself yet.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I'll be fine after a little rest.{PA:20}"
-msgstr ""
+msgstr "Solo necesito descansar un poco.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Looks like they've closed up shop,{PA:10} but the"

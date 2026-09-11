@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS08XX/TALK_ARMS0841.BIN::line:0_0_0"
 msgid "Club"
-msgstr ""
+msgstr "Club"
 

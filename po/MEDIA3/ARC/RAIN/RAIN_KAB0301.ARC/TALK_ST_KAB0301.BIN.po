@@ -13,35 +13,35 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:1"
 msgid "Man"
-msgstr ""
+msgstr "Hombre"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:2"
 msgid "Unknown Man"
-msgstr ""
+msgstr "Hombre misterioso"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:3"
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:4"
 msgid "Daigo"
-msgstr ""
+msgstr "Daigo"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:5"
 msgid "Kaoru"
-msgstr ""
+msgstr "Kaoru"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:6"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:7"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:8"
 msgid "Gamra Itakura"
@@ -53,19 +53,19 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:10"
 msgid "Barker"
-msgstr ""
+msgstr "Vocero"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:11"
 msgid "Man's Friend"
-msgstr ""
+msgstr "Amigo del hombre"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::name:12"
 msgid "Woman"
-msgstr ""
+msgstr "Mujer"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:0_0_0"
 msgid "Man"
-msgstr ""
+msgstr "Hombre"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:0_1_1"
 msgid "What?{PA:20} I haven't taken out any loans.{PA:20}"
@@ -121,11 +121,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:1_0_0"
 msgid "Yuya"
-msgstr ""
+msgstr "Yuya"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:1_1_1"
 msgid "What's up?{PA:20}"
-msgstr ""
+msgstr "¿Qué ocurre, Date-san?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:1_1_3"
 msgid "401,{PA:10}000 yen?{PA:20}||Sounds like he and I are in the same boat.{PA:20}"
@@ -249,7 +249,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:5_1_1"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:5_2_0"
 msgid "It's me,{PA:10} Kagami.{PA:20}||A customer's here who wants to see you.{PA:20}"
@@ -293,7 +293,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:8_1_1"
 msgid "I'm sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Lo siento.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:8_1_3"
 msgid "I'll be right there.{PA:20}"
@@ -345,7 +345,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:12_0_0"
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:12_1_0"
 msgid "Kiryu here.{PA:20}"
@@ -353,7 +353,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:12_1_2"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:12_2_0"
 msgid "It's me.{PA:20}||I just finished up preparations here.{PA:20}"
@@ -385,11 +385,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:14_0_0"
 msgid "Headmistress"
-msgstr ""
+msgstr "Directora"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:14_1_1"
 msgid "Is something wrong?{PA:20}"
-msgstr ""
+msgstr "¿Qué ocurre?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:14_1_3"
 msgid "I see.{PA:20} So it hasn't been renovated since||I was there?{PA:20}"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:14_1_13"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:14_1_14"
 msgid ".{PA:20}.{PA:20}.{PA:20}All right.{PA:20}||I'll try to scrape it together.{PA:20}"
@@ -417,7 +417,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:14_1_16"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:14_2_0"
 msgid "Mr.{PA:20} Kiryu?{PA:20}||This is Ms.{PA:20} Suenaga,{PA:10} from Sunflower.{PA:20}"
@@ -481,7 +481,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:15_0_0"
 msgid "Headmistress"
-msgstr ""
+msgstr "Directora"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:15_1_1"
 msgid "⋯⋯どうした？{PA:20}"
@@ -573,7 +573,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:17_0_0"
 msgid "Man"
-msgstr ""
+msgstr "Hombre"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:17_1_1"
 msgid "She'll pay for the work she contracted.{PA:20}||Your quote was for 250,{PA:10}000 yen.{PA:20}"
@@ -657,7 +657,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_0_0"
 msgid "Headmistress"
-msgstr ""
+msgstr "Directora"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_1_1"
 msgid "Um.{PA:20}.{PA:20}.{PA:20} Is something wrong?{PA:20}"
@@ -673,11 +673,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_1_7"
 msgid "Ah.{PA:20}"
-msgstr ""
+msgstr "Ah...{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_1_9"
 msgid "A what?!{PA:20}"
-msgstr ""
+msgstr "¿Una qué?...{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_1_12"
 msgid "I think building a park on one person's||savings is an awfully big dream.{PA:20}"
@@ -689,15 +689,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_1_17"
 msgid "Okay,{PA:10} I'll see what I can find.{PA:20}"
-msgstr ""
+msgstr "Entie{PA:10}ndo. Veré qué puedo averiguar{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_1_18"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_1_21"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:19_2_0"
 msgid "Hello,{PA:10} Mr.{PA:20} Kiryu?{PA:20}||This is Ms.{PA:20} Suenaga,{PA:10} from Sunflower.{PA:20}"
@@ -793,7 +793,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:20_1_4"
 msgid "It's Kiryu.{PA:20}"
-msgstr ""
+msgstr "Kiryu.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:20_1_5"
 msgid "M-Mr.{PA:20} Kiryu!{PA:20} Boss!{PA:20} Yes,{PA:10} sir!{PA:20}||H-How can we help you today?{PA:20}"
@@ -821,7 +821,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:20_2_4"
 msgid "Hello?{PA:20}"
-msgstr ""
+msgstr "¿Hola?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:20_2_5"
 msgid ".{PA:20}.{PA:20}.{PA:20}"
@@ -845,11 +845,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:20_2_13"
 msgid "*Click*"
-msgstr ""
+msgstr "Bip."
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:20_2_15"
 msgid "*Click*"
-msgstr ""
+msgstr "Bip."
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:20_2_16"
 msgid "He hung up on me.{PA:20}"
@@ -857,11 +857,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:28_0_0"
 msgid "Daigo"
-msgstr ""
+msgstr "Daigo"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:28_1_1"
 msgid "How are things on your end?{PA:20}"
-msgstr ""
+msgstr "¿Cómo van las cosas por ahí?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:28_1_3"
 msgid "Good.{PA:20}||Are you okay?{PA:20}"
@@ -893,11 +893,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:30_0_0"
 msgid "Tamiyo"
-msgstr ""
+msgstr "Tamiyo"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:30_1_0"
 msgid "This is Kiryu.{PA:20}"
-msgstr ""
+msgstr "Habla Kiryu.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:30_1_2"
 msgid "Oh,{PA:10} hello.{PA:20}||How is she doing?{PA:20}"
@@ -905,7 +905,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:30_1_4"
 msgid "That's good.{PA:20}"
-msgstr ""
+msgstr "Qué bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:30_1_6"
 msgid "Just the bandages?{PA:20}||I'll pick some up on my way there.{PA:20}"
@@ -913,7 +913,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:30_2_0"
 msgid "It's me.{PA:20}"
-msgstr ""
+msgstr "Soy yo.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:30_2_2"
 msgid "Calmed down,{PA:10} finally.{PA:20}||Medicine's set in,{PA:10} so she's fast asleep.{PA:20}"
@@ -945,11 +945,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:31_4_0"
 msgid "Hey,{PA:10} stay with me!{PA:20}"
-msgstr ""
+msgstr "¡Oy{PA:10}e, resiste!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:31_4_1"
 msgid "Sayama!{PA:20}"
-msgstr ""
+msgstr "¡Sayama!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:32_1_0"
 msgid "   Head to the clinic at the west end of|| Taihei Blvd.{PA:20} without alerting the police.{PA:20}"
@@ -977,7 +977,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:33_0_0"
 msgid "Rgh.{PA:20}.{PA:20}.{PA:20} Not here.{PA:20} Not like this.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "(No {PA:20}p{PA:20}u{PA:20}edo... res{PA:20}istir... más...{PA:20}){PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:34_0_0"
 msgid "Masashi"
@@ -985,7 +985,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:34_1_1"
 msgid "Okay,{PA:10} thanks.{PA:20}"
-msgstr ""
+msgstr "Gra{PA:10}cias.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:34_2_0"
 msgid "Mr.{PA:20} Kiryu,{PA:10} sir!{PA:20}||I've got the totals for tonight!{PA:20}"
@@ -1021,7 +1021,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_3_0"
 msgid "Daigo Dojima is waiting,{PA:10} isn't he?{PA:20}"
-msgstr ""
+msgstr "Daigo Dojima está esperando, ¿{PA:10}no es cierto?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_3_1"
 msgid "Let's go find that leader kid.{PA:20} Get the key||from him and get inside already.{PA:20}"
@@ -1029,7 +1029,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_4_0"
 msgid "This should get us in.{PA:20}"
-msgstr ""
+msgstr "Esto debería servirnos para entrar.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_4_1"
 msgid "Let's hurry to the Amano Building and get||Daigo back already!{PA:20}"
@@ -1065,7 +1065,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_8_1"
 msgid "Shouldn't we get a move on?{PA:20}"
-msgstr ""
+msgstr "Tenemos que darnos prisa.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_9_0"
 msgid "I'm not sure I really get what's happening.{PA:20}"
@@ -1081,7 +1081,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_11_0"
 msgid "Hold it!{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:37_12_0"
 msgid "Let's head to \"{CC:ffc8c8}Tsutenkaku Tower{CR:00}\".{PA:20}||We'll see what we can see.{PA:20}"
@@ -1129,7 +1129,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:38_2_0"
 msgid "Hey!{PA:20} That way's too crowded.{PA:20}||Let's take another route.{PA:20}"
-msgstr ""
+msgstr "Oye,{PA:20} hay mucha gente por allá. {PA:20}Mejor|| vayamos por otro lado.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:38_3_0"
 msgid "There are still cops all over the place.{PA:20}||Let's head to Bantam and lay low for now.{PA:20}"
@@ -1177,7 +1177,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:39_4_6"
 msgid ".{PA:20}.{PA:20}.{PA:20}Fine.{PA:20}"
-msgstr ""
+msgstr "A {PA:20}su{PA:20}s {PA:20}órdenes...{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:39_5_0"
 msgid "So now we know the players!{PA:20}||Her client,{PA:10} Katsumi,{PA:10} and Hikaru the host.{PA:20}"
@@ -1193,7 +1193,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:39_6_1"
 msgid "Okay!{PA:20}"
-msgstr ""
+msgstr "¡Está bien!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:39_7_1"
 msgid "See,{PA:10} Uncle Kaz?{PA:20} I told you it smelled like||a mystery!{PA:20}"
@@ -1497,7 +1497,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:40_7_2"
 msgid "Right.{PA:20}.{PA:20}.{PA:20} Sorry about that.{PA:20}"
-msgstr ""
+msgstr "Lo s{PA:20}é{PA:20}.{PA:20}.. Lo siento.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:40_8_0"
 msgid "Mr.{PA:20} Kiryu,{PA:10} let's just stop.{PA:20}"
@@ -1561,7 +1561,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:283_1_0"
 msgid "Hey!{PA:20}"
-msgstr ""
+msgstr "¡Oye!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:283_2_1"
 msgid "Uhh,{PA:10} but I'll let ya off at that fer today.{PA:20}||This's.{PA:20}.{PA:20}.{PA:20} A little memento of us meetin'.{PA:20}"
@@ -1729,7 +1729,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:285_3_0"
 msgid "Hmm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mmm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:285_4_0"
 msgid "There ya are!{PA:20}||Been waitin' for ya.{PA:20}"
@@ -1761,7 +1761,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:286_0_0"
 msgid "Join us today,{PA:10} sir?{PA:20} You won't regret it!{PA:20}"
-msgstr ""
+msgstr "¿Se une a nosotros hoy, {PA:10}señor? ¡N{PA:20}o se arrepentirá de esta||experiencia!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:286_0_1"
 msgid "  You were forced to take \"{CC:ffffc8}pocket tissues{CR:00}\".{PA:20}"
@@ -1777,7 +1777,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:295_0_2"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:295_0_3"
 msgid "You headed straight for the hotel?{PA:20}"
@@ -1821,7 +1821,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:297_0_1"
 msgid "Serves ya right fer hoggin' the mic!{PA:20}"
-msgstr ""
+msgstr "¡Te lo mereces por quitarme el micrófono!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:297_0_2"
 msgid "What,{PA:10} ya think I wanna listen to you sing?{PA:20}||It's like listenin' to a cat get fixed.{PA:20}"
@@ -1889,7 +1889,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:309_0_1"
 msgid "Where was it?{PA:20}"
-msgstr ""
+msgstr "¿En dónde fue?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:309_0_2"
 msgid "You seen the news?{PA:20}"
@@ -1901,7 +1901,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:310_0_0"
 msgid "What the hell?{PA:20}"
-msgstr ""
+msgstr "¿Qué dijiste?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:310_0_1"
 msgid "Big news!{PA:20}"
@@ -1929,7 +1929,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:311_0_3"
 msgid "No way!{PA:20}"
-msgstr ""
+msgstr "¡No puede ser!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:312_0_0"
 msgid "We're goin' HOME,{PA:10} Pa.{PA:20} Now.{PA:20}"
@@ -1949,7 +1949,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:312_1_2"
 msgid "Fireworks?{PA:20}"
-msgstr ""
+msgstr "¿Espectáculo?...{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:312_1_3"
 msgid "I told ya to stop botherin' people!{PA:20}||Pull yourself together,{PA:10} would ya?{PA:20}"
@@ -1961,7 +1961,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:312_1_5"
 msgid "I ain't drunk!{PA:20}"
-msgstr ""
+msgstr "¡Que no lo estoy!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:312_1_6"
 msgid "Just tellin' my buddy herrre about the.{PA:20}.{PA:20}.{PA:20}||The fireworks!{PA:20} That's all.{PA:20}.{PA:20}.{PA:20} hic.{PA:20}"
@@ -2041,7 +2041,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:314_1_5"
 msgid "Every damn channel's talkin' about it!{PA:20}"
-msgstr ""
+msgstr "¡Todos los canales están hablando de eso!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:314_1_6"
 msgid ".{PA:20}.{PA:20}.{PA:20}Sleeping?{PA:20} Ya slept through a bombing?!{PA:20}"
@@ -2069,7 +2069,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:315_1_2"
 msgid "Me too!{PA:20}"
-msgstr ""
+msgstr "Je. Yo igual.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:315_1_3"
 msgid "Hey,{PA:10} where did the explosion happen?{PA:20}"
@@ -2113,7 +2113,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:333_1_1"
 msgid "Hey!{PA:20}"
-msgstr ""
+msgstr "¡Oye!{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:333_1_2"
 msgid "Who do ya think was behind last||night's bombing?{PA:20}"
@@ -2161,7 +2161,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:336_0_0"
 msgid "Ain't that blood?{PA:20}"
-msgstr ""
+msgstr "¿Eso no es sangre?...{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:336_0_1"
 msgid "She okay?{PA:20}"
@@ -2269,7 +2269,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:355_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:355_5_0"
 msgid "Experience points:"
@@ -2293,11 +2293,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:358_0_0"
 msgid "Bantam"
-msgstr ""
+msgstr "Bantam"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:365_0_0"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:365_1_0"
 msgid "I can't do that.{PA:20}"
@@ -2309,7 +2309,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:366_1_0"
 msgid "Don't help her.{PA:20}"
-msgstr ""
+msgstr "No ayudarla{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:367_0_0"
 msgid "出たらまずいテキスト"
@@ -2421,31 +2421,31 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:380_0_0"
 msgid "Take it"
-msgstr ""
+msgstr "no puedo"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:380_1_0"
 msgid "Leave it"
-msgstr ""
+msgstr "No es necesario."
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:381_0_0"
 msgid "Take it"
-msgstr ""
+msgstr "no puedo"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:381_1_0"
 msgid "Leave it"
-msgstr ""
+msgstr "No es necesario."
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:382_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:382_1_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:382_2_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:382_3_0"
 msgid "Chinese Dragon Tonfa"
@@ -2453,23 +2453,23 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:383_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:383_1_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:383_2_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:384_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:384_1_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:384_2_0"
 msgid "Chinese Dragon Tonfa"
@@ -2477,19 +2477,19 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:385_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:385_1_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:386_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:386_1_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:386_2_0"
 msgid "Chinese Dragon Tonfa"
@@ -2497,15 +2497,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:387_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:387_1_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:388_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:388_1_0"
 msgid "Chinese Dragon Tonfa"
@@ -2513,31 +2513,31 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:389_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:390_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:390_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:391_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:391_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:391_2_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:391_3_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:391_4_0"
 msgid "Chinese Dragon Tonfa"
@@ -2545,59 +2545,59 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:392_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:392_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:392_2_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:392_3_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:393_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:393_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:393_2_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:393_3_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:394_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:394_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:394_2_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:395_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:395_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:395_2_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:395_3_0"
 msgid "Chinese Dragon Tonfa"
@@ -2605,23 +2605,23 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:396_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:396_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:396_2_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:397_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:397_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:397_2_0"
 msgid "Chinese Dragon Tonfa"
@@ -2629,17 +2629,17 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:398_0_0"
 msgid "Nothing"
-msgstr ""
+msgstr "Nada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:398_1_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:399_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0301.ARC/TALK_ST_KAB0301.BIN::line:399_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 

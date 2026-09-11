@@ -157,7 +157,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_36_0"
 msgid "Tiger Drop"
-msgstr ""
+msgstr "Ocaso del Tigre"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_37_0"
 msgid "Hits a savage tiger between the eyes with||a secret Komaki-style strike.{PA:20}"
@@ -485,7 +485,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_118_0"
 msgid "Dagger"
-msgstr ""
+msgstr "Daga"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_119_0"
 msgid "Drives a dagger into an enemy's abdomen.{PA:20}||Simple,{PA:10} straightforward,{PA:10} and effective.{PA:20}"
@@ -493,7 +493,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_120_0"
 msgid "Stun Gun"
-msgstr ""
+msgstr "Arma de electrochoque"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_121_0"
 msgid "Applies a paralyzing stun gun shock to||an enemy's gut.{PA:20}"
@@ -501,7 +501,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_122_0"
 msgid "Staff"
-msgstr ""
+msgstr "Empleado"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_123_0"
 msgid "Chokes an enemy from behind,{PA:10} and kicks him||in the back for added damage.{PA:20}"
@@ -509,7 +509,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_124_0"
 msgid "Bat"
-msgstr ""
+msgstr "Bate"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_125_0"
 msgid "Hits an enemy in the side,{PA:10} followed by||a full swing to the head.{PA:20}"
@@ -557,7 +557,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_136_0"
 msgid "Tonfa"
-msgstr ""
+msgstr "Tonfa"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_137_0"
 msgid "A relentless combination of tonfa strikes,{PA:10}||finished with a upward blow.{PA:20}"
@@ -597,7 +597,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_146_0"
 msgid "Signboard"
-msgstr ""
+msgstr "Letrero"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_147_0"
 msgid "Breaks a signboard over the head of an enemy||and tosses him aside.{PA:20}"
@@ -629,7 +629,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_154_0"
 msgid "Golf"
-msgstr ""
+msgstr "Golf"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_155_0"
 msgid "Sends an enemy flying with a well-placed||swing.{PA:20}"
@@ -765,7 +765,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_188_0"
 msgid "Red Dragon"
-msgstr ""
+msgstr "Dragón rojo"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE_HEAT.BIN::line:0_189_0"
 msgid "Set an enemy's eyes on fire with some||super-spicy red pepper.{PA:20}"

@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:2_0_0"
 msgid "The Dragon of Dojima.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "mañana, el Dragón de Dojima{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS10/SCENE_S10_0010.DAT/1___FILE.BIN::line:3_0_0"
 msgid "This here's Mr.{PA:20} Kazuma Kiryu.{PA:20}"

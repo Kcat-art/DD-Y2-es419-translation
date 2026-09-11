@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:143_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:143_5_0"
 msgid "Experience points:"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:146_0_0"
 msgid "Yamagishi"
-msgstr ""
+msgstr "Yamagishi"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:147_0_0"
 msgid "Shimamura"
@@ -97,15 +97,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:157_0_0"
 msgid "Esaki"
-msgstr ""
+msgstr "Esaki"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:158_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:159_0_0"
 msgid "Endo"
-msgstr ""
+msgstr "Endo"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:160_0_0"
 msgid "Drunkard"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:161_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:162_0_0"
 msgid "Kadoma"
@@ -125,5 +125,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0354.ARC/TALK_ST_KAB0354_BTL.BIN::line:164_0_0"
 msgid "Kuroki"
-msgstr ""
+msgstr "Kuroki"
 

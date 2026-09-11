@@ -165,23 +165,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:10_0_0"
 msgid "View controls?{PA:20}"
-msgstr ""
+msgstr "Ver controles{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:10_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:10_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_0_0"
 msgid "Enter"
-msgstr ""
+msgstr "Entrar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_1_0"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_2_0"
 msgid "Change bet"
@@ -189,5 +189,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CYOHAN.BIN::line:11_3_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 

@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I won't let you take my baby!{PA:20}"
-msgstr ""
+msgstr "[¡No voy a entregarte a mi bebé!]{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:4_1_0"
 msgid "Locate(BottomCenter)"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Stop!{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0015.DAT/1___FILE.BIN::line:6_0_0"
 msgid "[In Korean] Let me go!{PA:20} Just let us die!{PA:20}"

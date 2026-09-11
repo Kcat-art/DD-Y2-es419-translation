@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0009.ARC/TALK_ST_KAB0009_BTL.BIN::line:142_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0009.ARC/TALK_ST_KAB0009_BTL.BIN::line:142_5_0"
 msgid "Experience points:"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0009.ARC/TALK_ST_KAB0009_BTL.BIN::line:144_0_0"
 msgid "Omori"
-msgstr ""
+msgstr "Omori"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0009.ARC/TALK_ST_KAB0009_BTL.BIN::line:145_0_0"
 msgid "Generic 1"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0009.ARC/TALK_ST_KAB0009_BTL.BIN::line:153_0_0"
 msgid "Yajima"
-msgstr ""
+msgstr "Yajima"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0009.ARC/TALK_ST_KAB0009_BTL.BIN::line:154_0_0"
 msgid "Toyoda"
@@ -93,5 +93,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0009.ARC/TALK_ST_KAB0009_BTL.BIN::line:155_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0030.DAT/1___FILE.BIN::line:0_0_0"
 msgid "I was worried,{PA:10} so I followed him.{PA:20}"
-msgstr ""
+msgstr "Eso me preocupó, {PA:10}así que decidí seguirlo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Fuma was planning on ignoring Dojima's"
@@ -25,5 +25,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0030.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Of course,{PA:10} I didn't know that.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Pero yo{PA:10} no lo sabía..{PA:20}{PA:20}.{PA:20}"
 

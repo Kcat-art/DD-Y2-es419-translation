@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Any way you look at it,{PA:10} Date shot him.{PA:20}"
-msgstr ""
+msgstr "La evidencia es clara: Date fue {PA:10}el autor del disparo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "This is some kind of mistake!{PA:20}"
@@ -61,23 +61,23 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "So who is this group you're pursuing?{PA:20}"
-msgstr ""
+msgstr "¿Podría explicarme de quiénes se trata?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:8_0_0"
 msgid "The Jingweon mafia.{PA:20}"
-msgstr ""
+msgstr "Es la facción Jingwon.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Jingweon mafia?{PA:20}"
-msgstr ""
+msgstr "Facción Jingwon{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:9_0_1"
 msgid "What are you talking about?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:10_0_0"
 msgid "They were annihilated years ago.{PA:20}"
-msgstr ""
+msgstr "Ellos dejaron de existir hace años.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:11_0_0"
 msgid "No.{PA:20}.{PA:20}.{PA:20} Public Security has been watching"
@@ -97,7 +97,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Is that reliable information?{PA:20}"
-msgstr ""
+msgstr "¿Esa información es fiable?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Yes.{PA:20} The man we'd marked was the owner of"
@@ -109,7 +109,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Evidence suggested he was one of them.{PA:20}"
-msgstr ""
+msgstr "Las evidencias sugerían que tenía conexiones con ellos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:16_0_0"
 msgid "So why didn't Public Security perform a"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Please,{PA:10} sir,{PA:10} wait!{PA:20}"
-msgstr ""
+msgstr "¡Es{PA:10}pe{PA:10}re!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:26_0_0"
 msgid "Effective immediately,{PA:10} Division 1 is taking"
@@ -189,11 +189,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:29_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}. {PA:20}Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:30_0_0"
 msgid "Understood.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Entendid{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:31_0_0"
 msgid "Then we're through here.{PA:20}"
@@ -201,11 +201,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Chief Kurahashi.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Superintendente.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:33_0_0"
 msgid "I know.{PA:20}"
-msgstr ""
+msgstr "Lo sé.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0010.DAT/1___FILE.BIN::line:34_0_0"
 msgid "I'm responsible for what happened to Date.{PA:20}"

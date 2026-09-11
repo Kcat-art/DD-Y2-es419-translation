@@ -17,5 +17,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0150.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 

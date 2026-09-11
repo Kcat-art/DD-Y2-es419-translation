@@ -33,11 +33,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Haruka,{PA:10} listen.{PA:20}"
-msgstr ""
+msgstr "Haruka, e{PA:10}scúchame...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "No way!{PA:20}"
-msgstr ""
+msgstr "¡No puede ser!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Uncle Kaz.{PA:20}.{PA:20}.{PA:20} You'd just give me away?!{PA:20}"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:7_0_0"
 msgid "You don't get it.{PA:20}"
-msgstr ""
+msgstr "No te confundas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:8_0_0"
 msgid "If you stay with me,{PA:10} you'll get caught up in"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Haruka.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Haruka..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Now let's go home!{PA:20}"
@@ -105,11 +105,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:17_0_0"
 msgid "My golden egg.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¡Mi huevo de oro!.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:18_0_0"
 msgid "My diamond in the rough.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¡Mi diamante en bruto!.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Sorry,{PA:10} Mr.{PA:20} Producer!{PA:20}"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Bye bye!{PA:20}"
-msgstr ""
+msgstr "¡Chao, chao!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS03/SCENE_S03_0020.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Yeah,{PA:10} see ya later.{PA:20}"

@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:0_0_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:0_1_0"
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:0_2_0"
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:0_3_0"
 msgid "/"
@@ -57,15 +57,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:0_10_0"
 msgid "pts"
-msgstr ""
+msgstr " ptos."
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_0_0"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_1_0"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_2_0"
 msgid "Toughness Emperor"
@@ -73,27 +73,27 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_3_0"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_4_0"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_5_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_6_0"
 msgid "Tauriner"
-msgstr ""
+msgstr "Tauriner"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_7_0"
 msgid "Tauriner +"
-msgstr ""
+msgstr "Tauriner+"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:1_8_0"
 msgid "Tauriner ++"
-msgstr ""
+msgstr "Tauriner ++"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0003.BIN::line:2_0_0"
 msgid "Toughness Z,{PA:10} great for when you're tired,{PA:10}||and your body needs a small boost of health.{PA:20}"

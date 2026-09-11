@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:2_0_1"
 msgid "Goro Majima!{PA:20}"
-msgstr ""
+msgstr "Goro Majima{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Not once in the six months since his"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Is Kiryu the man to take him down?{PA:20}"
-msgstr ""
+msgstr "¿Logrará Kiryu vencer a este hombre?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Both fighters are in the ring!{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:9_0_0"
 msgid "You always were the one guy I couldn't read.{PA:20}"
-msgstr ""
+msgstr "Siempre has sido tan impredecible...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0110.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Well,{PA:10} let's get to it.{PA:20}"

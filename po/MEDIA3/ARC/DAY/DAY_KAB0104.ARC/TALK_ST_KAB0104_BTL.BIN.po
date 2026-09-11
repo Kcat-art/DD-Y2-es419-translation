@@ -13,27 +13,27 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::name:0"
 msgid "Kaoru"
-msgstr ""
+msgstr "Kaoru"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::name:1"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::name:2"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::name:3"
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::name:4"
 msgid "Daigo"
-msgstr ""
+msgstr "Daigo"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::name:5"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_1"
 msgid "Wait,{PA:10} you're going in here?{PA:20}"
@@ -57,15 +57,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_6"
 msgid "You sure?{PA:20} I don't really care.{PA:20}"
-msgstr ""
+msgstr "¿Seguro? No hab{PA:20}ría tenido problemas con esperarte.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_7"
 msgid "Are you going in here,{PA:10} Uncle Kaz?{PA:20}"
-msgstr ""
+msgstr "¿Entrarás allí, {PA:10}tío Kaz?{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_8"
 msgid "(I've got Haruka with me.{PA:20} What do I do?)"
-msgstr ""
+msgstr "(¿Haruka me está acompañ{PA:20}ando. ¿Entro?)."
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_9"
 msgid "Yeah.{PA:20} Sorry,{PA:10} but I need you to wait for me||out here.{PA:20}"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_15"
 msgid "Yeah,{PA:10} I am.{PA:20}"
-msgstr ""
+msgstr "Cla{PA:10}ro.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_16"
 msgid "Well,{PA:10} I guess I'll wait out here.{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_21"
 msgid "Yeah,{PA:10} I am.{PA:20}"
-msgstr ""
+msgstr "Cla{PA:10}ro.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:138_4_22"
 msgid "Hey,{PA:10} you're the boss,{PA:10} man.{PA:20}||I'll just wait here.{PA:20}"
@@ -185,7 +185,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -205,7 +205,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:141_0_0"
 msgid "Enter anyway.{PA:20}"
-msgstr ""
+msgstr "Entrar de todas formas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:141_1_0"
 msgid "Never mind.{PA:20}"
@@ -213,7 +213,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:142_0_0"
 msgid "Enter anyway.{PA:20}"
-msgstr ""
+msgstr "Entrar de todas formas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:142_1_0"
 msgid "Never mind.{PA:20}"
@@ -221,7 +221,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:143_0_0"
 msgid "Enter anyway.{PA:20}"
-msgstr ""
+msgstr "Entrar de todas formas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:143_1_0"
 msgid "Never mind.{PA:20}"
@@ -229,7 +229,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:144_0_0"
 msgid "Enter anyway.{PA:20}"
-msgstr ""
+msgstr "Entrar de todas formas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0104.ARC/TALK_ST_KAB0104_BTL.BIN::line:144_1_0"
 msgid "Never mind.{PA:20}"

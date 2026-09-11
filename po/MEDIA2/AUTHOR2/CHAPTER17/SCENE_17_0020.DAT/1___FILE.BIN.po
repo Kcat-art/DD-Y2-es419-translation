@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid "I.{PA:20}.{PA:20}.{PA:20} I'll never forget you.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:7_0_0"
 msgid "I guess so.{PA:20}"
-msgstr ""
+msgstr "Supongo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:8_0_0"
 msgid "I mean,{PA:10} he'd removed the fuse"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:9_0_0"
 msgid "He never intended for the thing to go off.{PA:20}"
-msgstr ""
+msgstr "Nunca tuvo la intención de que explotara.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Still,{PA:10} I just about shit a brick when it"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:15_0_0"
 msgid "But the last thing he said was,{PA:10} \"Trust me.{PA:20}\""
-msgstr ""
+msgstr "Pero antes de morir me pidió que co{PA:10}nfiara en él{PA:20}."
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Trust him about what,{PA:10} I wonder?{PA:20}"
@@ -125,5 +125,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0020.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Ah!{PA:20}"
-msgstr ""
+msgstr "¡Ah!{PA:20}"
 

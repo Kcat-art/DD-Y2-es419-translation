@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_0_0"
 msgid "Chapter 1"
-msgstr ""
+msgstr "Capítulo 1"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_1_0"
 msgid "Chapter 2"
-msgstr ""
+msgstr "Capítulo 2"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_2_0"
 msgid "Chapter 3"
-msgstr ""
+msgstr "Capítulo 3"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_3_0"
 msgid "Chapter 4"
-msgstr ""
+msgstr "Chapter 4"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:0_4_0"
 msgid "Chapter 5"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_2_0"
 msgid "A Life Saved"
-msgstr ""
+msgstr "Una vida salvada"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_3_0"
 msgid "Alone With His Memories"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_11_0"
 msgid "Back in Town"
-msgstr ""
+msgstr "De vuelta a Kamurocho"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:2_12_0"
 msgid "Reunion with Daigo"
@@ -177,19 +177,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_1_0"
 msgid "Arrival in Sotenbori"
-msgstr ""
+msgstr "Llegada a Sotenbori"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_2_0"
 msgid "The Dragon of Kansai"
-msgstr ""
+msgstr "El Dragón de Kansai."
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_3_0"
 msgid "Meeting Ryuji Goda"
-msgstr ""
+msgstr "Conociendo a Ryuji Goda"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_4_0"
 msgid "Fireworks"
-msgstr ""
+msgstr "Fuegos artificiales"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:3_5_0"
 msgid "Police Division Four: Sudo"
@@ -245,7 +245,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_4_0"
 msgid "Aoi"
-msgstr ""
+msgstr "Aoi"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_5_0"
 msgid "Mystery of the Bullet"
@@ -273,7 +273,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_11_0"
 msgid "Toranosuke Sengoku"
-msgstr ""
+msgstr "Toranosuke Sengoku"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:5_12_0"
 msgid "Sayama's True Goal"
@@ -281,7 +281,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_0_0"
 msgid "Sayama in Kamurocho"
-msgstr ""
+msgstr "Sayama en Kamurocho"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_1_0"
 msgid "Back to Serena"
@@ -293,15 +293,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_3_0"
 msgid "Kaoru Sayama's Past"
-msgstr ""
+msgstr "El pasado de Kaoru Sayama"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_4_0"
 msgid "Entrance to Purgatory"
-msgstr ""
+msgstr "Entrada al Purgatorio"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_5_0"
 msgid "Purgatory Reborn"
-msgstr ""
+msgstr "El renacimiento del Purgatorio"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:6_6_0"
 msgid "The Underground City"
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:7_0_0"
 msgid "To Stardust"
-msgstr ""
+msgstr "Entrar al Stardust"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:7_1_0"
 msgid "The Investigation Begins"
@@ -349,7 +349,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_0_0"
 msgid "To Emoto Clinic"
-msgstr ""
+msgstr "Entrar a la Clínica Emoto"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_1_0"
 msgid "Kawara's Dark Past"
@@ -357,7 +357,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_2_0"
 msgid "The Assassins"
-msgstr ""
+msgstr "Los asesinos"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_3_0"
 msgid "The Mysterious Foreign Threat"
@@ -365,7 +365,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_4_0"
 msgid "The Jingweon Mafia"
-msgstr ""
+msgstr "La facción Jingwon"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:8_5_0"
 msgid "The Shadow of the Sengoku Clan"
@@ -397,7 +397,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_5_0"
 msgid "To the Transformer Room"
-msgstr ""
+msgstr "A la sala de transformadores"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_6_0"
 msgid "The Man Who Threw His Life Away"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_8_0"
 msgid "Hacking"
-msgstr ""
+msgstr "El hacker"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:9_9_0"
 msgid "To Shangri-La"
@@ -461,7 +461,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_9_0"
 msgid "Betrayal"
-msgstr ""
+msgstr "Traición"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:10_10_0"
 msgid "Assassination in the Tojo Clan"
@@ -485,7 +485,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_2_0"
 msgid "Reunion with Takashi"
-msgstr ""
+msgstr "Reunión con Takashi"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_3_0"
 msgid "The Image No One Wants to See"
@@ -513,7 +513,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_9_0"
 msgid "Escape"
-msgstr ""
+msgstr "Huida"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:11_10_0"
 msgid "A Strange Pair"
@@ -577,7 +577,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_1_0"
 msgid "Christmas Night"
-msgstr ""
+msgstr "Nochebuena"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_2_0"
 msgid "Kiryu and Fuma"
@@ -593,7 +593,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_5_0"
 msgid "Atonement"
-msgstr ""
+msgstr "Resarcimiento"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:13_6_0"
 msgid "The Black Scar on Kazuma's Heart"
@@ -641,11 +641,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_1_0"
 msgid "Diamond in the Rough"
-msgstr ""
+msgstr "Diamante en bruto"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_2_0"
 msgid "Haruka's Happiness"
-msgstr ""
+msgstr "La felicidad de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_3_0"
 msgid "Kurahashi's Identity"
@@ -657,7 +657,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_5_0"
 msgid "Haruka and Kaoru"
-msgstr ""
+msgstr "Haruka y Kaoru"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_6_0"
 msgid "Before Going to War"
@@ -665,7 +665,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_7_0"
 msgid "The Jingweon Creed"
-msgstr ""
+msgstr "El credo Jingwon"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_8_0"
 msgid "For a Father,{PA:10} for a Daughter.{PA:20}.{PA:20}.{PA:20}"
@@ -693,7 +693,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:14_14_0"
 msgid "Killed in the Line of Duty"
-msgstr ""
+msgstr "Muerto en servicio"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_0_0"
 msgid "Clues Left Behind"
@@ -705,7 +705,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_2_0"
 msgid "Takashima's Plot"
-msgstr ""
+msgstr "El plan de Takashima"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_3_0"
 msgid "Sayama's Reaction"
@@ -717,11 +717,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_5_0"
 msgid "The Bombs"
-msgstr ""
+msgstr "Las bombas"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_6_0"
 msgid "Daigo's Resolve"
-msgstr ""
+msgstr "La determinación de Daigo"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_7_0"
 msgid "The Go-Ryu Clan Invasion"
@@ -733,11 +733,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_9_0"
 msgid "The Plan Falls Through"
-msgstr ""
+msgstr "El plan fracasa"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_10_0"
 msgid "Purgatory Reborn"
-msgstr ""
+msgstr "El renacimiento del Purgatorio"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:15_11_0"
 msgid "Showdown With the Go-Ryu Clan"
@@ -769,7 +769,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_5_0"
 msgid "Complicated Feelings"
-msgstr ""
+msgstr "Sentimientos complicados"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:16_6_0"
 msgid "An Uneasy Feeling"
@@ -801,7 +801,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_5_0"
 msgid "Rising Dragon"
-msgstr ""
+msgstr "Dragón ascendente"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMEMOVIE.BIN::line:17_6_0"
 msgid "The Final Moments"

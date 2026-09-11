@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:3_20_0"
 msgid "Shogi King"
-msgstr ""
+msgstr "Rey del shogi"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MG.BIN::line:4_0_0"
 msgid "Practice"

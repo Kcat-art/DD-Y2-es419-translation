@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Before we knew it,{PA:10} we were living together.{PA:20}"
-msgstr ""
+msgstr "Poco después, em{PA:10}pezamos a vivir juntos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Then,{PA:10} Kaoru.{PA:20}.{PA:20}.{PA:20} You were born.{PA:20}"
-msgstr ""
+msgstr "Y ento{PA:10}nces...{PA:20} {PA:20}n{PA:20}aciste tú, Kaoru.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:2_0_0"
 msgid "I think I'll turn down the Hong Kong post.{PA:20}"
-msgstr ""
+msgstr "Estoy pensando en rechazar el traslado a Hong Kong.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:3_0_0"
 msgid "But why?{PA:20}"
-msgstr ""
+msgstr "Pero ¿por qué debe ser específicamente eso?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0140.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I can't go off and leave you two alone.{PA:20}"

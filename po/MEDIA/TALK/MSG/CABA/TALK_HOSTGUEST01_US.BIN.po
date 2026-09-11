@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::name:1"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::name:2"
 msgid "Takaya"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::name:3"
 msgid "Staff"
-msgstr ""
+msgstr "Empleado"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_0_0"
 msgid "All right,{PA:10} I'll go for it!{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_1_0"
 msgid "What{MS:0} should I get?{PA:20}"
-msgstr ""
+msgstr "No s{MS:0}é qué pedir...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_1_1"
 msgid "I think I'll have.{PA:20}.{PA:20}.{PA:30}{PA:20}||{MS:1}{MS:0}the San Pietta.{PA:20}"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_2_0"
 msgid "What{MS:0} should I get?{PA:20}"
-msgstr ""
+msgstr "No s{MS:0}é qué pedir...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_2_1"
 msgid "I think I'll have.{PA:20}.{PA:20}.{PA:30}{PA:20}||{MS:1}{MS:0}the Pennestraal.{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_3_0"
 msgid "What{MS:0} should I get?{PA:20}"
-msgstr ""
+msgstr "No s{MS:0}é qué pedir...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_3_1"
 msgid "I think I'll have.{PA:20}.{PA:20}.{PA:30}{PA:20}||{MS:1}{MS:0}two bottles of Clicquone.{PA:20}"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_4_0"
 msgid "What{MS:0} should I get?{PA:20}"
-msgstr ""
+msgstr "No s{MS:0}é qué pedir...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_4_1"
 msgid "I think I'll have.{PA:20}.{PA:20}.{PA:30}{PA:20}||{MS:0}the Clicquone.{PA:20}"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_5_0"
 msgid "What{MS:0} should I get?{PA:20}"
-msgstr ""
+msgstr "No s{MS:0}é qué pedir...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_5_1"
 msgid "I think I'll have.{PA:20}.{PA:20}.{PA:30}{PA:20}||{MS:1}{MS:0}the Kyogetsu GREEN.{PA:20}"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_6_0"
 msgid "What{MS:0} should I get?{PA:20}"
-msgstr ""
+msgstr "No s{MS:0}é qué pedir...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_6_1"
 msgid "I think I'll have.{PA:20}.{PA:20}.{PA:30}{PA:20}||{MS:0}just a beer.{PA:20}"
@@ -113,15 +113,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_7_0"
 msgid "Not used.{PA:20}"
-msgstr ""
+msgstr "[NOT USED]{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_8_0"
 msgid "Not used.{PA:20}"
-msgstr ""
+msgstr "[NOT USED]{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:0_9_0"
 msgid "Not used.{PA:20}"
-msgstr ""
+msgstr "[NOT USED]{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_0_0"
 msgid "Maybe I'll order something else.{PA:20}"
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_0_3"
 msgid "Thank you!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_1_0"
 msgid "Maybe I'll order something else.{PA:20}"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_1_3"
 msgid "Thank you!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_2_0"
 msgid "Maybe I'll order something else.{PA:20}"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_2_3"
 msgid "Thank you!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_3_0"
 msgid "Maybe I'll order something else.{PA:20}"
@@ -185,7 +185,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_3_3"
 msgid "Thank you!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:1_4_0"
 msgid "Maybe I'll order something else.{PA:20}"
@@ -205,7 +205,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:2_0_0"
 msgid "Well,{PA:10} I should get going.{PA:20}"
-msgstr ""
+msgstr "Buen{PA:10}o, debería irme.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:2_0_1"
 msgid "Oh,{PA:10} really?{PA:20}||Did you enjoy yourself?{PA:20}"
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:2_1_0"
 msgid "Well,{PA:10} I should get going.{PA:20}"
-msgstr ""
+msgstr "Buen{PA:10}o, debería irme.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:2_1_1"
 msgid "Oh,{PA:10} really?{PA:20}||Did you enjoy yourself?{PA:20}"
@@ -245,7 +245,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:2_2_0"
 msgid "Well,{PA:10} I should get going.{PA:20}"
-msgstr ""
+msgstr "Buen{PA:10}o, debería irme.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:2_2_1"
 msgid "Oh,{PA:10} really?{PA:20}||Did you enjoy yourself?{PA:20}"
@@ -321,7 +321,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:3_3_5"
 msgid "Sure.{PA:20}"
-msgstr ""
+msgstr "Claro.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:3_3_6"
 msgid "All right then.{PA:20}||I'll send {MS:0}you a text later.{PA:20}"
@@ -389,7 +389,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_0_11"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}Okay.{PA:20}"
-msgstr ""
+msgstr "Si{PA:20} t{PA:20}ú {MS:0}{PA:20}lo dices...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_0_12"
 msgid "What?{PA:20}||I go to a lot of different host clubs.{PA:20}"
@@ -397,7 +397,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_0_13"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}I see.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}. {MS:0}{PA:20}Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_0_14"
 msgid "Y{MS:0}ou don't have a good feel for||customers yet,{PA:10} do you?{PA:20}"
@@ -405,7 +405,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_0_15"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}I guess not.{PA:20}"
-msgstr ""
+msgstr "{PA:20}{PA:20}S{MS:0}{PA:20}í.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_1_0"
 msgid "M{MS:0}y husband and I got a divorce.{PA:20}"
@@ -461,7 +461,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_1_13"
 msgid "Are you sure?{PA:20}"
-msgstr ""
+msgstr "¿Estás seguro?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_1_14"
 msgid "W{MS:0}hat are you getting at?{PA:20}"
@@ -481,7 +481,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_2_1"
 msgid "Really?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_2_2"
 msgid "I haven't been asked out||in quite a long time.{PA:20}"
@@ -553,7 +553,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_3_1"
 msgid "It's true.{PA:20}"
-msgstr ""
+msgstr "le atinaste.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_3_2"
 msgid "I guess they must be prospering.{PA:20}"
@@ -609,7 +609,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_3_15"
 msgid ".{PA:20}.{PA:20}.{MS:1}{MS:0}{PA:20}Sorry.{PA:20}"
-msgstr ""
+msgstr "..{PA:20}.{PA:20} L{MS:1}{MS:0}{PA:20}o lamento.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_4_0"
 msgid "Y{MS:0}ou seem pretty confident,{PA:10} Kazuma.{PA:20}"
@@ -661,7 +661,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_4_12"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_4_13"
 msgid "W{MS:0}hat's that?{PA:20}"
@@ -673,7 +673,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_4_15"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_4_16"
 msgid "I{MS:0} thought you would have more||class,{PA:10} Kazuma.{PA:20}"
@@ -709,7 +709,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_5_6"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_5_7"
 msgid "I{MS:0}sn't that rushing it a little?{PA:20}||Or is this part of your job?{PA:20}"
@@ -741,7 +741,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_5_14"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_6_0"
 msgid "So where do you live right now?{PA:20}"
@@ -781,7 +781,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_6_9"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}Sorry.{PA:20}"
-msgstr ""
+msgstr "..{PA:20}.{PA:20} L{MS:0}{PA:20}o lamento.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_6_10"
 msgid "A{MS:0}re you even listening to me?{PA:20}"
@@ -801,7 +801,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_6_14"
 msgid "Good idea.{PA:20}"
-msgstr ""
+msgstr "¡Qué buena idea!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_0"
 msgid "You've been watching me closely all this time.{PA:20}||{MS:0}What's wrong?{PA:20}"
@@ -809,11 +809,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_1"
 msgid "Nothing.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "No es nada{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_2"
 msgid "Is that right?{PA:20}"
-msgstr ""
+msgstr "¿Cierto?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_3"
 msgid "Y{MS:0}eah.{PA:20}||It's my kind of face.{PA:20}"
@@ -825,7 +825,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_5"
 msgid "Really?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_6"
 msgid "I{MS:0}'ve never been complimented on my face||before.{PA:20} It's a little embarrassing.{PA:20}❤"
@@ -841,7 +841,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_9"
 msgid "Oh.{PA:20}"
-msgstr ""
+msgstr "Vaya...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_10"
 msgid "Are you just saying what you||think I want to hear?{PA:20}"
@@ -869,7 +869,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_7_16"
 msgid ".{PA:20}.{PA:20}.{MS:1}{MS:0}{PA:20}I'm sorry.{PA:20}"
-msgstr ""
+msgstr "L{PA:20}o{PA:20} {MS:1}{MS:0}{PA:20}lamento...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_0"
 msgid "You seem like you're in really||good shape,{PA:10} Akko.{PA:20}"
@@ -877,7 +877,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_1"
 msgid "I {MS:0}am?{PA:20}"
-msgstr ""
+msgstr "¿Y{MS:0}o?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_2"
 msgid "A slender woman can look good||in anything she wears.{PA:20}"
@@ -901,7 +901,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_7"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}All right.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}.{MS:0}{PA:20} De acuerdo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_8"
 msgid "A{MS:0}re you into breasts that much?{PA:20}"
@@ -917,7 +917,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_11"
 msgid "I {MS:0}see.{PA:20}"
-msgstr ""
+msgstr "Ya{MS:0} veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_12"
 msgid "W{MS:0}hat?{PA:20}||Now?{PA:20} Here?{PA:20}"
@@ -941,7 +941,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_17"
 msgid "You are.{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_8_18"
 msgid "I{MS:0} should be happy about that,{PA:10} I guess!{PA:20}"
@@ -957,7 +957,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_9_2"
 msgid "Oh,{PA:10} {MS:0}really?{PA:20}"
-msgstr ""
+msgstr "¿Oh,{PA:10} {MS:0}en serio?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_9_3"
 msgid "What about you,{PA:10} Kazuma?{PA:20}"
@@ -969,7 +969,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_9_5"
 msgid "What about you?{PA:20}"
-msgstr ""
+msgstr "¡Pero tú...!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_9_6"
 msgid "People think I'm a strong||drinker,{PA:10} but I'm really not.{PA:20}"
@@ -989,7 +989,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_9_10"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_9_11"
 msgid "I'm jealous.{PA:20} I've got a really||low tolerance for alcohol.{PA:20}"
@@ -1029,7 +1029,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_10_4"
 msgid "That's true,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí, per{PA:10}o..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_10_5"
 msgid "If you're patient,{PA:10} you'll meet||a good man someday.{PA:20}"
@@ -1053,7 +1053,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_10_10"
 msgid "Well.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Es que{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_10_11"
 msgid "I {MS:0}need to start thinking||about that soon.{PA:20}"
@@ -1077,7 +1077,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_11_0"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}*Sigh*"
-msgstr ""
+msgstr "A{PA:20}{PA:20}y{MS:0}{PA:20}..."
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_11_1"
 msgid ".{PA:20}.{PA:20}.{PA:20}"
@@ -1129,7 +1129,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_11_13"
 msgid "All {MS:0}right.{PA:20}"
-msgstr ""
+msgstr "Está{MS:0} bien.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_11_14"
 msgid "Oh,{PA:10} {MS:0}really?{PA:20}||You think so?{PA:20}"
@@ -1165,7 +1165,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_12_4"
 msgid "Really?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_12_5"
 msgid "W{MS:0}e've got a lot in||common,{PA:10} I'll bet.{PA:20}❤"
@@ -1277,7 +1277,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_13_14"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_14_0"
 msgid "What{MS:0}'s your ideal type||of woman,{PA:10} Kazuma?{PA:20}"
@@ -1313,7 +1313,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_14_8"
 msgid "Oh,{PA:10} really?{PA:20}"
-msgstr ""
+msgstr "¿Oh,{PA:10} en serio?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_14_9"
 msgid "I enjoy a{MS:0} little eye candy.{PA:20}"
@@ -1349,11 +1349,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_0"
 msgid "Hey{MS:0},{PA:10} can I ask you something?{PA:20}"
-msgstr ""
+msgstr "¿P{MS:0}u{PA:10}edo preguntarte algo?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_1"
 msgid "Of course.{PA:20}"
-msgstr ""
+msgstr "Por supuesto.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_2"
 msgid "What are some signs that tell you||a man is cheating?{PA:20}"
@@ -1397,7 +1397,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_12"
 msgid ".{PA:20}.{PA:20}.{PA:20}Really?{PA:20}"
-msgstr ""
+msgstr ".{PA:20}..{PA:20} {PA:20}¿En serio?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_13"
 msgid "Someone who's cheating would make an||extra effort to come home.{PA:20}"
@@ -1405,7 +1405,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_14"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}I see.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}. {MS:0}{PA:20}Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_15"
 msgid "N{MS:0}owadays that's it,{PA:10} isn't it?{PA:20}"
@@ -1425,7 +1425,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_15_19"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_16_0"
 msgid "K{MS:0}azuma,{PA:10} you don't||play dirty,{PA:10} do you?{PA:20}"
@@ -1521,7 +1521,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_17_6"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_17_7"
 msgid "I{MS:0} think you're setting your sights too high.{PA:20}"
@@ -1529,7 +1529,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_17_8"
 msgid "Why's that?{PA:20}"
-msgstr ""
+msgstr "¿Y eso por qué?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_17_9"
 msgid "The hosts in the final round really||look like they could be models.{PA:20}"
@@ -1541,11 +1541,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_17_11"
 msgid ".{PA:20}.{PA:20}.{MS:0}{PA:20}I see.{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}. {MS:0}{PA:20}Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_17_12"
 msgid "What does that mean?{PA:20}"
-msgstr ""
+msgstr "¿A qué se refiere?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_17_13"
 msgid "I'm plenty satisfied||being with you here right now.{PA:20}"
@@ -1561,7 +1561,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_18_1"
 msgid ".{PA:20}.{PA:20}.{PA:20}Not really.{PA:20}"
-msgstr ""
+msgstr "{PA:20}{PA:20}N{PA:20}o.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_18_2"
 msgid "You {MS:0}look especially good||from behind.{PA:20}"
@@ -1597,7 +1597,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_18_10"
 msgid ".{PA:20}.{PA:20}.{PA:20}That's not true.{PA:20}"
-msgstr ""
+msgstr "¡{PA:20}E{PA:20}s{PA:20}o no es cierto!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_18_11"
 msgid "H{MS:0}a ha ha!{PA:20}||You sound like an old man!{PA:20}"
@@ -1629,7 +1629,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_19_3"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_19_4"
 msgid "Y{MS:0}ou're interested in stocks?{PA:20}"
@@ -1637,11 +1637,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_19_5"
 msgid "A{MS:0} little.{PA:20}"
-msgstr ""
+msgstr "Q{MS:0}uizá...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_19_6"
 msgid "Is that so?{PA:20}"
-msgstr ""
+msgstr "¿De verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_19_7"
 msgid "I've {MS:0}been getting||into tech stocks.{PA:20}"
@@ -1681,7 +1681,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_19_16"
 msgid "Huh?{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_19_17"
 msgid "A {MS:0}day trader is different||from a gambler!{PA:20}"
@@ -1705,7 +1705,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_20_1"
 msgid "Oh,{PA:10} really?{PA:20}"
-msgstr ""
+msgstr "¿Oh,{PA:10} en serio?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_20_2"
 msgid "Y{MS:0}es.{PA:20}.{PA:20}.{PA:20}"
@@ -1717,7 +1717,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_20_4"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:5_20_5"
 msgid "I want to have a token of||the time we spent together.{PA:20}"
@@ -1773,7 +1773,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:6_0_3"
 msgid ".{PA:20}.{PA:20}.{PA:20}Sorry.{PA:20}"
-msgstr ""
+msgstr "..{PA:20}.{PA:20} L{PA:20}o lamento.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:6_0_4"
 msgid "H{MS:0}m.{PA:20}.{PA:20}.{PA:20}||What should I get?{PA:20}"
@@ -1805,7 +1805,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:6_1_3"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:6_1_4"
 msgid "Ha {MS:0}ha ha!{PA:20}||Three bottles?{PA:20}"
@@ -1857,7 +1857,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:7_1_0"
 msgid "See you later.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Hasta luego.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_HOSTGUEST01_US.BIN::line:7_1_1"
 msgid "C{MS:0}ome again.{PA:20}.{PA:20}.{PA:20}"

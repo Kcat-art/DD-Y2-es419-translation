@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS00XX/TALK_ARMS0091.BIN::line:0_0_0"
 msgid "Cardboard Box"
-msgstr ""
+msgstr "Caja de cartón"
 

@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::name:2"
 msgid "Sengoku Member"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:143_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:143_5_0"
 msgid "Experience points:"
@@ -97,25 +97,25 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:145_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:145_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:146_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:146_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:147_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0044.ARC/TALK_ST_KAB0044_BTL.BIN::line:147_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 

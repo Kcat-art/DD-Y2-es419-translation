@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:1_0_1"
 msgid "Omi Alliance.{PA:20}"
-msgstr ""
+msgstr "Alianza Omi{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:2_0_0"
 msgid "I've heard many a rumor about you,{PA:10} Tojo"
@@ -81,11 +81,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:11_0_0"
 msgid "What happened was.{PA:20}.{PA:20}.{PA:20} extremely unfortunate.{PA:20}"
-msgstr ""
+msgstr "Lamento profundamente{PA:20} l{PA:20}o{PA:20} que le tuvo que ocurrir...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Next to him.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Y a su lado está{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Wait just a minute!{PA:20}"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:16_0_0"
 msgid "You assholes are the ones that killed him!{PA:20}"
-msgstr ""
+msgstr "¡Ustedes son los responsables de su muerte!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Yes,{PA:10} Terada was killed by Omi men.{PA:20}.{PA:20}.{PA:20}"
@@ -113,7 +113,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Bullshit!{PA:20}"
-msgstr ""
+msgstr "¡Qué estupidez!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:19_0_1"
 msgid "You think we're going to buy that shit?{PA:20}"
@@ -121,11 +121,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Quit your yappin',{PA:10} Junior.{PA:20}"
-msgstr ""
+msgstr "Ya cálmate, chi{PA:10}quillo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Excuse me?{PA:20}"
-msgstr ""
+msgstr "¿Perdón?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Look,{PA:10} there's a thing called status,{PA:10} kid.{PA:20}"
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:28_0_0"
 msgid "I hope you'll accept my deepest apologies.{PA:20}"
-msgstr ""
+msgstr "Les ofrezco mis más sinceras disculpas...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:29_0_0"
 msgid "Whoa,{PA:10} hold the phone!{PA:20}"
@@ -185,7 +185,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Sengoku!{PA:20}"
-msgstr ""
+msgstr "¡Sengoku!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:33_0_0"
 msgid "Can the hollow act.{PA:20}"
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:34_0_0"
 msgid "Heh?{PA:20}"
-msgstr ""
+msgstr "Je.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:35_0_0"
 msgid "None of you are sorry for this.{PA:20}"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Don't even try to deny it!{PA:20}"
-msgstr ""
+msgstr "¡Y no intente negarlo!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:39_0_0"
 msgid "It's true.{PA:20}.{PA:20}.{PA:20} But that was neither my nor"
@@ -253,11 +253,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:44_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:45_0_0"
 msgid "Ryuji.{PA:20}.{PA:20}.{PA:20}?!{PA:20}"
-msgstr ""
+msgstr "¡Ryuji{PA:20}!{PA:20}.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:46_0_0"
 msgid "So you know him.{PA:20}.{PA:20}.{PA:20} He's the Chairman's son.{PA:20}"
@@ -293,7 +293,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:52_0_0"
 msgid "Sengoku!{PA:20}"
-msgstr ""
+msgstr "¡Sengoku!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:53_0_0"
 msgid "Eh,{PA:10} handle it however ya want.{PA:20}"
@@ -313,7 +313,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:56_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Later.{PA:20}"
-msgstr ""
+msgstr "N{PA:20}o{PA:20}s{PA:20} vemos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:57_0_0"
 msgid "Mr.{PA:20} Kiryu,{PA:10} this is the current state of the"
@@ -321,7 +321,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:57_0_1"
 msgid "Omi Alliance.{PA:20}"
-msgstr ""
+msgstr "Alianza Omi{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:58_0_0"
 msgid "120 groups,{PA:10} over 35,{PA:10}000 men.{PA:20}.{PA:20}.{PA:20}"
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:60_0_0"
 msgid "Chairman.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Presidente.{PA:20}..{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:61_0_0"
 msgid "Takashima here's young and sharp.{PA:20}"
@@ -401,7 +401,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:70_0_0"
 msgid "What's this?{PA:20}"
-msgstr ""
+msgstr "¿Un libro?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:71_0_0"
 msgid "A letter from Terada.{PA:20}"
@@ -413,7 +413,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:73_0_0"
 msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Terada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:74_0_0"
 msgid "The Tojo Clan echoes that request.{PA:20}"
@@ -429,11 +429,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:76_0_0"
 msgid "I will.{PA:20}"
-msgstr ""
+msgstr "Lo haré.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:77_0_0"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:78_0_0"
 msgid "I'll send for the Tojo Clan Interim Chairman"
@@ -445,7 +445,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:79_0_0"
 msgid "Absolutely not.{PA:20}"
-msgstr ""
+msgstr "¡Ni hablar!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0040.DAT/1___FILE.BIN::line:80_0_0"
 msgid "It's our turn to make the trip.{PA:20}"

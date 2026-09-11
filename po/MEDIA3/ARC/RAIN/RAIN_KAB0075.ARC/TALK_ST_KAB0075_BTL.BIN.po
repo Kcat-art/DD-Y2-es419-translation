@@ -13,23 +13,23 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::name:1"
 msgid "Woman"
-msgstr ""
+msgstr "Mujer"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::name:2"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::name:3"
 msgid "Police Officer"
-msgstr ""
+msgstr "Oficial de policía"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::name:4"
 msgid "Kaoru"
-msgstr ""
+msgstr "Kaoru"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:138_4_1"
 msgid "(I need to go meet Takashi at Shellac.)"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:140_1_2"
 msgid "Hmm?{PA:20}"
-msgstr ""
+msgstr "¿Mmm?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:140_1_3"
 msgid "M-My apologies,{PA:10} ma'am!{PA:20}||Go right in.{PA:20}"
@@ -97,7 +97,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:141_1_2"
 msgid "Hmm?{PA:20}"
-msgstr ""
+msgstr "¿Mmm?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:141_1_3"
 msgid "M-My apologies,{PA:10} ma'am!{PA:20}||Go right in.{PA:20}"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:143_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:143_5_0"
 msgid "Experience points:"
@@ -181,5 +181,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0075.ARC/TALK_ST_KAB0075_BTL.BIN::line:153_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

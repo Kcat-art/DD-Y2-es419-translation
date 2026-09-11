@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Later.{PA:20}"
-msgstr ""
+msgstr "N{PA:20}o{PA:20}s{PA:20} vemos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0020.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Five trucks chock full of weapons just"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0020.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Good.{PA:20}"
-msgstr ""
+msgstr "Bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Won't be long now,{PA:10} huh?{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Nope.{PA:20}"
-msgstr ""
+msgstr "No.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0020.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Invadin' Kamurocho's been on Omi's to-do"

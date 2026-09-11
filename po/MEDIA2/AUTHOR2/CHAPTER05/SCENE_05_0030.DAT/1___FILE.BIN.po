@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:3_0_0"
 msgid "No.{PA:20}"
-msgstr ""
+msgstr "No{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:4_0_0"
 msgid "And the man who took Daigo told you to come"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "It's a trap.{PA:20}"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:7_0_0"
 msgid "I know.{PA:20}"
-msgstr ""
+msgstr "Lo sé.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:8_0_0"
 msgid "But if I don't go,{PA:10} we'll never know who"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Maybe so,{PA:10} but still.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Concuer{PA:10}do, pero.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:10_0_0"
 msgid "You think the foreigners are tied to the"
@@ -105,11 +105,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Shindo.{PA:20}"
-msgstr ""
+msgstr "shindo{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:17_0_0"
 msgid "The Amano Building is your territory,{PA:10} right?{PA:20}"
-msgstr ""
+msgstr "El edificio Amano está en tu territorio, {PA:10}¿verdad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Back Kazuma up from a distance.{PA:20}"
@@ -121,7 +121,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:19_0_0"
 msgid "I don't think so.{PA:20}"
-msgstr ""
+msgstr "No es eso...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:20_0_0"
 msgid "What did you say?!{PA:20}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:23_0_0"
 msgid "You little shit!{PA:20}"
-msgstr ""
+msgstr "¡Imbécil!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:24_0_0"
 msgid "That was because Nishiki turned traitor!{PA:20}"
@@ -177,7 +177,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:30_0_0"
 msgid "Fine.{PA:20}"
-msgstr ""
+msgstr "Bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:31_0_0"
 msgid "I know better than anyone what sort of man"
@@ -201,7 +201,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:35_0_0"
 msgid "Other than your grudge against me.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Aparte de su rencor hacia mí..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:36_0_0"
 msgid "You're not hiding any motives,{PA:10} are you?{PA:20}"
@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:37_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Of course not.{PA:20}"
-msgstr ""
+msgstr "E{PA:20}{PA:20}n{PA:20} absoluto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:38_0_0"
 msgid "All right.{PA:20}.{PA:20}.{PA:20} Then that's fine.{PA:20}"
@@ -217,5 +217,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0030.DAT/1___FILE.BIN::line:39_0_0"
 msgid "Excuse me.{PA:20}"
-msgstr ""
+msgstr "¡Mesero!{PA:20}"
 

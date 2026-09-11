@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::name:2"
 msgid "Handa"
-msgstr ""
+msgstr "Handa"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:138_2_0"
 msgid "(There's no time for that now.{PA:20} I need to||find a hospital.)"
@@ -33,15 +33,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:140_1_0"
 msgid "(No,{PA:10} I need to find Daigo.)"
-msgstr ""
+msgstr "(No, {PA:10}necesito encontrar a Daigo...)."
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:141_1_0"
 msgid "Th-Thank you so much!{PA:20}"
-msgstr ""
+msgstr "¡M-muchas gracias!{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:141_1_1"
 msgid "What happened?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasó?{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:141_1_2"
 msgid "See,{PA:10} I asked this guy to settle his tab.{PA:20}||All of a sudden,{PA:10} his goon got in my face.{PA:20}"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:141_2_0"
 msgid "You really saved my ass,{PA:10} man.{PA:20}"
-msgstr ""
+msgstr "¡Me acaba de salvar la {PA:10}vida!{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:141_2_1"
 msgid "You're looking for \"{CC:ffc8c8}Daigo Dojima{CR:00}\"?{PA:20}||I saw him head towards the \"{CC:ffc8c8}theater{CR:00}\".{PA:20}"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:143_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:143_5_0"
 msgid "Experience points:"
@@ -105,5 +105,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0108.ARC/TALK_ST_KAB0108_BTL.BIN::line:144_0_0"
 msgid "Nakamichi St.{PA:20}"
-msgstr ""
+msgstr "Calle Nakamichi{PA:20}"
 

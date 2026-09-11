@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:0_0_0"
 msgid "It's been a while.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Cuánto tiempo sin verte{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:1_0_0"
 msgid "We need to talk.{PA:20}"
-msgstr ""
+msgstr "Tenemos que hablar.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0080.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Who gave you permission to talk to"

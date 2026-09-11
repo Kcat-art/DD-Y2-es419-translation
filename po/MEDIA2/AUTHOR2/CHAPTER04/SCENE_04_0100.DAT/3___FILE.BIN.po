@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0100.DAT/3___FILE.BIN::line:11_0_0"
 msgid "You're the finish line at the end of their"
-msgstr ""
+msgstr "Eres la meta... en su carrera por la sucesión..."
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0100.DAT/3___FILE.BIN::line:11_0_1"
 msgid "race to take over the Alliance.{PA:20}"
@@ -69,5 +69,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER04/SCENE_04_0100.DAT/3___FILE.BIN::line:12_0_0"
 msgid "Me?{PA:20}"
-msgstr ""
+msgstr "¿Yo?{PA:20}"
 

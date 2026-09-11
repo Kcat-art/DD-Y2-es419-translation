@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:140_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:140_5_0"
 msgid "Experience points:"
@@ -49,61 +49,61 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:141_0_0"
 msgid "Shangri-La 3F"
-msgstr ""
+msgstr "Shangri-La, 3.º piso"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:142_0_0"
 msgid "Miyoshi"
-msgstr ""
+msgstr "Miyoshi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:143_0_0"
 msgid "Nakai"
-msgstr ""
+msgstr "Nakai"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:144_0_0"
 msgid "Sonoda"
-msgstr ""
+msgstr "Sonoda"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:145_0_0"
 msgid "Horiuchi"
-msgstr ""
+msgstr "Horiuchi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:146_0_0"
 msgid "Koizumi"
-msgstr ""
+msgstr "Koizumi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:147_0_0"
 msgid "Yamagishi"
-msgstr ""
+msgstr "Yamagishi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:148_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:149_0_0"
 msgid "Eguchi"
-msgstr ""
+msgstr "Eguchi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:150_0_0"
 msgid "Tsuda"
-msgstr ""
+msgstr "Tsuda"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:151_0_0"
 msgid "Hamada"
-msgstr ""
+msgstr "Hamada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:152_0_0"
 msgid "Shimizu"
-msgstr ""
+msgstr "Shimizu"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:153_0_0"
 msgid "Kamiya"
-msgstr ""
+msgstr "Kamiya"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:154_0_0"
 msgid "Takai"
-msgstr ""
+msgstr "Takai"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0216.ARC/TALK_ST_KAB0216_BTL.BIN::line:155_0_0"
 msgid "Toriyama"
-msgstr ""
+msgstr "Toriyama"
 

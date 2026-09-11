@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Boss!{PA:20}"
-msgstr ""
+msgstr "... ¡Jefe!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:1_0_0"
 msgid "There was trouble outside the"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Were they from Kansai?{PA:20}"
-msgstr ""
+msgstr "¿Fueron sujetos de Kansai?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:3_0_0"
 msgid "No,{PA:10} sir.{PA:20} They were foreigners.{PA:20} The bad kind.{PA:20}"
@@ -33,15 +33,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I see.{PA:20}"
-msgstr ""
+msgstr "Ya veo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Should I put some boys on the watch?{PA:20}"
-msgstr ""
+msgstr "¿Debería enviar hombres a investigar la situación?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Leave it.{PA:20}"
-msgstr ""
+msgstr "No es necesario.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:7_0_0"
 msgid "But boss,{PA:10} there's been some strange stuff.{PA:20}.{PA:20}.{PA:20}"
@@ -49,11 +49,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:8_0_0"
 msgid "I said leave it!{PA:20}"
-msgstr ""
+msgstr "¡He dicho que no!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:10_0_0"
 msgid "We have no idea what could spark a war.{PA:20}"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Yes,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Do we make the first move,{PA:10} or wait for them?{PA:20}"
@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:24_0_0"
 msgid "Patience,{PA:10} man.{PA:20}"
-msgstr ""
+msgstr "Sé pacie{PA:10}nte.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:25_0_0"
 msgid "This is for the comrades they rubbed out.{PA:20}"
@@ -153,11 +153,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:30_0_0"
 msgid "Don't worry.{PA:20}"
-msgstr ""
+msgstr "No te preocupes por eso,{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:31_0_0"
 msgid "I'm a professional.{PA:20}"
-msgstr ""
+msgstr "soy un profesional.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:32_0_0"
 msgid "No one can spy on this fly on the wall.{PA:20}"
@@ -185,19 +185,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:37_0_0"
 msgid "Once this job's over,{PA:10} we're strangers.{PA:20}"
-msgstr ""
+msgstr "Después de esto, seremos{PA:10} completos extraños.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Ya got that?{PA:20}"
-msgstr ""
+msgstr "¿Entendiste?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:39_0_0"
 msgid "Sure.{PA:20} You just enjoy the show.{PA:20}"
-msgstr ""
+msgstr "Bien.{PA:20} Tú solo espera con ansias.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:40_0_0"
 msgid "A sea of fire's not enough.{PA:20}"
-msgstr ""
+msgstr "Convertirlo en un mar de llamas no es suficiente.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0025.DAT/1___FILE.BIN::line:41_0_0"
 msgid "That won't put the souls of those who died"

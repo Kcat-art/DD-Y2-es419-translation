@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid "But we hadn't seen him at all that day.{PA:20}"
-msgstr ""
+msgstr "Pero ese día, no apareció.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:2_0_0"
 msgid "I was worried something had happened to him,{PA:10}"
@@ -33,15 +33,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:3_0_0"
 msgid "It's been a while,{PA:10} sir.{PA:20}"
-msgstr ""
+msgstr "Cuánto tiempo sin verlo,{PA:10} señor.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Why are you here?{PA:20}"
-msgstr ""
+msgstr "¿Qué haces aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "I wanted to talk to you.{PA:20}"
-msgstr ""
+msgstr "Quería hablar con usted.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Not today,{PA:10} son.{PA:20}"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Go home.{PA:20}"
-msgstr ""
+msgstr "Vuelve a casa.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0020.DAT/1___FILE.BIN::line:8_0_0"
 msgid "He was always kind,{PA:10} but.{PA:20}.{PA:20}.{PA:20}"

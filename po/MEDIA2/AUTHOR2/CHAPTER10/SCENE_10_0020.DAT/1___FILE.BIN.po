@@ -21,11 +21,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Right.{PA:20}.{PA:20}.{PA:20} It was Bessho.{PA:20}"
-msgstr ""
+msgstr "Sí, e{PA:20}r{PA:20}a{PA:20} Bessho-san.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:3_0_0"
 msgid "You're sure?{PA:20}"
-msgstr ""
+msgstr "¿Está seguro?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Absolutely.{PA:20} His name was right there in the"
@@ -53,15 +53,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:8_0_0"
 msgid "He gave me this and dropped off the case.{PA:20}"
-msgstr ""
+msgstr "Me entregó esto y se apartó del caso.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:9_0_0"
 msgid "What does that mean?{PA:20}"
-msgstr ""
+msgstr "¿A qué se refiere?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:10_0_0"
 msgid "I don't know.{PA:20}"
-msgstr ""
+msgstr "Qué complicado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:11_0_0"
 msgid "But I'm sure he knows something.{PA:20}"
@@ -69,7 +69,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Says he still owes them one.{PA:20}"
-msgstr ""
+msgstr "Mencionó que tenía una deuda pendiente.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Unfinished business,{PA:10} huh?{PA:20}"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:14_0_0"
 msgid "What's wrong?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasa?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:15_0_0"
 msgid "I still can't believe.{PA:20}.{PA:20}.{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:18_0_0"
 msgid "In other words,{PA:10} he used the yakuza.{PA:20}"
-msgstr ""
+msgstr "Lo cual significa que {PA:10}el jefe utilizó a la yakuza...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:19_0_0"
 msgid "My guess is he felt that was the quickest"
@@ -153,9 +153,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:26_0_0"
 msgid "We still don't know where Chairman Goda is.{PA:20}"
-msgstr ""
+msgstr "Aún no hay rastro del presidente Goda.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0020.DAT/1___FILE.BIN::line:27_0_0"
 msgid "I'll go after Ryuji.{PA:20}.{PA:20}.{PA:20} To Kansai.{PA:20}"
-msgstr ""
+msgstr "Pienso ir tras Ryuji... V{PA:20}o{PA:20}l{PA:20}veré a Kansai.{PA:20}"
 

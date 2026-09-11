@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Good.{PA:20} Give her some juice!{PA:20}"
-msgstr ""
+msgstr "Muy b{PA:20}ien. ¡Denle cuerda!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Show me Daigo Dojima's location!{PA:20}"
@@ -25,11 +25,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Yes,{PA:10} sir!{PA:20}"
-msgstr ""
+msgstr "¡Sí, {PA:10}señor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Boss!{PA:20}"
-msgstr ""
+msgstr "... ¡Jefe!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:5_0_0"
 msgid "A malfunction?!{PA:20}"
@@ -41,11 +41,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:7_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:8_0_0"
 msgid "What's wrong?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasa?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Somebody's broken into the system and"
@@ -65,11 +65,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Damn.{PA:20}.{PA:20}.{PA:20} They're fast!{PA:20}"
-msgstr ""
+msgstr "Carajo{PA:20}.{PA:20}.{PA:20}. ¡Es muy rápido!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:13_0_0"
 msgid "I can't keep up!{PA:20}"
-msgstr ""
+msgstr "¡No puedo seguirle el ritmo!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Let me.{PA:20}"
@@ -77,11 +77,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:15_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Move!{PA:20}"
-msgstr ""
+msgstr "Moverse{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Ahh,{PA:10} okay.{PA:20}.{PA:20}.{PA:20}"
@@ -89,23 +89,23 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:18_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Wow.{PA:20}"
-msgstr ""
+msgstr "E{PA:20}l{PA:20}l{PA:20}a...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Unreal!{PA:20}"
-msgstr ""
+msgstr "¡Es increíble!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:20_0_0"
 msgid "I guess it figures.{PA:20}"
-msgstr ""
+msgstr "No me sorprende.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Figures how?{PA:20}"
-msgstr ""
+msgstr "¿No te sorprende?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:22_0_0"
 msgid "What,{PA:10} you didn't know?{PA:20}"
-msgstr ""
+msgstr "¿N{PA:10}o sabías?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:23_0_0"
 msgid "That's your lady friend's main line of work.{PA:20}"
@@ -193,11 +193,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:37_0_0"
 msgid "My cameras can't see inside her head.{PA:20}"
-msgstr ""
+msgstr "No puedo ver lo que hay en su mente.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Whoever he is,{PA:10} he's good.{PA:20}"
-msgstr ""
+msgstr "Él también es m{PA:10}uy bueno...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:39_0_0"
 msgid "Ooh,{PA:10} gotcha!{PA:20}"
@@ -213,7 +213,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:42_0_0"
 msgid "Where is he?{PA:20}"
-msgstr ""
+msgstr "¿Y adónde fue?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:43_0_0"
 msgid "Taihei Boulevard,{PA:10} sir!{PA:20}"
@@ -261,11 +261,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:51_0_0"
 msgid "You be careful out there.{PA:20}"
-msgstr ""
+msgstr "Ve con cuidado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:52_0_0"
 msgid "I will.{PA:20}"
-msgstr ""
+msgstr "Lo haré.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0130.DAT/1___FILE.BIN::line:53_0_0"
 msgid "An ex-yakuza and a Division 4 cop.{PA:20}.{PA:20}.{PA:20}"

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Kiryu.{PA:20}.{PA:20}.{PA:20} This isn't over!{PA:20}"
-msgstr ""
+msgstr "Kiryu...{PA:20},{PA:20} {PA:20}¡esto aún no se acaba!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:1_0_0"
 msgid "This fight's been decided.{PA:20}"
@@ -21,19 +21,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Kazuma!{PA:20}"
-msgstr ""
+msgstr "¡Kazuma!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:3_0_0"
 msgid "You're late.{PA:20}"
-msgstr ""
+msgstr "Llegas tarde...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Takashima!{PA:20}"
-msgstr ""
+msgstr "¡Takashima!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:5_0_0"
 msgid "I really must thank you.{PA:20}"
-msgstr ""
+msgstr "Debo darte las gracias.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:6_0_0"
 msgid "You've cleared people out of my way,{PA:10}"
@@ -45,15 +45,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Stay back!{PA:20}"
-msgstr ""
+msgstr "¡No te acerques!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:8_0_0"
 msgid "But.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Pero.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Please don't move.{PA:20}"
-msgstr ""
+msgstr "Quieta.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Good work.{PA:20} Leave the rest to me.{PA:20}"
@@ -61,11 +61,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:11_0_0"
 msgid "So you were behind all this?!{PA:20}"
-msgstr ""
+msgstr "¡Así que tú estuviste detrás de todo!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:12_0_0"
 msgid "K-Kaoru!{PA:20}"
-msgstr ""
+msgstr "¡K-Kaoru!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Yes,{PA:10} Chairman.{PA:20}"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Takashima's goals mirrored the Jingweon's.{PA:20}"
-msgstr ""
+msgstr "Takashima y los Jingwon compartían un mismo objetivo:{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:19_0_0"
 msgid "We both wanted the Tojo Clan crushed.{PA:20}"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:21_0_0"
 msgid "And it's worked marvelously.{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:24_0_0"
 msgid "Terada!{PA:20}"
-msgstr ""
+msgstr "¡Terada!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:25_0_0"
 msgid "What a fool!{PA:20}"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:26_0_0"
 msgid "I knew it.{PA:20}.{PA:20}.{PA:20} you snake!{PA:20}"
-msgstr ""
+msgstr "Lo sabía... M{PA:20}a{PA:20}l{PA:20}dita víbora...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Takashima,{PA:10} you.{PA:20}.{PA:20}.{PA:20}"
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:28_0_0"
 msgid "T-Takashima.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "T-Takashima..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:29_0_0"
 msgid "What would you have.{PA:20}.{PA:20}.{PA:20}"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:31_0_0"
 msgid "Oh,{PA:10} rest assured.{PA:20}"
-msgstr ""
+msgstr "Oh, {PA:10}usted tranquilo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:32_0_0"
 msgid "I'll take up where you left off.{PA:20}"
@@ -193,11 +193,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:40_0_0"
 msgid "Y-You.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "T-tú.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Chairman Goda!{PA:20}"
-msgstr ""
+msgstr "Presidente Goda...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:42_0_0"
 msgid "God,{PA:10} you're all so stupid!{PA:20}"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:45_0_0"
 msgid "In my heart.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "profundo de mí.{PA:20}..{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:46_0_0"
 msgid "I never.{PA:20}.{PA:20}.{PA:20} really trusted you.{PA:20}.{PA:20}.{PA:20}"
@@ -241,7 +241,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:50_0_0"
 msgid "You people talk too much.{PA:20}"
-msgstr ""
+msgstr "Eres un fastidio.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:51_0_0"
 msgid "K-Kiryu.{PA:20}.{PA:20}.{PA:20}"
@@ -257,11 +257,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:54_0_0"
 msgid "Stop him.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Detenlo, por favo{PA:20}r.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:55_0_0"
 msgid "Terada!{PA:20}"
-msgstr ""
+msgstr "¡Terada!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:56_0_0"
 msgid "I-In the end.{PA:20}.{PA:20}.{PA:20} please.{PA:20}.{PA:20}.{PA:20}"
@@ -269,11 +269,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:57_0_0"
 msgid "Trust me.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "una última v{PA:20}ez{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:58_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:59_0_0"
 msgid "Sh-Shit!{PA:20}"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:60_0_0"
 msgid "Move an inch,{PA:10} and I won't hesitate to shoot.{PA:20}"
-msgstr ""
+msgstr "Mueve un{PA:10} dedo, y la mato...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:61_0_0"
 msgid "Forget about me!{PA:20} Shoot him!{PA:20}"
@@ -293,7 +293,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:62_0_0"
 msgid "Kaoru!{PA:20}"
-msgstr ""
+msgstr "¡Kaoru!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:63_0_0"
 msgid "Kazuma,{PA:10} you have to shoot him!{PA:20}"
@@ -317,7 +317,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:67_0_0"
 msgid "Kazuma!{PA:20}"
-msgstr ""
+msgstr "¡Kazuma!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:68_0_0"
 msgid "You're a fool.{PA:20}"
@@ -325,19 +325,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:69_0_0"
 msgid "And now it's your turn.{PA:20}.{PA:20}.{PA:20} Die.{PA:20}"
-msgstr ""
+msgstr "Morirás igual que ellos. De{PA:20}s{PA:20}p{PA:20}ídete.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:70_0_0"
 msgid "Ryuji!{PA:20}"
-msgstr ""
+msgstr "¡Ryuji!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:71_0_0"
 msgid "To think I let.{PA:20}.{PA:20}.{PA:20} an idiot like you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¿Cómo permití... qu{PA:20}e{PA:20} {PA:20}un descerebrado como tú.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:72_0_0"
 msgid "Get the better.{PA:20}.{PA:20}.{PA:20} of me.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "me supera{PA:20}{PA:20}s{PA:20}e?..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:73_0_0"
 msgid "A real man should be a little stupid.{PA:20}"
@@ -353,11 +353,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:75_0_0"
 msgid "Ain't room for.{PA:20}.{PA:20}.{PA:20} more than one dragon.{PA:20}"
-msgstr ""
+msgstr "No hay cabida..{PA:20}.{PA:20} {PA:20}para más de un dragón.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:76_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20} You're right.{PA:20}"
-msgstr ""
+msgstr "Sí...{PA:20} {PA:20}L{PA:20}o mismo digo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:77_0_0"
 msgid "What?{PA:20} What are you two doing?!{PA:20}"
@@ -389,11 +389,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:83_0_0"
 msgid "I'm not going.{PA:20}"
-msgstr ""
+msgstr "No pienso irme.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:84_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:85_0_0"
 msgid "You get out of here.{PA:20}"
@@ -401,7 +401,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:86_0_0"
 msgid "Live your life.{PA:20}"
-msgstr ""
+msgstr "Tienes una vida por delante.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:87_0_0"
 msgid "I've still got.{PA:20}.{PA:20}.{PA:20} unfinished business.{PA:20}.{PA:20}.{PA:20}"
@@ -433,7 +433,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:94_0_0"
 msgid "I know.{PA:20}"
-msgstr ""
+msgstr "Lo sé.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:95_0_0"
 msgid "Then c'mon,{PA:10} let's.{PA:20}.{PA:20}.{PA:20}"
@@ -449,7 +449,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:98_0_0"
 msgid "We're fallin' apart here.{PA:20}"
-msgstr ""
+msgstr "ya estamos en las últimas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:99_0_0"
 msgid "Ain't no way we'd make it.{PA:20}"
@@ -457,7 +457,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:100_0_0"
 msgid "We got.{PA:20}.{PA:20}.{PA:20} no time left.{PA:20}"
-msgstr ""
+msgstr "El tiem{PA:20}p{PA:20}o{PA:20}... se agota.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:101_0_0"
 msgid "B-But,{PA:10} still!{PA:20}"
@@ -477,15 +477,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:105_0_0"
 msgid "You ready?{PA:20}"
-msgstr ""
+msgstr "¿Estás listo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:106_0_0"
 msgid "Here I come!{PA:20}"
-msgstr ""
+msgstr "¡Allá voy!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:107_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20} I won't hold back.{PA:20}"
-msgstr ""
+msgstr "Sí...{PA:20} {PA:20}N{PA:20}o pienso contenerme.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0050.DAT/1___FILE.BIN::line:108_0_0"
 msgid "Bring it!{PA:20}"

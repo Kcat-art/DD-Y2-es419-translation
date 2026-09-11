@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Thirty-one bombs?!{PA:20}"
-msgstr ""
+msgstr "¡¿31 bombas?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yes,{PA:10} but we've got a handle on it.{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:3_0_1"
 msgid "Go-Ryu Clan invasion.{PA:20}"
-msgstr ""
+msgstr "Invasión del clan Go-Ryu{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:4_0_0"
 msgid "That's fine and dandy,{PA:10} but most of our"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Well.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Es que{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:8_0_0"
 msgid "If I called around the Kamurocho area.{PA:20}.{PA:20}.{PA:20}"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Kashiwagi.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "kashiwag{PA:20}{PA:20}i{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Will you trust me with those 300 men?{PA:20}"
-msgstr ""
+msgstr "¿me confiaría esos 300 hombres?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:11_0_0"
 msgid "I'll put out a call right now.{PA:20}"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:12_0_0"
 msgid "You'll take a stand for the Tojo Clan?{PA:20}"
-msgstr ""
+msgstr "¿Piensas alzarte en defensa del Clan Tojo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Dad and Fuma risked their necks to keep"
@@ -101,5 +101,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0070.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Daigo.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Daigo.{PA:20}.{PA:20}.{PA:20}"
 

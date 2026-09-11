@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::name:1"
 msgid "Akira"
-msgstr ""
+msgstr "Akira"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:0_0_0"
 msgid "How've you been doing here lately?{PA:20}"
@@ -129,11 +129,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:1_1_1"
 msgid "Wow!{PA:20}"
-msgstr ""
+msgstr "¡Guau!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:1_2_0"
 msgid "Thank you!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:1_3_0"
 msgid "Oh.{PA:20}.{PA:20}.{PA:20}||Thanks,{PA:10} I guess.{PA:20}"
@@ -173,7 +173,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:2_1_4"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:2_1_5"
 msgid "(That seemed to work well.)"
@@ -289,7 +289,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:4_3_0"
 msgid "Oh.{PA:20}.{PA:20}.{PA:20}.{PA:20}||Thank you.{PA:20}"
-msgstr ""
+msgstr "Ah{PA:20},{PA:20} {PA:20}{PA:20}gracias.||{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:4_3_1"
 msgid "(Why isn't she happy?)"
@@ -301,11 +301,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:5_0_1"
 msgid "Excuse me.{PA:20}"
-msgstr ""
+msgstr "¡Mesero!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:5_0_2"
 msgid "What is it?{PA:20}"
-msgstr ""
+msgstr "¿De qué?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:6_0_0"
 msgid "Chinatsu N/A"
@@ -401,9 +401,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:8_0_0"
 msgid "Yes.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/CABA/TALK_MANAGECABA04_US.BIN::line:8_1_0"
 msgid "Not yet.{PA:20}"
-msgstr ""
+msgstr "Aún no.{PA:20}"
 

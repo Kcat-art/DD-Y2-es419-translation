@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Calm down!{PA:20}"
-msgstr ""
+msgstr "¡Baja el tono!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:6_0_0"
 msgid "You can't just go to the people that whacked"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Brother.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Hermano.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:12_0_0"
 msgid "I won't take the heat if you go and start"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:15_0_0"
 msgid "Money!{PA:20} Money!{PA:20} Money!{PA:20}"
-msgstr ""
+msgstr "¡Plata{PA:20}, plata,{PA:20} plata!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Have you got no pride at all?!{PA:20}"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:22_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Kazuma.{PA:20}"
-msgstr ""
+msgstr "K{PA:20}{PA:20}a{PA:20}zuma.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:23_0_0"
 msgid "You think we should avoid a head-on war,{PA:10}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:24_0_0"
 msgid "I do.{PA:20}"
-msgstr ""
+msgstr "Así es.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:25_0_0"
 msgid "I can't imagine they'll take kindly to it.{PA:20}"
@@ -149,11 +149,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:26_0_0"
 msgid "I'm well aware.{PA:20}"
-msgstr ""
+msgstr "Sé que será difícil.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Still.{PA:20}.{PA:20}.{PA:20} This was Terada's last request.{PA:20}"
-msgstr ""
+msgstr "Aun as{PA:20}í.{PA:20}.{PA:20}., esto es lo que Terada anhelaba.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:28_0_0"
 msgid "One slip and you could wind up dead.{PA:20}"
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:29_0_0"
 msgid "I know.{PA:20}"
-msgstr ""
+msgstr "Lo sé.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:30_0_0"
 msgid "I'm prepared for the worst.{PA:20}"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:31_0_0"
 msgid "Wait.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Un moment{PA:20}o.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:32_0_0"
 msgid "You're not looking to trade your life for"
@@ -185,7 +185,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:34_0_0"
 msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:35_0_0"
 msgid "Are you still hung up on Dojima's murder?{PA:20}"
@@ -205,19 +205,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Nishiki and I.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Nishiki y yo.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:39_0_0"
 msgid "We'd been together since we were kids.{PA:20}"
-msgstr ""
+msgstr "crecimos juntos desde pequeños.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:40_0_0"
 msgid "We were closer than blood brothers.{PA:20}"
-msgstr ""
+msgstr "Era lo más cercano que tuve a un hermano.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Any debts Nishiki left are mine to pay now.{PA:20}"
-msgstr ""
+msgstr "Si alguien debe pagar por sus platos rotos, seré yo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:42_0_0"
 msgid "I don't suppose you'd listen if I asked you"
@@ -229,11 +229,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:43_0_0"
 msgid "I'm sorry.{PA:20}"
-msgstr ""
+msgstr "le pido disculpas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:44_0_0"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:45_0_0"
 msgid "This one's in your hands.{PA:20}"
@@ -273,7 +273,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:52_0_1"
 msgid "it's all over.{PA:20}"
-msgstr ""
+msgstr "Se acabó...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:53_0_0"
 msgid "It'll mean a war between east and west.{PA:20}"
@@ -285,15 +285,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:55_0_0"
 msgid "Yes,{PA:10} ma'am.{PA:20}"
-msgstr ""
+msgstr "¡Sí,{PA:10} señora!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:56_0_0"
 msgid "But I do have one request.{PA:20}"
-msgstr ""
+msgstr "Pero antes, quisiera pedirle algo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:57_0_0"
 msgid "Let's hear it.{PA:20}"
-msgstr ""
+msgstr "Te escucho.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:58_0_0"
 msgid "There's someone I need to see before"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:60_0_0"
 msgid "Daigo Dojima.{PA:20}"
-msgstr ""
+msgstr "Con Daigo Dojima.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:61_0_0"
 msgid "I need to see your son.{PA:20}"
@@ -353,7 +353,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:70_0_0"
 msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:71_0_0"
 msgid "That's why I need to speak with Daigo before"
@@ -365,15 +365,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:72_0_0"
 msgid "I wouldn't if I were you.{PA:20}"
-msgstr ""
+msgstr "... No creo que sea buena idea.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:73_0_0"
 msgid "Why not?{PA:20}"
-msgstr ""
+msgstr "¿Por qué, no?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:74_0_0"
 msgid "Daigo's not the boy he used to be.{PA:20}"
-msgstr ""
+msgstr "Daigo ya no es quien solía ser.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0060.DAT/1___FILE.BIN::line:75_0_0"
 msgid "What happened to him?{PA:20}"

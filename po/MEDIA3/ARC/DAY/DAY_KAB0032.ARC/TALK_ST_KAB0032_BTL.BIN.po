@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0032.ARC/TALK_ST_KAB0032_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0032.ARC/TALK_ST_KAB0032_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0032.ARC/TALK_ST_KAB0032_BTL.BIN::line:139_0_0"
 msgid "Senryo Ave.{PA:20}"
-msgstr ""
+msgstr "Avda. Senryo{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0032.ARC/TALK_ST_KAB0032_BTL.BIN::line:140_0_0"
 msgid "Generic 1"
@@ -85,9 +85,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0032.ARC/TALK_ST_KAB0032_BTL.BIN::line:149_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0032.ARC/TALK_ST_KAB0032_BTL.BIN::line:150_0_0"
 msgid "Suzuki"
-msgstr ""
+msgstr "Suzuki"
 

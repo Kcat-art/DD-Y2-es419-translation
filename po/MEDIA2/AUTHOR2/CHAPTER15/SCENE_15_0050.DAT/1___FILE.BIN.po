@@ -25,11 +25,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0050.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Y-Yes,{PA:10} sir!{PA:20}"
-msgstr ""
+msgstr "¡S-sí, {PA:10}señor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0050.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0050.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Aww,{PA:10} stop!{PA:20}"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0050.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Yes,{PA:10} sir!{PA:20}"
-msgstr ""
+msgstr "¡Sí, {PA:10}señor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0050.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Well,{PA:10} Kazzy,{PA:10} rest's up to you.{PA:20}"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0050.DAT/1___FILE.BIN::line:16_0_0"
 msgid "After that,{PA:10} I'm going after him alone.{PA:20}"
-msgstr ""
+msgstr "Después de{PA:10} eso, iré tras él solo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0050.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Until then,{PA:10} though.{PA:20}.{PA:20}.{PA:20}"

@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::name:0"
 msgid "Kurokawa"
-msgstr ""
+msgstr "Kurokawa"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::name:1"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_0_0"
 msgid "Huff.{PA:20}.{PA:20}.{PA:20} hah.{PA:20}.{PA:20}.{PA:20}"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_0_10"
 msgid "Kiryu.{PA:20}"
-msgstr ""
+msgstr "Yo soy Kiryu.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_0_11"
 msgid "Mr.{PA:20} Kiryu,{PA:10} huh?{PA:20}||First time in Osaka?{PA:20} Welcome,{PA:10} welcome!{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_0_13"
 msgid "Hmmmmm.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mmmmmm.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_0_14"
 msgid "You want anything,{PA:10} buddy?{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_2_1"
 msgid "Not really.{PA:20}"
-msgstr ""
+msgstr "No.{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_2_2"
 msgid "Yeah?{PA:20} Eh,{PA:10} well.{PA:20} Ya think of somethin',{PA:10}||just come ask me.{PA:20}"
@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_4_1"
 msgid "What is it?{PA:20}"
-msgstr ""
+msgstr "¿De qué?{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:138_4_2"
 msgid "It's all over the news!{PA:20} Check out the big||TV they got runnin' over there!{PA:20}"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:143_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:143_5_0"
 msgid "Experience points:"
@@ -177,11 +177,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:146_0_0"
 msgid "Yakuza"
-msgstr ""
+msgstr "Yakuza"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:147_0_0"
 msgid "Nakahara"
-msgstr ""
+msgstr "Nakahara"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:148_0_0"
 msgid "Nakaya"
@@ -189,11 +189,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:149_0_0"
 msgid "Inoue"
-msgstr ""
+msgstr "Inoue"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:150_0_0"
 msgid "Oikawa"
-msgstr ""
+msgstr "Oikawa"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:151_0_0"
 msgid "Wada"
@@ -205,19 +205,19 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:153_0_0"
 msgid "Tamura"
-msgstr ""
+msgstr "Tamura"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:154_0_0"
 msgid "Oshima"
-msgstr ""
+msgstr "Oshima"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:155_0_0"
 msgid "Miyahara"
-msgstr ""
+msgstr "Miyahara"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:156_0_0"
 msgid "Miyazawa"
-msgstr ""
+msgstr "Miyazawa"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:157_0_0"
 msgid "Hirata"
@@ -229,7 +229,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:159_0_0"
 msgid "Matsuzaki"
-msgstr ""
+msgstr "Matsuzaki"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:160_0_0"
 msgid "Matsunaga"
@@ -269,15 +269,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:169_0_0"
 msgid "Numata"
-msgstr ""
+msgstr "Numata"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:170_0_0"
 msgid "Tsuda"
-msgstr ""
+msgstr "Tsuda"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:171_0_0"
 msgid "Hamano"
-msgstr ""
+msgstr "Hamano"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:172_0_0"
 msgid "Ishimoto"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:173_0_0"
 msgid "Fukuhara"
-msgstr ""
+msgstr "Fukuhara"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:174_0_0"
 msgid "Strong Man"
@@ -293,9 +293,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:175_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0303.ARC/TALK_ST_KAB0303_BTL.BIN::line:176_0_0"
 msgid "Kuroki"
-msgstr ""
+msgstr "Kuroki"
 

@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0140.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Sengoku!{PA:20}"
-msgstr ""
+msgstr "¡Sengoku!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0140.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Hey,{PA:10} whoa there!{PA:20}"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0140.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Haruka!{PA:20}"
-msgstr ""
+msgstr "¡Haruka!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0140.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Let her go!{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0140.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Keep shoutin' like that and you'll wake up"
@@ -53,9 +53,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0140.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Think ya might have a snack for 'em?{PA:20}"
-msgstr ""
+msgstr "Esta noche cenarán muy bien...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0140.DAT/1___FILE.BIN::line:9_0_0"
 msgid "How 'bout every bone in yer goddamn body?!{PA:20}"
-msgstr ""
+msgstr "¡Devórenle hasta sus huesos!{PA:20}"
 

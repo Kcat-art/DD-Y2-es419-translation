@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:0_0_0"
 msgid "I see.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Entiendo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:1_0_0"
 msgid "So that was you.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Terada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I kept gunnin' for Fuma after that,{PA:10} to"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Terada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Fuma did all that for you.{PA:20}"
@@ -89,19 +89,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:15_0_0"
 msgid "I'm a member of the Jingweon mafia.{PA:20}"
-msgstr ""
+msgstr "Soy un hombre de la facción Jingwon...,{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:16_0_0"
 msgid "The creed takes precedence over all else.{PA:20}"
-msgstr ""
+msgstr "el credo está por encima de todo...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Even if it means killing our own parents.{PA:20}"
-msgstr ""
+msgstr "Incluso si eso significa matar a nuestros\\r||propios padres.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Such is our fate.{PA:20}"
-msgstr ""
+msgstr "Es el destino que elegimos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Those aren't the words of a human being.{PA:20}.{PA:20}.{PA:20}"
@@ -109,11 +109,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Precisely.{PA:20}"
-msgstr ""
+msgstr "En efecto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Our organization has forsaken humanity.{PA:20}"
-msgstr ""
+msgstr "Nuestra organización ha renunciado a su humanidad.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0040.DAT/1___FILE.BIN::line:22_0_0"
 msgid "How else could we possibly live for 26 years"

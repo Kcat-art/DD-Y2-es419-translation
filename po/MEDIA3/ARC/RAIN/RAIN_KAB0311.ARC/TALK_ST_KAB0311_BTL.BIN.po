@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:142_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:142_5_0"
 msgid "Experience points:"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:144_0_0"
 msgid "Kawabata"
-msgstr ""
+msgstr "Kawabata"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:145_0_0"
 msgid "Mizuta"
@@ -93,11 +93,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:155_0_0"
 msgid "Hamano"
-msgstr ""
+msgstr "Hamano"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:156_0_0"
 msgid "Yagi"
-msgstr ""
+msgstr "Yagi"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:157_0_0"
 msgid "Haga"
@@ -109,11 +109,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:159_0_0"
 msgid "Fujioka"
-msgstr ""
+msgstr "Fujioka"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:160_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0311.ARC/TALK_ST_KAB0311_BTL.BIN::line:161_0_0"
 msgid "Kosaku Agawa"

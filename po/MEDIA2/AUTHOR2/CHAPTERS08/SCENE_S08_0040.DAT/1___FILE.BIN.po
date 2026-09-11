@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0040.DAT/1___FILE.BIN::line:2_0_0"
 msgid "The golden dragon.{PA:20}"
-msgstr ""
+msgstr "El dragón dorado...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0040.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Know about it,{PA:10} do ya?{PA:20}"
@@ -37,5 +37,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0040.DAT/1___FILE.BIN::line:4_0_1"
 msgid "The golden dragon.{PA:20}"
-msgstr ""
+msgstr "El dragón dorado...{PA:20}"
 

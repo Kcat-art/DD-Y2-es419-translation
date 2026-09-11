@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS13XX/TALK_ARMS1314.BIN::line:0_0_0"
 msgid "Katana"
-msgstr ""
+msgstr "Katana"
 

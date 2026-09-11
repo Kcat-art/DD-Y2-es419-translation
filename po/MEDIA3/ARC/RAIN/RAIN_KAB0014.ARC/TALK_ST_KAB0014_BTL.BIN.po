@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:139_2_0"
 msgid "(There's no time for that now.{PA:20} I need to||find a hospital.)"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:167_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:167_5_0"
 msgid "Experience points:"
@@ -61,11 +61,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:168_0_0"
 msgid "Nakamichi St.{PA:20}"
-msgstr ""
+msgstr "Calle Nakamichi{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:169_0_0"
 msgid "Mukai"
-msgstr ""
+msgstr "Mukai"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:170_0_0"
 msgid "Amada"
@@ -73,19 +73,19 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:171_0_0"
 msgid "Yamamoto"
-msgstr ""
+msgstr "Yamamoto"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:172_0_0"
 msgid "Yamane"
-msgstr ""
+msgstr "Yamane"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:173_0_0"
 msgid "Kawasaki"
-msgstr ""
+msgstr "Kawasaki"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:174_0_0"
 msgid "Sugiyama"
-msgstr ""
+msgstr "Sugiyama"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:175_0_0"
 msgid "Yokokawa"
@@ -129,9 +129,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:185_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0014.ARC/TALK_ST_KAB0014_BTL.BIN::line:186_0_0"
 msgid "Takagi"
-msgstr ""
+msgstr "Takagi"
 

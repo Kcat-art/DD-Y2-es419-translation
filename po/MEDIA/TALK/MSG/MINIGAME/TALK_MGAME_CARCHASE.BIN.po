@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_3_0"
 msgid "Shoot"
-msgstr ""
+msgstr "Realizar tiro"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_4_0"
 msgid "Dodge"
@@ -41,19 +41,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_7_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:0_8_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:1_0_0"
 msgid "Money"
-msgstr ""
+msgstr "Dinero"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:2_0_0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_CARCHASE.BIN::line:2_1_0"
 msgid "Car"

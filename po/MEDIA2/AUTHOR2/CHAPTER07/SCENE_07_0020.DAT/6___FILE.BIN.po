@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:3_0_0"
 msgid "Brings you back,{PA:10} doesn't it?{PA:20}"
-msgstr ""
+msgstr "¿No te trae recuerd{PA:10}os este lugar?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:4_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:5_0_0"
 msgid "What will you have,{PA:10} then?{PA:20}"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:9_0_0"
 msgid "Kazuki was just the bait to lure us in.{PA:20}"
-msgstr ""
+msgstr "No, lo de Kazuki fue solo un señuelo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:10_0_0"
 msgid "Who doesn't want us around?{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:12_0_0"
 msgid "I don't know.{PA:20}"
-msgstr ""
+msgstr "Qué complicado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:13_0_0"
 msgid "But the foreigners who kidnapped Daigo and"
@@ -85,11 +85,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:14_0_0"
 msgid "Foreigners?{PA:20}"
-msgstr ""
+msgstr "¿Mafia extranjera?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:15_0_0"
 msgid "An Osakan detective named Bessho tipped"
-msgstr ""
+msgstr "Lo mencionó un detective de Osaka, Bessho."
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:15_0_1"
 msgid "me off.{PA:20}"
@@ -97,11 +97,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:16_0_0"
 msgid "Bessho?{PA:20}"
-msgstr ""
+msgstr "¿Bessho?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:17_0_0"
 msgid "You know him?{PA:20}"
-msgstr ""
+msgstr "¿Lo conoce?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:18_0_0"
 msgid "Used to be with Kamuro Precinct Division 4.{PA:20}"
@@ -141,7 +141,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:25_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:26_0_0"
 msgid "I doubt I'll ever be able to forgive him.{PA:20}"
@@ -169,11 +169,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:30_0_0"
 msgid "We were investigating some illegal aliens,{PA:10}"
-msgstr ""
+msgstr "Investigábamos casos de inmigración ilegal.{PA:10}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:31_0_0"
 msgid "trying to track down a murder suspect.{PA:20}"
-msgstr ""
+msgstr "En un caso, debíamos dar con un sospechoso de homicidio.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:32_0_0"
 msgid "Kawara was just a rank-and-file cop,{PA:10} but"
@@ -201,7 +201,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:35_0_0"
 msgid "What happened?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasó?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:36_0_0"
 msgid "The immigrants resisted,{PA:10} so Kawara pulled"
@@ -297,7 +297,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:51_0_0"
 msgid "It sounds like Kawara's got some deep scars.{PA:20}"
-msgstr ""
+msgstr "Es como si Kawara tuviera motivos ocultos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:52_0_0"
 msgid "I get the same feeling,{PA:10} but he never went"
@@ -305,7 +305,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:52_0_1"
 msgid "into it.{PA:20}"
-msgstr ""
+msgstr "puedes!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:53_0_0"
 msgid "It's not just that he hates foreigners.{PA:20}.{PA:20}.{PA:20}"
@@ -325,15 +325,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:56_0_0"
 msgid "Date.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Fech{PA:20}{PA:20}a{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:57_0_0"
 msgid "He's got some seriously heavy baggage.{PA:20}"
-msgstr ""
+msgstr "Siento que lo de él es algo muy personal.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:58_0_0"
 msgid "I just wish I could understand him.{PA:20}"
-msgstr ""
+msgstr "Quisiera poder comprenderlo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:59_0_0"
 msgid "Despite everything,{PA:10} you still"
@@ -345,5 +345,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER07/SCENE_07_0020.DAT/6___FILE.BIN::line:60_0_0"
 msgid "Maybe so.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Tal vez.{PA:20}.{PA:20}.{PA:20}"
 

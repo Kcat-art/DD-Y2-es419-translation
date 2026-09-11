@@ -21,11 +21,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0040.DAT/1___FILE.BIN::line:1_0_0"
 msgid "there'll be no avoiding bloodshed.{PA:20}"
-msgstr ""
+msgstr "no habrá forma de evitar la matanza.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0040.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Our first priority is finding Chairman Goda.{PA:20}"
-msgstr ""
+msgstr "Entonces, tenemos que encontrar al||presidente Goda lo más pronto posible.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0040.DAT/1___FILE.BIN::line:3_0_0"
 msgid "If we can sign that truce,{PA:10} the Go-Ryu won't"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0040.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Hey!{PA:20} Who the hell are they?{PA:20}"
-msgstr ""
+msgstr "¡Eh! {PA:20}¡¿Quién carajos son esos?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0040.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What the fuck's going on?!{PA:20}"

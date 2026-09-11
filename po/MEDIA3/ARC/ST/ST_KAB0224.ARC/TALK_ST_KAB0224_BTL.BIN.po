@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0224.ARC/TALK_ST_KAB0224_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0224.ARC/TALK_ST_KAB0224_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0224.ARC/TALK_ST_KAB0224_BTL.BIN::line:140_0_0"
 msgid "Cyclops Oba"
-msgstr ""
+msgstr "Oba el Cíclope"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0224.ARC/TALK_ST_KAB0224_BTL.BIN::line:141_0_0"
 msgid "Generic 1"
@@ -57,5 +57,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0224.ARC/TALK_ST_KAB0224_BTL.BIN::line:142_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

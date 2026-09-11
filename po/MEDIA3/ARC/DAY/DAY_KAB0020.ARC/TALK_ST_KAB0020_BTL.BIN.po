@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0020.ARC/TALK_ST_KAB0020_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0020.ARC/TALK_ST_KAB0020_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0020.ARC/TALK_ST_KAB0020_BTL.BIN::line:139_0_0"
 msgid "Pink St.{PA:20}"
-msgstr ""
+msgstr "Calle Pink{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0020.ARC/TALK_ST_KAB0020_BTL.BIN::line:140_0_0"
 msgid "Generic 1"
@@ -81,5 +81,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0020.ARC/TALK_ST_KAB0020_BTL.BIN::line:148_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

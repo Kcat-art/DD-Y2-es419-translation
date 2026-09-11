@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::name:0"
 msgid "Shady Man"
-msgstr ""
+msgstr "Hombre sospechoso"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::name:1"
 msgid "Yakuza"
-msgstr ""
+msgstr "Yakuza"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::name:2"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::name:3"
 msgid "Erudite Yakuza"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::name:4"
 msgid "Kamiyama"
-msgstr ""
+msgstr "Kamiyama"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_0_1"
 msgid "I-I ain't selling a damn thing.{PA:20}||Who said I was?{PA:20} .{PA:20}.{PA:20}.{PA:20}They lied!{PA:20}"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_1_16"
 msgid "(Not my problem.)"
-msgstr ""
+msgstr "No sé."
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_1_17"
 msgid "Hey,{PA:10} c'mon,{PA:10} let the guy go.{PA:20}"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_1_20"
 msgid "Yeah,{PA:10} you're right.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:10}tienes razón.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_1_21"
 msgid "Damn straight I'm right.{PA:20}||Now move along already!{PA:20}"
@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_1_27"
 msgid ".{PA:20}.{PA:20}.{PA:20}Take it.{PA:20}"
-msgstr ""
+msgstr "n{PA:20}{PA:20}o{PA:20} puedo{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_1_28"
 msgid "280.{PA:20}.{PA:20}.{PA:20} 290.{PA:20}.{PA:20}.{PA:20} 300,{PA:10}000 yen.{PA:20} Thank you kindly.{PA:20}||We'll be seeing you.{PA:20}"
@@ -173,7 +173,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_8"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20} sir.{PA:20}"
-msgstr ""
+msgstr "¡G-Gracias, {PA:20}s{PA:20}e{PA:20}ñor!{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_9"
 msgid "What were you thinking?{PA:20}"
@@ -185,7 +185,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_11"
 msgid "I'm sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Lo siento.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_12"
 msgid "I had a working agreement with Mr.{PA:20} Majima,{PA:10}||b-back when he was still in charge.{PA:20}.{PA:20}.{PA:20}"
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_13"
 msgid "Majima?{PA:20}"
-msgstr ""
+msgstr "majima{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_14"
 msgid "Why not give those guys the money you used||to pay Majima,{PA:10} then?{PA:20}"
@@ -261,7 +261,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_45"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_47"
 msgid "\"Knife Magician\",{PA:10} right?{PA:20}"
@@ -269,7 +269,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_49"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_51"
 msgid "\"Combat Legend Takeshi\",{PA:10} right?{PA:20}"
@@ -277,7 +277,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_53"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_55"
 msgid "\"The Chop Master\",{PA:10} right?{PA:20}"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_57"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_59"
 msgid "\"The Kancho Master\",{PA:10} right?{PA:20}"
@@ -293,7 +293,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_61"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_63"
 msgid "\"The Karate Master\",{PA:10} right?{PA:20}"
@@ -301,7 +301,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_65"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_67"
 msgid "\"The Military Master\",{PA:10} right?{PA:20}"
@@ -309,7 +309,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_69"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_71"
 msgid "\"Exploding Demon Fist!{PA:20}\",{PA:10} right?{PA:20}"
@@ -317,7 +317,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_73"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_75"
 msgid "\"Deadly Thumb Wrestling!{PA:20}\",{PA:10} right?{PA:20}"
@@ -325,7 +325,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_77"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_79"
 msgid "\"Brain Busters\",{PA:10} right?{PA:20}"
@@ -333,7 +333,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_81"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_83"
 msgid "\"Ascension: Secrets of India!{PA:20}\",{PA:10} right?{PA:20}"
@@ -341,7 +341,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_85"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_87"
 msgid "\"Secrets of the Philippines!{PA:20}\",{PA:10} right?{PA:20}"
@@ -349,7 +349,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_89"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_91"
 msgid "\"Super Kung Fu Man\",{PA:10} right?{PA:20}"
@@ -357,11 +357,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_2_93"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_0"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20} sir.{PA:20}"
-msgstr ""
+msgstr "¡G-Gracias, {PA:20}s{PA:20}e{PA:20}ñor!{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_1"
 msgid "What were you thinking?{PA:20}"
@@ -373,7 +373,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_3"
 msgid "I'm sorry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Lo siento.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_4"
 msgid "I had a working agreement with Mr.{PA:20} Majima,{PA:10}||b-back when he was still in charge.{PA:20}.{PA:20}.{PA:20}"
@@ -381,7 +381,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_5"
 msgid "Majima?{PA:20}"
-msgstr ""
+msgstr "majima{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_6"
 msgid "Why not give those guys the money you used||to pay Majima,{PA:10} then?{PA:20}"
@@ -449,7 +449,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_37"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_39"
 msgid "\"Knife Magician\",{PA:10} right?{PA:20}"
@@ -457,7 +457,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_41"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_43"
 msgid "「コンバット伝説 タケシ」でいいですか？{PA:20}"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_45"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_47"
 msgid "\"The Chop Master\",{PA:10} right?{PA:20}"
@@ -473,7 +473,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_49"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_51"
 msgid "\"The Kancho Master\",{PA:10} right?{PA:20}"
@@ -481,7 +481,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_53"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_55"
 msgid "\"The Karate Master\",{PA:10} right?{PA:20}"
@@ -489,7 +489,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_57"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_59"
 msgid "\"The Military Master\",{PA:10} right?{PA:20}"
@@ -497,7 +497,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_61"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_63"
 msgid "\"Exploding Demon Fist!{PA:20}\",{PA:10} right?{PA:20}"
@@ -505,7 +505,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_65"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_67"
 msgid "\"Deadly Thumb Wrestling!{PA:20}\",{PA:10} right?{PA:20}"
@@ -513,7 +513,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_69"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_71"
 msgid "\"Brain Busters\",{PA:10} right?{PA:20}"
@@ -521,7 +521,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_73"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_75"
 msgid "\"Ascension: Secrets of India!{PA:20}\",{PA:10} right?{PA:20}"
@@ -529,7 +529,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_77"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_79"
 msgid "\"Secrets of the Philippines!{PA:20}\",{PA:10} right?{PA:20}"
@@ -537,7 +537,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_81"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_83"
 msgid "\"Super Kung Fu Man\",{PA:10} right?{PA:20}"
@@ -545,7 +545,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_3_85"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_3"
 msgid "O-Oh.{PA:20}.{PA:20}.{PA:20} It's you.{PA:20}||W-Welcome back.{PA:20}"
@@ -613,7 +613,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_40"
 msgid "O-Oh,{PA:10} okay.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "O-Oh. {PA:10}Está bie{PA:20}n{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_41"
 msgid "\"The Real Yakuza Story\",{PA:10} right?{PA:20}"
@@ -621,7 +621,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_43"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_45"
 msgid "\"Knife Magician\",{PA:10} right?{PA:20}"
@@ -629,7 +629,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_47"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_49"
 msgid "\"Combat Legend Takeshi\",{PA:10} right?{PA:20}"
@@ -637,7 +637,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_51"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_53"
 msgid "\"The Chop Master\",{PA:10} right?{PA:20}"
@@ -645,7 +645,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_55"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_57"
 msgid "\"The Kancho Master\",{PA:10} right?{PA:20}"
@@ -653,7 +653,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_59"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_61"
 msgid "\"The Karate Master\",{PA:10} right?{PA:20}"
@@ -661,7 +661,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_63"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_65"
 msgid "\"The Military Master\",{PA:10} right?{PA:20}"
@@ -669,7 +669,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_67"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_69"
 msgid "\"Exploding Demon Fist!{PA:20}\",{PA:10} right?{PA:20}"
@@ -677,7 +677,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_71"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_73"
 msgid "\"Deadly Thumb Wrestling!{PA:20}\",{PA:10} right?{PA:20}"
@@ -685,7 +685,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_75"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_77"
 msgid "\"Brain Busters\",{PA:10} right?{PA:20}"
@@ -693,7 +693,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_79"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_81"
 msgid "\"Ascension: Secrets of India!{PA:20}\",{PA:10} right?{PA:20}"
@@ -701,7 +701,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_83"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_85"
 msgid "\"Secrets of the Philippines!{PA:20}\",{PA:10} right?{PA:20}"
@@ -709,7 +709,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_87"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_89"
 msgid "\"Super Kung Fu Man\",{PA:10} right?{PA:20}"
@@ -717,7 +717,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_4_91"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_1"
 msgid "O-Oh.{PA:20}.{PA:20}.{PA:20} It's you.{PA:20}||W-Welcome back.{PA:20}"
@@ -749,7 +749,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_21"
 msgid "O-Oh,{PA:10} okay.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "O-Oh. {PA:10}Está bie{PA:20}n{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_22"
 msgid "\"The Real Yakuza Story\",{PA:10} right?{PA:20}"
@@ -757,7 +757,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_24"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_26"
 msgid "\"Knife Magician\",{PA:10} right?{PA:20}"
@@ -765,7 +765,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_28"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_30"
 msgid "\"Combat Legend Takeshi\",{PA:10} right?{PA:20}"
@@ -773,7 +773,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_32"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_34"
 msgid "\"The Chop Master\",{PA:10} right?{PA:20}"
@@ -781,7 +781,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_36"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_38"
 msgid "\"The Kancho Master\",{PA:10} right?{PA:20}"
@@ -789,7 +789,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_40"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_42"
 msgid "\"The Karate Master\",{PA:10} right?{PA:20}"
@@ -797,7 +797,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_44"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_46"
 msgid "\"The Military Master\",{PA:10} right?{PA:20}"
@@ -805,7 +805,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_48"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_50"
 msgid "\"Exploding Demon Fist!{PA:20}\",{PA:10} right?{PA:20}"
@@ -813,7 +813,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_52"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_54"
 msgid "\"Deadly Thumb Wrestling!{PA:20}\",{PA:10} right?{PA:20}"
@@ -821,7 +821,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_56"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_58"
 msgid "\"Brain Busters\",{PA:10} right?{PA:20}"
@@ -829,7 +829,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_60"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_62"
 msgid "\"Ascension: Secrets of India!{PA:20}\",{PA:10} right?{PA:20}"
@@ -837,7 +837,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_64"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_66"
 msgid "\"Secrets of the Philippines!{PA:20}\",{PA:10} right?{PA:20}"
@@ -845,7 +845,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_68"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_70"
 msgid "\"Super Kung Fu Man\",{PA:10} right?{PA:20}"
@@ -853,7 +853,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_72"
 msgid "Th-Thank you.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "G-Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:138_5_75"
 msgid "S-See you around.{PA:20}.{PA:20}.{PA:20}"
@@ -877,7 +877,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:142_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:142_5_0"
 msgid "Experience points:"
@@ -897,15 +897,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:144_0_0"
 msgid "Imai"
-msgstr ""
+msgstr "Imai"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:145_0_0"
 msgid "Uchida"
-msgstr ""
+msgstr "Uchida"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:146_0_0"
 msgid "Tsuchida"
-msgstr ""
+msgstr "Tsuchida"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:147_0_0"
 msgid "Generic 1"
@@ -941,15 +941,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:155_0_0"
 msgid "Shirai"
-msgstr ""
+msgstr "Shirai"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:156_0_0"
 msgid "Kasai"
-msgstr ""
+msgstr "Kasai"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:157_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:158_0_0"
 msgid "Nonomura"
@@ -961,23 +961,23 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:160_0_0"
 msgid "Man in Black"
-msgstr ""
+msgstr "Hombre de Negro"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:161_0_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:161_1_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:162_0_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:162_1_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:163_0_0"
 msgid "That's unreasonable.{PA:20}"
@@ -985,15 +985,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:163_1_0"
 msgid "You're right.{PA:20}"
-msgstr ""
+msgstr "Tienes razón.{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:164_0_0"
 msgid "Don't pay.{PA:20}"
-msgstr ""
+msgstr "No pagar{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:164_1_0"
 msgid "Pay.{PA:20}"
-msgstr ""
+msgstr "Pagar{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:165_0_0"
 msgid "The Real Yakuza Story"
@@ -1017,15 +1017,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:165_5_0"
 msgid "Super Kung Fu Man"
-msgstr ""
+msgstr "Super Kung Fu Man"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:165_6_0"
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:165_7_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:166_0_0"
 msgid "Exploding Demon Fist!{PA:20}"
@@ -1049,115 +1049,115 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:166_5_0"
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:166_6_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:167_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:167_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:168_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:168_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:169_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:169_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:170_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:170_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:171_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:171_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:172_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:172_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:173_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:173_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:174_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:174_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:175_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:175_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:176_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:176_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:177_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:177_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:178_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:178_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:179_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:179_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:180_0_0"
 msgid "The Real Yakuza Story"
@@ -1181,15 +1181,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:180_5_0"
 msgid "Super Kung Fu Man"
-msgstr ""
+msgstr "Super Kung Fu Man"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:180_6_0"
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:180_7_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:181_0_0"
 msgid "Exploding Demon Fist!{PA:20}"
@@ -1213,119 +1213,119 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:181_5_0"
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:181_6_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:182_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:182_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:183_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:183_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:184_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:184_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:185_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:185_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:186_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:186_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:187_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:187_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:188_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:188_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:189_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:189_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:190_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:190_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:191_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:191_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:192_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:192_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:193_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:193_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:194_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:194_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:195_0_0"
 msgid "Weapons.{PA:20}"
-msgstr ""
+msgstr "Armas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:195_1_0"
 msgid "Videos.{PA:20}"
@@ -1333,7 +1333,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:196_0_0"
 msgid "Weapons.{PA:20}"
-msgstr ""
+msgstr "Armas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:196_1_0"
 msgid "Videos.{PA:20}"
@@ -1341,7 +1341,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:197_0_0"
 msgid "Weapons.{PA:20}"
-msgstr ""
+msgstr "Armas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:197_1_0"
 msgid "Videos.{PA:20}"
@@ -1349,7 +1349,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:198_0_0"
 msgid "Weapons.{PA:20}"
-msgstr ""
+msgstr "Armas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:198_1_0"
 msgid "Videos.{PA:20}"
@@ -1377,15 +1377,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:199_5_0"
 msgid "Super Kung Fu Man"
-msgstr ""
+msgstr "Super Kung Fu Man"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:199_6_0"
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:199_7_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:200_0_0"
 msgid "Exploding Demon Fist!{PA:20}"
@@ -1409,119 +1409,119 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:200_5_0"
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:200_6_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:201_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:201_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:202_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:202_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:203_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:203_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:204_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:204_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:205_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:205_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:206_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:206_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:207_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:207_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:208_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:208_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:209_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:209_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:210_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:210_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:211_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:211_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:212_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:212_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:213_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:213_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:214_0_0"
 msgid "Weapons.{PA:20}"
-msgstr ""
+msgstr "Armas{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:214_1_0"
 msgid "Videos.{PA:20}"
@@ -1549,15 +1549,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:215_5_0"
 msgid "Super Kung Fu Man"
-msgstr ""
+msgstr "Super Kung Fu Man"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:215_6_0"
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:215_7_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:216_0_0"
 msgid "Exploding Demon Fist!{PA:20}"
@@ -1581,113 +1581,113 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:216_5_0"
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:216_6_0"
 msgid "Leave"
-msgstr ""
+msgstr "Irse"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:217_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:217_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:218_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:218_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:219_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:219_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:220_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:220_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:221_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:221_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:222_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:222_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:223_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:223_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:224_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:224_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:225_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:225_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:226_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:226_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:227_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:227_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:228_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:228_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:229_0_0"
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0072.ARC/TALK_ST_KAB0072_BTL.BIN::line:229_1_0"
 msgid "Don't buy"
-msgstr ""
+msgstr "No comprar"
 

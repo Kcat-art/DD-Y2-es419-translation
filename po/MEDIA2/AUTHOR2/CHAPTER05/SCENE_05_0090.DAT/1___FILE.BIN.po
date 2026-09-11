@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Ladies and gentlemen!{PA:20}"
-msgstr ""
+msgstr "¡Damas y caballeros!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:1_0_0"
 msgid "At long last,{PA:10} the Dragon of Dojima returns"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Who will victory smile upon tonight?!{PA:20}"
-msgstr ""
+msgstr "¿Quién saldrá victorioso?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0090.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Here's the gong!{PA:20}"

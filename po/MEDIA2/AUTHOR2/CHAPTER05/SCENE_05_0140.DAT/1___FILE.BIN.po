@@ -33,15 +33,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Oye.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Aren't you scared?{PA:20}"
-msgstr ""
+msgstr "¿no tienes miedo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Of what?{PA:20}"
-msgstr ""
+msgstr "¿De qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Finding out about your past.{PA:20}"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:7_0_0"
 msgid "What kind of question is that?{PA:20}"
-msgstr ""
+msgstr "¿Por qué me preguntas eso?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Hear me out.{PA:20}"
@@ -65,11 +65,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:11_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:12_0_0"
 msgid "I learned that last year.{PA:20}"
-msgstr ""
+msgstr "Descubrí eso el año pasado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:13_0_0"
 msgid "The man who killed them was the one who led"
@@ -97,11 +97,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:17_0_0"
 msgid "But what about you?{PA:20}"
-msgstr ""
+msgstr "Pero... ¿qué hubieras hecho tú en mi lugar?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:18_0_0"
 msgid "If it were me.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Si yo estuviera en tu luga{PA:20}r.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:19_0_0"
 msgid "If I learned who killed my parents.{PA:20}.{PA:20}.{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Of course I'm scared to find out.{PA:20}"
-msgstr ""
+msgstr "Me da mucho miedo saber la verdad.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:22_0_0"
 msgid "But that won't stop me.{PA:20}"
@@ -125,11 +125,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:23_0_0"
 msgid "This is the road I've chosen.{PA:20}"
-msgstr ""
+msgstr "Este es el camino que yo elegí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:24_0_0"
 msgid "I see.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Entiendo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:25_0_0"
 msgid "Then use me.{PA:20}"
@@ -149,7 +149,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:28_0_0"
 msgid "You mean that?{PA:20}"
-msgstr ""
+msgstr "¿Hablas en serio?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:29_0_0"
 msgid "You were a Tojo member,{PA:10} weren't you?{PA:20}"
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:30_0_0"
 msgid "I'm not proud of my life as a yakuza.{PA:20}"
-msgstr ""
+msgstr "No siento orgullo de mi antigua vida.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:31_0_0"
 msgid "And if you had something to do with it?{PA:20}"
@@ -181,19 +181,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:34_0_0"
 msgid "Right.{PA:20}.{PA:20}.{PA:20} I'll do that.{PA:20}"
-msgstr ""
+msgstr "Sí..., {PA:20}e{PA:20}s{PA:20}o es lo que haré.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:35_0_0"
 msgid "Where are you going?{PA:20}"
-msgstr ""
+msgstr "¿Adónde vas?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:36_0_0"
 msgid "To do my job.{PA:20}"
-msgstr ""
+msgstr "A hacer mi trabajo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:37_0_0"
 msgid "What job?{PA:20}"
-msgstr ""
+msgstr "¿Qué trabajo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0140.DAT/1___FILE.BIN::line:38_0_0"
 msgid "Protecting you.{PA:20}"

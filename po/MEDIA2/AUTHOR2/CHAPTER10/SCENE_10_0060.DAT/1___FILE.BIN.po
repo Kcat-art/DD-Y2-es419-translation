@@ -41,11 +41,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0060.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Get out of here.{PA:20}"
-msgstr ""
+msgstr "¡Vete de aquí!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0060.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Th-thanks!{PA:20}"
-msgstr ""
+msgstr "Gracias...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0060.DAT/1___FILE.BIN::line:6_1_0"
 msgid "Locate(BottomCenter)"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0060.DAT/1___FILE.BIN::line:8_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0060.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Damn,{PA:10} woman.{PA:20}.{PA:20}.{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0060.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Who the fuck are you?{PA:20}"
-msgstr ""
+msgstr "¿Y tú quién mierda eres?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER10/SCENE_10_0060.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Her bodyguard.{PA:20}"

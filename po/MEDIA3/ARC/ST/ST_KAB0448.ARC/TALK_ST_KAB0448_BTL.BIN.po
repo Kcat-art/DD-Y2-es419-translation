@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0448.ARC/TALK_ST_KAB0448_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0448.ARC/TALK_ST_KAB0448_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -53,11 +53,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0448.ARC/TALK_ST_KAB0448_BTL.BIN::line:142_0_0"
 msgid "Kojima"
-msgstr ""
+msgstr "Kojima"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0448.ARC/TALK_ST_KAB0448_BTL.BIN::line:143_0_0"
 msgid "Koyanagi"
-msgstr ""
+msgstr "Koyanagi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0448.ARC/TALK_ST_KAB0448_BTL.BIN::line:144_0_0"
 msgid "Generic 1"
@@ -81,5 +81,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0448.ARC/TALK_ST_KAB0448_BTL.BIN::line:149_0_0"
 msgid "Satoshi"
-msgstr ""
+msgstr "Satoshi"
 

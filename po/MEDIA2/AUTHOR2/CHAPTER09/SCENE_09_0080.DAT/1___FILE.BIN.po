@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0080.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Who the fuck is this clown?!{PA:20}"
-msgstr ""
+msgstr "¡¿Quién es este?!{PA:20}"
 

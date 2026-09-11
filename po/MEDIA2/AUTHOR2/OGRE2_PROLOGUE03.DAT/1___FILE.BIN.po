@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Terada,{PA:10} from the Omi Alliance.{PA:20}"
-msgstr ""
+msgstr "Tereda{PA:10}, de la Alianza Omi.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:13_0_0"
 msgid "The people Fuma led me to meet gave me"
@@ -129,7 +129,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Kazuma Kiryu.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kazuma Kiryu.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:16_1_0"
 msgid "Locate(BottomCenter)"
@@ -257,7 +257,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:32_0_0"
 msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:32_0_1"
 msgid "It was Yumi,{PA:10} Sera,{PA:10} and I.{PA:20}"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:36_0_0"
 msgid "Haruka!{PA:20}"
-msgstr ""
+msgstr "¡Haruka!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:36_0_1"
 msgid "Oyabun!{PA:20}"
@@ -305,7 +305,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:39_0_0"
 msgid "Kazuma.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:39_1_0"
 msgid "Locate(BottomCenter)"
@@ -321,7 +321,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Who.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¿Llamar a q{PA:20}ui{PA:20}én?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:41_0_1"
 msgid "killed your parents.{PA:20}"
@@ -333,7 +333,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:42_0_0"
 msgid "It was me.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "... Fui y{PA:20}o{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:42_1_0"
 msgid "Locate(BottomCenter)"
@@ -341,7 +341,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:43_0_0"
 msgid "It doesn't matter,{PA:10}"
-msgstr ""
+msgstr "Olvídelo.{PA:10}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE03.DAT/1___FILE.BIN::line:43_0_1"
 msgid "that's in the past.{PA:20}"

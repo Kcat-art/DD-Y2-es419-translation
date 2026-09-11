@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0285.ARC/TALK_ST_KAB0285_BTL.BIN::line:182_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0285.ARC/TALK_ST_KAB0285_BTL.BIN::line:182_5_0"
 msgid "Experience points:"
@@ -53,17 +53,17 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0285.ARC/TALK_ST_KAB0285_BTL.BIN::line:184_0_0"
 msgid "Sugihara"
-msgstr ""
+msgstr "Sugihara"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0285.ARC/TALK_ST_KAB0285_BTL.BIN::line:185_0_0"
 msgid "Kuriyama"
-msgstr ""
+msgstr "Kuriyama"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0285.ARC/TALK_ST_KAB0285_BTL.BIN::line:186_0_0"
 msgid "Sawada"
-msgstr ""
+msgstr "Sawada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0285.ARC/TALK_ST_KAB0285_BTL.BIN::line:187_0_0"
 msgid "Ryuji Goda"
-msgstr ""
+msgstr "Ryuji Goda"
 

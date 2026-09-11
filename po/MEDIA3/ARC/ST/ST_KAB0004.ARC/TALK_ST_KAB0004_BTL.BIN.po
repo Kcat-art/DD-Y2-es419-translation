@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::name:2"
 msgid "Woman"
-msgstr ""
+msgstr "Mujer"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::name:3"
 msgid "Sengoku Member"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:147_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:147_5_0"
 msgid "Experience points:"
@@ -101,11 +101,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:148_0_0"
 msgid "Theater Ave.{PA:20}"
-msgstr ""
+msgstr "Avda. del Teatro{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:149_0_0"
 msgid "Yen Long"
-msgstr ""
+msgstr "Yen Long"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:150_0_0"
 msgid "Jingweon Mafia A"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:165_0_0"
 msgid "Shirai"
-msgstr ""
+msgstr "Shirai"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:166_0_0"
 msgid "Triad Member A"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:170_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:171_0_0"
 msgid "Suzumoto"
@@ -201,5 +201,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0004.ARC/TALK_ST_KAB0004_BTL.BIN::line:173_0_0"
 msgid "Kuroda"
-msgstr ""
+msgstr "Kuroda"
 

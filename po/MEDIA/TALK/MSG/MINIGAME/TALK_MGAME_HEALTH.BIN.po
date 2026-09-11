@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::name:1"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}.{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_0_3"
 msgid "Sorry to keep you waiting.{PA:20}"
-msgstr ""
+msgstr "¡Siento haberlos hecho esperar!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_1_0"
 msgid "Thanks for coming!{PA:20}||This way please.{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_2_1"
 msgid "Well.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Es que{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_2_2"
 msgid "Hm.{PA:20}.{PA:20}.{PA:20} You seem ripe for a massage!{PA:20}||Please lie down.{PA:20}"
@@ -77,23 +77,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_6_0"
 msgid "Come again!{PA:20}"
-msgstr ""
+msgstr "¡Vuelva pronto!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:0_6_1"
 msgid ".{PA:20}.{PA:20}.{PA:20}Sure.{PA:20}"
-msgstr ""
+msgstr "C{PA:20}l{PA:20}{PA:20}aro.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:1_0_0"
 msgid "View controls?{PA:20}"
-msgstr ""
+msgstr "Ver controles{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:1_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:1_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:2_0_0"
 msgid "Raise"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:2_2_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_HEALTH.BIN::line:3_0_0"
 msgid "Use the two buttons and press repeatedly||to stay within the gauge.{PA:20}"

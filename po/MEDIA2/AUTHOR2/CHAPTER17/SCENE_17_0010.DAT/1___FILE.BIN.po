@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Oye.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "You smell good.{PA:20}"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Same as.{PA:20}.{PA:20}.{PA:20} Mom did.{PA:20}"
-msgstr ""
+msgstr "Igual qu{PA:20}e{PA:20}{PA:20}... mamá.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:3_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Remember her at all?{PA:20}"
@@ -33,11 +33,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Damn.{PA:20}"
-msgstr ""
+msgstr "Maldición...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Sorry to hear it.{PA:20}"
-msgstr ""
+msgstr "Lamento oír eso.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Lost her before ya were.{PA:20}.{PA:20}.{PA:20} old enough to"
@@ -49,11 +49,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:8_0_0"
 msgid "What was.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¿Cómo era..{PA:20}.{PA:20}?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:9_0_0"
 msgid "What was she like?{PA:20}"
-msgstr ""
+msgstr "¿Cómo era ella?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:10_0_0"
 msgid "She looked a.{PA:20}.{PA:20}.{PA:20} lot like you.{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:12_0_0"
 msgid "I thought o' her.{PA:20}"
-msgstr ""
+msgstr "me recordaste a ella.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Damn,{PA:10} wish I'd known.{PA:20}.{PA:20}.{PA:20}"
@@ -85,11 +85,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Got too much Jingweon blood in me.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "corre demasiada sangre Jingwon en mí.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Death woulda found me one way or another.{PA:20}"
-msgstr ""
+msgstr "La muerte me habría encontrado de un modo u otro...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Heh.{PA:20}.{PA:20}.{PA:20} Made it further 'n I thought.{PA:20}"
@@ -97,7 +97,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Hey.{PA:20}.{PA:20}.{PA:20} Gimme a smile.{PA:20}"
-msgstr ""
+msgstr "Quier{PA:20}o{PA:20} {PA:20}ver... tu sonrisa.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Always used ta.{PA:20}.{PA:20}.{PA:20} love Mom's smile.{PA:20}.{PA:20}.{PA:20}"
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Brother.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Hermano.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Such a.{PA:20}.{PA:20}.{PA:20} pretty smile.{PA:20}"
@@ -125,11 +125,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:27_0_0"
 msgid "Uncle Kaz!{PA:20}"
-msgstr ""
+msgstr "¡Tío Kaz!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:28_0_0"
 msgid "Kazuma!{PA:20}"
-msgstr ""
+msgstr "¡Kazuma!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:29_0_0"
 msgid "We've got to get out of here,{PA:10} now!{PA:20}"
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:30_0_0"
 msgid "You go.{PA:20}.{PA:20}.{PA:20} Run.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Escapa t{PA:20}ú.{PA:20}.{PA:20}. Corr{PA:20}e{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:31_0_0"
 msgid "What are you,{PA:10} crazy?!{PA:20}"
@@ -157,11 +157,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:34_0_0"
 msgid "You need to save yourself!{PA:20}"
-msgstr ""
+msgstr "¡Tienes que salvarte!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:35_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Fine.{PA:20}"
-msgstr ""
+msgstr "A {PA:20}su{PA:20}s {PA:20}órdenes...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:36_0_0"
 msgid "Then I'm staying here with you.{PA:20}"
@@ -169,7 +169,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:37_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:38_0_0"
 msgid "I can't just leave you!{PA:20}"
@@ -185,11 +185,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:41_0_0"
 msgid "Hurry.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Dese... pris{PA:20}a.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:42_0_0"
 msgid "Hurry!{PA:20}"
-msgstr ""
+msgstr "¡Rápido!...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:43_0_0"
 msgid "You've got to go!{PA:20}"
@@ -197,7 +197,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:44_0_0"
 msgid "Shut up!{PA:20}"
-msgstr ""
+msgstr "¡Cállate!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:45_0_0"
 msgid "I'm staying with you!{PA:20}"
@@ -205,7 +205,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:46_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Kaoru.{PA:20}"
-msgstr ""
+msgstr "K{PA:20}a{PA:20}o{PA:20}ru...,{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:47_0_0"
 msgid "Kazuma!{PA:20} Can you hear me?!{PA:20}"
@@ -229,15 +229,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:51_0_0"
 msgid "Kazuma.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:52_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Uncle Kaz!{PA:20}"
-msgstr ""
+msgstr "¡{PA:20}{PA:20}T{PA:20}ío Kaz!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:53_0_0"
 msgid "Less than a minute left.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Falta menos de un minuto.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:54_0_0"
 msgid "Poor Haruka.{PA:20}.{PA:20}.{PA:20} We let her down.{PA:20}"
@@ -245,7 +245,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:55_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:20}{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:56_0_0"
 msgid "But I know she'll understand.{PA:20}"
@@ -253,15 +253,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:57_0_0"
 msgid "You're right.{PA:20}.{PA:20}.{PA:20} She's a smart girl.{PA:20}"
-msgstr ""
+msgstr "Tienes razón..., {PA:20}e{PA:20}s{PA:20} una niña muy inteligente.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:58_0_0"
 msgid "Are you scared?{PA:20}"
-msgstr ""
+msgstr "¿Tienes miedo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:59_0_0"
 msgid "Course.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Por supues{PA:20}to{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:60_0_0"
 msgid "But this's the first time I've felt so warm.{PA:20}.{PA:20}.{PA:20}"
@@ -269,5 +269,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER17/SCENE_17_0010.DAT/1___FILE.BIN::line:61_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Sí..{PA:20}{PA:20}.{PA:20}"
 

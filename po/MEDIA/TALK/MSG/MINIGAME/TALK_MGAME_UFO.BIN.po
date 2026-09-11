@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:0_0_0"
 msgid "Play again"
-msgstr ""
+msgstr "Volver a jugar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:0_1_0"
 msgid "Give up"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:1_0_0"
 msgid "Move crane"
-msgstr ""
+msgstr "Mover garra"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:1_1_0"
 msgid "Move view"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:1_2_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:1_3_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:2_0_0"
 msgid "Stop playing?{PA:20}"
@@ -41,9 +41,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:2_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_UFO.BIN::line:2_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 

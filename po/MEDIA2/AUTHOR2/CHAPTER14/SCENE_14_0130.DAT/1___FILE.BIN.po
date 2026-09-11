@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:4_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:5_0_0"
 msgid "The bombs,{PA:10} buddy.{PA:20}"
-msgstr ""
+msgstr "Pues a las bomb{PA:10}as, socio.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Are you saying you didn't put them up to it?{PA:20}"
@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:9_0_0"
 msgid "What are you talking about?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Kamurocho's gonna be mine soon.{PA:20}"
-msgstr ""
+msgstr "Kamurocho pronto será mío.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:11_0_0"
 msgid "I want it lookin' nice when that happens.{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Ryuji.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ryuji.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:13_0_0"
 msgid "When you're done,{PA:10} ya come to me.{PA:20}"
@@ -89,11 +89,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:16_0_0"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:17_0_0"
 msgid "No interruptions this time.{PA:20}"
-msgstr ""
+msgstr "Y esta vez pelearemos como es debido.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Just you and me.{PA:20}"
@@ -101,5 +101,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0130.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Fine.{PA:20}"
-msgstr ""
+msgstr "Bien.{PA:20}"
 

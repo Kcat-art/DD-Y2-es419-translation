@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:0_0_0"
 msgid "Not from around here,{PA:10} are ya?{PA:20}"
-msgstr ""
+msgstr "No eres de por aquí, {PA:10}¿verdad?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:1_0_0"
 msgid "No.{PA:20}"
-msgstr ""
+msgstr "No{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:2_0_0"
 msgid "Are ya here on vacation?{PA:20}"
@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:5_0_0"
 msgid "You could say that.{PA:20}"
-msgstr ""
+msgstr "Podría decirse que sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:6_0_0"
 msgid "Hey!{PA:20} We need more honeys for our table!{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:8_0_0"
 msgid "Hey!{PA:20}"
-msgstr ""
+msgstr "¡Oye!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:9_0_0"
 msgid "Ya can't let them see ya looking.{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:13_0_0"
 msgid "I-I'm terribly sorry!{PA:20}"
-msgstr ""
+msgstr "¡L-lo sentimos!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:14_0_0"
 msgid "If ya got the time to stand there bowin',{PA:10}"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:16_0_0"
 msgid "Watch yer fuckin' mouth.{PA:20}"
-msgstr ""
+msgstr "Ya cierren el hocico.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:17_0_0"
 msgid "You can go.{PA:20}"
@@ -97,11 +97,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:18_0_0"
 msgid "But,{PA:10} boss!{PA:20}"
-msgstr ""
+msgstr "Pero {PA:10}jefe...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:19_0_0"
 msgid "Thank you,{PA:10} sir!{PA:20}"
-msgstr ""
+msgstr "¡Gracias, s{PA:10}eñor!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:20_0_0"
 msgid "What a man you are!{PA:20}"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:29_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}What?{PA:20}"
-msgstr ""
+msgstr ".{PA:20}.{PA:20}.{PA:20} ¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:30_0_0"
 msgid "What,{PA:10} ya don't remember?{PA:20}"
@@ -185,19 +185,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:36_0_0"
 msgid "I.{PA:20}.{PA:20}.{PA:20} I'm real sorry!{PA:20}"
-msgstr ""
+msgstr "Lo{PA:20}.{PA:20}..{PA:20} ¡Lo siento mucho!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:37_0_0"
 msgid "Look at ya.{PA:20} Pathetic.{PA:20}"
-msgstr ""
+msgstr "Vaya, te ves{PA:20} patético.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:38_0_0"
 msgid "Get yer ass back on the chair.{PA:20}"
-msgstr ""
+msgstr "Vuelve a tomar asiento.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:39_0_0"
 msgid "Yamada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Yamada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:40_0_0"
 msgid "How long has it been since ya signed"
@@ -217,27 +217,27 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:43_0_0"
 msgid "Uhh.{PA:20}.{PA:20}.{PA:20} Boss?{PA:20}"
-msgstr ""
+msgstr "Este.{PA:20}.{PA:20}. {PA:20}¿Señor?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:44_0_0"
 msgid "So,{PA:10} remembered what ya said yet?{PA:20}"
-msgstr ""
+msgstr "Y b{PA:10}ien, ¿ya recuerdas lo que dijiste?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:45_0_0"
 msgid "Um,{PA:10} I,{PA:10} uh.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Eh, {PA:10}no...{PA:10} Bueno{PA:20}.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:46_0_0"
 msgid "C'mon,{PA:10} drink up.{PA:20}"
-msgstr ""
+msgstr "Anda, b{PA:10}ebe un poco.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:47_0_0"
 msgid "O-Oh,{PA:10} uh.{PA:20}.{PA:20}.{PA:20} Thank you.{PA:20}"
-msgstr ""
+msgstr "S-sí.{PA:10}.. C{PA:20}o{PA:20}n {PA:20}su permiso.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:48_0_0"
 msgid "That jog yer memory?{PA:20}"
-msgstr ""
+msgstr "¡¿Eso te refrescó la memoria?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:49_0_0"
 msgid "Spit it out,{PA:10} boy,{PA:10} what'd ya say?!{PA:20}"
@@ -245,11 +245,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:50_0_0"
 msgid "The Dragon of Kansai.{PA:20}"
-msgstr ""
+msgstr "El Dragón de Kansai.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:51_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}He called you the Dragon of Kansai.{PA:20}"
-msgstr ""
+msgstr "T{PA:20}e{PA:20}{PA:20} llamó el Dragón de Kansai.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:52_0_0"
 msgid "Hey,{PA:10} are ya crazy?!{PA:20}"
@@ -261,7 +261,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:54_0_0"
 msgid "Hold up.{PA:20}"
-msgstr ""
+msgstr "Espera.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:55_0_0"
 msgid "You've got some balls,{PA:10} sayin' that.{PA:20}"
@@ -289,7 +289,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:60_0_0"
 msgid "Want me to sink yer ass in Osaka Bay?!{PA:20}"
-msgstr ""
+msgstr "¡Vamos a hacerte nadar en la bahía de Osaka!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER02/SCENE_02_0031.DAT/2___FILE.BIN::line:61_0_0"
 msgid "Say goodbye!{PA:20}"

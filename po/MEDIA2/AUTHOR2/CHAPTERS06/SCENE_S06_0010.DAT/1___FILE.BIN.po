@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Hey,{PA:10} what's going on?{PA:20}"
-msgstr ""
+msgstr "Oiga, {PA:10}¿qué está pasando aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS06/SCENE_S06_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Looks like a couple are having it out up"

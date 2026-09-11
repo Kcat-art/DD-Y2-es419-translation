@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0120.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Yuya!{PA:20}"
-msgstr ""
+msgstr "¡Yuya!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0120.DAT/1___FILE.BIN::line:1_0_0"
 msgid "He had nothing to do with all this!{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0120.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Ryuji!{PA:20}"
-msgstr ""
+msgstr "¡Ryuji!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0120.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Ooh,{PA:10} I'm shivering.{PA:20}.{PA:20}.{PA:20}"

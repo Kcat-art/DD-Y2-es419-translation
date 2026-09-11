@@ -25,19 +25,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0028.DAT/1___FILE.BIN::line:2_0_0"
 msgid "That's good.{PA:20}"
-msgstr ""
+msgstr "Qué bien.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0028.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Don't suppose it was the Omi,{PA:10} do you?{PA:20}"
-msgstr ""
+msgstr "¿No cree que los Omi hayan tenido alg{PA:10}o que ver?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0028.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Most likely Ryuji Goda.{PA:20}"
-msgstr ""
+msgstr "Lo más seguro es que haya sido Ryuji Goda.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0028.DAT/1___FILE.BIN::line:5_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0028.DAT/1___FILE.BIN::line:6_0_0"
 msgid "I met him last night in Sotenbori.{PA:20}"
@@ -53,9 +53,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0028.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Here we go.{PA:20}"
-msgstr ""
+msgstr "Aquí está.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER03/SCENE_03_0028.DAT/1___FILE.BIN::line:10_0_0"
 msgid "R-Right.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "C-Claro.{PA:20}.{PA:20}.{PA:20}"
 

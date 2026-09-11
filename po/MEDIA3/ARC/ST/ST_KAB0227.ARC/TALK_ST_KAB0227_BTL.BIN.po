@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:142_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:142_5_0"
 msgid "Experience points:"
@@ -85,25 +85,25 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:144_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:144_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:145_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:145_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:146_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0227.ARC/TALK_ST_KAB0227_BTL.BIN::line:146_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 

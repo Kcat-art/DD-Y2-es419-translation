@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS13XX/TALK_ARMS1346.BIN::line:0_0_0"
 msgid "Stun Gun"
-msgstr ""
+msgstr "Arma de electrochoque"
 

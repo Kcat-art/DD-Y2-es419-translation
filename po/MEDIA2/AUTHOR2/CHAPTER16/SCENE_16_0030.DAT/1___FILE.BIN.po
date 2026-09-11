@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Ko!{PA:20}"
-msgstr ""
+msgstr "Ko{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:2_1_0"
 msgid "Locate(BottomCenter)"
@@ -61,15 +61,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Live.{PA:20}"
-msgstr ""
+msgstr "Vivan.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Huh.{PA:20}.{PA:20}.{PA:20}?{PA:20}"
-msgstr ""
+msgstr "¿Eh?{PA:20}.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:8_0_0"
 msgid "You boys are still young.{PA:20}"
-msgstr ""
+msgstr "Ustedes dos son jóvenes.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Don't throw your lives away.{PA:20}"
@@ -77,5 +77,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER16/SCENE_16_0030.DAT/1___FILE.BIN::line:10_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Live.{PA:20}"
-msgstr ""
+msgstr "V{PA:20}i{PA:20}{PA:20}van.{PA:20}"
 

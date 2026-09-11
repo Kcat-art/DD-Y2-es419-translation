@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0007.ARC/TALK_ST_KAB0007_BTL.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0007.ARC/TALK_ST_KAB0007_BTL.BIN::name:1"
 msgid "Il Yu-Jin"
-msgstr ""
+msgstr "I Ru-jeon"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0007.ARC/TALK_ST_KAB0007_BTL.BIN::line:138_2_0"
 msgid "(There's no time for that now.{PA:20} I need to||find a hospital.)"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0007.ARC/TALK_ST_KAB0007_BTL.BIN::line:140_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0007.ARC/TALK_ST_KAB0007_BTL.BIN::line:140_5_0"
 msgid "Experience points:"

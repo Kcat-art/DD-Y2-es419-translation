@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Hey,{PA:10} there you are.{PA:20}"
-msgstr ""
+msgstr "¡Ah{PA:10}, llegaste!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Kazuki!{PA:20}"
-msgstr ""
+msgstr "¡Kazuki!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Mr.{PA:20} Kiryu.{PA:20}.{PA:20}.{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Kazuki.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "¡Kazuk{PA:20}i{PA:20}!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:6_0_1"
 msgid "I'm sorry I got you into this mess.{PA:20}"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:11_0_0"
 msgid "What do you mean?{PA:20}"
-msgstr ""
+msgstr "¿A qué te refieres?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:12_0_0"
 msgid "They had me under lock and key for the last"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:12_0_1"
 msgid "six months.{PA:20}"
-msgstr ""
+msgstr "¡¿Seis meses?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Six months?!{PA:20}"
-msgstr ""
+msgstr "¡¿Seis meses?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:14_0_0"
 msgid "What?!{PA:20} B-but then.{PA:20}.{PA:20}.{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:22_0_0"
 msgid "Most likely.{PA:20}"
-msgstr ""
+msgstr "Es probable...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:23_0_0"
 msgid "Mr.{PA:20} Kiryu,{PA:10} Mr.{PA:20} Date.{PA:20}.{PA:20}.{PA:20}"
@@ -141,15 +141,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:27_0_0"
 msgid "They're planning to destroy the city.{PA:20}"
-msgstr ""
+msgstr "están planeando destruir la ciudad.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:28_0_0"
 msgid "Wh-What?!{PA:20}"
-msgstr ""
+msgstr "¿Cómo?...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:29_0_0"
 msgid "There was more than one bomb.{PA:20}"
-msgstr ""
+msgstr "Hay más de una sola bomba.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:30_0_0"
 msgid "They've already got the whole town rigged.{PA:20}"
@@ -157,27 +157,27 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:31_0_0"
 msgid "What?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:32_0_0"
 msgid "They've been working on this for years.{PA:20}"
-msgstr ""
+msgstr "Llevan mucho tiempo planeando esto.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:33_0_0"
 msgid "Where are the other bombs?{PA:20}"
-msgstr ""
+msgstr "¿Y dónde están las otras?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:34_0_0"
 msgid "All I know is how many there are.{PA:20}"
-msgstr ""
+msgstr "Lo único que sé es cuantas hay.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:35_0_0"
 msgid "How many?{PA:20}"
-msgstr ""
+msgstr "¿Cuántas?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:36_0_0"
 msgid "One of them said.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Uno de ellos dijo..{PA:20}.{PA:20}:{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:37_0_0"
 msgid "\"I've got as many bombs as the brothers'"
@@ -201,15 +201,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:41_0_0"
 msgid "One went off in the Millennium Tower.{PA:20}"
-msgstr ""
+msgstr "Una explotó en la Torre Millennium...,{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:42_0_0"
 msgid "One we took care of along with Kurahashi.{PA:20}"
-msgstr ""
+msgstr "y ya nos encargamos de la que tenía Kurahashi...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:43_0_0"
 msgid "That leaves 31.{PA:20}"
-msgstr ""
+msgstr "Quedarían 31.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:44_0_0"
 msgid "Kazuma,{PA:10} I'll call the station and ask them"
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:46_0_0"
 msgid "Yeah,{PA:10} the bomb squad.{PA:20}"
-msgstr ""
+msgstr "Sí, la {PA:10}División de Explosivos.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:47_0_0"
 msgid "Even if we find them,{PA:10} it'll take a"
@@ -237,5 +237,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0060.DAT/1___FILE.BIN::line:48_0_0"
 msgid "All right.{PA:20}"
-msgstr ""
+msgstr "Está bien.{PA:20}"
 

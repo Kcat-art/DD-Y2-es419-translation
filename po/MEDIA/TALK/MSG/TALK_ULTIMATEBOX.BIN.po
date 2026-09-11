@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:1_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:1_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:2_0_0"
 msgid "Do you want to quit?{PA:20}"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:2_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:2_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_0_0"
 msgid "Try Again"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_1_0"
 msgid "Difficulty"
-msgstr ""
+msgstr "Dificultad"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_2_0"
 msgid "Costume"
@@ -97,15 +97,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_5_0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_6_0"
 msgid "Easy"
-msgstr ""
+msgstr "Fácil"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_7_0"
 msgid "Hard"
-msgstr ""
+msgstr "Difícil"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_8_0"
 msgid "Super Hard"
@@ -125,23 +125,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_12_0"
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_13_0"
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_14_0"
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_15_0"
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_16_0"
 msgid "START"
-msgstr ""
+msgstr "Iniciar"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_17_0"
 msgid "Adjust game difficulty.{PA:20}"
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:3_21_0"
 msgid "Play again.{PA:20}"
-msgstr ""
+msgstr "Volver a jugar{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:4_0_0"
 msgid "Speed Attack Battle Mission"
@@ -509,7 +509,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_1_0"
 msgid "Kiryu at full strength"
@@ -517,7 +517,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_2_0"
 msgid "Stardust"
-msgstr ""
+msgstr "Stardust"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:13_3_0"
 msgid "vs.{PA:20} Shimano Family Thugs"
@@ -541,7 +541,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:14_1_0"
 msgid "Kiryu at full strength"
@@ -573,7 +573,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_1_0"
 msgid "Kiryu at full strength"
@@ -581,7 +581,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_2_0"
 msgid "Purgatory"
-msgstr ""
+msgstr "Purgatorio"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:15_3_0"
 msgid "vs.{PA:20} Purgatory residents"
@@ -605,7 +605,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_1_0"
 msgid "Kiryu at full strength"
@@ -613,7 +613,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_2_0"
 msgid "Serena - Alley"
-msgstr ""
+msgstr "Callejón del Serena"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:16_3_0"
 msgid "vs.{PA:20} Koji Shindo,{PA:10} others"
@@ -637,7 +637,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:17_1_0"
 msgid "Kiryu at full strength"
@@ -669,7 +669,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:18_1_0"
 msgid "Kiryu at full strength"
@@ -701,7 +701,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:19_1_0"
 msgid "Kiryu at full strength"
@@ -733,7 +733,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_1_0"
 msgid "Kiryu at full strength"
@@ -741,7 +741,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_2_0"
 msgid "Shangri-La"
-msgstr ""
+msgstr "Shangri-La"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:20_3_0"
 msgid "vs.{PA:20} Goro Majima,{PA:10} others"
@@ -765,7 +765,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:21_1_0"
 msgid "Kiryu at full strength"
@@ -797,7 +797,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_1_0"
 msgid "Kiryu at full strength"
@@ -805,7 +805,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_2_0"
 msgid "Tenkaichi St.{PA:20}"
-msgstr ""
+msgstr "Calle Tenkaichi{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:22_3_0"
 msgid "vs.{PA:20} Rioters"
@@ -829,7 +829,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_1_0"
 msgid "Kiryu at full strength"
@@ -837,7 +837,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_2_0"
 msgid "Millennium Tower"
-msgstr ""
+msgstr "Torre Millennium"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:23_3_0"
 msgid "vs.{PA:20} MBI"
@@ -861,7 +861,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:24_1_0"
 msgid "Kiryu at full strength"
@@ -925,7 +925,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:26_1_0"
 msgid "Kiryu in his younger days"
@@ -1021,7 +1021,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:29_1_0"
 msgid "Kiryu at full strength"
@@ -1157,7 +1157,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_2_0"
 msgid "Purgatory"
-msgstr ""
+msgstr "Purgatorio"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:33_3_0"
 msgid "vs.{PA:20} Purgatory residents"
@@ -1181,7 +1181,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_1_0"
 msgid "Kiryu at full strength"
@@ -1189,7 +1189,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_2_0"
 msgid "Theater Square"
-msgstr ""
+msgstr "Plaza del Teatro"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:34_3_0"
 msgid "vs.{PA:20} Bloody Eye"
@@ -1213,7 +1213,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_1_0"
 msgid "Kiryu in his younger days"
@@ -1221,7 +1221,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_2_0"
 msgid "Millennium Tower"
-msgstr ""
+msgstr "Torre Millennium"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:35_3_0"
 msgid "vs.{PA:20} Kyohei Jingu,{PA:10} others"
@@ -1285,7 +1285,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_2_0"
 msgid "Park Blvd.{PA:20}"
-msgstr ""
+msgstr "Bulevar del parque{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:37_3_0"
 msgid "vs.{PA:20} Blue Z"
@@ -1349,7 +1349,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_2_0"
 msgid "Highway"
-msgstr ""
+msgstr "Autopista"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:39_3_0"
 msgid "vs.{PA:20} Snake Flower Triad Remnants"
@@ -1373,7 +1373,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_1_0"
 msgid "Kiryu at full strength"
@@ -1381,7 +1381,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_2_0"
 msgid "Paradise"
-msgstr ""
+msgstr "¿El paraíso?..."
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:40_3_0"
 msgid "vs.{PA:20} Bar Staff"
@@ -1405,7 +1405,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:41_1_0"
 msgid "Kiryu at full strength"
@@ -1469,7 +1469,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:43_1_0"
 msgid "Kiryu at full strength"
@@ -1509,7 +1509,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_2_0"
 msgid "Millennium Tower"
-msgstr ""
+msgstr "Torre Millennium"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:44_3_0"
 msgid "vs.{PA:20} MBI"
@@ -1533,7 +1533,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_1_0"
 msgid "Kiryu in his younger days"
@@ -1541,7 +1541,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_2_0"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:45_3_0"
 msgid "vs.{PA:20} Kamurocho residents"
@@ -1573,7 +1573,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_2_0"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:46_3_0"
 msgid "vs.{PA:20} Kamurocho gangsters"
@@ -1597,7 +1597,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_1_0"
 msgid "Kiryu at full strength"
@@ -1605,7 +1605,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_2_0"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:47_3_0"
 msgid "vs.{PA:20} Kamurocho yakuza"
@@ -1629,7 +1629,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:48_1_0"
 msgid "Kiryu in his younger days"
@@ -1661,7 +1661,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:49_1_0"
 msgid "Kiryu in his younger days"
@@ -1693,7 +1693,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:50_1_0"
 msgid "Kiryu in his younger days"
@@ -1725,7 +1725,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:51_1_0"
 msgid "Kiryu in his younger days"
@@ -1757,7 +1757,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_0_0"
 msgid "The Dragon of Dojima"
-msgstr ""
+msgstr "El Dragón de Dojima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:52_1_0"
 msgid "Kiryu in his younger days"
@@ -1893,7 +1893,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_2_0"
 msgid "Serena Alley"
-msgstr ""
+msgstr "Callejón del Serena"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:56_3_0"
 msgid "vs.{PA:20} Koji Shindo,{PA:10} others"
@@ -1981,7 +1981,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:59_1_0"
 msgid "Kiryu at full strength"
@@ -2013,7 +2013,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_1_0"
 msgid "Kiryu at full strength"
@@ -2021,7 +2021,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_2_0"
 msgid "Shangri-La"
-msgstr ""
+msgstr "Shangri-La"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:60_3_0"
 msgid "vs.{PA:20} Goro Majima"
@@ -2045,7 +2045,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:61_1_0"
 msgid "Kiryu at full strength"
@@ -2077,7 +2077,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:62_1_0"
 msgid "Kiryu at full strength"
@@ -2109,7 +2109,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:63_1_0"
 msgid "Kiryu at full strength"
@@ -2141,7 +2141,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:64_1_0"
 msgid "Kiryu at full strength"
@@ -2237,7 +2237,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_0_0"
 msgid "The Legendary Dragon"
-msgstr ""
+msgstr "El dragón legendario"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:67_1_0"
 msgid "Kiryu at full strength"
@@ -2297,7 +2297,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_7_0"
 msgid "Failed"
-msgstr ""
+msgstr "Fallido"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_8_0"
 msgid "- - －"
@@ -2313,7 +2313,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:68_11_0"
 msgid "Failed"
-msgstr ""
+msgstr "Fallido"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ULTIMATEBOX.BIN::line:69_0_0"
 msgid "Course 01 results.{PA:20}||Press {IC:01_03}➿ to go to battle selection screen.{PA:20}"

@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0039.ARC/TALK_ST_KAB0039_BTL.BIN::line:142_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0039.ARC/TALK_ST_KAB0039_BTL.BIN::line:142_5_0"
 msgid "Experience points:"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0039.ARC/TALK_ST_KAB0039_BTL.BIN::line:150_0_0"
 msgid "Ito"
-msgstr ""
+msgstr "Ito"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0039.ARC/TALK_ST_KAB0039_BTL.BIN::line:151_0_0"
 msgid "Tsuchii"
@@ -113,9 +113,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0039.ARC/TALK_ST_KAB0039_BTL.BIN::line:160_0_0"
 msgid "Sawada"
-msgstr ""
+msgstr "Sawada"
 
 msgctxt "MEDIA3/ARC/RAIN/RAIN_KAB0039.ARC/TALK_ST_KAB0039_BTL.BIN::line:161_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

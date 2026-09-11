@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0431.ARC/TALK_ST_KAB0431_BTL.BIN::line:139_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0431.ARC/TALK_ST_KAB0431_BTL.BIN::line:139_5_0"
 msgid "Experience points:"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0431.ARC/TALK_ST_KAB0431_BTL.BIN::line:140_0_0"
 msgid "New Monitor Room"
-msgstr ""
+msgstr "Nueva sala de monitores"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0431.ARC/TALK_ST_KAB0431_BTL.BIN::line:141_0_0"
 msgid "Jingweon Mafia A"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0431.ARC/TALK_ST_KAB0431_BTL.BIN::line:145_0_0"
 msgid "Kurahashi"
-msgstr ""
+msgstr "Kurahashi"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0431.ARC/TALK_ST_KAB0431_BTL.BIN::line:146_0_0"
 msgid "Abashiri"
@@ -73,5 +73,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0431.ARC/TALK_ST_KAB0431_BTL.BIN::line:147_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 

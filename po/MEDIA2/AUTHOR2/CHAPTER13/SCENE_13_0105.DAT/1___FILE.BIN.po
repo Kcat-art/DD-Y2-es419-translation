@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0105.DAT/1___FILE.BIN::line:1_0_0"
 msgid "I won't let you take my baby!{PA:20}"
-msgstr ""
+msgstr "[¡No voy a entregarte a mi bebé!]{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0105.DAT/1___FILE.BIN::line:1_1_0"
 msgid "Locate(BottomCenter)"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0105.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Stop!{PA:20}"
-msgstr ""
+msgstr "¡Detente!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0105.DAT/1___FILE.BIN::line:3_0_0"
 msgid "[In Korean] Let me go!{PA:20} Just let us die!{PA:20}"
@@ -53,5 +53,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0105.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Bessho and I snuck her down to Kansai.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Así que Bessho y yo la llevamos en secreto a Kansai{PA:20}..{PA:20}.{PA:20}"
 

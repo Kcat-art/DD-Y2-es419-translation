@@ -137,11 +137,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:2_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_0_0"
 msgid "Magnum Force GP"
@@ -169,11 +169,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:3_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_0_0"
 msgid "Hyper Grand Prix"
@@ -197,11 +197,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:4_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_0_0"
 msgid "Special Grand Prix"
@@ -229,11 +229,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:5_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_0_0"
 msgid "Scorpion Grand Prix"
@@ -261,11 +261,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:6_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_0_0"
 msgid "Mercenary GP"
@@ -293,11 +293,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:7_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_0_0"
 msgid "Bare-Knuckle GP"
@@ -325,11 +325,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:8_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_0_0"
 msgid "Beastmaster Challenge"
@@ -357,11 +357,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:9_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_0_0"
 msgid "Rusty Nail GP"
@@ -389,11 +389,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:10_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_0_0"
 msgid "Burning Grand Prix"
@@ -421,11 +421,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:11_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_0_0"
 msgid "Lightning GP"
@@ -453,11 +453,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:12_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_0_0"
 msgid "Street Fight GP"
@@ -485,11 +485,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:13_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_0_0"
 msgid "Exhibition Tourney"
@@ -513,11 +513,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_8_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:14_9_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:15_0_0"
 msgid "Five Rules for the Coliseum"
@@ -561,7 +561,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_0_0"
 msgid "Results"
-msgstr ""
+msgstr "Resultados"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_1_0"
 msgid "Tournament Name"
@@ -653,7 +653,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_23_0"
 msgid "None"
-msgstr ""
+msgstr "Ninguna"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_24_0"
 msgid "This is your fight record.{PA:20}||Congratulations on your win!{PA:20}"
@@ -673,11 +673,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_28_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_29_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:17_30_0"
 msgid "Okay,{PA:10} we'll send it to your item box.{PA:20}"
@@ -717,11 +717,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_5_0"
 msgid "Bloody Binding"
-msgstr ""
+msgstr "Muñequeras sangrientas"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_6_0"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_7_0"
 msgid "Lau's Broadsword"
@@ -729,15 +729,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_8_0"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_9_0"
 msgid "Staminan Spark"
-msgstr ""
+msgstr "Staminan Spark"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_10_0"
 msgid "Champion's Ring"
-msgstr ""
+msgstr "Anillo del campeón"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_11_0"
 msgid "Metal Club"
@@ -745,7 +745,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_12_0"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_13_0"
 msgid "Calming Towel"
@@ -753,11 +753,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_14_0"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_15_0"
 msgid "Patriarch's Bat"
-msgstr ""
+msgstr "Bate del patriarca"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_16_0"
 msgid "Toughness Emperor"
@@ -773,7 +773,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_19_0"
 msgid "Yakuza Training Gear"
-msgstr ""
+msgstr "Pesos para yakuzas"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_20_0"
 msgid "Tourmaline Bracelet"
@@ -781,11 +781,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_21_0"
 msgid "Insulated Shirt"
-msgstr ""
+msgstr "Camisa aislante"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_22_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_23_0"
 msgid "Black Jewel"
@@ -793,19 +793,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_24_0"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_25_0"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_26_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_27_0"
 msgid "Fighter's Binding"
-msgstr ""
+msgstr "Muñequeras del peleador"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_28_0"
 msgid "Blackjack Charm"
@@ -821,7 +821,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_31_0"
 msgid "Fearless Binding"
-msgstr ""
+msgstr "Muñequeras del valiente"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_32_0"
 msgid "Cleaver"
@@ -833,23 +833,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_34_0"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_35_0"
 msgid "Fighter's Binding"
-msgstr ""
+msgstr "Muñequeras del peleador"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_36_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_37_0"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_38_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_39_0"
 msgid "Extendable Staff"
@@ -857,7 +857,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_40_0"
 msgid "Iron Breastplate"
-msgstr ""
+msgstr "Pechera de hierro"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_41_0"
 msgid "Binding"
@@ -869,7 +869,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_43_0"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_44_0"
 msgid "Hercules Gloves"
@@ -885,7 +885,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_47_0"
 msgid "Saw"
-msgstr ""
+msgstr "Sierra"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_48_0"
 msgid "Chinese Broadsword"
@@ -893,11 +893,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_49_0"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_50_0"
 msgid "Bat"
-msgstr ""
+msgstr "Bate"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:18_51_0"
 msgid "Unknown Item"
@@ -1165,19 +1165,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_0_0"
 msgid "Akira Yamaoka"
-msgstr ""
+msgstr "Akira Yamaoka"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_1_0"
 msgid "Sotaro Komaki"
-msgstr ""
+msgstr "Sotaro Komaki"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_2_0"
 msgid "El Diablo"
-msgstr ""
+msgstr "El Diablo"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_3_0"
 msgid "Renji Kamiyama"
-msgstr ""
+msgstr "Renji Kamiyama"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_4_0"
 msgid "Seafire"
@@ -1185,7 +1185,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_5_0"
 msgid "Masao Yanagi"
-msgstr ""
+msgstr "Masao Yanagi"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_6_0"
 msgid "Gensho Kawachi"
@@ -1201,7 +1201,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_9_0"
 msgid "Cyclops Oba"
-msgstr ""
+msgstr "Oba el Cíclope"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_10_0"
 msgid "Emilio Rosa"
@@ -1225,7 +1225,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_15_0"
 msgid "Goro Majima"
-msgstr ""
+msgstr "Goro Majima"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_16_0"
 msgid "Don Carpaccio"
@@ -1233,7 +1233,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_17_0"
 msgid "Kiyoshi Muroi"
-msgstr ""
+msgstr "Kiyoshi Muroi"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_18_0"
 msgid "Yukio Masaki"
@@ -1257,7 +1257,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_23_0"
 msgid "Max Yonamine"
-msgstr ""
+msgstr "Max Yonamine"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_24_0"
 msgid "Robison Caetano di Sciuva"
@@ -1265,7 +1265,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_25_0"
 msgid "Gary Buster Holmes"
-msgstr ""
+msgstr "Gary Buster Holmes"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_26_0"
 msgid "Pyotr Kalashnikov"
@@ -1349,7 +1349,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_46_0"
 msgid "Mammoth Tatsu"
-msgstr ""
+msgstr "Tatsu el Mamut"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_47_0"
 msgid "Suekichi the Pickpocket"
@@ -1365,7 +1365,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_50_0"
 msgid "Home-Run Ken"
-msgstr ""
+msgstr "Ken el Jonronero"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:20_51_0"
 msgid "??????{PA:20}"
@@ -1385,7 +1385,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_3_0"
 msgid "The Weapon Master"
-msgstr ""
+msgstr "El Maestro de Armas"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_4_0"
 msgid "The Scarlet Slaughterer"
@@ -1465,7 +1465,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_23_0"
 msgid "The Man with Seven Fists"
-msgstr ""
+msgstr "El Hombre de los Siete Puños"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_24_0"
 msgid "The New Brazilian Star"
@@ -1533,7 +1533,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_40_0"
 msgid "The Masked Yakuza"
-msgstr ""
+msgstr "El Yakuza Enmascarado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_41_0"
 msgid "The Boxer From Hong Kong"
@@ -1569,7 +1569,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_49_0"
 msgid "The Surprising Newcomer"
-msgstr ""
+msgstr "El Novato Sorpresa"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:21_50_0"
 msgid "Triple Crown King of Kamurocho"
@@ -1597,11 +1597,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_1_0"
 msgid "Katana"
-msgstr ""
+msgstr "Katana"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_2_0"
 msgid "Dagger"
-msgstr ""
+msgstr "Daga"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_3_0"
 msgid "Brass Knuckles"
@@ -1609,7 +1609,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_4_0"
 msgid "Staff"
-msgstr ""
+msgstr "Empleado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:23_5_0"
 msgid "Mercenary GP is an armed tournament.{PA:20}"
@@ -1625,11 +1625,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:24_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:24_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:25_0_0"
 msgid "So you want the dagger,{PA:10} then?{PA:20}"
@@ -1637,11 +1637,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:25_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:25_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:26_0_0"
 msgid "So you want brass knuckles,{PA:10} then?{PA:20}"
@@ -1649,11 +1649,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:26_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:26_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:27_0_0"
 msgid "So you want a staff,{PA:10} then?{PA:20}"
@@ -1661,9 +1661,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:27_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_COLOSSEUM.BIN::line:27_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 

@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS05/SCENE_S05_0020.DAT/1___FILE.BIN::line:0_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Stop it!{PA:20}"
-msgstr ""
+msgstr "¡{PA:20}Y{PA:20}a{PA:20} basta!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS05/SCENE_S05_0020.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Well.{PA:20}.{PA:20}.{PA:20} Havin' fun?{PA:20}"
@@ -65,5 +65,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS05/SCENE_S05_0020.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Yes sir!{PA:20}"
-msgstr ""
+msgstr "¡Sí!{PA:20}"
 

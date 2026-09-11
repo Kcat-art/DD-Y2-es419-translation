@@ -13,5 +13,5 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/ARMS/ARMS08XX/TALK_ARMS0825.BIN::line:0_0_0"
 msgid "Special Police Baton"
-msgstr ""
+msgstr "Porra de policía especial"
 

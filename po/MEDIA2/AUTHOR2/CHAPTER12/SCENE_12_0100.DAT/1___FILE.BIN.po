@@ -33,7 +33,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0100.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Not that it got ya anywhere.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Pero bueno, no es que te hayan servido de mucho{PA:20}.{PA:20}..{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0100.DAT/1___FILE.BIN::line:4_0_0"
 msgid "You pickin' a fight,{PA:10} chum?{PA:20}"
@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0100.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Don't let him get to you.{PA:20}"
-msgstr ""
+msgstr "No dejes que te afecte.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0100.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Aww,{PA:10} look who's such a grown-up now!{PA:20}"

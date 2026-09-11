@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:5_0_0"
 msgid "Kashiwagi?{PA:20}"
-msgstr ""
+msgstr "kashiwagi{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:6_0_0"
 msgid "Yeah.{PA:20}.{PA:20}.{PA:20} Interim Second-in-Command my ass.{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:11_0_0"
 msgid "Still.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Es que.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0130.DAT/3___FILE.BIN::line:12_0_0"
 msgid "There's nuthin' wrong with trusting folks,{PA:10}"

@@ -13,15 +13,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Sayama was acting funny,{PA:10} don't you think?{PA:20}"
-msgstr ""
+msgstr "¿No crees que Sayama actua{PA:10}ba un poco extraño?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Think something happened in Kansai?{PA:20}"
-msgstr ""
+msgstr "¿Habrá pasado algo en Kansai?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER15/SCENE_15_0070.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Plus it's strange that Osaka's Division 4"

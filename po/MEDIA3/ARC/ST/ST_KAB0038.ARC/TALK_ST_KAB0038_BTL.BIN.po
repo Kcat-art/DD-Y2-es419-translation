@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0038.ARC/TALK_ST_KAB0038_BTL.BIN::line:142_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0038.ARC/TALK_ST_KAB0038_BTL.BIN::line:142_5_0"
 msgid "Experience points:"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0038.ARC/TALK_ST_KAB0038_BTL.BIN::line:144_0_0"
 msgid "Nitta"
-msgstr ""
+msgstr "Nitta"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0038.ARC/TALK_ST_KAB0038_BTL.BIN::line:145_0_0"
 msgid "Shoda"
@@ -93,13 +93,13 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0038.ARC/TALK_ST_KAB0038_BTL.BIN::line:155_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0038.ARC/TALK_ST_KAB0038_BTL.BIN::line:156_0_0"
 msgid "Suzuki"
-msgstr ""
+msgstr "Suzuki"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0038.ARC/TALK_ST_KAB0038_BTL.BIN::line:157_0_0"
 msgid "Kuroki"
-msgstr ""
+msgstr "Kuroki"
 

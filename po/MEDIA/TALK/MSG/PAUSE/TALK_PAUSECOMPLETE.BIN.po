@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_2_0"
 msgid "HEAT actions"
-msgstr ""
+msgstr "Acciones Heat"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:0_3_0"
 msgid "Hostesses"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_7_0"
 msgid "Crushing"
-msgstr ""
+msgstr "Aplastar"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:3_8_0"
 msgid "Essence of Goriki"
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_3_0"
 msgid "Shogi"
-msgstr ""
+msgstr "Shogi"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_4_0"
 msgid "Pachi-Slot"
@@ -169,11 +169,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_5_0"
 msgid "Mahjong"
-msgstr ""
+msgstr "Mahjong"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_6_0"
 msgid "UFO Catcher"
-msgstr ""
+msgstr "UFO Catcher"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_7_0"
 msgid "YF6"
@@ -193,11 +193,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_11_0"
 msgid "High Score"
-msgstr ""
+msgstr "Mayor puntaje"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_12_0"
 msgid "High Score"
-msgstr ""
+msgstr "Mayor puntaje"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_13_0"
 msgid "Current Rank"
@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_15_0"
 msgid "High Score"
-msgstr ""
+msgstr "Mayor puntaje"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_16_0"
 msgid "Total Acquired"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_17_0"
 msgid "Results"
-msgstr ""
+msgstr "Resultados"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMPLETE.BIN::line:4_18_0"
 msgid "Total Chips"

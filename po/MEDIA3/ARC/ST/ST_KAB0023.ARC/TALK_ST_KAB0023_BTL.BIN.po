@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:151_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:151_5_0"
 msgid "Experience points:"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:157_0_0"
 msgid "Saito"
-msgstr ""
+msgstr "Saito"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:158_0_0"
 msgid "Koji Murasame"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:159_0_0"
 msgid "Mori"
-msgstr ""
+msgstr "Mori"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:160_0_0"
 msgid "Generic 1"
@@ -113,11 +113,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:169_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:170_0_0"
 msgid "Kamata"
-msgstr ""
+msgstr "Kamata"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:171_0_0"
 msgid "Nagase"
@@ -125,5 +125,5 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0023.ARC/TALK_ST_KAB0023_BTL.BIN::line:172_0_0"
 msgid "Toriyama"
-msgstr ""
+msgstr "Toriyama"
 

@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "We'll put him to rest next to Suyeon.{PA:20}"
-msgstr ""
+msgstr "Deberíamos ponerlo a descansar junto a Suyeon.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Yeah.{PA:20} I think he'd want it that way.{PA:20}"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "Leave it to me,{PA:10} honey.{PA:20}"
-msgstr ""
+msgstr "Déjamelo a mí,{PA:10} cielo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Sorry I've put ya through all this.{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Thanks.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:12_0_0"
 msgid "I'm still wondering about the kid Sayama's"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:14_0_0"
 msgid "If the Jingweon got to him,{PA:10} he could be"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:15_0_0"
 msgid "That,{PA:10} and the rat in my office got away.{PA:20}"
-msgstr ""
+msgstr "No nos{PA:10} olvidemos del topo que escapó de mi oficina.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Then I doubt we've seen the last of him.{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Yup.{PA:20}"
-msgstr ""
+msgstr "Ajá.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER14/SCENE_14_0010.DAT/1___FILE.BIN::line:21_0_0"
 msgid "She may be able to crack it open.{PA:20}"

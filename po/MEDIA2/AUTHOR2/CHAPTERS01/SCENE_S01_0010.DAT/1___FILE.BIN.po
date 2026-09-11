@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Hey!{PA:20}"
-msgstr ""
+msgstr "¡Oye!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Where's Yuya?{PA:20}"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Black Thunder.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Black Thunder.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:4_0_0"
 msgid "What the hell are you doing here?!{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:6_0_0"
 msgid "Koji.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Koj{PA:20}{PA:20}i{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "You used to head up the team.{PA:20}"
@@ -49,11 +49,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Where's Okano?{PA:20}"
-msgstr ""
+msgstr "¿Dónde está Okano?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:9_0_0"
 msgid "I don't know.{PA:20}"
-msgstr ""
+msgstr "Qué complicado.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0010.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Don't feed me your fucking lies.{PA:20}"

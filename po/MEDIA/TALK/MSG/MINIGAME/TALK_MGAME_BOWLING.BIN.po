@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:0_0_0"
 msgid "Play again"
-msgstr ""
+msgstr "Volver a jugar"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:0_1_0"
 msgid "Give up"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_0_0"
 msgid "Move crane"
-msgstr ""
+msgstr "Mover garra"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_1_0"
 msgid "Move view"
@@ -29,11 +29,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_2_0"
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:1_3_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:2_0_0"
 msgid "Quit bowling?{PA:20}"
@@ -41,27 +41,27 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:2_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:2_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_0_0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_1_0"
 msgid "Sayama"
-msgstr ""
+msgstr "sayama"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_2_0"
 msgid "Daigo"
-msgstr ""
+msgstr "Daigo"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_3_0"
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:3_4_0"
 msgid "Yukihide"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:4_7_0"
 msgid "100lb Bowling Ball"
-msgstr ""
+msgstr "Bola de boliche de 45 kg"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_BOWLING.BIN::line:5_0_0"
 msgid "A score over 30 isn't bad,{PA:10} I guess.{PA:20}||Here's the 30-point prize.{PA:20}||||      Received \"Steamed Bun\""

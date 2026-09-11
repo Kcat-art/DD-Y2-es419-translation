@@ -13,13 +13,13 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0040.DAT/1___FILE.BIN::line:0_0_0"
 msgid "Is this the place?{PA:20}"
-msgstr ""
+msgstr "¿Es aquí?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0040.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yeah.{PA:20} On the 50th floor.{PA:20}"
-msgstr ""
+msgstr "Sí, {PA:20}en el piso 50.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0040.DAT/1___FILE.BIN::line:2_0_0"
 msgid "The elevators are up ahead.{PA:20}"
-msgstr ""
+msgstr "Los ascensores están allí.{PA:20}"
 

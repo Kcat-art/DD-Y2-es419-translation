@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:2_1_0"
 msgid "Load"
-msgstr ""
+msgstr "Cargar"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:2_2_0"
 msgid "Free Mode"
@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:3_0_0"
 msgid "Kamurocho"
-msgstr ""
+msgstr "Kamurocho"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:3_1_0"
 msgid "Sotenbori"
-msgstr ""
+msgstr "Sotenbori"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:4_0_0"
 msgid "Start from the beginning.{PA:20}"
@@ -85,7 +85,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_0_0"
 msgid "Coliseum"
-msgstr ""
+msgstr "Coliseo"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_1_0"
 msgid "Batting Cage"
@@ -101,11 +101,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_4_0"
 msgid "Shogi"
-msgstr ""
+msgstr "Shogi"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_5_0"
 msgid "Mahjong"
-msgstr ""
+msgstr "Mahjong"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_6_0"
 msgid "Gambling Parlor"
@@ -121,7 +121,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_9_0"
 msgid "Blackjack"
-msgstr ""
+msgstr "Blackjack"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:5_10_0"
 msgid "Baccarat"
@@ -141,15 +141,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_0_0"
 msgid "EASY"
-msgstr ""
+msgstr "FÁCIL"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_1_0"
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_2_0"
 msgid "HARD"
-msgstr ""
+msgstr "DIFÍCIL"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:6_3_0"
 msgid "EX-HARD (CANNOT CONTINUE)"
@@ -197,7 +197,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:9_2_0"
 msgid "Golf"
-msgstr ""
+msgstr "Golf"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:9_3_0"
 msgid "Bowling"
@@ -209,11 +209,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:10_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:10_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:11_0_0"
 msgid "Select your vibration settings.{PA:20}"
@@ -221,9 +221,9 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:11_1_0"
 msgid "On"
-msgstr ""
+msgstr "Activado"
 
 msgctxt "MEDIA/TALK/MSG/TALK_ADVERTISE.BIN::line:11_2_0"
 msgid "Off"
-msgstr ""
+msgstr "Desactivado"
 

@@ -17,7 +17,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0060.DAT/3___FILE.BIN::line:1_0_0"
 msgid "What was it like before?{PA:20}"
-msgstr ""
+msgstr "¿Y cómo era antes?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0060.DAT/3___FILE.BIN::line:2_0_0"
 msgid "A hang-out spot for the homeless.{PA:20}"
@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0060.DAT/3___FILE.BIN::line:4_0_0"
 msgid "Yeah.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER05/SCENE_05_0060.DAT/3___FILE.BIN::line:5_0_0"
 msgid "Been a long time,{PA:10} Mr.{PA:20} Kiryu.{PA:20}"

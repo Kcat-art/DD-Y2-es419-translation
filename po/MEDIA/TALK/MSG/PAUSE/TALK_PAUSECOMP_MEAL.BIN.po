@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_13_0"
 msgid "Smile Shake"
-msgstr ""
+msgstr "Malteada Smile"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_14_0"
 msgid "A Smile Shake.{PA:20} It's delectable and frosty.{PA:20}"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_15_0"
 msgid "Smile Fries"
-msgstr ""
+msgstr "Papas fritas Smile"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:2_16_0"
 msgid "Smile french fries.{PA:20}"
@@ -277,11 +277,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_0_0"
 msgid "Café Alps"
-msgstr ""
+msgstr "Café Alps"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_1_0"
 msgid "Blended Coffee"
-msgstr ""
+msgstr "Batido de café"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_2_0"
 msgid "Coffee brewed from a blend of Colombian,{PA:10}||Mandarin and Brazilian beans.{PA:20}"
@@ -289,7 +289,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_3_0"
 msgid "Earl Grey Tea"
-msgstr ""
+msgstr "Té Earl Grey"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_4_0"
 msgid "Enjoy the citrusy bergamot scent of our||teas from our farms in Sri Lanka.{PA:20}"
@@ -297,7 +297,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_5_0"
 msgid "Milk Tea"
-msgstr ""
+msgstr "Té con leche"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_6_0"
 msgid "We take special Assam tea from our private||farms and add milk from Hokkaido.{PA:20}"
@@ -329,7 +329,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_13_0"
 msgid "Sandwich"
-msgstr ""
+msgstr "Sándwich"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_14_0"
 msgid "A simple sandwich of egg,{PA:10} ham and lettuce.{PA:20}"
@@ -345,7 +345,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_17_0"
 msgid "Original Beef Curry"
-msgstr ""
+msgstr "Curri de carne de la casa"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:4_18_0"
 msgid "Beef curry,{PA:10} made from scratch with our own||special recipe.{PA:20}"
@@ -373,7 +373,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_5_0"
 msgid "Espresso"
-msgstr ""
+msgstr "Café expreso"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_6_0"
 msgid "A very strong coffee.{PA:20}"
@@ -397,7 +397,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_11_0"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Capuchino"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:5_12_0"
 msgid "An espresso with milk foam.{PA:20}"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_0_0"
 msgid "Zuboraya"
-msgstr ""
+msgstr "Zuboraya"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_1_0"
 msgid "Tecchiri Nabe"
@@ -485,7 +485,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_5_0"
 msgid "Tessa"
-msgstr ""
+msgstr "Tessa"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:7_6_0"
 msgid "Enjoy only the best fresh raw globefish.{PA:20}"
@@ -717,7 +717,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_5_0"
 msgid "Harami"
-msgstr ""
+msgstr "Harami"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:9_6_0"
 msgid "Meat from the center of the body.{PA:20}"
@@ -781,7 +781,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_0_0"
 msgid "Kanrai"
-msgstr ""
+msgstr "Kanrai"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:10_1_0"
 msgid "Kimchi"
@@ -881,7 +881,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_0_0"
 msgid "Sushi Gin"
-msgstr ""
+msgstr "Sushi Gin"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_1_0"
 msgid "Tamago"
@@ -957,7 +957,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_19_0"
 msgid "Hirame"
-msgstr ""
+msgstr "Hirame"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:11_20_0"
 msgid "This is the season for halibut,{PA:10} and ours||is freshly caught.{PA:20}"
@@ -1029,7 +1029,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_0_0"
 msgid "Komian"
-msgstr ""
+msgstr "Komian"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_1_0"
 msgid "Today's Special"
@@ -1121,7 +1121,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_23_0"
 msgid "Snow Crab Course"
-msgstr ""
+msgstr "Menú de cangrejo de las nieves"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECOMP_MEAL.BIN::line:12_24_0"
 msgid "A luxurious full course meal of delicious||snow crab.{PA:20}"

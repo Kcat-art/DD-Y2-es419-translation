@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0301.ARC/TALK_ST_KAB0301_BTL.BIN::line:165_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0301.ARC/TALK_ST_KAB0301_BTL.BIN::line:165_5_0"
 msgid "Experience points:"

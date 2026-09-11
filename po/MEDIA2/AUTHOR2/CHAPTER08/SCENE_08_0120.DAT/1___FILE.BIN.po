@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0120.DAT/1___FILE.BIN::line:0_0_0"
 msgid "You're still a beast.{PA:20}.{PA:20}.{PA:20} Kiryu.{PA:20}"
-msgstr ""
+msgstr "Igual de impresionante..{PA:20}.,{PA:20} {PA:20}Kiryu...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0120.DAT/1___FILE.BIN::line:1_0_0"
 msgid "I had no idea Ryuji's group included"

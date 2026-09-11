@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_0_0"
 msgid "Difficulty"
-msgstr ""
+msgstr "Dificultad"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_1_0"
 msgid "Temporary EASY uses:"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:0_10_0"
 msgid "Play time:"
-msgstr ""
+msgstr "Tiempo de juego"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:1_1_0"
 msgid "%"
@@ -61,7 +61,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:1_2_0"
 msgid "Perfect"
-msgstr ""
+msgstr "¡Sííí!"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:2_0_0"
 msgid "Received 3 million yen.{PA:20}"
@@ -97,15 +97,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_0_0"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_1_0"
 msgid "Easy"
-msgstr ""
+msgstr "Fácil"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_2_0"
 msgid "Hard"
-msgstr ""
+msgstr "Difícil"
 
 msgctxt "MEDIA/TALK/MSG/HOME/TALK_HOMECLEAR.BIN::line:3_3_0"
 msgid "EX-Hard"

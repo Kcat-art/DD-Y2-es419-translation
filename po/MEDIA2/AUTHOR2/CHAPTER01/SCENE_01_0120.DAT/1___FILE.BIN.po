@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:0_0_0"
 msgid "I'm going to Kansai tomorrow.{PA:20}"
-msgstr ""
+msgstr "Mañana iré a Kansai.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:1_0_0"
 msgid "I might not make it back alive.{PA:20}"
-msgstr ""
+msgstr "... Puede que no regrese con vida.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:2_0_0"
 msgid "I wanted to ask you to hold down the fort.{PA:20}"
@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:3_0_0"
 msgid "Fuck that.{PA:20}"
-msgstr ""
+msgstr "¿Bromea?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I'm not letting you play hero by yourself.{PA:20}"
@@ -37,19 +37,19 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:6_0_0"
 msgid "No way.{PA:20} I'm coming with.{PA:20}"
-msgstr ""
+msgstr "No. Creo {PA:20}que mejor lo acompaño.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:7_0_0"
 msgid "What?{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Look,{PA:10} I've got a score to settle in Kansai.{PA:20}"
-msgstr ""
+msgstr "Yo ta{PA:10}mbién tengo asuntos pendientes en Kansai.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:9_0_0"
 msgid "What score?{PA:20}"
-msgstr ""
+msgstr "... ¿Asuntos?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:10_0_0"
 msgid "They set me up five years ago.{PA:20}"
@@ -69,11 +69,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Daigo.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Daigo.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Doesn't matter what you say.{PA:20}"
-msgstr ""
+msgstr "No me importa lo que me diga.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:15_0_0"
 msgid "I don't care if you stay or go.{PA:20} I'm going.{PA:20}"
@@ -81,13 +81,13 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Look.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Ve{PA:20}r{PA:20}{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:17_0_0"
 msgid "I'll be waiting at the station tomorrow.{PA:20}"
-msgstr ""
+msgstr "Nos vemos mañana en el andén de la estación.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0120.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Later.{PA:20}"
-msgstr ""
+msgstr "Hasta luego.{PA:20}"
 

@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:1_4_0"
 msgid "me?{PA:20}"
-msgstr ""
+msgstr "¿Yo?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:1_5_0"
 msgid "I'll be waiting"
@@ -465,7 +465,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:12_8_0"
 msgid "Thank you!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:13_0_0"
 msgid "Kaede"
@@ -477,7 +477,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:13_2_0"
 msgid "Thank you very much"
-msgstr ""
+msgstr "Muchas gracias."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:13_3_0"
 msgid "for today.{PA:20}"
@@ -797,7 +797,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:21_1_0"
 msgid "Ok.{PA:20}"
-msgstr ""
+msgstr "Aceptar{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:21_2_0"
 msgid "I managed to get"
@@ -833,7 +833,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:22_2_0"
 msgid "What happened?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasó?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:22_3_0"
 msgid "I waited so long"
@@ -893,7 +893,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:24_1_0"
 msgid "I'm sorry.{PA:20}"
-msgstr ""
+msgstr "le pido disculpas.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:24_2_0"
 msgid "I guess you don't"
@@ -957,7 +957,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:25_9_0"
 msgid "buh bye"
-msgstr ""
+msgstr "¡Chao!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:26_0_0"
 msgid "Maiko"
@@ -1009,7 +1009,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:27_5_0"
 msgid "hahaha"
-msgstr ""
+msgstr "¡Ja, ja, ja!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:27_6_0"
 msgid "(*^o^*)"
@@ -1201,7 +1201,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:32_6_0"
 msgid "kazuma!{PA:20}"
-msgstr ""
+msgstr "¡Kazuma!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:32_7_0"
 msgid "<<o(>-<)o>>"
@@ -1337,7 +1337,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:36_1_0"
 msgid "Thanks!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:36_2_0"
 msgid "I had fun 2day!{PA:20}"
@@ -1373,7 +1373,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:37_3_0"
 msgid "name.{PA:20}"
-msgstr ""
+msgstr "Nombre{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:37_4_0"
 msgid "He is tickling me"
@@ -1393,7 +1393,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:37_8_0"
 msgid "up.{PA:20}"
-msgstr ""
+msgstr "Recogido{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:38_0_0"
 msgid "Yuma"
@@ -1417,7 +1417,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:38_5_0"
 msgid "me.{PA:20} (^-^)"
-msgstr ""
+msgstr "¿Por{PA:20} mí?..."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:38_6_0"
 msgid "Don't forget about"
@@ -1465,7 +1465,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:40_1_0"
 msgid "Cooking!{PA:20}"
-msgstr ""
+msgstr "Cocinar{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:40_2_0"
 msgid "I cooked for the"
@@ -1577,7 +1577,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:43_1_0"
 msgid "Hey!{PA:20}"
-msgstr ""
+msgstr "¡Oye!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:43_2_0"
 msgid "You were late so"
@@ -1629,7 +1629,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:45_1_0"
 msgid "Sorry"
-msgstr ""
+msgstr "Perdón"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:45_2_0"
 msgid "About taking me"
@@ -1661,7 +1661,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:46_2_0"
 msgid "What should I do?{PA:20}"
-msgstr ""
+msgstr "(¿Qué debería hacer?...).{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:46_3_0"
 msgid "I was on my way and"
@@ -1693,7 +1693,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:47_1_0"
 msgid "It's me"
-msgstr ""
+msgstr "Soy yo."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:47_2_0"
 msgid "I'm so happy!{PA:20}"
@@ -1717,7 +1717,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:47_7_0"
 msgid "Kazuma!!!!{PA:20}"
-msgstr ""
+msgstr "¡Kazuma!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:48_0_0"
 msgid "Natsuki"
@@ -1725,11 +1725,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:48_1_0"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:48_2_0"
 msgid "Thanks for coming"
-msgstr ""
+msgstr "¡Gracias por venir!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:48_3_0"
 msgid "out today!{PA:20}(^-^ )"
@@ -1745,7 +1745,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:48_6_0"
 msgid "come again☆"
-msgstr ""
+msgstr "Vuelve pronto"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:49_0_0"
 msgid "Natsuki"
@@ -1809,7 +1809,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:50_7_0"
 msgid "next time!{PA:20}"
-msgstr ""
+msgstr "La próxima vez{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:51_0_0"
 msgid "Natsuki"
@@ -1853,7 +1853,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:52_2_0"
 msgid "Thanks for coming.{PA:20}"
-msgstr ""
+msgstr "¡Gracias por venir!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:52_3_0"
 msgid "(*^-^*) I feel so"
@@ -1909,7 +1909,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:53_6_0"
 msgid "What do I do?{PA:20}"
-msgstr ""
+msgstr "¿Qué hago?...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:53_7_0"
 msgid "(0_O)"
@@ -1945,11 +1945,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:55_1_0"
 msgid "You're late!{PA:20}"
-msgstr ""
+msgstr "¡Llegas tarde!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:55_2_0"
 msgid "What's going on?{PA:20}"
-msgstr ""
+msgstr "¿Qué está pasando aquí?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:55_3_0"
 msgid "Why didn't you"
@@ -2009,7 +2009,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:57_1_0"
 msgid "Sorry"
-msgstr ""
+msgstr "Perdón"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:57_2_0"
 msgid "You must be busy or"
@@ -2029,7 +2029,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:57_6_0"
 msgid "See you later.{PA:20}"
-msgstr ""
+msgstr "Hasta luego...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:58_0_0"
 msgid "Natsuki"
@@ -2321,7 +2321,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:66_7_0"
 msgid "you.{PA:20} (#^.{PA:20}^#)"
-msgstr ""
+msgstr "Oy{PA:20}e..{PA:20}.,"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:67_0_0"
 msgid "Anna"
@@ -2349,7 +2349,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:67_6_0"
 msgid "kazuma.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:68_0_0"
 msgid "Anna"
@@ -2365,7 +2365,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:68_3_0"
 msgid "you promised me"
-msgstr ""
+msgstr "Te toca cumplir tu palabra."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:68_4_0"
 msgid "before?{PA:20} im waiting"
@@ -2385,7 +2385,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:69_1_0"
 msgid "sorry"
-msgstr ""
+msgstr "Perdón"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:69_2_0"
 msgid "about the date,{PA:10}"
@@ -2473,7 +2473,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:70_16_0"
 msgid "good luck!{PA:20} ^^/"
-msgstr ""
+msgstr "Suert{PA:20}e."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:71_0_0"
 msgid "Anna"
@@ -2481,7 +2481,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:71_1_0"
 msgid "thank you"
-msgstr ""
+msgstr "¡Gracias!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:71_2_0"
 msgid "thank you for"
@@ -2517,7 +2517,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:72_1_0"
 msgid "Thanks"
-msgstr ""
+msgstr "gracias."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:72_2_0"
 msgid "It's me Jun.{PA:20}"
@@ -2673,7 +2673,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:75_10_0"
 msgid "right?{PA:20}"
-msgstr ""
+msgstr "¿Verdad?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:75_11_0"
 msgid "¥(`^ᐟ#)/"
@@ -2685,7 +2685,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:76_1_0"
 msgid "Ramen"
-msgstr ""
+msgstr "Ramen"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:76_2_0"
 msgid "I'm eating some"
@@ -2753,7 +2753,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:77_6_0"
 msgid "I wonder why.{PA:20}"
-msgstr ""
+msgstr "Ji... Me pregunto por qué.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:77_7_0"
 msgid "Could I really be"
@@ -2773,7 +2773,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:78_1_0"
 msgid "Let's go"
-msgstr ""
+msgstr "¡Vamos!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:78_2_0"
 msgid "I just left Prime.{PA:20}"
@@ -2789,7 +2789,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:78_5_0"
 msgid "Bishamon Bridge.{PA:20}"
-msgstr ""
+msgstr "Puente Bishamon{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:78_6_0"
 msgid "Hurry up.{PA:20}"
@@ -2809,7 +2809,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:79_3_0"
 msgid "long!{PA:20}"
-msgstr ""
+msgstr "Long{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:79_4_0"
 msgid "Why didn't you come?{PA:20}"
@@ -2829,7 +2829,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:80_1_0"
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:80_2_0"
 msgid "You promised you'd"
@@ -2849,7 +2849,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:80_6_0"
 msgid "Bishamon Bridge"
-msgstr ""
+msgstr "Puente Bishamon"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:80_7_0"
 msgid "so come on over.{PA:20}"
@@ -2901,7 +2901,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:82_1_0"
 msgid "It's me"
-msgstr ""
+msgstr "Soy yo."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:82_2_0"
 msgid "Thanks for today,{PA:10}"
@@ -2941,7 +2941,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:83_2_0"
 msgid "Thank you very much"
-msgstr ""
+msgstr "Muchas gracias."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:83_3_0"
 msgid "for coming today.{PA:20}"
@@ -2973,7 +2973,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:84_2_0"
 msgid "Thank you very much"
-msgstr ""
+msgstr "Muchas gracias."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:84_3_0"
 msgid "for coming today.{PA:20}"
@@ -3009,7 +3009,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:85_2_0"
 msgid "Thank you for coming"
-msgstr ""
+msgstr "¡Gracias por venir!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:85_3_0"
 msgid "again.{PA:20} I feel very"
@@ -3081,7 +3081,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:86_10_0"
 msgid "Kazuma.{PA:20}"
-msgstr ""
+msgstr "Kazuma.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:87_0_0"
 msgid "Madoka"
@@ -3249,7 +3249,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:91_7_0"
 msgid "Bishamon Bridge.{PA:20}"
-msgstr ""
+msgstr "Puente Bishamon{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:92_0_0"
 msgid "Madoka"
@@ -3281,7 +3281,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:92_7_0"
 msgid "Please come again"
-msgstr ""
+msgstr "Por favor, vuelva pronto."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:92_8_0"
 msgid "sometime.{PA:20}"
@@ -3305,7 +3305,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:93_4_0"
 msgid "to see you.{PA:20}"
-msgstr ""
+msgstr "ganas de{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:93_5_0"
 msgid "I will be waiting"
@@ -3317,7 +3317,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:93_7_0"
 msgid "Komian.{PA:20}"
-msgstr ""
+msgstr "Komian{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:94_0_0"
 msgid "Madoka"
@@ -3333,7 +3333,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:94_3_0"
 msgid "everything.{PA:20} I've"
-msgstr ""
+msgstr "soñando {PA:20}con"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:94_4_0"
 msgid "talked to my"
@@ -3373,7 +3373,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:94_13_0"
 msgid "Gandhara?{PA:20}"
-msgstr ""
+msgstr "Gandhara{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:95_0_0"
 msgid "Madoka"
@@ -3385,7 +3385,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:95_2_0"
 msgid "Kazuma,{PA:10}"
-msgstr ""
+msgstr "Kazuma{PA:10}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:95_3_0"
 msgid "Thank you for"
@@ -3425,7 +3425,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:95_12_0"
 msgid "that.{PA:20}"
-msgstr ""
+msgstr "eso?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:96_0_0"
 msgid "Ayano"
@@ -3433,7 +3433,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:96_1_0"
 msgid "Thank you very much.{PA:20}"
-msgstr ""
+msgstr "Muchas gracias.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:96_2_0"
 msgid "Today was a lot of"
@@ -3457,7 +3457,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:97_1_0"
 msgid "Karaoke"
-msgstr ""
+msgstr "Karaoke"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:97_2_0"
 msgid "I'm o(゜0^*)〜☆"
@@ -3717,7 +3717,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:103_1_0"
 msgid "Where are you?{PA:20}"
-msgstr ""
+msgstr "¿Dónde estás?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:103_2_0"
 msgid "I waited for you"
@@ -3773,7 +3773,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:104_8_0"
 msgid "Bishamon Bridge.{PA:20}"
-msgstr ""
+msgstr "Puente Bishamon{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:104_9_0"
 msgid "I'm waiting.{PA:20}(^_-)*"
@@ -3785,7 +3785,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:105_1_0"
 msgid "I'm sorry"
-msgstr ""
+msgstr "¿De qué hablas?"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:105_2_0"
 msgid "I waited at Bishamon"
@@ -3817,7 +3817,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:106_1_0"
 msgid "Oh no!{PA:20}"
-msgstr ""
+msgstr "¿Ah, no?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:106_2_0"
 msgid "I just left the club"
@@ -3853,7 +3853,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:107_1_0"
 msgid "Thank you"
-msgstr ""
+msgstr "¡Gracias!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:107_2_0"
 msgid "I can still feel"
@@ -3885,7 +3885,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:108_1_0"
 msgid "Thanks!{PA:20}"
-msgstr ""
+msgstr "¡Gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:108_2_0"
 msgid "Today was so much"
@@ -3917,7 +3917,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:109_1_0"
 msgid "Sup!{PA:20}"
-msgstr ""
+msgstr "Esa soy yo.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:109_2_0"
 msgid "I got off early and"
@@ -4033,7 +4033,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:112_1_0"
 msgid "Thanks again"
-msgstr ""
+msgstr "¡Gracias nuevamente!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:112_2_0"
 msgid "Thanks for always"
@@ -4069,7 +4069,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:113_1_0"
 msgid "What to do?{PA:20}"
-msgstr ""
+msgstr "(¿Qué podría hacer?...).{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:113_2_0"
 msgid "I think I'm falling"
@@ -4097,7 +4097,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:114_1_0"
 msgid "Let's go"
-msgstr ""
+msgstr "¡Vamos!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:114_2_0"
 msgid "I just left Prime.{PA:20}"
@@ -4109,7 +4109,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:114_4_0"
 msgid "Bishamon Bridge.{PA:20}"
-msgstr ""
+msgstr "Puente Bishamon{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:114_5_0"
 msgid "o(^-^)o I can't"
@@ -4117,7 +4117,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:114_6_0"
 msgid "wait.{PA:20} ( / - ¥ )"
-msgstr ""
+msgstr "Es{PA:20}pera."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:115_0_0"
 msgid "Nana"
@@ -4125,7 +4125,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:115_1_0"
 msgid "Bye"
-msgstr ""
+msgstr "¡Adiós!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:115_2_0"
 msgid "How long were you"
@@ -4241,7 +4241,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:118_7_0"
 msgid "sorry!{PA:20}"
-msgstr ""
+msgstr "Perdón{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:119_0_0"
 msgid "Nana"
@@ -4265,7 +4265,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:119_5_0"
 msgid "here.{PA:20} ( ; ; )"
-msgstr ""
+msgstr "Te{PA:20}nga."
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:119_6_0"
 msgid "You'll always be"
@@ -4273,7 +4273,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:119_7_0"
 msgid "in my heart.{PA:20}"
-msgstr ""
+msgstr "profundo de mí...,{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:119_8_0"
 msgid "You better come"
@@ -4293,7 +4293,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:120_2_0"
 msgid "Hey there!{PA:20}"
-msgstr ""
+msgstr "Hola...{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:120_3_0"
 msgid "This is Ken,{PA:10} host of"
@@ -4333,7 +4333,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:120_12_0"
 msgid "Kotobuki Drugs"
-msgstr ""
+msgstr "Farmacia Kotobuki"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:120_13_0"
 msgid "first.{PA:20} If you don't"
@@ -4349,7 +4349,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:120_16_0"
 msgid "Millennium Tower.{PA:20}"
-msgstr ""
+msgstr "Torre Millennium{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:120_17_0"
 msgid "Just ask him,{PA:10} and"
@@ -4361,7 +4361,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:120_19_0"
 msgid "See you there!{PA:20}"
-msgstr ""
+msgstr "Hasta luego.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:121_0_0"
 msgid "Taku"
@@ -4577,7 +4577,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:125_1_0"
 msgid "FINAL NOTICE"
-msgstr ""
+msgstr "[Último aviso]"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:125_2_0"
 msgid "Today is the last"
@@ -4657,7 +4657,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:126_0_0"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:126_1_0"
 msgid "Pet idea!{PA:20}"
@@ -4689,11 +4689,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:126_8_0"
 msgid "What do you think?{PA:20}"
-msgstr ""
+msgstr "¿Qué opinas tú?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:127_0_0"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:127_1_0"
 msgid "Dogspot"
@@ -4721,7 +4721,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:128_0_0"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:128_1_0"
 msgid "Sunflower's back!{PA:20}"
@@ -4757,7 +4757,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:129_0_0"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:129_1_0"
 msgid "Sooo goood"
@@ -4797,7 +4797,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:130_0_0"
 msgid "Haruka"
-msgstr ""
+msgstr "Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:130_1_0"
 msgid "Dogspot's going nuts"
@@ -4837,7 +4837,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:131_1_0"
 msgid "Help me"
-msgstr ""
+msgstr "¡Ayuda, por favor!"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:131_2_0"
 msgid "Howdy (^^)/"
@@ -4881,7 +4881,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:131_12_0"
 msgid "that.{PA:20}"
-msgstr ""
+msgstr "eso?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:131_13_0"
 msgid "(^-^)"
@@ -4965,7 +4965,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:132_15_0"
 msgid "alone.{PA:20}"
-msgstr ""
+msgstr "¡¿Usted solo?!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:133_0_0"
 msgid "Granny"
@@ -4989,7 +4989,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:133_5_0"
 msgid "how's it going?{PA:20}"
-msgstr ""
+msgstr "¿Cómo va todo?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:133_6_0"
 msgid "I'm living in"
@@ -5029,7 +5029,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:133_15_0"
 msgid "OK?{PA:20}"
-msgstr ""
+msgstr "Aceptar{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:134_0_0"
 msgid "Granny"
@@ -5077,11 +5077,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:134_11_0"
 msgid "Yuya.{PA:20}"
-msgstr ""
+msgstr "Yuya{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:134_12_0"
 msgid "You're close to"
-msgstr ""
+msgstr "Estás por conseguir:"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:134_13_0"
 msgid "him,{PA:10} aren't you?{PA:20}"
@@ -5097,7 +5097,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:134_16_0"
 msgid "for me?{PA:20}"
-msgstr ""
+msgstr "algo más sensual.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:135_0_0"
 msgid "Granny"
@@ -5145,11 +5145,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:135_11_0"
 msgid "impossible.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Imposible.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:135_12_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}I just wanted"
-msgstr ""
+msgstr "S{PA:20}{PA:20}o{PA:20}lo tenía"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:135_13_0"
 msgid "to get that off"
@@ -5189,7 +5189,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:136_7_0"
 msgid "Thank you so much!{PA:20}"
-msgstr ""
+msgstr "¡Muchas gracias!{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:136_8_0"
 msgid "We love you.{PA:20}"
@@ -5349,7 +5349,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:140_0_0"
 msgid "Tatsu"
-msgstr ""
+msgstr "Tatsu"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:140_1_0"
 msgid "New items"
@@ -5357,7 +5357,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:140_2_0"
 msgid "Hello!{PA:20}"
-msgstr ""
+msgstr "¿Hola?{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:140_3_0"
 msgid "Although it seems"
@@ -5409,7 +5409,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:141_0_0"
 msgid "Beam"
-msgstr ""
+msgstr "Beam"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:141_1_0"
 msgid "What you want"
@@ -5513,7 +5513,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:143_0_0"
 msgid "Utsunomiya"
-msgstr ""
+msgstr "Utsunomiya"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:143_1_0"
 msgid "!!{PA:20}Fighting Master!!{PA:20}"
@@ -5549,7 +5549,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:144_0_0"
 msgid "Utsunomiya"
-msgstr ""
+msgstr "Utsunomiya"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:144_1_0"
 msgid "!!{PA:20}Fighting Master!!{PA:20}"
@@ -5577,7 +5577,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:144_7_0"
 msgid "Later.{PA:20}"
-msgstr ""
+msgstr "Hasta luego.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:144_8_0"
 msgid "   e(+○+)e➿Bob"
@@ -5585,7 +5585,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:145_0_0"
 msgid "Utsunomiya"
-msgstr ""
+msgstr "Utsunomiya"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:145_1_0"
 msgid "!!{PA:20}Food Master!!{PA:20}"
@@ -5621,7 +5621,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:146_0_0"
 msgid "Utsunomiya"
-msgstr ""
+msgstr "Utsunomiya"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:146_1_0"
 msgid "!!{PA:20}Money Master!!{PA:20}"
@@ -5653,7 +5653,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:146_8_0"
 msgid "Later.{PA:20}"
-msgstr ""
+msgstr "Hasta luego.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:146_9_0"
 msgid "   e(+○+)e Bob"
@@ -5661,7 +5661,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:147_0_0"
 msgid "Utsunomiya"
-msgstr ""
+msgstr "Utsunomiya"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:147_1_0"
 msgid "!!{PA:20}True Money King!!{PA:20}"
@@ -5689,7 +5689,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:147_7_0"
 msgid "Later.{PA:20}"
-msgstr ""
+msgstr "Hasta luego.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PAUSE/TALK_PAUSECELLULAR.BIN::line:147_8_0"
 msgid "   e(+○+)e➿Bob"

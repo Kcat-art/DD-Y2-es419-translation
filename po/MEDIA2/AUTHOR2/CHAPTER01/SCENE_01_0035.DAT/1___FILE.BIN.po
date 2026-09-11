@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Yes sir!{PA:20}"
-msgstr ""
+msgstr "¡Sí!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Mommy.{PA:20}.{PA:20}.{PA:20}"
@@ -77,11 +77,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Old man.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Viej{PA:20}{PA:20}o{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:13_0_0"
 msgid "I don't know why I'm the only one still"
-msgstr ""
+msgstr "no entiendo por qué fui yo el único que sobrevivió..."
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:13_0_1"
 msgid "alive.{PA:20}"
@@ -93,27 +93,27 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:15_0_0"
 msgid "I plan on bringing Haruka up right.{PA:20}"
-msgstr ""
+msgstr "intentaré darle a Haruka la vida que se merece.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Fourth Chairman.{PA:20}"
-msgstr ""
+msgstr "Cuarto presidente.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:17_0_0"
 msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Terada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:18_0_0"
 msgid "It's been a while.{PA:20}"
-msgstr ""
+msgstr "Cuánto tiempo sin verlo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:19_0_0"
 msgid "You shouldn't be out alone.{PA:20}"
-msgstr ""
+msgstr "No deberías venir aquí solo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:20_0_0"
 msgid "I got the boys waiting down yonder.{PA:20}"
-msgstr ""
+msgstr "Mis hombres están vigilando allá atrás.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:21_0_0"
 msgid "There was something I wanted to tell ya.{PA:20}"
@@ -189,7 +189,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:34_0_0"
 msgid "Terada.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Terada..{PA:20}.{PA:20},{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:35_0_0"
 msgid "You're Fifth Chairman of the Tojo Clan.{PA:20}"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:40_0_0"
 msgid "What do you want?{PA:20}"
-msgstr ""
+msgstr "¿Qué quieres?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:41_0_0"
 msgid "We came for old man Terada's head!{PA:20}"
@@ -249,7 +249,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:47_0_0"
 msgid "We're in a graveyard.{PA:20}"
-msgstr ""
+msgstr "Estamos en un cementerio, ¿no?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:48_0_0"
 msgid "You should thank us for saving ya the trip.{PA:20}"
@@ -257,11 +257,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:49_0_0"
 msgid "Take Haruka and get out of here.{PA:20}"
-msgstr ""
+msgstr "Toma a Haruka y vete.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:50_0_0"
 msgid "But.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Pero.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER01/SCENE_01_0035.DAT/1___FILE.BIN::line:51_0_0"
 msgid "The Tojo Clan can't afford to lose you.{PA:20}"

@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0277.ARC/TALK_ST_KAB0277_BTL.BIN::line:138_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0277.ARC/TALK_ST_KAB0277_BTL.BIN::line:138_5_0"
 msgid "Experience points:"
@@ -53,11 +53,11 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0277.ARC/TALK_ST_KAB0277_BTL.BIN::line:141_0_0"
 msgid "Iwata"
-msgstr ""
+msgstr "Iwata"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0277.ARC/TALK_ST_KAB0277_BTL.BIN::line:142_0_0"
 msgid "Saito"
-msgstr ""
+msgstr "Saito"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0277.ARC/TALK_ST_KAB0277_BTL.BIN::line:143_0_0"
 msgid "Shinoyama"
@@ -65,9 +65,9 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0277.ARC/TALK_ST_KAB0277_BTL.BIN::line:144_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/ST/ST_KAB0277.ARC/TALK_ST_KAB0277_BTL.BIN::line:145_0_0"
 msgid "Endo"
-msgstr ""
+msgstr "Endo"
 

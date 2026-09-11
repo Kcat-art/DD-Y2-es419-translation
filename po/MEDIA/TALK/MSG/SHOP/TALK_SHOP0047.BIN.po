@@ -13,19 +13,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::name:0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_0_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_1_0"
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_2_0"
 msgid "Price"
-msgstr ""
+msgstr "Precio"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_3_0"
 msgid "/"
@@ -57,7 +57,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:0_10_0"
 msgid "pts"
-msgstr ""
+msgstr " ptos."
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_0_0"
 msgid "Handmade Pistol"
@@ -65,19 +65,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_1_0"
 msgid "Shotgun"
-msgstr ""
+msgstr "Escopeta"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_2_0"
 msgid "Stun Gun"
-msgstr ""
+msgstr "Arma de electrochoque"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_3_0"
 msgid "Special Police Baton"
-msgstr ""
+msgstr "Porra de policía especial"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_4_0"
 msgid "Police Baton"
-msgstr ""
+msgstr "Tonfa de policía"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_5_0"
 msgid "Survival Knife"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_10_0"
 msgid "Blackjack"
-msgstr ""
+msgstr "Blackjack"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_11_0"
 msgid "Brass Knuckles"
@@ -121,11 +121,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_15_0"
 msgid "Fighter's Binding"
-msgstr ""
+msgstr "Muñequeras del peleador"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_16_0"
 msgid "Chain Mail"
-msgstr ""
+msgstr "Cota de malla"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_17_0"
 msgid "Dragon's Fist"
@@ -137,7 +137,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_19_0"
 msgid "Bulletproof Vest"
-msgstr ""
+msgstr "Chaleco antibalas"
 
 msgctxt "MEDIA/TALK/MSG/SHOP/TALK_SHOP0047.BIN::line:1_20_0"
 msgid "SWAT Body Armor"

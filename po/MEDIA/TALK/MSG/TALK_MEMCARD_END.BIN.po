@@ -57,11 +57,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:1_1_0"
 msgid "Loading.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Cargando.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:1_2_0"
 msgid "Saving.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Guardando{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:1_3_0"
 msgid "Formatting.{PA:20}.{PA:20}.{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:2_0_0"
 msgid "Debug.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "debu{PA:20}{PA:20}g{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:2_1_0"
 msgid "\"YAKUZA 2\" Save Data"
@@ -89,11 +89,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:3_1_0"
 msgid "Load"
-msgstr ""
+msgstr "Cargar"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:3_2_0"
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:3_3_0"
 msgid "Format"
@@ -101,15 +101,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:3_4_0"
 msgid "Check"
-msgstr ""
+msgstr "Cobrar"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:4_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:4_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:5_0_0"
 msgid "Press {IC:00_03}➿"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:6_0_0"
 msgid "OK"
-msgstr ""
+msgstr "Aceptar"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:6_7_0"
 msgid "No memory card (8MB)(for PlayStation®2) inserted"
@@ -177,11 +177,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:6_12_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:6_13_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/TALK_MEMCARD_END.BIN::line:6_14_0"
 msgid "memory card (8MB)(for PlayStation®2)"

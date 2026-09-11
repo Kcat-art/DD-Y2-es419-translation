@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:3_0_0"
 msgid "I couldn't hear what they were saying.{PA:20}"
-msgstr ""
+msgstr "No pude entender lo que decían.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:4_0_0"
 msgid "I.{PA:20}.{PA:20}.{PA:20} I thought Fuma was in danger.{PA:20}"
@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Call your men and head out the back.{PA:20}"
-msgstr ""
+msgstr "Llama a tus hombres, y huyan de aquí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:6_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Or it'll be a matter of time before"
@@ -53,11 +53,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:8_0_0"
 msgid "Kazuma?!{PA:20}"
-msgstr ""
+msgstr "¡Kazuma!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:9_0_0"
 msgid "I knew this was a trap!{PA:20}"
-msgstr ""
+msgstr "¡Sabía que esto era una trampa!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Wait!{PA:20} The boy's not with the Tojo!{PA:20}"
@@ -65,7 +65,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:11_0_0"
 msgid "I.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Yo{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER12/SCENE_12_0040.DAT/1___FILE.BIN::line:12_0_0"
 msgid "I thought you were.{PA:20}.{PA:20}.{PA:20}"

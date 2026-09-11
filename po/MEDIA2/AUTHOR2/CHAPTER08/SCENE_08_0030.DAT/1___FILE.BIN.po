@@ -21,7 +21,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Yeah,{PA:10} but headquarters doesn't know that.{PA:20}"
-msgstr ""
+msgstr "Es cie{PA:10}rto, pero el cuartel general no lo entiende.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Even so,{PA:10} how is that footage enough to"
@@ -49,7 +49,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Don't bother.{PA:20}"
-msgstr ""
+msgstr "No lo hagas.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:6_0_0"
 msgid "The police screwed up using Makoto on a top-"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:8_0_1"
 msgid "call it a day.{PA:20}"
-msgstr ""
+msgstr "Dejémoslo por hoy{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:9_0_0"
 msgid "Did that video footage come from Kage?{PA:20}"
@@ -81,7 +81,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:10_0_0"
 msgid "Most likely.{PA:20}"
-msgstr ""
+msgstr "Es probable...{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:11_0_0"
 msgid "This just means we need to hunt down the"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:13_0_0"
 msgid "You should probably skip town.{PA:20}"
-msgstr ""
+msgstr "Será mejor que te escondas por ahora.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:14_0_0"
 msgid "What are you going to do now?{PA:20}"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:16_0_0"
 msgid "Track him down how?{PA:20}"
-msgstr ""
+msgstr "¿Y cómo?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:17_0_0"
 msgid "I'll have to pay someone a little visit.{PA:20}"
@@ -125,11 +125,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Kage?{PA:20}"
-msgstr ""
+msgstr "Kage{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:19_0_0"
 msgid "Right.{PA:20}"
-msgstr ""
+msgstr "Sí.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER08/SCENE_08_0030.DAT/1___FILE.BIN::line:20_0_0"
 msgid "I'll give you a call if I hear anything.{PA:20}"

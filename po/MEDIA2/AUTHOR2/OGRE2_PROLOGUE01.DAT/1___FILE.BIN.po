@@ -105,11 +105,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:14_0_0"
 msgid "Hey!{PA:20}"
-msgstr ""
+msgstr "¡Oye!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:14_0_1"
 msgid "Are you okay?{PA:20}"
-msgstr ""
+msgstr "¿Se encuentra bien?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:14_1_0"
 msgid "Locate(BottomCenter)"
@@ -117,7 +117,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:15_0_0"
 msgid ".{PA:20}.{PA:20}.{PA:20}Nishiki"
-msgstr ""
+msgstr "¡{PA:20}¡{PA:20}N{PA:20}ishiki!!"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:15_1_0"
 msgid "Locate(BottomCenter)"
@@ -157,7 +157,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:20_0_0"
 msgid "Go!{PA:20}"
-msgstr ""
+msgstr "¡¡Vete!!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:20_1_0"
 msgid "Locate(BottomCenter)"
@@ -197,7 +197,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:27_0_0"
 msgid "I was branded for patricide.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Fui tachado de parricida.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:28_0_0"
 msgid "When the clan cut me off,{PA:10} I felt like a kite"
@@ -249,7 +249,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:35_0_1"
 msgid "changed.{PA:20}"
-msgstr ""
+msgstr "¿Cambiado?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/OGRE2_PROLOGUE01.DAT/1___FILE.BIN::line:36_0_0"
 msgid "In the presence of all the affiliate bosses,{PA:10}"

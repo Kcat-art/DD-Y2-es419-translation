@@ -13,11 +13,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:0_0_0"
 msgid "There,{PA:10} all better.{PA:20}"
-msgstr ""
+msgstr "Ya es{PA:10}tá listo.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:1_0_0"
 msgid "Thank you.{PA:20}"
-msgstr ""
+msgstr "Gracias.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:2_0_0"
 msgid "To Kaoru"
@@ -33,15 +33,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:4_0_0"
 msgid "What's wrong?{PA:20}"
-msgstr ""
+msgstr "¿Qué pasa?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:5_0_0"
 msgid "This note Mama left me.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Mamá me dejó una nota.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:6_0_0"
 msgid "What does it say?{PA:20}"
-msgstr ""
+msgstr "¿Qué es lo que dice?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:7_0_0"
 msgid "\"Your dad is still alive,{PA:10} honey.{PA:20}"
@@ -77,9 +77,9 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:13_0_0"
 msgid "Who is she looking for?{PA:20}"
-msgstr ""
+msgstr "¿A quién busca?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER13/SCENE_13_0010.DAT/1___FILE.BIN::line:14_0_0"
 msgid "The lady who raised her.{PA:20}"
-msgstr ""
+msgstr "A la mujer que la crio, su madre.{PA:20}"
 

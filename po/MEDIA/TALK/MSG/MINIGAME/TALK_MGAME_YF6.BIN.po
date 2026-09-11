@@ -17,13 +17,13 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_YF6.BIN::line:0_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_YF6.BIN::line:0_2_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA/TALK/MSG/MINIGAME/TALK_MGAME_YF6.BIN::line:1_0_0"
 msgid "Kiryu"
-msgstr ""
+msgstr "Kiryu"
 

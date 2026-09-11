@@ -53,7 +53,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:144_4_0"
 msgid "Your inventory is full.{PA:20}"
-msgstr ""
+msgstr "Tu inventario está lleno{PA:20}"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:144_5_0"
 msgid "Experience points:"
@@ -77,7 +77,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:147_0_0"
 msgid "Middle-Aged Man"
-msgstr ""
+msgstr "Hombre de mediana edad"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:148_0_0"
 msgid "Igawa"
@@ -89,7 +89,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:150_0_0"
 msgid "Matsumoto"
-msgstr ""
+msgstr "Matsumoto"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:151_0_0"
 msgid "Generic 1"
@@ -125,7 +125,7 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:159_0_0"
 msgid "Inagaki"
-msgstr ""
+msgstr "Inagaki"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:160_0_0"
 msgid "Strong Man"
@@ -133,29 +133,29 @@ msgstr ""
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:161_0_0"
 msgid "Yamada"
-msgstr ""
+msgstr "Yamada"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:162_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:162_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:163_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:163_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:164_0_0"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "MEDIA3/ARC/DAY/DAY_KAB0300.ARC/TALK_ST_KAB0300_BTL.BIN::line:164_1_0"
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 

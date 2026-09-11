@@ -25,11 +25,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0010.DAT/5___FILE.BIN::line:3_0_0"
 msgid "Takashi?{PA:20}"
-msgstr ""
+msgstr "Takashi?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0010.DAT/5___FILE.BIN::line:4_0_0"
 msgid "Yes!{PA:20}"
-msgstr ""
+msgstr "¡Sí!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0010.DAT/5___FILE.BIN::line:5_0_0"
 msgid "Thank you so much.{PA:20}.{PA:20}.{PA:20} for everything.{PA:20}"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0010.DAT/5___FILE.BIN::line:12_0_0"
 msgid "Where's Kyoka?{PA:20}"
-msgstr ""
+msgstr "¿Dónde está Kyoka?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0010.DAT/5___FILE.BIN::line:13_0_0"
 msgid "Um,{PA:10} this is.{PA:20}.{PA:20}.{PA:20} She.{PA:20}.{PA:20}.{PA:20}"
@@ -93,7 +93,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0010.DAT/5___FILE.BIN::line:16_0_0"
 msgid "In the end,{PA:10} you were just another punk.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Qué pena que h{PA:10}ayas resultado ser uno más del montón{PA:20}..{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS02/SCENE_S02_0010.DAT/5___FILE.BIN::line:17_0_0"
 msgid "That's not true,{PA:10} Mr.{PA:20} Kiryu!{PA:20}"

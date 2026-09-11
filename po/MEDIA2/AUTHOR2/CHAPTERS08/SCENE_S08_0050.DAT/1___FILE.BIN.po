@@ -37,7 +37,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0050.DAT/1___FILE.BIN::line:5_0_0"
 msgid "It's true.{PA:20}"
-msgstr ""
+msgstr "le atinaste.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS08/SCENE_S08_0050.DAT/1___FILE.BIN::line:6_0_0"
 msgid "That's why I did it.{PA:20}"

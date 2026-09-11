@@ -13,7 +13,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:0_0_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:0_1_0"
 msgid "Give"
@@ -21,27 +21,27 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:0_2_0"
 msgid "pts"
-msgstr ""
+msgstr " ptos."
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_0_0"
 msgid "Staminan X"
-msgstr ""
+msgstr "Staminan X"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_1_0"
 msgid "Staminan XX"
-msgstr ""
+msgstr "Staminan XX"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_2_0"
 msgid "Staminan Royale"
-msgstr ""
+msgstr "Staminan Royale"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_3_0"
 msgid "Staminan Spark"
-msgstr ""
+msgstr "Staminan Spark"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_4_0"
 msgid "Haruka's First-Aid Kit"
-msgstr ""
+msgstr "Botiquín de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_5_0"
 msgid "Ultra Nourishment SHW"
@@ -73,7 +73,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_12_0"
 msgid "Beef Bowl (Large)"
-msgstr ""
+msgstr "Bol de carne (grande)"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_13_0"
 msgid "Beef Bowl (Special)"
@@ -177,11 +177,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_38_0"
 msgid "Smile Shake"
-msgstr ""
+msgstr "Malteada Smile"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_39_0"
 msgid "Smile Fries"
-msgstr ""
+msgstr "Papas fritas Smile"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_40_0"
 msgid "Mille Crepes"
@@ -233,7 +233,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_52_0"
 msgid "Tessa"
-msgstr ""
+msgstr "Tessa"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_53_0"
 msgid "Milt"
@@ -389,11 +389,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_91_0"
 msgid "Salted Tongue"
-msgstr ""
+msgstr "Lengua encurtida"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_92_0"
 msgid "Sirloin"
-msgstr ""
+msgstr "Solomillo"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_93_0"
 msgid "Rib Meat"
@@ -405,7 +405,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_95_0"
 msgid "Harami"
-msgstr ""
+msgstr "Harami"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_96_0"
 msgid "Yuk Hwe"
@@ -513,7 +513,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_122_0"
 msgid "Hirame"
-msgstr ""
+msgstr "Hirame"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:1_123_0"
 msgid "Shima-aji"
@@ -1153,23 +1153,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_26_0"
 msgid "Snow Crab Course"
-msgstr ""
+msgstr "Menú de cangrejo de las nieves"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_27_0"
 msgid "Tauriner"
-msgstr ""
+msgstr "Tauriner"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_28_0"
 msgid "Tauriner +"
-msgstr ""
+msgstr "Tauriner+"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_29_0"
 msgid "Tauriner ++"
-msgstr ""
+msgstr "Tauriner ++"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_30_0"
 msgid "Tauriner Maximum"
-msgstr ""
+msgstr "Tauriner Maximum"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_31_0"
 msgid "Spirit Revitalizer BKH"
@@ -1177,11 +1177,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_32_0"
 msgid "Toughness Z"
-msgstr ""
+msgstr "Toughness Z"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_33_0"
 msgid "Toughness ZZ"
-msgstr ""
+msgstr "Toughness ZZ"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_34_0"
 msgid "Toughness Emperor"
@@ -1189,7 +1189,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_35_0"
 msgid "Toughness Infinity"
-msgstr ""
+msgstr "Toughness Infinity"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_36_0"
 msgid "Recovery Medicine"
@@ -1205,15 +1205,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_39_0"
 msgid "Bento Lunch Set"
-msgstr ""
+msgstr "Bento makunouchi"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_40_0"
 msgid "Club Sandwich"
-msgstr ""
+msgstr "Sándwich club"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_41_0"
 msgid "Special Yakisoba"
-msgstr ""
+msgstr "Yakisoba especial"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_42_0"
 msgid "Steamed Bun"
@@ -1221,11 +1221,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_43_0"
 msgid "Milk"
-msgstr ""
+msgstr "Leche"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_44_0"
 msgid "Spaghetti With Meat Sauce"
-msgstr ""
+msgstr "Espaguetis a la boloñesa"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_45_0"
 msgid "Fried Chicken Lunch"
@@ -1233,7 +1233,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_46_0"
 msgid "Pudding"
-msgstr ""
+msgstr "Pudín"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_47_0"
 msgid "Seaweed Rice Ball"
@@ -1245,11 +1245,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_49_0"
 msgid "Frankfurter"
-msgstr ""
+msgstr "Frankfurter"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_50_0"
 msgid "Melon Bread"
-msgstr ""
+msgstr "Melonpan"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_51_0"
 msgid "Tonkatsu Sandwich"
@@ -1277,11 +1277,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_57_0"
 msgid "Haruka's Candy"
-msgstr ""
+msgstr "Dulce de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_58_0"
 msgid "Haruka's Chocolate"
-msgstr ""
+msgstr "Chocolate de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_59_0"
 msgid "Takoyaki (8)"
@@ -1321,7 +1321,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_68_0"
 msgid "C.{PA:20}C.{PA:20} Lemon"
-msgstr ""
+msgstr "C.{PA:20}C.{PA:20} Lemon"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_69_0"
 msgid "DAKARA"
@@ -1333,7 +1333,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_71_0"
 msgid "Sushi Set"
-msgstr ""
+msgstr "Menú de sushi"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_72_0"
 msgid "Old Lady's Candy"
@@ -1369,7 +1369,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_80_0"
 msgid "Swiss Watch"
-msgstr ""
+msgstr "Reloj suizo"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_81_0"
 msgid "Asian Digital Watch"
@@ -1377,7 +1377,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_82_0"
 msgid "Japanese Diver's Watch"
-msgstr ""
+msgstr "Reloj de buceo japonés"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_83_0"
 msgid "Italian Women's Watch"
@@ -1389,7 +1389,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_85_0"
 msgid "Italian Ring"
-msgstr ""
+msgstr "Anillo italiano"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_86_0"
 msgid "Italian Men's Necklace"
@@ -1413,11 +1413,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_91_0"
 msgid "Charismatic Photo"
-msgstr ""
+msgstr "Foto cautivadora"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_92_0"
 msgid "Champion's Ring"
-msgstr ""
+msgstr "Anillo del campeón"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_93_0"
 msgid "Masculine Cologne"
@@ -1433,7 +1433,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_96_0"
 msgid "Haruka's Necklace"
-msgstr ""
+msgstr "Collar de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_97_0"
 msgid "Desperation Charm"
@@ -1485,11 +1485,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_109_0"
 msgid "Black Belt"
-msgstr ""
+msgstr "Cinturón negro"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_110_0"
 msgid "Payback Ring"
-msgstr ""
+msgstr "Anillo de venganza"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_111_0"
 msgid "Italian Watch"
@@ -1497,19 +1497,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_112_0"
 msgid "Bulletproof Shield"
-msgstr ""
+msgstr "Escudo antibalas"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_113_0"
 msgid "Western Shield"
-msgstr ""
+msgstr "Escudo occidental"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_114_0"
 msgid "Sledgehammer"
-msgstr ""
+msgstr "Mazo"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_115_0"
 msgid "Beer Bottle"
-msgstr ""
+msgstr "Botella de cerveza"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_116_0"
 msgid "Rope"
@@ -1521,7 +1521,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_118_0"
 msgid "Crowbar"
-msgstr ""
+msgstr "Palanca"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_119_0"
 msgid "Old Chinese Broadswd"
@@ -1529,7 +1529,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_120_0"
 msgid "Bat"
-msgstr ""
+msgstr "Bate"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_121_0"
 msgid "Lamp"
@@ -1537,7 +1537,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_122_0"
 msgid "Golf Club"
-msgstr ""
+msgstr "Palo de golf"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_123_0"
 msgid "Water Pot"
@@ -1549,7 +1549,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_125_0"
 msgid "Patriarch's Bat"
-msgstr ""
+msgstr "Bate del patriarca"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:3_126_0"
 msgid "Lightning Bomb"
@@ -2089,11 +2089,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_4_0"
 msgid "Wooden Katana"
-msgstr ""
+msgstr "Katana de madera"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_5_0"
 msgid "Long Dagger"
-msgstr ""
+msgstr "Daga larga"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_6_0"
 msgid "Survival Knife"
@@ -2101,19 +2101,19 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_7_0"
 msgid "Stun Gun"
-msgstr ""
+msgstr "Arma de electrochoque"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_8_0"
 msgid "Blackjack"
-msgstr ""
+msgstr "Blackjack"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_9_0"
 msgid "Tonfa"
-msgstr ""
+msgstr "Tonfa"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_10_0"
 msgid "Police Baton"
-msgstr ""
+msgstr "Tonfa de policía"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_11_0"
 msgid "Chinese Broadsword"
@@ -2125,7 +2125,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_13_0"
 msgid "Nameless Katana"
-msgstr ""
+msgstr "Katana sin nombre"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_14_0"
 msgid "Handmade Pistol"
@@ -2157,7 +2157,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_21_0"
 msgid "Saw"
-msgstr ""
+msgstr "Sierra"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_22_0"
 msgid "Old Semi-Auto Pistol"
@@ -2177,7 +2177,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_26_0"
 msgid "Mifune's Kodachi"
-msgstr ""
+msgstr "Kodachi de Mifune"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_27_0"
 msgid "Tear Gas Grenade"
@@ -2205,11 +2205,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_33_0"
 msgid "Special Police Baton"
-msgstr ""
+msgstr "Porra de policía especial"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_34_0"
 msgid "Ninja Dagger"
-msgstr ""
+msgstr "Daga ninja"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_35_0"
 msgid "Tesshusai Katana"
@@ -2221,7 +2221,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_37_0"
 msgid "Shotgun"
-msgstr ""
+msgstr "Escopeta"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_38_0"
 msgid "Flash Grenade"
@@ -2257,7 +2257,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_46_0"
 msgid "Iron Pipe"
-msgstr ""
+msgstr "Tubo de hierro"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_47_0"
 msgid "Modified Iron"
@@ -2305,7 +2305,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_58_0"
 msgid "Ashtray"
-msgstr ""
+msgstr "Cenicero"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_59_0"
 msgid "Table Salt"
@@ -2313,7 +2313,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_60_0"
 msgid "Pliers"
-msgstr ""
+msgstr "Alicates"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_61_0"
 msgid "Iai Katana"
@@ -2337,7 +2337,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_66_0"
 msgid "100lb Bowling Ball"
-msgstr ""
+msgstr "Bola de boliche de 45 kg"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_67_0"
 msgid "Double Sticks"
@@ -2425,7 +2425,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_88_0"
 msgid "Bat"
-msgstr ""
+msgstr "Bate"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_89_0"
 msgid "Komaki Matchlock"
@@ -2437,7 +2437,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_91_0"
 msgid "Skull Tonfa"
-msgstr ""
+msgstr "Tonfa mortal"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_92_0"
 msgid "Double Spiked Sticks"
@@ -2457,11 +2457,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_96_0"
 msgid "Photon Blade RG"
-msgstr ""
+msgstr "Sable de fotones RG"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_97_0"
 msgid "Dragon-SP"
-msgstr ""
+msgstr "Pistola Dragón"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_98_0"
 msgid "Chinese Dragon Tonfa"
@@ -2473,11 +2473,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_100_0"
 msgid "Chain Mail"
-msgstr ""
+msgstr "Cota de malla"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_101_0"
 msgid "Bulletproof Vest"
-msgstr ""
+msgstr "Chaleco antibalas"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_102_0"
 msgid "Binding"
@@ -2485,27 +2485,27 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_103_0"
 msgid "Fighter's Binding"
-msgstr ""
+msgstr "Muñequeras del peleador"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_104_0"
 msgid "Dragon's Binding"
-msgstr ""
+msgstr "Muñequeras del dragón"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_105_0"
 msgid "Fearless Binding"
-msgstr ""
+msgstr "Muñequeras del valiente"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_106_0"
 msgid "Bloody Binding"
-msgstr ""
+msgstr "Muñequeras sangrientas"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_107_0"
 msgid "Insulated Shirt"
-msgstr ""
+msgstr "Camisa aislante"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_108_0"
 msgid "Yakuza Training Gear"
-msgstr ""
+msgstr "Pesos para yakuzas"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_109_0"
 msgid "Sacred Tree Armor Replica"
@@ -2529,7 +2529,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_114_0"
 msgid "Iron Breastplate"
-msgstr ""
+msgstr "Pechera de hierro"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:5_115_0"
 msgid "Bulletproof Breastplate"
@@ -3145,7 +3145,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_12_0"
 msgid "Pocket Tissues"
-msgstr ""
+msgstr "Pañuelos"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_13_0"
 msgid "Cat Food"
@@ -3197,7 +3197,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_25_0"
 msgid "Haruka's Marble"
-msgstr ""
+msgstr "Canica de Haruka"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_26_0"
 msgid "Banker's Game Piece"
@@ -3229,7 +3229,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_33_0"
 msgid "Gold Plate"
-msgstr ""
+msgstr "Plato de oro"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_34_0"
 msgid "Tortoiseshell Plate"
@@ -3237,7 +3237,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_35_0"
 msgid "Silver Plate"
-msgstr ""
+msgstr "Plato de plata"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_36_0"
 msgid "Marble Plate"
@@ -3261,11 +3261,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_41_0"
 msgid "Women's Underwear"
-msgstr ""
+msgstr "Ropa interior de mujer"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_42_0"
 msgid "Bandage"
-msgstr ""
+msgstr "Vendaje"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_43_0"
 msgid "Tissue w/ Flier"
@@ -3313,15 +3313,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_54_0"
 msgid "Yamazaki 25 Years"
-msgstr ""
+msgstr "Yamazaki de 25 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_55_0"
 msgid "Yamazaki 12 Years"
-msgstr ""
+msgstr "Yamazaki de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_56_0"
 msgid "Hakushu 18 Years"
-msgstr ""
+msgstr "Hakushu de 18 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_57_0"
 msgid "Hakushu 10 Years"
@@ -3329,11 +3329,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_58_0"
 msgid "The Macallan 25 Years"
-msgstr ""
+msgstr "The Macallan de 25 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_59_0"
 msgid "The Macallan 12 Years"
-msgstr ""
+msgstr "The Macallan de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_60_0"
 msgid "Laphroaig 30 Years"
@@ -3341,11 +3341,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_61_0"
 msgid "Laphroaig 10 Years"
-msgstr ""
+msgstr "Laphroaig de 10 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_62_0"
 msgid "Bowmore 12 Years"
-msgstr ""
+msgstr "Bowmore de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_63_0"
 msgid "Glenfiddich 30 Years"
@@ -3353,11 +3353,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_64_0"
 msgid "Glenfiddich 12 Years"
-msgstr ""
+msgstr "Glenfiddich de 12 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_65_0"
 msgid "Hibiki 30 Years Old"
-msgstr ""
+msgstr "Hibiki de 30 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_66_0"
 msgid "Hibiki"
@@ -3369,15 +3369,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_68_0"
 msgid "Kakubin"
-msgstr ""
+msgstr "Kakubin"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_69_0"
 msgid "Ballantine's 30 Years Old"
-msgstr ""
+msgstr "Ballantine's de 30 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_70_0"
 msgid "Ballantine's 17 Years Old"
-msgstr ""
+msgstr "Ballantine's de 17 años"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_71_0"
 msgid "Ballantine's Finest"
@@ -3397,7 +3397,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_75_0"
 msgid "Suntory Brandy V.S.O.P"
-msgstr ""
+msgstr "Brandy V.S.O.P. Suntory"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_76_0"
 msgid "Suntory Brandy V.O"
@@ -3409,7 +3409,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_78_0"
 msgid "The Premium Malt's"
-msgstr ""
+msgstr "Cerveza The Premium Malt's"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_79_0"
 msgid "Suntory Malt's Beer"
@@ -3417,15 +3417,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_80_0"
 msgid "Carlsberg"
-msgstr ""
+msgstr "Carlsberg"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_81_0"
 msgid "Kyogetsu GREEN"
-msgstr ""
+msgstr "Kyogetsu Green"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_82_0"
 msgid "Beefeater"
-msgstr ""
+msgstr "Beefeater"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_83_0"
 msgid "Lemon Hart Demerara"
@@ -3449,7 +3449,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_88_0"
 msgid "Blended Coffee"
-msgstr ""
+msgstr "Batido de café"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_89_0"
 msgid "Premium Coffee"
@@ -3457,15 +3457,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_90_0"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Capuchino"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_91_0"
 msgid "Espresso"
-msgstr ""
+msgstr "Café expreso"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_92_0"
 msgid "Milk Tea"
-msgstr ""
+msgstr "Té con leche"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_93_0"
 msgid "Lemon Tea"
@@ -3473,7 +3473,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_94_0"
 msgid "Orange Juice"
-msgstr ""
+msgstr "Jugo de naranja"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_95_0"
 msgid "Apple Juice"
@@ -3489,7 +3489,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_98_0"
 msgid "Earl Grey Tea"
-msgstr ""
+msgstr "Té Earl Grey"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_99_0"
 msgid "Tomato Juice"
@@ -3501,7 +3501,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_101_0"
 msgid "Sandwich"
-msgstr ""
+msgstr "Sándwich"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_102_0"
 msgid "Pasta Set"
@@ -3509,7 +3509,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_103_0"
 msgid "Original Beef Curry"
-msgstr ""
+msgstr "Curri de carne de la casa"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_104_0"
 msgid "Today's Coffee"
@@ -3521,7 +3521,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_106_0"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Capuchino"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_107_0"
 msgid "Caramel Cappuccino"
@@ -3541,7 +3541,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_111_0"
 msgid "Espresso"
-msgstr ""
+msgstr "Café expreso"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_112_0"
 msgid "Central Latte"
@@ -3553,7 +3553,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_114_0"
 msgid "Cappuccino"
-msgstr ""
+msgstr "Capuchino"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_115_0"
 msgid "Soy Latte"
@@ -3561,7 +3561,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_116_0"
 msgid "Sake"
-msgstr ""
+msgstr "Sake"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_117_0"
 msgid "Black Boss"
@@ -3585,7 +3585,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_122_0"
 msgid "Cell Phone"
-msgstr ""
+msgstr "Celular"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_123_0"
 msgid "Taihei Blvd.{PA:20} West Locker Key"
@@ -3597,7 +3597,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_125_0"
 msgid "Casino Chips"
-msgstr ""
+msgstr "Fichas de casino"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:7_126_0"
 msgid "Pachi-slot Medals"
@@ -3969,11 +3969,11 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:8_90_0"
 msgid "Cappuccino.{PA:20}"
-msgstr ""
+msgstr "Capuchino{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:8_91_0"
 msgid "Espresso.{PA:20}"
-msgstr ""
+msgstr "Café expreso{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:8_92_0"
 msgid "We take special Assam tea from our private||farms and add milk from Hokkaido.{PA:20}"
@@ -4033,7 +4033,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:8_106_0"
 msgid "Cappuccino.{PA:20}"
-msgstr ""
+msgstr "Capuchino{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:8_107_0"
 msgid "A cappuccino with caramel flavoring.{PA:20}"
@@ -4153,7 +4153,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_8_0"
 msgid "Letter From Komaki"
-msgstr ""
+msgstr "Carta de Komaki"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_9_0"
 msgid "Hidden Weapons Dealer's Memo"
@@ -4197,7 +4197,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_19_0"
 msgid "Suspicious Video"
-msgstr ""
+msgstr "Video sospechoso"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_20_0"
 msgid "Cursed Video"
@@ -4217,7 +4217,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_24_0"
 msgid "Green Box"
-msgstr ""
+msgstr "Caja verde"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_25_0"
 msgid "Signed Publicity Photo"
@@ -4317,23 +4317,23 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_49_0"
 msgid "Photo of Yagi"
-msgstr ""
+msgstr "Foto de Yagi"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_50_0"
 msgid "Photo of Kajiwara"
-msgstr ""
+msgstr "Foto de Kajiwara"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_51_0"
 msgid "Photo of Kojima"
-msgstr ""
+msgstr "Foto de Kojima"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_52_0"
 msgid "Photo of Miki"
-msgstr ""
+msgstr "Foto de Miki"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_53_0"
 msgid "Book of Ultimate Secrets"
-msgstr ""
+msgstr "Libro de los más grandes secretos"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_54_0"
 msgid "Memo"
@@ -4353,7 +4353,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_58_0"
 msgid "Newspaper"
-msgstr ""
+msgstr "Periódico"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_59_0"
 msgid "Sketch of Dragon Tattoo"
@@ -4517,15 +4517,15 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_99_0"
 msgid "Kitty Kat (Red)"
-msgstr ""
+msgstr "Kitty Kat (rojo)"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_100_0"
 msgid "Kitty Kat (Tiger)"
-msgstr ""
+msgstr "Kitty Kat (tigre)"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_101_0"
 msgid "Kitty Kat (Blue)"
-msgstr ""
+msgstr "Kitty Kat (azul)"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_102_0"
 msgid "Kitty Kat (Short Hair)"
@@ -4533,7 +4533,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_103_0"
 msgid "Kitty Kat (Calico)"
-msgstr ""
+msgstr "Kitty Kat (calicó)"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:9_104_0"
 msgid "Beary Bear (Big)"
@@ -4765,7 +4765,7 @@ msgstr ""
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:10_52_0"
 msgid "A photo of Miki,{PA:10} Yuriko's sister.{PA:20}"
-msgstr ""
+msgstr "Una foto de Miki, l{PA:10}a hermana de Yuriko.{PA:20}"
 
 msgctxt "MEDIA/TALK/MSG/PRESENT/TALK_PRES0003.BIN::line:10_53_0"
 msgid "A book covering the most advanced secret||technique of the Komaki style.{PA:20}"

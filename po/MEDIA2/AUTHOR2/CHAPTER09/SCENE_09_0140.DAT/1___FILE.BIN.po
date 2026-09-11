@@ -41,7 +41,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:6_0_0"
 msgid "What are you talking about?!{PA:20}"
-msgstr ""
+msgstr "¿Qué?{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:7_0_0"
 msgid "You know,{PA:10} Yayoi.{PA:20}.{PA:20}.{PA:20}"
@@ -97,7 +97,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:17_0_0"
 msgid "You don't know a damn thing about him!{PA:20}"
-msgstr ""
+msgstr "¡¿Y qué sabes tú de él?!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:18_0_0"
 msgid "Mistresses or not,{PA:10} I don't care!{PA:20}"
@@ -117,11 +117,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:21_0_0"
 msgid "Shindo!{PA:20}"
-msgstr ""
+msgstr "¡Shindo!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:22_0_0"
 msgid "You heard her.{PA:20}"
-msgstr ""
+msgstr "Ya la oíste.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:23_0_0"
 msgid "The kind of woman able to keep on loving"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:24_0_0"
 msgid "She's too strong for you.{PA:20}"
-msgstr ""
+msgstr "No puedes con esta mujer.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:25_0_0"
 msgid "That's lovely,{PA:10} but you can cut the speech.{PA:20}"
@@ -141,15 +141,15 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:26_0_0"
 msgid "What I want,{PA:10} I take by force.{PA:20}"
-msgstr ""
+msgstr "Lo que quiero,{PA:10} lo tomo a la fuerza.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:27_0_0"
 msgid "It's just that easy.{PA:20}"
-msgstr ""
+msgstr "Así de simple.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:28_0_0"
 msgid "Over my dead body.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "No te lo permitir{PA:20}é{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:29_0_0"
 msgid "That's certainly my intent.{PA:20}"
@@ -161,7 +161,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:31_0_0"
 msgid "And then.{PA:20}.{PA:20}.{PA:20}"
-msgstr ""
+msgstr "Y después.{PA:20}.{PA:20}.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTER09/SCENE_09_0140.DAT/1___FILE.BIN::line:32_0_0"
 msgid "I'll make Yayoi all mine!{PA:20}"

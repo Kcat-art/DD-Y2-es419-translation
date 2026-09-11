@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:1_0_1"
 msgid "Here goes!{PA:20}"
-msgstr ""
+msgstr "¡Aquí vamos!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:2_0_0"
 msgid "Right,{PA:10} now!{PA:20} Place your bets!{PA:20}"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:4_0_1"
 msgid "Here goes!{PA:20}"
-msgstr ""
+msgstr "¡Aquí vamos!{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:5_0_0"
 msgid "Snake eyes are even!{PA:20}"
@@ -181,11 +181,11 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:11_0_0"
 msgid "Play"
-msgstr ""
+msgstr "Jugar"
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:11_1_0"
 msgid "Don't play"
-msgstr ""
+msgstr "No jugar"
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:12_0_0"
 msgid "Even"
@@ -201,5 +201,5 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/MINI/AUTH_ODD_OR_EVEN_B.DAT/1___FILE.BIN::line:13_1_0"
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 

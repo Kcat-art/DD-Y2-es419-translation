@@ -29,7 +29,7 @@ msgstr ""
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0020.DAT/1___FILE.BIN::line:4_0_0"
 msgid "Hey,{PA:10} Yuya.{PA:20}"
-msgstr ""
+msgstr "Oye,{PA:10} Yuya.{PA:20}"
 
 msgctxt "MEDIA2/AUTHOR2/CHAPTERS01/SCENE_S01_0020.DAT/1___FILE.BIN::line:5_0_0"
 msgid "You should fire your janitor.{PA:20}"
